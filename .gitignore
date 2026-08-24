@@ -1,4 +1,6 @@
 ﻿node_modules/
-server/data/*.json
+server/node_modules/
+server/data/users.json
 server/data/jwt_secret
+server/data/progress/
 .DS_Store
