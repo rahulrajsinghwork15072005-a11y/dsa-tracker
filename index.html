@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DSA Tracker — Editorial Paper Pro • 56 Chapters • 843 Unique • PDF Viewer</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Patrick+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<script>
+tailwind.config = { theme:{ extend:{ fontFamily:{ serif:['Instrument Serif','serif'], sans:['Inter','sans-serif'], mono:['JetBrains Mono','monospace'], hand:['Patrick Hand','cursive'] } }}}
+</script>
+<style>
+:root{ --paper:#FFFEFA; --ink:#0f172a; --muted:#64748b; --line:#e7e5e4; --margin:#fecaca; --amber:#f59e0b; --tape:#fef08a; }
+*{ font-family: Inter, sans-serif }
+.serif{ font-family: "Instrument Serif", serif }
+.hand{ font-family: "Patrick Hand", cursive }
+.mono{ font-family: "JetBrains Mono", monospace }
+body{ background:#f8f5ee; background-image: radial-gradient(#e7e5e4 1.2px, transparent 1.2px); background-size:20px 20px; color:var(--ink) }
+.paper{ background:var(--paper); box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.06), 0 0 0 1px #e7e5e4; position:relative }
+.paper::before{ content:""; position:absolute; left:42px; top:0; bottom:0; width:1.5px; background:var(--margin); opacity:0.55 }
+.tape{ position:absolute; top:-9px; left:50%; transform:translateX(-50%) rotate(-0.9deg); background:var(--tape); padding:3px 14px; font-family:"Patrick Hand"; font-size:11px; border:1px solid #fde68a; box-shadow:0 1px 4px rgba(0,0,0,0.12) }
+.holes{ position:absolute; left:10px; top:16px; bottom:16px; display:flex; flex-direction:column; justify-content:space-around }
+.holes span{ width:12px; height:12px; border-radius:50%; background:#f8f5ee; border:1px solid #d6d3d1; box-shadow:inset 0 1px 2px rgba(0,0,0,0.12) }
+.sticky{ background:#fef9c3; border:1px solid #fde68a; box-shadow:2px 2px 0 rgba(0,0,0,0.05) }
+.check{ width:18px; height:18px; border:1.6px solid #1e293b; border-radius:5px; display:inline-flex; align-items:center; justify-content:center; background:#fff; font-size:11px }
+.check.done{ background:#0f172a; color:#fef9c3; border-color:#0f172a }
+.q-done{ background:#f0fdf4 !important }
+.q-revise{ background:#fffbeb !important; border-left:3px solid var(--amber) !important }
+.chip{ font-size:11px; padding:3px 8px; border:1px solid #e7e5e4; border-radius:999px; background:#fff }
+.chip.active{ background:#0f172a; color:#fff; border-color:#0f172a }
+.tab{ font-family:"Patrick Hand"; font-size:13px; padding:6px 12px; border:1px solid #e7e5e4; border-bottom:none; border-radius:10px 10px 0 0; background:#fff; margin-right:4px }
+.tab.active{ background:#0f172a; color:#fff; border-color:#0f172a }
+.kbd{ font-family:"JetBrains Mono"; font-size:10px; padding:1px 5px; border:1px solid #d6d3d1; border-bottom-width:2px; border-radius:4px; background:#fff }
+::-webkit-scrollbar{ width:6px; height:6px } ::-webkit-scrollbar-thumb{ background:#cbd5e1; border-radius:999px }
+.range{ accent-color:#0f172a }
+</style>
+</head>
+<body class="antialiased">
+<!-- Header 56px -->
+<header class="sticky top-0 z-30 backdrop-blur bg-[#f8f5ee]/90 border-b border-stone-300">
+  <div class="max-w-[1600px] mx-auto px-3 lg:px-5 h-[56px] flex items-center justify-between gap-3">
+    <div class="flex items-center gap-3 min-w-0">
+      <div class="w-8 h-8 bg-stone-900 text-amber-100 rounded-lg flex items-center justify-center -rotate-3 shadow"><i class="fa-solid fa-pen-nib text-xs"></i></div>
+      <div class="min-w-0">
+        <h1 class="serif text-[18px] lg:text-[20px] leading-none tracking-tight">DSA Mastery <span class="italic font-normal">— Editorial Paper</span></h1>
+        <p class="hand text-[11px] text-stone-500 truncate">56 chapters • <span id="totalQ">1235</span> rows • <b id="uniqueQ">929</b> unique • <span id="overallPctH">0%</span> inked</p>
+      </div>
+      <button onclick="openCmd()" class="hidden md:flex items-center gap-2 ml-2 paper px-2.5 py-1.5 rounded-full border text-xs hand"><i class="fa-solid fa-magnifying-glass"></i> Search <span class="kbd">⌘K</span></button>
+    </div>
+    <div class="flex items-center gap-2 shrink-0">
+      <div class="hidden xl:flex items-center gap-1.5 paper px-2 py-1 rounded-full border text-xs hand">
+        <i class="fa-brands fa-leetcode text-orange-500"></i>
+        <input id="lcUser" placeholder="LC username" class="w-[110px] bg-transparent outline-none placeholder:text-stone-400">
+        <button onclick="connectLC()" id="lcBtn" class="bg-stone-900 text-white px-2.5 py-0.5 rounded-full serif text-xs">Sync</button>
+        <span id="lcStatus" class="text-[10px] text-stone-500 max-w-[110px] truncate"></span>
+      </div>
+      <div class="hidden lg:flex items-center gap-1 text-[11px] hand">
+        <span class="paper px-2 py-1 rounded-full border">Done <b id="doneCount">0</b></span>
+        <span class="sticky px-2 py-1 rounded-full">Revise <b id="reviseCount">0</b></span>
+        <span class="paper px-2 py-1 rounded-full border"><b id="remainCount">0</b> left</span>
+      </div>
+      <div id="authArea" class="flex items-center gap-1 paper px-2 py-1 rounded-full border hand text-xs">
+        <span id="authUser" class="hidden max-w-[90px] truncate"></span>
+        <button id="authBtn" onclick="openAuth()" class="bg-stone-900 text-white px-2.5 py-0.5 rounded-full serif">Login</button>
+        <button id="logoutBtn" onclick="doLogout()" class="hidden bg-red-50 text-red-700 px-2 py-0.5 rounded-full border">Logout</button>
+      </div>
+      <button onclick="exportProgress()" class="paper px-2.5 py-1.5 rounded-full border text-xs hand"><i class="fa-solid fa-download"></i></button>
+      <label class="paper px-2.5 py-1.5 rounded-full border text-xs hand cursor-pointer"><i class="fa-solid fa-upload"></i><input type="file" class="hidden" accept=".json" onchange="importProgress(event)"></label>
+    </div>
+  </div>
+  <div class="h-1 bg-stone-200 max-w-[1600px] mx-auto"><div id="overallBar" class="h-1 bg-stone-900 transition-all" style="width:0%"></div></div>
+  <!-- mobile LC + search -->
+  <div class="lg:hidden px-3 py-1.5 flex gap-1.5 items-center">
+    <div class="flex-1 flex gap-1 items-center paper rounded-full border px-2 py-1 text-xs hand"><i class="fa-brands fa-leetcode text-orange-500"></i><input id="lcUserM" placeholder="LC username" class="flex-1 bg-transparent outline-none"><button onclick="connectLC(true)" class="bg-stone-900 text-white px-2 py-0.5 rounded-full serif">Sync</button></div>
+    <span id="lcStatusM" class="text-[10px] hand"></span>
+    <button onclick="openCmd()" class="paper p-1.5 rounded-full border"><i class="fa-solid fa-magnifying-glass text-xs"></i></button>
+  </div>
+</header>
+
+<div class="max-w-[1600px] mx-auto flex flex-col lg:flex-row gap-3 lg:gap-4 p-3 lg:p-4">
+  <!-- Sidebar with phases -->
+  <aside class="w-full lg:w-[360px] shrink-0">
+    <div class="paper rounded-2xl p-3 lg:sticky lg:top-[68px] lg:max-h-[calc(100vh-76px)] flex flex-col">
+      <div class="tape">INDEX • PHASES</div>
+      <div class="holes hidden lg:flex"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+      <div class="ml-0 lg:ml-8 mt-6 space-y-2">
+        <div class="flex gap-1">
+          <button onclick="setView('chapters')" id="btnChapters" class="flex-1 serif text-sm py-1.5 rounded-full bg-stone-900 text-amber-100">Chapters</button>
+          <button onclick="setView('all')" id="btnAll" class="flex-1 serif text-sm py-1.5 rounded-full bg-white border">Unique Qs</button>
+          <button onclick="setView('revise')" id="btnRevise" class="flex-1 serif text-sm py-1.5 rounded-full bg-white border">Revise</button>
+        </div>
+        <label class="flex items-center gap-1.5 text-[11px] hand cursor-pointer select-none"><input type="checkbox" id="dedupToggle" checked onchange="render()" class="accent-stone-900"> Unique only — 929 (hide 306 shared rows)</label>
+        <div class="relative">
+          <i class="fa-solid fa-search absolute left-2.5 top-2.5 text-stone-400 text-[11px]"></i>
+          <input id="search" placeholder="Filter chapters, topics, LC…" oninput="onSearch()" class="w-full pl-7 pr-2 py-1.5 text-xs border border-stone-300 rounded-full bg-amber-50/40 hand focus:bg-white focus:outline-none">
+        </div>
+        <div class="flex flex-wrap gap-1">
+          <select id="filterDiff" onchange="render()" class="chip hand"><option value="">All levels</option><option>Easy</option><option>Medium</option><option>Hard</option></select>
+          <select id="filterStatus" onchange="render()" class="chip hand"><option value="">All status</option><option value="todo">✗ Todo</option><option value="done">✓ Done</option><option value="revise">★ Revise</option></select>
+          <button onclick="clearFilters()" class="chip hand">Clear</button>
+        </div>
+      </div>
+      <div id="phaseList" class="ml-0 lg:ml-8 mt-3 flex-1 overflow-y-auto pr-1 space-y-2 max-h-[38vh] lg:max-h-none"></div>
+      <div class="ml-0 lg:ml-8 mt-3 pt-2 border-t border-dashed hand text-[11px] text-stone-500">
+        <div class="flex justify-between"><span>Chapters done</span><span id="chaptersDone" class="font-semibold">0/56</span></div>
+        <div class="w-full bg-stone-100 h-1.5 rounded-full mt-1 border"><div id="chapterProgress" class="bg-emerald-600 h-1.5 rounded-full" style="width:0%"></div></div>
+        <p class="mt-2 leading-tight">Keys: <span class="kbd">J</span> <span class="kbd">K</span> nav • <span class="kbd">C</span> check • <span class="kbd">R</span> revise • <span class="kbd">/</span> search</p>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <main class="flex-1 min-w-0 space-y-3">
+    <!-- Dashboard -->
+    <div class="grid grid-cols-12 gap-3">
+      <div class="col-span-6 lg:col-span-3 paper rounded-2xl p-3">
+        <p class="hand text-[11px] tracking-widest text-stone-500">PROGRESS</p>
+        <p class="serif text-3xl" id="statPct">0%</p>
+        <p class="hand text-xs"><span id="statDone">0</span> unique done • <span id="statLeft">929</span> left</p>
+        <div class="w-full bg-stone-100 h-1 rounded-full mt-2"><div id="dashBar" class="bg-stone-900 h-1 rounded-full" style="width:0%"></div></div>
+      </div>
+      <div class="col-span-6 lg:col-span-3 sticky rounded-2xl p-3">
+        <p class="hand text-[11px] tracking-widest">STREAK</p>
+        <p class="serif text-3xl" id="streak">0🔥</p>
+        <p class="hand text-xs" id="streakSub">ink daily to keep</p>
+      </div>
+      <div class="col-span-6 lg:col-span-3 paper rounded-2xl p-3">
+        <p class="hand text-[11px] tracking-widest text-stone-500">NEXT UP</p>
+        <p class="serif text-sm leading-tight" id="nextUp">—</p>
+        <button onclick="goNext()" class="mt-1 text-xs hand underline">Go →</button>
+      </div>
+      <div class="col-span-6 lg:col-span-3 sticky rounded-2xl p-3">
+        <p class="hand text-[11px] tracking-widest">FOCUS</p>
+        <p class="hand text-xs" id="focusText">Pick a phase → ink topics first</p>
+        <div class="flex gap-1 mt-1"><span class="chip">Medium</span><span class="chip">Revise</span></div>
+      </div>
+    </div>
+
+    <div id="mainContent"></div>
+    <p class="text-center hand text-[11px] text-stone-400">Editorial Paper Pro • 56 ch • LC sync • pdfNotes • <code>localStorage dsa-tracker-v3</code> • export includes notes</p>
+  </main>
+</div>
+
+<!-- Command palette -->
+<div id="cmd" class="fixed inset-0 bg-black/30 backdrop-blur-sm hidden z-40" onclick="closeCmd(event)">
+  <div class="max-w-[640px] mx-auto mt-[18vh] paper rounded-2xl p-2" onclick="event.stopPropagation()">
+    <div class="flex items-center gap-2 px-3 py-2 border rounded-full bg-amber-50/50">
+      <i class="fa-solid fa-magnifying-glass text-stone-400"></i>
+      <input id="cmdInput" placeholder="Jump to chapter, LC, topic…" class="flex-1 bg-transparent outline-none hand" oninput="cmdSearch(this.value)" onkeydown="if(event.key==='Enter'){ const a=document.querySelector('#cmdList button'); if(a) a.click(); }">
+      <span class="kbd">ESC</span>
+    </div>
+    <div id="cmdList" class="max-h-[50vh] overflow-auto mt-2 space-y-1"></div>
+  </div>
+</div>
+
+<!-- Login modal (dynamic, not static) -->
+<div id="authModal" class="fixed inset-0 bg-black/40 backdrop-blur-sm hidden z-50 flex items-center justify-center p-4" onclick="if(event.target.id==='authModal') closeAuth()">
+  <div class="paper rounded-2xl max-w-[420px] w-full p-5 relative" onclick="event.stopPropagation()">
+    <div class="tape">DSA Login — dynamic</div>
+    <div class="holes hidden md:flex"><span></span><span></span><span></span><span></span></div>
+    <div class="ml-0 md:ml-8 mt-6">
+      <h3 class="serif text-xl">Welcome back <span class="hand">— ink your progress</span></h3>
+      <p class="hand text-xs text-stone-500">Login saves to server (refresh keeps). Connect LC after login.</p>
+      <div class="mt-3 space-y-2">
+        <input id="authName" placeholder="Name (for register)" class="w-full border rounded-full px-3 py-1.5 hand text-sm bg-amber-50/30">
+        <input id="authEmail" placeholder="Email" class="w-full border rounded-full px-3 py-1.5 hand text-sm">
+        <input id="authPass" type="password" placeholder="Password" class="w-full border rounded-full px-3 py-1.5 hand text-sm">
+        <div class="flex gap-1.5">
+          <button onclick="doLogin()" class="flex-1 bg-stone-900 text-white serif rounded-full py-1.5">Login</button>
+          <button onclick="doRegister()" class="flex-1 bg-white border serif rounded-full py-1.5">Register</button>
+        </div>
+        <p id="authMsg" class="hand text-xs text-red-600"></p>
+        <p class="hand text-[11px] text-stone-400">No email needed for demo — use any email. Password is hashed with bcrypt on server.</p>
+      </div>
+      <button onclick="closeAuth()" class="absolute top-2 right-3 text-stone-400"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+  </div>
+</div>
+
+<script>
+let DATA=null;
+let progress = JSON.parse(localStorage.getItem('dsa-tracker-v3')|| localStorage.getItem('dsa-tracker-v2')|| '{}');
+if(!progress.questions) progress={topics:{}, questions:{}, notes:{}, topicNotes:{}, chapterNotes:{}};
+if(!progress.topics) progress.topics={};
+if(!progress.questions) progress.questions={};
+if(!progress.notes) progress.notes={};
+if(!progress.topicNotes) progress.topicNotes={};
+if(!progress.chapterNotes) progress.chapterNotes={};
+if(!progress._time) progress._time={};
+(function migrate(){
+  for(const k of Object.keys(progress.questions)){
+    if(/^\d+-LC\d+/.test(k) || /^\d+-\d+/.test(k)){
+      const lc=k.split('-')[1];
+      if(lc?.startsWith('LC') && progress.questions[lc]===undefined) progress.questions[lc]=progress.questions[k];
+      else if(/^\d+$/.test(lc) && progress.questions['LC'+lc]===undefined) progress.questions['LC'+lc]=progress.questions[k];
+    }
+  }
+  for(const k of Object.keys(progress.notes)){
+    if(/^\d+-LC/.test(k)){
+      const lc=k.split('-')[1];
+      if(lc && progress.notes[lc]===undefined) progress.notes[lc]=progress.notes[k];
+    }
+  }
+})();
+let activeChapter=1;
+let view='chapters';
+let searchQ='';
+let phaseCollapsed={};
+let authToken=localStorage.getItem('dsa-jwt')||'';
+let authUser=JSON.parse(localStorage.getItem('dsa-user')||'null');
+
+function openAuth(){ document.getElementById('authModal').classList.remove('hidden'); }
+function closeAuth(){ document.getElementById('authModal').classList.add('hidden'); const m=document.getElementById('authMsg'); if(m) m.textContent=''; }
+function updateAuthUI(){
+  const u=authUser;
+  const userEl=document.getElementById('authUser');
+  const btn=document.getElementById('authBtn');
+  const out=document.getElementById('logoutBtn');
+  if(u){
+    if(userEl){ userEl.textContent='Hi, '+u.name; userEl.classList.remove('hidden'); }
+    if(btn) btn.classList.add('hidden');
+    if(out) out.classList.remove('hidden');
+  } else {
+    if(userEl) userEl.classList.add('hidden');
+    if(btn) btn.classList.remove('hidden');
+    if(out) out.classList.add('hidden');
+  }
+}
+async function doRegister(){
+  const name=document.getElementById('authName').value.trim();
+  const email=document.getElementById('authEmail').value.trim();
+  const pass=document.getElementById('authPass').value;
+  const msgEl=document.getElementById('authMsg');
+  if(!email||!pass){ msgEl.textContent='Email and password required'; return; }
+  try{
+    const r=await fetch('/api/register',{method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({email,password:pass,name})});
+    const j=await r.json();
+    if(!r.ok) throw new Error(j.error||'register failed');
+    authToken=j.token; authUser=j.user;
+    localStorage.setItem('dsa-jwt', authToken); localStorage.setItem('dsa-user', JSON.stringify(authUser));
+    await fetch('/api/progress',{method:'POST', headers:{'Content-Type':'application/json','Authorization':'Bearer '+authToken}, body:JSON.stringify(progress)});
+    msgEl.textContent='Registered — welcome '+authUser.name;
+    updateAuthUI(); setTimeout(closeAuth, 600); await loadFromServer();
+  }catch(e){ msgEl.textContent=e.message; }
+}
+async function doLogin(){
+  const email=document.getElementById('authEmail').value.trim();
+  const pass=document.getElementById('authPass').value;
+  const msgEl=document.getElementById('authMsg');
+  if(!email||!pass){ msgEl.textContent='Email and password required'; return; }
+  try{
+    const r=await fetch('/api/login',{method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({email,password:pass})});
+    const j=await r.json();
+    if(!r.ok) throw new Error(j.error||'login failed');
+    authToken=j.token; authUser=j.user;
+    localStorage.setItem('dsa-jwt', authToken); localStorage.setItem('dsa-user', JSON.stringify(authUser));
+    msgEl.textContent='Logged in — syncing...';
+    updateAuthUI(); await loadFromServer(); setTimeout(closeAuth, 500);
+  }catch(e){ msgEl.textContent=e.message; }
+}
+function doLogout(){
+  authToken=''; authUser=null;
+  localStorage.removeItem('dsa-jwt'); localStorage.removeItem('dsa-user');
+  updateAuthUI();
+  renderSidebar(); render();
+}
+async function loadFromServer(){
+  if(!authToken) return;
+  try{
+    const r=await fetch('/api/progress',{headers:{'Authorization':'Bearer '+authToken}});
+    if(!r.ok) throw new Error('no auth');
+    const j=await r.json();
+    progress=j;
+    if(!progress.topics) progress.topics={};
+    if(!progress.questions) progress.questions={};
+    if(!progress.notes) progress.notes={};
+    if(!progress.topicNotes) progress.topicNotes={};
+    if(!progress.chapterNotes) progress.chapterNotes={};
+    if(!progress._time) progress._time={};
+    localStorage.setItem('dsa-tracker-v3', JSON.stringify(progress));
+    renderSidebar(); render();
+  }catch(e){ console.log('loadFromServer failed', e); }
+}
+async function syncToServer(){
+  if(!authToken) return;
+  try{ await fetch('/api/progress',{method:'POST', headers:{'Content-Type':'application/json','Authorization':'Bearer '+authToken}, body:JSON.stringify(progress)}); }catch(e){ console.log('sync fail', e); }
+}
+
+const PHASES=[
+  {name:'Foundations', range:[1,8], desc:'Array • Hash • Two-ptr • Sliding • Prefix'},
+  {name:'Search & Heap', range:[9,12], desc:'Binary Search • Heap • Quickselect'},
+  {name:'Stack & Queue', range:[13,15], desc:'Stack • Monotonic'},
+  {name:'Linked List', range:[16,17], desc:'List • Fast/Slow'},
+  {name:'Recursion', range:[18,19], desc:'Recursion • Backtracking'},
+  {name:'Trees', range:[20,23], desc:'DFS • BFS • BST • Ordered Set'},
+  {name:'Graphs', range:[24,30], desc:'DFS • BFS • Topo • DSU • Shortest • MST'},
+  {name:'Greedy & Intervals', range:[31,33], desc:'Greedy • Interval • Sweep'},
+  {name:'Dynamic Programming', range:[34,43], desc:'DP 10 ch — 1D to Digit'},
+  {name:'Strings', range:[44,48], desc:'String • Palindrome • Trie • Hash • Parsing'},
+  {name:'Bit & Math', range:[49,53], desc:'Bit • Number Theory • Counting • Game'},
+  {name:'Design', range:[54,56], desc:'Design • System Lite • Concurrency'},
+];
+async function load(){
+  const r=await fetch('data/dsa.json');
+  DATA=await r.json();
+  try{ const m=await fetch('data/lc_map.json'); if(m.ok){ const mj=await m.json(); window.lcIdToSlug=mj.id_to_slug||{}; window.lcTitleToId=mj.title_to_id||{}; } }catch(e){}
+  updateAuthUI();
+  if(authToken){
+    try{ await loadFromServer(); }catch(e){}
+  }
+  // init LC user display (also from progress.lcUser)
+  const lcU = progress.lcUser || authUser?.email || '';
+  if(lcU){
+    const a=document.getElementById('lcUser'), b=document.getElementById('lcUserM');
+    if(a) a.value=progress.lcUser||'';
+    if(b) b.value=progress.lcUser||'';
+    const s=document.getElementById('lcStatus'); if(s && progress.lcUser) s.textContent='linked: '+progress.lcUser;
+  }
+  renderSidebar();
+  render();
+}
+function save(){ localStorage.setItem('dsa-tracker-v3', JSON.stringify(progress)); localStorage.setItem('dsa-tracker-v2', JSON.stringify(progress)); renderStats(); syncToServer(); }
+function qKey(q,chId){ if(q.leetcode) return 'LC'+q.leetcode; return chId+'-'+q.id; }
+function getQStatus(chId,q){
+  const dedup=document.getElementById('dedupToggle')?.checked!==false;
+  if(q.leetcode && dedup && progress.questions['LC'+q.leetcode]!==undefined) return progress.questions['LC'+q.leetcode];
+  const key = (dedup && q.leetcode) ? 'LC'+q.leetcode : chId+'-'+(q.leetcode||q.id);
+  if(q.leetcode && progress.questions['LC'+q.leetcode]!==undefined) return progress.questions['LC'+q.leetcode];
+  return progress.questions[key]||'todo';
+}
+function setQStatus(chId,q,status){
+  const key = (document.getElementById('dedupToggle')?.checked!==false && q.leetcode) ? 'LC'+q.leetcode : chId+'-'+(q.leetcode||q.id);
+  progress.questions[key]=status;
+  progress._time[key]=Date.now();
+  save(); renderSidebar(); render();
+}
+function isTopicDone(chId,ti){ return !!progress.topics[chId+'-'+ti]; }
+function toggleTopic(chId,ti){ const k=chId+'-'+ti; progress.topics[k]=!progress.topics[k]; save(); renderSidebar(); render(); }
+function chapterProgress(ch){
+  const qs=ch.questions||[]; if(!qs.length) return 0;
+  let done=0; qs.forEach(q=>{ if(getQStatus(ch.id,q)==='done') done++; });
+  const tDone=(ch.topics||[]).filter((_,i)=>isTopicDone(ch.id,i)).length;
+  return Math.round((done/qs.length)*70 + (tDone/(ch.topics.length||1))*30);
+}
+function isChapterDone(ch){ return chapterProgress(ch)===100; }
+function streakDays(){
+  const times=Object.values(progress._time||{}); if(!times.length) return 0;
+  const days=new Set(times.map(t=> new Date(t).toDateString()));
+  // simple streak: count consecutive days ending today
+  let streak=0; let d=new Date();
+  while(true){
+    if(days.has(d.toDateString())){ streak++; d.setDate(d.getDate()-1); } else break;
+    if(streak>60) break;
+  }
+  return streak;
+}
+function nextUpChapter(){
+  // first todo in activeChapter else first todo globally
+  let ch=DATA.chapters.find(c=>c.id===activeChapter);
+  if(ch){
+    const todo=ch.questions.find(q=> getQStatus(ch.id,q)==='todo');
+    if(todo) return {ch, q:todo};
+  }
+  for(const c of DATA.chapters){
+    const todo=c.questions.find(q=> getQStatus(c.id,q)==='todo');
+    if(todo) return {ch:c, q:todo};
+  }
+  return null;
+}
+function renderStats(){
+  const allRows=DATA.chapters.reduce((a,c)=>a+c.questions.length,0);
+  const uniqSet=new Set(DATA.chapters.flatMap(c=>c.questions.map(q=> q.leetcode? 'LC'+q.leetcode : c.id+'-'+q.id)));
+  const uniqTotal=uniqSet.size;
+  let doneRows=0, reviseRows=0;
+  DATA.chapters.forEach(c=> c.questions.forEach(q=>{ const s=getQStatus(c.id,q); if(s==='done') doneRows++; if(s==='revise') reviseRows++; }));
+  const uniqDone=new Set(); DATA.chapters.forEach(c=> c.questions.forEach(q=>{ if(getQStatus(c.id,q)==='done') uniqDone.add(q.leetcode? 'LC'+q.leetcode : c.id+'-'+q.id); }));
+  const pct= uniqTotal? Math.round(uniqDone.size/uniqTotal*100):0;
+  document.getElementById('overallPctH').textContent=pct+'%';
+  document.getElementById('overallBar').style.width=pct+'%';
+  document.getElementById('dashBar').style.width=pct+'%';
+  document.getElementById('doneCount').textContent=uniqDone.size; // unique done
+  document.getElementById('reviseCount').textContent=reviseRows;
+  document.getElementById('remainCount').textContent=uniqTotal-uniqDone.size;
+  document.getElementById('statPct').textContent=pct+'%';
+  document.getElementById('statDone').textContent=uniqDone.size;
+  document.getElementById('statLeft').textContent=uniqTotal-uniqDone.size;
+  document.getElementById('totalQ').textContent=allRows;
+  document.getElementById('uniqueQ').textContent=uniqTotal;
+  document.getElementById('chaptersDone').textContent=DATA.chapters.filter(isChapterDone).length+'/56';
+  document.getElementById('chapterProgress').style.width=Math.round(DATA.chapters.filter(isChapterDone).length/56*100)+'%';
+  const st=streakDays();
+  document.getElementById('streak').textContent=st+'🔥';
+  document.getElementById('streakSub').textContent= st? `${st} day ink streak` : 'ink daily to keep';
+  const nu=nextUpChapter();
+  document.getElementById('nextUp').textContent= nu? `${String(nu.ch.id).padStart(2,'0')}. ${nu.q.title} — ${nu.ch.title}` : 'All caught up — pick Revise';
+  document.getElementById('focusText').textContent= nu? `Next: Ch ${String(nu.ch.id).padStart(2,'0')} • ${nu.q.difficulty}` : 'Review revise queue';
+}
+function renderSidebar(){
+  const el=document.getElementById('phaseList');
+  el.innerHTML='';
+  const q=searchQ.toLowerCase();
+  PHASES.forEach(ph=>{
+    const chs=DATA.chapters.filter(c=> c.id>=ph.range[0] && c.id<=ph.range[1]);
+    // filter by search
+    const visible= chs.filter(ch=>{
+      if(!q) return true;
+      const hay=(ch.title+' '+(ch.topics||[]).join(' ')+' '+(ch.questions||[]).map(x=>x.title).join(' ')).toLowerCase();
+      return hay.includes(q);
+    });
+    if(!visible.length && q) return;
+    const progAvg=Math.round(visible.reduce((a,c)=>a+chapterProgress(c),0)/ (visible.length||1));
+    const doneCount=visible.filter(isChapterDone).length;
+    const collapsed=phaseCollapsed[ph.name];
+    const wrap=document.createElement('div');
+    wrap.className='paper rounded-xl p-2';
+    wrap.innerHTML=`
+      <button onclick="togglePhase('${ph.name}')" class="w-full flex justify-between items-center">
+        <div class="text-left">
+          <div class="serif text-sm">${ph.name} <span class="hand text-[11px] text-stone-500">${ph.range[0]}–${ph.range[1]}</span></div>
+          <div class="hand text-[11px] text-stone-500">${ph.desc}</div>
+        </div>
+        <div class="text-right">
+          <div class="hand text-xs">${doneCount}/${visible.length} • ${progAvg}%</div>
+          <i class="fa-solid ${collapsed?'fa-chevron-down':'fa-chevron-up'} text-[10px] text-stone-400"></i>
+        </div>
+      </button>
+      <div class="w-full bg-stone-100 h-1 rounded-full mt-1.5"><div class="bg-stone-900 h-1 rounded-full" style="width:${progAvg}%"></div></div>
+      <div class="${collapsed?'hidden':''} mt-2 space-y-1">
+        ${visible.map(ch=>{
+          const prog=chapterProgress(ch);
+          const active=ch.id===activeChapter && view==='chapters';
+          return `<button onclick="selectChapter(${ch.id})" class="w-full text-left border rounded-full px-2.5 py-1.5 flex justify-between items-center hover:bg-amber-50 ${active?'bg-stone-900 text-amber-100 border-stone-900': 'bg-white'}">
+            <span class="hand text-xs leading-tight">${String(ch.id).padStart(2,'0')}. ${ch.title}</span>
+            <span class="text-[10px] px-1.5 py-0.5 rounded-full border hand ${active?'bg-white text-stone-900':'bg-stone-900 text-white'}">${prog}%</span>
+          </button>`;
+        }).join('')}
+      </div>
+    `;
+    el.appendChild(wrap);
+  });
+}
+function togglePhase(name){ phaseCollapsed[name]=!phaseCollapsed[name]; renderSidebar(); }
+function selectChapter(id){ activeChapter=id; view='chapters'; updateViewBtns(); render(); }
+function updateViewBtns(){
+  document.getElementById('btnChapters').className = view==='chapters'?'flex-1 serif text-sm py-1.5 rounded-full bg-stone-900 text-amber-100':'flex-1 serif text-sm py-1.5 rounded-full bg-white border';
+  document.getElementById('btnAll').className = view==='all'?'flex-1 serif text-sm py-1.5 rounded-full bg-stone-900 text-amber-100':'flex-1 serif text-sm py-1.5 rounded-full bg-white border';
+  document.getElementById('btnRevise').className = view==='revise'?'flex-1 serif text-sm py-1.5 rounded-full bg-amber-600 text-white':'flex-1 serif text-sm py-1.5 rounded-full bg-white border';
+}
+function setView(v){ view=v; updateViewBtns(); render(); }
+function onSearch(){ searchQ=document.getElementById('search').value; renderSidebar(); render(); }
+function clearFilters(){ document.getElementById('search').value=''; document.getElementById('filterDiff').value=''; document.getElementById('filterStatus').value=''; searchQ=''; renderSidebar(); render(); }
+function slugify(t){ return t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)||'search'; }
+function lcUrl(q){ if(q.slug) return 'https://leetcode.com/problems/'+q.slug+'/'; if(q.leetcode && window.lcIdToSlug && window.lcIdToSlug[String(q.leetcode)]) return 'https://leetcode.com/problems/'+window.lcIdToSlug[String(q.leetcode)]+'/'; return 'https://leetcode.com/problems/'+slugify(q.title)+'/'; }
+function wUrl(w){ if(window.lcIdToSlug && window.lcIdToSlug[String(w.num)]) return 'https://leetcode.com/problems/'+window.lcIdToSlug[String(w.num)]+'/'; return 'https://leetcode.com/problems/'+slugify(w.title)+'/'; }
+function goNext(){ const nu=nextUpChapter(); if(nu){ activeChapter=nu.ch.id; view='chapters'; updateViewBtns(); render(); window.scrollTo({top:0, behavior:'smooth'}); } }
+function openCmd(){ document.getElementById('cmd').classList.remove('hidden'); document.getElementById('cmdInput').focus(); cmdSearch(''); }
+function closeCmd(e){ if(e.target.id==='cmd') document.getElementById('cmd').classList.add('hidden'); if(e.key==='Escape') document.getElementById('cmd').classList.add('hidden'); }
+document.addEventListener('keydown', e=>{
+  if((e.metaKey||e.ctrlKey)&& e.key==='k'){ e.preventDefault(); openCmd(); }
+  if(e.key==='/' && document.activeElement.tagName!=='INPUT' && document.activeElement.tagName!=='TEXTAREA'){ e.preventDefault(); document.getElementById('search').focus(); }
+  if(e.key==='Escape') document.getElementById('cmd').classList.add('hidden');
+  if(view==='chapters' && !e.metaKey && !e.ctrlKey && document.activeElement.tagName!=='INPUT'){
+    if(e.key==='j'){ activeChapter=Math.min(56, activeChapter+1); renderSidebar(); render(); }
+    if(e.key==='k'){ activeChapter=Math.max(1, activeChapter-1); renderSidebar(); render(); }
+    if(e.key==='c'){ const ch=DATA.chapters.find(c=>c.id===activeChapter); const todo=ch.questions.find(q=> getQStatus(ch.id,q)==='todo'); if(todo) setQStatus(ch.id, todo, 'done'); }
+    if(e.key==='r'){ const ch=DATA.chapters.find(c=>c.id===activeChapter); const todo=ch.questions.find(q=> getQStatus(ch.id,q)==='todo'); if(todo) setQStatus(ch.id, todo, 'revise'); }
+  }
+});
+function cmdSearch(q){
+  const list=document.getElementById('cmdList');
+  q=q.toLowerCase();
+  let items=[];
+  DATA.chapters.forEach(ch=>{
+    if(ch.title.toLowerCase().includes(q) || String(ch.id).includes(q)) items.push({label:`${String(ch.id).padStart(2,'0')}. ${ch.title} — ${ch.questions.length} Qs`, action:()=>{ selectChapter(ch.id); closeCmd({target:{id:'cmd'}}); }});
+    ch.questions.forEach(qu=>{
+      if(qu.title.toLowerCase().includes(q) || String(qu.leetcode).includes(q)) items.push({label:`LC${qu.leetcode||'—'} ${qu.title} — Ch ${String(ch.id).padStart(2,'0')}`, action:()=>{ activeChapter=ch.id; view='chapters'; updateViewBtns(); render(); setTimeout(()=>{ document.getElementById('cmd').classList.add('hidden'); }, 50); }});
+    });
+  });
+  items=items.slice(0,12);
+  list.innerHTML=items.map((it,i)=> `<button onclick="(${it.action.toString()})()" class="w-full text-left px-3 py-2 rounded-full border hover:bg-amber-50 hand text-sm">${it.label}</button>`).join('') || '<p class="hand text-sm p-3 text-stone-400">No match</p>';
+  // rebind with closure
+  list.querySelectorAll('button').forEach((b,i)=> b.onclick=items[i].action);
+}
+
+function render(){
+  if(!DATA) return;
+  renderStats(); updateViewBtns();
+  const main=document.getElementById('mainContent');
+  const diffFilter=document.getElementById('filterDiff').value;
+  const statusFilter=document.getElementById('filterStatus').value;
+
+  if(view==='all' || view==='revise'){
+    let all=[];
+    DATA.chapters.forEach(ch=> ch.questions.forEach(q=> all.push({ch,q})));
+    if(view==='revise') all=all.filter(x=> getQStatus(x.ch.id,x.q)==='revise');
+    if(searchQ) all=all.filter(x=> (x.q.title+' '+x.ch.title).toLowerCase().includes(searchQ.toLowerCase()));
+    if(diffFilter) all=all.filter(x=> x.q.difficulty===diffFilter);
+    if(statusFilter) all=all.filter(x=> getQStatus(x.ch.id,x.q)===statusFilter);
+    let isUnique=document.getElementById('dedupToggle')?.checked;
+    if(isUnique){
+      const map=new Map();
+      all.forEach(({ch,q})=>{ const k=q.leetcode? 'LC'+q.leetcode : ch.id+'-'+q.id; if(!map.has(k)) map.set(k,{q, chs:[ch], first:ch}); else map.get(k).chs.push(ch); });
+      all=Array.from(map.values()).map(v=>({ch:v.first, q:v.q, chs:v.chs}));
+    }
+    const order={todo:0, revise:1, done:2};
+    all.sort((a,b)=> order[getQStatus(a.ch.id,a.q)] - order[getQStatus(b.ch.id,b.q)]);
+    // mobile cards vs table
+    main.innerHTML=`
+      <div class="paper rounded-2xl overflow-hidden">
+        <div class="tape">${view==='revise'?'★ Revise':'Unique Questions'} • ${all.length} ${isUnique?`unique of ${DATA.chapters.reduce((a,c)=>a+c.questions.length,0)} rows`:''}</div>
+        <div class="holes hidden lg:flex"><span></span><span></span><span></span><span></span><span></span></div>
+        <div class="ml-0 lg:ml-10 mt-8 p-3">
+          <div class="flex flex-wrap gap-1 justify-between items-center mb-2">
+            <span class="hand text-xs text-stone-500">Tap status to ink • LC to solve • notes auto-save</span>
+            <span class="hand text-xs">${all.filter(x=>getQStatus(x.ch.id,x.q)==='done').length} done</span>
+          </div>
+          <!-- Table desktop -->
+          <div class="hidden md:block overflow-x-auto border border-stone-200 rounded-xl">
+            <table class="w-full text-sm">
+              <thead class="bg-stone-900 text-amber-50 hand text-xs"><tr><th class="px-2 py-2 text-left">Status</th><th class="px-2 py-2">LC</th><th class="px-2 py-2 text-left">Title</th><th class="px-2 py-2 text-left">Chapters</th><th class="px-2 py-2">Level</th><th class="px-2 py-2 text-left">Pen notes</th><th></th></tr></thead>
+              <tbody>${all.map(({ch,q,chs})=>{
+                const s=getQStatus(ch.id,q); const key=qKey(q,ch.id); const note=progress.notes[key]||''; const cls=s==='done'?'q-done':s==='revise'?'q-revise':'';
+                const chList=(chs||[ch]).map(c=> String(c.id).padStart(2,'0')).join(', ');
+                return `<tr class="border-t ${cls} hover:bg-amber-50/40">
+                  <td class="px-2 py-1"><select onchange="setQStatus(${ch.id}, DATA.chapters.find(c=>c.id===${ch.id}).questions.find(x=> (x.leetcode||x.id)==='${q.leetcode||q.id}'), this.value)" class="hand text-xs border rounded-full px-2 py-0.5 ${s==='done'?'bg-emerald-100':s==='revise'?'bg-amber-100':''}"><option ${s==='todo'?'selected':''} value="todo">✗ Todo</option><option ${s==='done'?'selected':''} value="done">✓ Done</option><option ${s==='revise'?'selected':''} value="revise">★ Revise</option></select></td>
+                  <td class="px-2 py-1 mono text-xs text-center">${q.leetcode?`<a target="_blank" href="${lcUrl(q)}" class="text-sky-700 underline decoration-dotted">${q.leetcode}</a>`:'—'}</td>
+                  <td class="px-2 py-1 hand text-sm">${q.title}</td>
+                  <td class="px-2 py-1 hand text-[11px]">${chList} ${chs&&chs.length>1?`<span class="chip">×${chs.length}</span>`:''}</td>
+                  <td class="px-2 py-1 text-center"><span class="chip hand text-[10px] ${q.difficulty==='Easy'?'bg-emerald-50':q.difficulty==='Hard'?'bg-red-50':'bg-amber-50'}">${q.difficulty}</span></td>
+                  <td class="px-2 py-1"><input value="${note.replace(/"/g,'&quot;')}" oninput="saveNote('${key}', this.value)" placeholder="pen…" class="w-full hand text-xs border border-dashed rounded-full px-2 py-1 bg-amber-50/30"></td>
+                  <td class="px-2"><a target="_blank" href="${q.leetcode?`${lcUrl(q)}`: '#'}" class="text-stone-400 hover:text-stone-800"><i class="fa-solid fa-arrow-up-right-from-square text-[11px]"></i></a></td>
+                </tr>`;
+              }).join('')}</tbody>
+            </table>
+          </div>
+          <!-- Cards mobile -->
+          <div class="md:hidden space-y-2">
+            ${all.slice(0,60).map(({ch,q,chs})=>{
+              const s=getQStatus(ch.id,q); const key=qKey(q,ch.id);
+              return `<div class="paper rounded-xl p-3 flex gap-2 items-start ${s==='done'?'q-done':s==='revise'?'q-revise border-amber-300':''}">
+                <span class="check ${s==='done'?'done':''}" onclick="setQStatus(${ch.id}, DATA.chapters.find(c=>c.id===${ch.id}).questions.find(x=> (x.leetcode||x.id)==='${q.leetcode||q.id}'), '${s==='done'?'todo':'done'}')">${s==='done'?'✓':''}</span>
+                <div class="flex-1 min-w-0">
+                  <div class="hand text-sm leading-tight">${q.title} <span class="mono text-[11px] text-stone-500">LC${q.leetcode||'—'}</span></div>
+                  <div class="hand text-[11px] text-stone-500">Ch ${(chs||[ch]).map(c=> String(c.id).padStart(2,'0')).join(', ')} • ${q.difficulty}</div>
+                  <input value="${(progress.notes[key]||'').replace(/"/g,'&quot;')}" oninput="saveNote('${key}', this.value)" placeholder="pen notes" class="mt-1 w-full hand text-xs border border-dashed rounded-full px-2 py-1">
+                </div>
+                <select onchange="setQStatus(${ch.id}, DATA.chapters.find(c=>c.id===${ch.id}).questions.find(x=> (x.leetcode||x.id)==='${q.leetcode||q.id}'), this.value)" class="hand text-[11px] border rounded-full px-1 py-0.5"><option ${s==='todo'?'selected':''} value="todo">✗</option><option ${s==='done'?'selected':''} value="done">✓</option><option ${s==='revise'?'selected':''} value="revise">★</option></select>
+              </div>`;
+            }).join('')}
+            ${all.length>60?`<p class="hand text-xs text-center text-stone-400">Showing 60 of ${all.length} — use search/filters</p>`:''}
+          </div>
+        </div>
+      </div>`;
+    return;
+  }
+
+  const ch=DATA.chapters.find(c=>c.id===activeChapter)||DATA.chapters[0];
+  const prog=chapterProgress(ch);
+  let qs=ch.questions.slice();
+  if(searchQ) qs=qs.filter(q=> q.title.toLowerCase().includes(searchQ.toLowerCase()));
+  if(diffFilter) qs=qs.filter(q=> q.difficulty===diffFilter);
+  if(statusFilter) qs=qs.filter(q=> getQStatus(ch.id,q)===statusFilter);
+  let topics=(ch.topics||[]).map((t,i)=>({t,i}));
+  if(searchQ) topics=topics.filter(x=> x.t.toLowerCase().includes(searchQ.toLowerCase()));
+
+  // tab state per chapter
+  if(!window.pdfTab) window.pdfTab={};
+  if(!window.pdfTab[ch.id]) window.pdfTab[ch.id]='viewer';
+  if(!window.chTab) window.chTab={};
+  if(!window.chTab[ch.id]) window.chTab[ch.id]='questions';
+
+  main.innerHTML=`
+    <div class="paper rounded-2xl overflow-hidden">
+      <div class="tape">Chapter ${String(ch.id).padStart(2,'0')} — ${ch.title} • ${prog}%</div>
+      <div class="holes hidden lg:flex"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+      <div class="ml-0 lg:ml-10 mt-8 p-3 lg:p-4 space-y-3">
+        <div class="flex flex-wrap gap-2 justify-between items-start">
+          <div>
+            <h2 class="serif text-[22px] leading-none">${ch.title} <span class="hand text-sm text-stone-500"> ${ch.questions.length} Qs • ${ch.topics.length} topics</span></h2>
+            <p class="hand text-[11px] text-stone-500">${ch.filename} • walkthroughs ${(ch.walkthroughs||[]).map(w=>w.num).join(', ')||'—'}</p>
+          </div>
+          <div class="flex gap-1">
+            <span class="paper px-2.5 py-1 rounded-full border hand text-xs">${prog}% inked</span>
+            <button onclick="markChapterDone(${ch.id})" class="bg-stone-900 text-amber-100 serif px-3 py-1 rounded-full text-xs hover:bg-black">Mark all done</button>
+          </div>
+        </div>
+
+        <!-- Chapter tabs -->
+        <div class="flex gap-1 border-b border-stone-200 -mb-px">
+          <button onclick="switchChTab(${ch.id}, 'questions')" id="chtab-questions-${ch.id}" class="tab ${window.chTab[ch.id]==='questions'?'active':''}">Questions • ${qs.length}</button>
+          <button onclick="switchChTab(${ch.id}, 'topics')" id="chtab-topics-${ch.id}" class="tab ${window.chTab[ch.id]==='topics'?'active':''}">Topics • ${topics.length}</button>
+          <button onclick="switchChTab(${ch.id}, 'pdf')" id="chtab-pdf-${ch.id}" class="tab ${window.chTab[ch.id]==='pdf'?'active':''}">PDF Notes</button>
+          <button onclick="switchChTab(${ch.id}, 'notes')" id="chtab-notes-${ch.id}" class="tab ${window.chTab[ch.id]==='notes'?'active':''}">Your Notes</button>
+        </div>
+
+        <!-- Questions tab -->
+        <div id="chpanel-questions-${ch.id}" class="${window.chTab[ch.id]!=='questions'?'hidden':''}">
+          <div class="overflow-x-auto border border-stone-200 rounded-xl hidden md:block">
+            <table class="w-full text-sm">
+              <thead class="bg-stone-900 text-amber-50 hand text-xs"><tr><th class="px-2 py-2 w-8"><input type="checkbox" onchange="toggleAll(this, ${ch.id})"></th><th class="px-2 py-2 text-left">Status</th><th class="px-2 py-2">LC</th><th class="px-2 py-2 text-left">Title</th><th class="px-2 py-2">Level</th><th class="px-2 py-2 text-left">Pen notes</th><th></th></tr></thead>
+              <tbody>${qs.map(q=>{
+                const s=getQStatus(ch.id,q); const key=qKey(q,ch.id); const note=progress.notes[key]||''; const cls=s==='done'?'q-done':s==='revise'?'q-revise':'';
+                return `<tr class="border-t ${cls} hover:bg-amber-50/30">
+                  <td class="px-2 py-1 text-center"><span class="check ${s==='done'?'done':''}" onclick="setQStatus(${ch.id}, DATA.chapters.find(c=>c.id===${ch.id}).questions.find(x=> (x.leetcode||x.id)==='${q.leetcode||q.id}'), '${s==='done'?'todo':'done'}')">${s==='done'?'✓':''}</span></td>
+                  <td class="px-2 py-1"><select onchange="setQStatus(${ch.id}, DATA.chapters.find(c=>c.id===${ch.id}).questions.find(x=> (x.leetcode||x.id)==='${q.leetcode||q.id}'), this.value)" class="hand text-xs border rounded-full px-2 py-0.5 ${s==='done'?'bg-emerald-100':s==='revise'?'bg-amber-100':''}"><option ${s==='todo'?'selected':''} value="todo">✗ Todo</option><option ${s==='done'?'selected':''} value="done">✓ Done</option><option ${s==='revise'?'selected':''} value="revise">★ Revise</option></select></td>
+                  <td class="px-2 py-1 mono text-xs text-center">${q.leetcode?`<a target="_blank" href="${lcUrl(q)}" class="text-sky-700 underline decoration-dotted">${q.leetcode}</a>`:'—'}</td>
+                  <td class="px-2 py-1 hand text-sm">${q.title}</td>
+                  <td class="px-2 py-1 text-center"><span class="chip hand text-[10px] ${q.difficulty==='Easy'?'bg-emerald-50':q.difficulty==='Hard'?'bg-red-50':'bg-amber-50'}">${q.difficulty}</span></td>
+                  <td class="px-2 py-1"><input value="${note.replace(/"/g,'&quot;')}" oninput="saveNote('${key}', this.value)" placeholder="ink…" class="w-full hand text-xs border border-dashed rounded-full px-2 py-1 bg-amber-50/30"></td>
+                  <td class="px-2"><a target="_blank" href="${q.leetcode?`${lcUrl(q)}`: '#'}"><i class="fa-solid fa-arrow-up-right-from-square text-[11px] text-stone-400"></i></a></td>
+                </tr>`;
+              }).join('')}</tbody>
+            </table>
+          </div>
+          <div class="md:hidden space-y-2">
+            ${qs.slice(0,50).map(q=>{
+              const s=getQStatus(ch.id,q); const key=qKey(q,ch.id);
+              return `<div class="paper rounded-xl p-3 flex gap-2 ${s==='done'?'q-done':s==='revise'?'q-revise':''}">
+                <span class="check ${s==='done'?'done':''}" onclick="setQStatus(${ch.id}, DATA.chapters.find(c=>c.id===${ch.id}).questions.find(x=> (x.leetcode||x.id)==='${q.leetcode||q.id}'), '${s==='done'?'todo':'done'}')">${s==='done'?'✓':''}</span>
+                <div class="flex-1 min-w-0"><div class="hand text-sm">${q.title} <span class="mono text-[11px]">LC${q.leetcode||'—'}</span></div><div class="hand text-[11px] text-stone-500">${q.difficulty}</div><input value="${(progress.notes[key]||'').replace(/"/g,'&quot;')}" oninput="saveNote('${key}', this.value)" placeholder="pen" class="mt-1 w-full hand text-xs border border-dashed rounded-full px-2 py-1"></div>
+                <select onchange="setQStatus(${ch.id}, DATA.chapters.find(c=>c.id===${ch.id}).questions.find(x=> (x.leetcode||x.id)==='${q.leetcode||q.id}'), this.value)" class="hand text-xs border rounded-full px-1"><option ${s==='todo'?'selected':''} value="todo">✗</option><option ${s==='done'?'selected':''} value="done">✓</option><option ${s==='revise'?'selected':''} value="revise">★</option></select>
+              </div>`;
+            }).join('')}
+            ${qs.length>50?`<p class="hand text-xs text-center">Showing 50 of ${qs.length} — filter to see more</p>`:''}
+          </div>
+        </div>
+
+        <!-- Topics tab -->
+        <div id="chpanel-topics-${ch.id}" class="${window.chTab[ch.id]!=='topics'?'hidden':''}">
+          <div class="grid md:grid-cols-2 gap-2">
+            ${topics.map(({t,i})=>{
+              const done=isTopicDone(ch.id,i); const tn=progress.topicNotes[ch.id+'-'+i]||'';
+              return `<div class="paper rounded-xl p-2.5 flex flex-col gap-1 ${done?'opacity-60':''}">
+                <label class="flex gap-2 cursor-pointer"><span class="check ${done?'done':''}" onclick="toggleTopic(${ch.id},${i})">${done?'✓':''}</span><span class="hand text-sm flex-1 ${done?'line-through':''}">${t}</span></label>
+                <input value="${tn.replace(/"/g,'&quot;')}" oninput="saveTopicNote('${ch.id+'-'+i}', this.value)" placeholder="topic note" class="hand text-xs border border-dashed rounded-full px-2 py-1 bg-amber-50/30">
+              </div>`;
+            }).join('')||'<p class="hand text-sm">No topics match filter</p>'}
+          </div>
+        </div>
+
+        <!-- PDF Notes tab with integrated viewer -->
+        <div id="chpanel-pdf-${ch.id}" class="${window.chTab[ch.id]!=='pdf'?'hidden':''}">
+          <div class="flex flex-wrap gap-1 mb-2">
+            <button onclick="switchPdfTab(${ch.id}, 'viewer')" id="tab-viewer-${ch.id}" class="chip hand ${window.pdfTab[ch.id]==='viewer'?'active':''}"><i class="fa-solid fa-file-pdf"></i> PDF Viewer</button>
+            <button onclick="switchPdfTab(${ch.id}, 'overview')" id="tab-overview-${ch.id}" class="chip hand ${window.pdfTab[ch.id]==='overview'?'active':''}">Overview text</button>
+            <button onclick="switchPdfTab(${ch.id}, 'templates')" id="tab-templates-${ch.id}" class="chip hand ${window.pdfTab[ch.id]==='templates'?'active':''}">Templates</button>
+            <button onclick="switchPdfTab(${ch.id}, 'cheat')" id="tab-cheat-${ch.id}" class="chip hand ${window.pdfTab[ch.id]==='cheat'?'active':''}">Cheat Sheet</button>
+            <button onclick="switchPdfTab(${ch.id}, 'pattern')" id="tab-pattern-${ch.id}" class="chip hand ${window.pdfTab[ch.id]==='pattern'?'active':''}">Checklist</button>
+          </div>
+          <div id="pdf-viewer-${ch.id}" class="${window.pdfTab[ch.id]!=='viewer'?'hidden':''} paper rounded-xl overflow-hidden border">
+            <div class="flex justify-between items-center px-2 py-1 bg-stone-100 border-b hand text-xs">
+              <span class="truncate"><i class="fa-solid fa-book"></i> ${ch.filename} — actual PDF</span>
+              <span class="flex gap-1">
+                <a href="pdfs/${encodeURIComponent(ch.filename)}" target="_blank" class="chip hand text-[11px]">Open <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                <a href="pdfs/${encodeURIComponent(ch.filename)}" download class="chip hand text-[11px]">Download</a>
+              </span>
+            </div>
+            <iframe src="pdfs/${encodeURIComponent(ch.filename)}#view=FitH&toolbar=1" class="w-full h-[720px] bg-white" loading="lazy" title="${ch.title} PDF"></iframe>
+            <p class="hand text-[11px] text-stone-400 p-1">If viewer is blank, use Open — browser PDF viewer required. File: <code>pdfs/${ch.filename}</code></p>
+          </div>
+          <div id="pdf-overview-${ch.id}" class="${window.pdfTab[ch.id]!=='overview'?'hidden':''} paper rounded-xl p-3 hand text-xs whitespace-pre-wrap max-h-80 overflow-auto">${(ch.pdfNotes?.overview||'No overview').replace(/</g,'&lt;')}</div>
+          <div id="pdf-templates-${ch.id}" class="${window.pdfTab[ch.id]!=='templates'?'hidden':''} paper rounded-xl p-3 bg-stone-50 max-h-80 overflow-auto"><pre class="mono text-[11px] whitespace-pre-wrap">${(ch.pdfNotes?.templates||'No templates').replace(/</g,'&lt;')}</pre></div>
+          <div id="pdf-cheat-${ch.id}" class="${window.pdfTab[ch.id]!=='cheat'?'hidden':''} paper rounded-xl p-3 max-h-80 overflow-auto"><pre class="mono text-[11px] whitespace-pre-wrap">${(ch.pdfNotes?.cheatSheet||'No cheat').replace(/</g,'&lt;')}</pre></div>
+          <div id="pdf-pattern-${ch.id}" class="${window.pdfTab[ch.id]!=='pattern'?'hidden':''} paper rounded-xl p-3 hand text-xs whitespace-pre-wrap max-h-80 overflow-auto">${(ch.pdfNotes?.patternChecklist||'No checklist').replace(/</g,'&lt;')}</div>
+          <p class="hand text-[11px] text-stone-400 mt-1">Extracted text for quick search • Viewer shows actual PDF</p>
+        </div>
+
+        <!-- Your Notes tab -->
+        <div id="chpanel-notes-${ch.id}" class="${window.chTab[ch.id]!=='notes'?'hidden':''}">
+          <div class="paper rounded-xl p-3">
+            <label class="serif text-sm">Your notes — ${ch.title}</label>
+            <textarea oninput="saveChapterNote(${ch.id}, this.value)" placeholder="Write tricks, mistakes, templates…" class="w-full mt-2 hand text-sm border rounded-xl p-3 bg-amber-50/20 min-h-[120px]">${(progress.chapterNotes[ch.id]||'').replace(/</g,'&lt;')}</textarea>
+            <div class="mt-2 flex flex-wrap gap-1">
+              ${(ch.walkthroughs||[]).map(w=>`<a target="_blank" href="${wUrl(w)}" class="chip hand">LC${w.num} ${w.title}</a>`).join('')}
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  `;
+}
+function switchChTab(chId, tab){ window.chTab[chId]=tab; render(); }
+function switchPdfTab(chId, tab){ window.pdfTab[chId]=tab; render(); }
+function markChapterDone(id){ const ch=DATA.chapters.find(c=>c.id===id); ch.questions.forEach(q=> setQStatus(id,q,'done')); ch.topics.forEach((_,i)=> progress.topics[id+'-'+i]=true); save(); renderSidebar(); render(); }
+function toggleAll(el,chId){ const ch=DATA.chapters.find(c=>c.id===chId); ch.questions.forEach(q=> setQStatus(chId,q, el.checked?'done':'todo')); }
+function saveNote(k,v){ progress.notes[k]=v; save(); }
+function saveTopicNote(k,v){ progress.topicNotes[k]=v; save(); }
+function saveChapterNote(id,v){ progress.chapterNotes[id]=v; save(); }
+function filterChapterStatus(s){ document.getElementById('filterStatus').value=s; render(); }
+function exportProgress(){
+  const out={...progress, meta:{exported:new Date().toISOString(), uniqueTotal: new Set(DATA.chapters.flatMap(c=>c.questions.map(q=> q.leetcode? 'LC'+q.leetcode : c.id+'-'+q.id))).size }};
+  const blob=new Blob([JSON.stringify(out,null,2)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='dsa-editorial-'+new Date().toISOString().slice(0,10)+'.json'; a.click();
+}
+function importProgress(e){
+  const f=e.target.files[0]; if(!f) return;
+  const r=new FileReader(); r.onload=()=>{ try{ progress=JSON.parse(r.result); save(); renderSidebar(); render(); alert('Imported!'); }catch{ alert('Invalid'); } }; r.readAsText(f);
+}
+function resetAll(){ if(confirm('Erase all ink?')){ progress={topics:{},questions:{},notes:{},topicNotes:{},chapterNotes:{},_time:{}}; save(); renderSidebar(); render(); } }
+async function connectLC(isMobile=false){
+  const input=document.getElementById(isMobile?'lcUserM':'lcUser');
+  const statusEl=document.getElementById(isMobile?'lcStatusM':'lcStatus');
+  const username=(input.value||document.getElementById('lcUser')?.value||document.getElementById('lcUserM')?.value||'').trim();
+  if(!username){ alert('Enter LeetCode username'); return; }
+  progress.lcUser=username; save();
+  if(statusEl) statusEl.textContent='... syncing via server';
+  try{
+    let solvedNums=[];
+    // try server proxy first (dynamic, avoids CORS)
+    try{
+      const r=await fetch('/api/lc/'+encodeURIComponent(username));
+      if(r.ok){
+        const wrap=await r.json();
+        const j=wrap.data;
+        if(Array.isArray(j)) solvedNums=j.map(x=> x.titleSlug||x.title||x);
+        else if(j.submission) solvedNums=j.submission.map(s=>s.titleSlug);
+        else if(Array.isArray(j.submission)) solvedNums=j.submission.map(s=>s.titleSlug);
+        else if(j.matchedUser) solvedNums=[];
+      }
+    }catch(e){}
+    if(!solvedNums.length){
+      for(const url of ['https://alfa-leetcode-api.onrender.com/'+username+'/acSubmission', 'https://leetcode-stats-api.herokuapp.com/'+username]){
+        try{
+          const r=await fetch(url);
+          if(!r.ok) continue;
+          const j=await r.json();
+          if(Array.isArray(j)) solvedNums=j.map(x=> x.titleSlug||x.title||x);
+          else if(j.submission) solvedNums=j.submission.map(s=>s.titleSlug);
+          if(solvedNums.length) break;
+        }catch(e){ continue; }
+      }
+    }
+    if(!solvedNums.length){
+      const manual=prompt('Could not auto-fetch (CORS). Paste LC numbers or slugs comma-separated:\n e.g. 1,121,242');
+      if(manual) solvedNums=manual.split(/[,\s]+/).filter(Boolean);
+      else { if(statusEl) statusEl.textContent='cancelled'; return; }
+    }
+    const slugToNum={};
+    DATA.chapters.forEach(c=> c.questions.forEach(q=>{ if(q.leetcode) slugToNum[slugify(q.title)]=q.leetcode; if(q.slug) slugToNum[q.slug]=q.leetcode; }));
+    // also use lcIdToSlug reverse
+    let synced=0;
+    for(const it of solvedNums){
+      let num=null;
+      if(/^\d+\$/.test(it)) num=parseInt(it);
+      else if(slugToNum[it.toLowerCase()]) num=slugToNum[it.toLowerCase()];
+      else {
+        const s=it.toLowerCase();
+        for(const k in slugToNum){ if(k===s){ num=slugToNum[k]; break; } }
+      }
+      if(num){ progress.questions['LC'+num]='done'; synced++; }
+    }
+    save();
+    if(statusEl) statusEl.textContent='✓ '+synced+' synced';
+    const m=document.getElementById(isMobile?'lcStatus':'lcStatusM'); if(m) m.textContent='✓ '+synced;
+    alert('Synced '+synced+' for '+username+' (saved to '+(authToken?'server':'local')+')');
+    renderSidebar(); render();
+  }catch(e){ if(statusEl) statusEl.textContent='error'; alert(e.message); }
+  const v=progress.lcUser; const a=document.getElementById('lcUser'), b=document.getElementById('lcUserM'); if(a) a.value=v; if(b) b.value=v;
+}
+load();
+</script>
+</body>
+</html>
