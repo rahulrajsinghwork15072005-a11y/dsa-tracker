@@ -1,0 +1,172 @@
+{
+  "name": "Chewy",
+  "slug": "chewy",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 4,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006426519370396749,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006713872588184193,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472534241056997,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257589399494338,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786839258915928,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006713872588184193,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786839258915928,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472534241056997,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257589399494338,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006426519370396749,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

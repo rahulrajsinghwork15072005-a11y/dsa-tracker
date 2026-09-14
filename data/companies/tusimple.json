@@ -1,0 +1,80 @@
+{
+  "name": "TuSimple",
+  "slug": "tusimple",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2585,
+        "title": "Number of Ways to Earn Points",
+        "slug": "number-of-ways-to-earn-points",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006008952594109384,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "Multiple Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-earn-points"
+      },
+      {
+        "lcId": 2539,
+        "title": "Count the Number of Good Subsequences",
+        "slug": "count-the-number-of-good-subsequences",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004828411811652035,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+      },
+      {
+        "lcId": 2121,
+        "title": "Intervals Between Identical Elements",
+        "slug": "intervals-between-identical-elements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004822912766754024,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/intervals-between-identical-elements"
+      },
+      {
+        "lcId": 2151,
+        "title": "Maximum Good People Based on Statements",
+        "slug": "maximum-good-people-based-on-statements",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005281197413869454,
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/maximum-good-people-based-on-statements"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

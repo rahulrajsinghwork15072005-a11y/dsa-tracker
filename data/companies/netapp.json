@@ -1,0 +1,352 @@
+{
+  "name": "NetApp",
+  "slug": "netapp",
+  "counts": {
+    "30d": 2,
+    "3m": 2,
+    "6m": 3,
+    "gt6m": 6,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 796,
+        "title": "Rotate String",
+        "slug": "rotate-string",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006666957595268568,
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/rotate-string"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 796,
+        "title": "Rotate String",
+        "slug": "rotate-string",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006666957595268568,
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/rotate-string"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800957769754739,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 796,
+        "title": "Rotate String",
+        "slug": "rotate-string",
+        "difficulty": "Easy",
+        "frequency": 83.2,
+        "acceptance": 0.006666957595268568,
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/rotate-string"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 83.2,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006426542938421886,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800957769754739,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 423,
+        "title": "Reconstruct Original Digits from English",
+        "slug": "reconstruct-original-digits-from-english",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.005323361808682748,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.005762716576563462,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 91,
+        "title": "Decode Ways",
+        "slug": "decode-ways",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.003844579583939798,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/decode-ways"
+      },
+      {
+        "lcId": 39,
+        "title": "Combination Sum",
+        "slug": "combination-sum",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.007700617765166082,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/combination-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800957769754739,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 78.8,
+        "acceptance": 0.006426542938421886,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 796,
+        "title": "Rotate String",
+        "slug": "rotate-string",
+        "difficulty": "Easy",
+        "frequency": 78.8,
+        "acceptance": 0.006666957595268568,
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/rotate-string"
+      },
+      {
+        "lcId": 423,
+        "title": "Reconstruct Original Digits from English",
+        "slug": "reconstruct-original-digits-from-english",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.005323361808682748,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.005762716576563462,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 91,
+        "title": "Decode Ways",
+        "slug": "decode-ways",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.003844579583939798,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/decode-ways"
+      },
+      {
+        "lcId": 39,
+        "title": "Combination Sum",
+        "slug": "combination-sum",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.007700617765166082,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/combination-sum"
+      },
+      {
+        "lcId": 1124,
+        "title": "Longest Well-Performing Interval",
+        "slug": "longest-well-performing-interval",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.003814324167414366,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Stack",
+          "Monotonic Stack",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/longest-well-performing-interval"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 68.6,
+        "acceptance": 0.005725129719190818,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,181 @@
+{
+  "name": "Gusto",
+  "slug": "gusto",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 5,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0050128819781672515,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 273,
+        "title": "Integer to English Words",
+        "slug": "integer-to-english-words",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003516291731184657,
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-english-words"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 83.6,
+        "acceptance": 0.0050128819781672515,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 616,
+        "title": "Add Bold Tag in String",
+        "slug": "add-bold-tag-in-string",
+        "difficulty": "Medium",
+        "frequency": 76.4,
+        "acceptance": 0.005148832416585635,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "String Matching",
+          "Aho–Corasick Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/add-bold-tag-in-string"
+      },
+      {
+        "lcId": 2591,
+        "title": "Distribute Money to Maximum Children",
+        "slug": "distribute-money-to-maximum-children",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "acceptance": 0.0020735325666775954,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/distribute-money-to-maximum-children"
+      },
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 51.6,
+        "acceptance": 0.005350272910647792,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 273,
+        "title": "Integer to English Words",
+        "slug": "integer-to-english-words",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003516291731184657,
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-english-words"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 85.8,
+        "acceptance": 0.0050128819781672515,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 616,
+        "title": "Add Bold Tag in String",
+        "slug": "add-bold-tag-in-string",
+        "difficulty": "Medium",
+        "frequency": 77.8,
+        "acceptance": 0.005148832416585635,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "String Matching",
+          "Aho–Corasick Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/add-bold-tag-in-string"
+      },
+      {
+        "lcId": 2591,
+        "title": "Distribute Money to Maximum Children",
+        "slug": "distribute-money-to-maximum-children",
+        "difficulty": "Easy",
+        "frequency": 67.3,
+        "acceptance": 0.0020735325666775954,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/distribute-money-to-maximum-children"
+      },
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 50.9,
+        "acceptance": 0.005350272910647792,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

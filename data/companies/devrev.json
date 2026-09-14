@@ -1,0 +1,212 @@
+{
+  "name": "DevRev",
+  "slug": "devrev",
+  "counts": {
+    "30d": 2,
+    "3m": 2,
+    "6m": 2,
+    "gt6m": 2,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 862,
+        "title": "Shortest Subarray with Sum at Least K",
+        "slug": "shortest-subarray-with-sum-at-least-k",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003301488067719161,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k"
+      },
+      {
+        "lcId": 2542,
+        "title": "Maximum Subsequence Score",
+        "slug": "maximum-subsequence-score",
+        "difficulty": "Medium",
+        "frequency": 75.2,
+        "acceptance": 0.005493629331189995,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subsequence-score"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 862,
+        "title": "Shortest Subarray with Sum at Least K",
+        "slug": "shortest-subarray-with-sum-at-least-k",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003301488067719161,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k"
+      },
+      {
+        "lcId": 2542,
+        "title": "Maximum Subsequence Score",
+        "slug": "maximum-subsequence-score",
+        "difficulty": "Medium",
+        "frequency": 75.2,
+        "acceptance": 0.005493629331189995,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subsequence-score"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 862,
+        "title": "Shortest Subarray with Sum at Least K",
+        "slug": "shortest-subarray-with-sum-at-least-k",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003301488067719161,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k"
+      },
+      {
+        "lcId": 2542,
+        "title": "Maximum Subsequence Score",
+        "slug": "maximum-subsequence-score",
+        "difficulty": "Medium",
+        "frequency": 75.2,
+        "acceptance": 0.005493629331189995,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subsequence-score"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0058009511386919775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005002928915643576,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 862,
+        "title": "Shortest Subarray with Sum at Least K",
+        "slug": "shortest-subarray-with-sum-at-least-k",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003301488067719161,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 72.1,
+        "acceptance": 0.0058009511386919775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 72.1,
+        "acceptance": 0.005002928915643576,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      },
+      {
+        "lcId": 2542,
+        "title": "Maximum Subsequence Score",
+        "slug": "maximum-subsequence-score",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.005493629331189995,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subsequence-score"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

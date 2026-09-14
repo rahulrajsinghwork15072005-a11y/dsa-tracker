@@ -1,0 +1,176 @@
+{
+  "name": "VMware",
+  "slug": "vmware",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005039601473376103,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786900551133637,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005012868360437659,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 4,
+        "title": "Median of Two Sorted Arrays",
+        "slug": "median-of-two-sorted-arrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004736985199552593,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ],
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1328,
+        "title": "Break a Palindrome",
+        "slug": "break-a-palindrome",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0051624215671782535,
+        "topics": [
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/break-a-palindrome"
+      },
+      {
+        "lcId": 2217,
+        "title": "Find Palindrome With Fixed Length",
+        "slug": "find-palindrome-with-fixed-length",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038186395971545038,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/find-palindrome-with-fixed-length"
+      },
+      {
+        "lcId": 2263,
+        "title": "Make Array Non-decreasing or Non-increasing",
+        "slug": "make-array-non-decreasing-or-non-increasing",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006559212301052064,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "acceptance": 0.005039601473376103,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "acceptance": 0.004786900551133637,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "acceptance": 0.005012868360437659,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 4,
+        "title": "Median of Two Sorted Arrays",
+        "slug": "median-of-two-sorted-arrays",
+        "difficulty": "Hard",
+        "frequency": 68,
+        "acceptance": 0.004736985199552593,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ],
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

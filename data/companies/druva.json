@@ -1,0 +1,34 @@
+{
+  "name": "Druva",
+  "slug": "druva",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 1005,
+        "title": "Maximize Sum Of Array After K Negations",
+        "slug": "maximize-sum-of-array-after-k-negations",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005425233218321558,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

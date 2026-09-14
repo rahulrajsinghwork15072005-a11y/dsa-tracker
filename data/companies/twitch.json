@@ -1,0 +1,196 @@
+{
+  "name": "Twitch",
+  "slug": "twitch",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 4,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786900551133637,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 345,
+        "title": "Reverse Vowels of a String",
+        "slug": "reverse-vowels-of-a-string",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006208614922520308,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reverse-vowels-of-a-string"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005487698055643282,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257660287454545,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786900551133637,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1435,
+        "title": "Create a Session Bar Chart",
+        "slug": "create-a-session-bar-chart",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007423719748629496,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/create-a-session-bar-chart"
+      },
+      {
+        "lcId": 1500,
+        "title": "Design a File Sharing System",
+        "slug": "design-a-file-sharing-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004174603174603175,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-a-file-sharing-system"
+      },
+      {
+        "lcId": 1230,
+        "title": "Toss Strange Coins",
+        "slug": "toss-strange-coins",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005807949157170874,
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Probability and Statistics"
+        ],
+        "link": "https://leetcode.com/problems/toss-strange-coins"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 84.2,
+        "acceptance": 0.004786900551133637,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 345,
+        "title": "Reverse Vowels of a String",
+        "slug": "reverse-vowels-of-a-string",
+        "difficulty": "Easy",
+        "frequency": 68.5,
+        "acceptance": 0.006208614922520308,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reverse-vowels-of-a-string"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 68.5,
+        "acceptance": 0.005487698055643282,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 68.5,
+        "acceptance": 0.005257660287454545,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

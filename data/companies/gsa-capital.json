@@ -1,0 +1,49 @@
+{
+  "name": "GSA Capital",
+  "slug": "gsa-capital",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0050746688718161966,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0050746688718161966,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

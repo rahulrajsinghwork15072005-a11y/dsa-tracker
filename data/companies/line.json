@@ -1,0 +1,83 @@
+{
+  "name": "LINE",
+  "slug": "line",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004910891835136791,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 1547,
+        "title": "Minimum Cost to Cut a Stick",
+        "slug": "minimum-cost-to-cut-a-stick",
+        "difficulty": "Hard",
+        "frequency": 90.4,
+        "acceptance": 0.006340008958667511,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004910891835136791,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 1547,
+        "title": "Minimum Cost to Cut a Stick",
+        "slug": "minimum-cost-to-cut-a-stick",
+        "difficulty": "Hard",
+        "frequency": 90.4,
+        "acceptance": 0.006340008958667511,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

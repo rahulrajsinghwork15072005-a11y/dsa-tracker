@@ -1,0 +1,75 @@
+{
+  "name": "Bank of America",
+  "slug": "bank-of-america",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00447253154875482,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 82.7,
+        "acceptance": 0.005725113571199103,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00447253154875482,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 82.2,
+        "acceptance": 0.005725113571199103,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

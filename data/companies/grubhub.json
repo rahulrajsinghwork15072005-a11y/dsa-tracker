@@ -1,0 +1,81 @@
+{
+  "name": "Grubhub",
+  "slug": "grubhub",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257639318283639,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 695,
+        "title": "Max Area of Island",
+        "slug": "max-area-of-island",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007418586501005358,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/max-area-of-island"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257639318283639,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 695,
+        "title": "Max Area of Island",
+        "slug": "max-area-of-island",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007418586501005358,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/max-area-of-island"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

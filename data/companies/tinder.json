@@ -1,0 +1,118 @@
+{
+  "name": "Tinder",
+  "slug": "tinder",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005487696550232968,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005487696550232968,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 703,
+        "title": "Kth Largest Element in a Stream",
+        "slug": "kth-largest-element-in-a-stream",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006147277622977958,
+        "topics": [
+          "Tree",
+          "Design",
+          "Binary Search Tree",
+          "Heap (Priority Queue)",
+          "Binary Tree",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005487696550232968,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 703,
+        "title": "Kth Largest Element in a Stream",
+        "slug": "kth-largest-element-in-a-stream",
+        "difficulty": "Easy",
+        "frequency": 92.9,
+        "acceptance": 0.006147277622977958,
+        "topics": [
+          "Tree",
+          "Design",
+          "Binary Search Tree",
+          "Heap (Priority Queue)",
+          "Binary Tree",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 73.5,
+        "acceptance": 0.005189791948559949,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

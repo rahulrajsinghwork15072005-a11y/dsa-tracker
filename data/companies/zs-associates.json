@@ -1,0 +1,168 @@
+{
+  "name": "ZS Associates",
+  "slug": "zs-associates",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 5,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 176,
+        "title": "Second Highest Salary",
+        "slug": "second-highest-salary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004798861918631776,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/second-highest-salary"
+      },
+      {
+        "lcId": 177,
+        "title": "Nth Highest Salary",
+        "slug": "nth-highest-salary",
+        "difficulty": "Medium",
+        "frequency": 88.6,
+        "acceptance": 0.003990504454279138,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/nth-highest-salary"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 88.6,
+        "acceptance": 0.0069164586043501276,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 88.6,
+        "acceptance": 0.004472573332822307,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 88.6,
+        "acceptance": 0.0038471229639906878,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 176,
+        "title": "Second Highest Salary",
+        "slug": "second-highest-salary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004798861918631776,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/second-highest-salary"
+      },
+      {
+        "lcId": 177,
+        "title": "Nth Highest Salary",
+        "slug": "nth-highest-salary",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.003990504454279138,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/nth-highest-salary"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.0069164586043501276,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 88.4,
+        "acceptance": 0.004472573332822307,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.0038471229639906878,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 907,
+        "title": "Sum of Subarray Minimums",
+        "slug": "sum-of-subarray-minimums",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.0038950212291676113,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

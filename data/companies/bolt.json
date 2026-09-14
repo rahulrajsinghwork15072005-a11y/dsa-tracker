@@ -1,0 +1,150 @@
+{
+  "name": "Bolt",
+  "slug": "bolt",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 3,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 1311,
+        "title": "Get Watched Videos by Your Friends",
+        "slug": "get-watched-videos-by-your-friends",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005400806195719876,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005725113571199103,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "acceptance": 0.004797980767213043,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 2696,
+        "title": "Minimum String Length After Removing Substrings",
+        "slug": "minimum-string-length-after-removing-substrings",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "acceptance": 0.0077224925160926505,
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1941,
+        "title": "Check if All Characters Have Equal Number of Occurrences",
+        "slug": "check-if-all-characters-have-equal-number-of-occurrences",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007963356049603396,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 90.1,
+        "acceptance": 0.005725113571199103,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.004797980767213043,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 2696,
+        "title": "Minimum String Length After Removing Substrings",
+        "slug": "minimum-string-length-after-removing-substrings",
+        "difficulty": "Easy",
+        "frequency": 70.8,
+        "acceptance": 0.0077224925160926505,
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings"
+      },
+      {
+        "lcId": 1311,
+        "title": "Get Watched Videos by Your Friends",
+        "slug": "get-watched-videos-by-your-friends",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.005400806195719876,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

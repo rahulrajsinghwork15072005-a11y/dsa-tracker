@@ -1,0 +1,59 @@
+{
+  "name": "Cleartrip",
+  "slug": "cleartrip",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1368,
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.007112809220543213,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Shortest Path",
+          "0-1 BFS",
+          "Dijkstra's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1368,
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.007112809220543213,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Shortest Path",
+          "0-1 BFS",
+          "Dijkstra's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

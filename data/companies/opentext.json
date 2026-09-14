@@ -1,0 +1,290 @@
+{
+  "name": "opentext",
+  "slug": "opentext",
+  "counts": {
+    "30d": 0,
+    "3m": 3,
+    "6m": 3,
+    "gt6m": 4,
+    "all": 9
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 1823,
+        "title": "Find the Winner of the Circular Game",
+        "slug": "find-the-winner-of-the-circular-game",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.008232485139918519,
+        "topics": [
+          "Array",
+          "Math",
+          "Recursion",
+          "Queue",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game"
+      },
+      {
+        "lcId": 1652,
+        "title": "Defuse the Bomb",
+        "slug": "defuse-the-bomb",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007946186759294378,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/defuse-the-bomb"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004818719356298374,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1823,
+        "title": "Find the Winner of the Circular Game",
+        "slug": "find-the-winner-of-the-circular-game",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.008232485139918519,
+        "topics": [
+          "Array",
+          "Math",
+          "Recursion",
+          "Queue",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game"
+      },
+      {
+        "lcId": 1652,
+        "title": "Defuse the Bomb",
+        "slug": "defuse-the-bomb",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007946186759294378,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/defuse-the-bomb"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004818719356298374,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472573332822307,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 88.6,
+        "acceptance": 0.0038471229639906878,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 88.6,
+        "acceptance": 0.004818719356298374,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 88.6,
+        "acceptance": 0.005725133789500735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2264,
+        "title": "Largest 3-Same-Digit Number in String",
+        "slug": "largest-3-same-digit-number-in-string",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007266042166856903,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string"
+      },
+      {
+        "lcId": 3662,
+        "title": "Filter Characters by Frequency",
+        "slug": "filter-characters-by-frequency",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008660806618407447,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/filter-characters-by-frequency"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 83.6,
+        "acceptance": 0.004818719356298374,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 76.9,
+        "acceptance": 0.004472573332822307,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 67.3,
+        "acceptance": 0.0038471229639906878,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 67.3,
+        "acceptance": 0.005725133789500735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 67.3,
+        "acceptance": 0.0047980053041721035,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 1823,
+        "title": "Find the Winner of the Circular Game",
+        "slug": "find-the-winner-of-the-circular-game",
+        "difficulty": "Medium",
+        "frequency": 67.3,
+        "acceptance": 0.008232485139918519,
+        "topics": [
+          "Array",
+          "Math",
+          "Recursion",
+          "Queue",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game"
+      },
+      {
+        "lcId": 1652,
+        "title": "Defuse the Bomb",
+        "slug": "defuse-the-bomb",
+        "difficulty": "Easy",
+        "frequency": 67.3,
+        "acceptance": 0.007946186759294378,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/defuse-the-bomb"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

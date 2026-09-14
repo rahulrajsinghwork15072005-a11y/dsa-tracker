@@ -1,0 +1,235 @@
+{
+  "name": "Publicis Sapient",
+  "slug": "publicis-sapient",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 6,
+    "all": 9
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1824,
+        "title": "Minimum Sideway Jumps",
+        "slug": "minimum-sideway-jumps",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005193363157405136,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-sideway-jumps"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 88.3,
+        "acceptance": 0.00680285179808486,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 88.3,
+        "acceptance": 0.003977956371317374,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 88.3,
+        "acceptance": 0.0048187214076762285,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 88.3,
+        "acceptance": 0.00731290377009171,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 88.3,
+        "acceptance": 0.005800958083748111,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 891,
+        "title": "Sum of Subsequence Widths",
+        "slug": "sum-of-subsequence-widths",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0041116563691725545,
+        "topics": [
+          "Array",
+          "Math",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-subsequence-widths"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 76.9,
+        "acceptance": 0.0048187214076762285,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 1824,
+        "title": "Minimum Sideway Jumps",
+        "slug": "minimum-sideway-jumps",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.005193363157405136,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-sideway-jumps"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 67.4,
+        "acceptance": 0.00731290377009171,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 67.4,
+        "acceptance": 0.00680285179808486,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 67.4,
+        "acceptance": 0.003977956371317374,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 67.4,
+        "acceptance": 0.0060430295238455365,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 67.4,
+        "acceptance": 0.006064829793750836,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 67.4,
+        "acceptance": 0.005800958083748111,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

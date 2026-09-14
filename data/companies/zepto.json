@@ -1,0 +1,637 @@
+{
+  "name": "Zepto",
+  "slug": "zepto",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 19,
+    "all": 21
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 863,
+        "title": "All Nodes Distance K in Binary Tree",
+        "slug": "all-nodes-distance-k-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006800109031268344,
+        "topics": [
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 863,
+        "title": "All Nodes Distance K in Binary Tree",
+        "slug": "all-nodes-distance-k-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006800109031268344,
+        "topics": [
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257666929298673,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 687,
+        "title": "Longest Univalue Path",
+        "slug": "longest-univalue-path",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004433913064915904,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/longest-univalue-path"
+      },
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.004720839819033261,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 85.8,
+        "acceptance": 0.005039602774760288,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 983,
+        "title": "Minimum Cost For Tickets",
+        "slug": "minimum-cost-for-tickets",
+        "difficulty": "Medium",
+        "frequency": 85.8,
+        "acceptance": 0.006747676862466371,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-for-tickets"
+      },
+      {
+        "lcId": 162,
+        "title": "Find Peak Element",
+        "slug": "find-peak-element",
+        "difficulty": "Medium",
+        "frequency": 85.8,
+        "acceptance": 0.0047140637470464266,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-peak-element"
+      },
+      {
+        "lcId": 962,
+        "title": "Maximum Width Ramp",
+        "slug": "maximum-width-ramp",
+        "difficulty": "Medium",
+        "frequency": 85.8,
+        "acceptance": 0.0055930835644557265,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/maximum-width-ramp"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 85.8,
+        "acceptance": 0.004910882131490626,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 437,
+        "title": "Path Sum III",
+        "slug": "path-sum-iii",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.004658914294792534,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/path-sum-iii"
+      },
+      {
+        "lcId": 1385,
+        "title": "Find the Distance Value Between Two Arrays",
+        "slug": "find-the-distance-value-between-two-arrays",
+        "difficulty": "Easy",
+        "frequency": 74.5,
+        "acceptance": 0.007217088844090361,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays"
+      },
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.006043047383632891,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 2659,
+        "title": "Make Array Empty",
+        "slug": "make-array-empty",
+        "difficulty": "Hard",
+        "frequency": 74.5,
+        "acceptance": 0.002710364402446979,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Sorting",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/make-array-empty"
+      },
+      {
+        "lcId": 1905,
+        "title": "Count Sub Islands",
+        "slug": "count-sub-islands",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.00730874531793132,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/count-sub-islands"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.004546233546369227,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 63,
+        "title": "Unique Paths II",
+        "slug": "unique-paths-ii",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.004494317230022288,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/unique-paths-ii"
+      },
+      {
+        "lcId": 29,
+        "title": "Divide Two Integers",
+        "slug": "divide-two-integers",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.002022501900811029,
+        "topics": [
+          "Math",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/divide-two-integers"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.005927631509613915,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.006496066084233955,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 74.5,
+        "acceptance": 0.003977960853023439,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257666929298673,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 687,
+        "title": "Longest Univalue Path",
+        "slug": "longest-univalue-path",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004433913064915904,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/longest-univalue-path"
+      },
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 93.7,
+        "acceptance": 0.004720839819033261,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 983,
+        "title": "Minimum Cost For Tickets",
+        "slug": "minimum-cost-for-tickets",
+        "difficulty": "Medium",
+        "frequency": 93.7,
+        "acceptance": 0.006747676862466371,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-for-tickets"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 85.7,
+        "acceptance": 0.005039602774760288,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 162,
+        "title": "Find Peak Element",
+        "slug": "find-peak-element",
+        "difficulty": "Medium",
+        "frequency": 85.7,
+        "acceptance": 0.0047140637470464266,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-peak-element"
+      },
+      {
+        "lcId": 962,
+        "title": "Maximum Width Ramp",
+        "slug": "maximum-width-ramp",
+        "difficulty": "Medium",
+        "frequency": 85.7,
+        "acceptance": 0.0055930835644557265,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/maximum-width-ramp"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 85.7,
+        "acceptance": 0.004910882131490626,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 1094,
+        "title": "Car Pooling",
+        "slug": "car-pooling",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.005647518097124068,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/car-pooling"
+      },
+      {
+        "lcId": 437,
+        "title": "Path Sum III",
+        "slug": "path-sum-iii",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.004658914294792534,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/path-sum-iii"
+      },
+      {
+        "lcId": 1385,
+        "title": "Find the Distance Value Between Two Arrays",
+        "slug": "find-the-distance-value-between-two-arrays",
+        "difficulty": "Easy",
+        "frequency": 74.3,
+        "acceptance": 0.007217088844090361,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays"
+      },
+      {
+        "lcId": 2659,
+        "title": "Make Array Empty",
+        "slug": "make-array-empty",
+        "difficulty": "Hard",
+        "frequency": 74.3,
+        "acceptance": 0.002710364402446979,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Sorting",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/make-array-empty"
+      },
+      {
+        "lcId": 1905,
+        "title": "Count Sub Islands",
+        "slug": "count-sub-islands",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.00730874531793132,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/count-sub-islands"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.004546233546369227,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 63,
+        "title": "Unique Paths II",
+        "slug": "unique-paths-ii",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.004494317230022288,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/unique-paths-ii"
+      },
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.006043047383632891,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 29,
+        "title": "Divide Two Integers",
+        "slug": "divide-two-integers",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.002022501900811029,
+        "topics": [
+          "Math",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/divide-two-integers"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.005927631509613915,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.006496066084233955,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.003977960853023439,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 863,
+        "title": "All Nodes Distance K in Binary Tree",
+        "slug": "all-nodes-distance-k-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 74.3,
+        "acceptance": 0.006800109031268344,
+        "topics": [
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

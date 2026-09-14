@@ -1,0 +1,542 @@
+{
+  "name": "Siemens",
+  "slug": "siemens",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 15,
+    "all": 21
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006496056761377224,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 95.2,
+        "acceptance": 0.005257660987052711,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 81.9,
+        "acceptance": 0.004472567007912034,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 81.9,
+        "acceptance": 0.004786895677649352,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 218,
+        "title": "The Skyline Problem",
+        "slug": "the-skyline-problem",
+        "difficulty": "Hard",
+        "frequency": 81.9,
+        "acceptance": 0.004577321766966395,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Sweep Line",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/the-skyline-problem"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 71.3,
+        "acceptance": 0.0068532467520360085,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 26,
+        "title": "Remove Duplicates from Sorted Array",
+        "slug": "remove-duplicates-from-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 71.3,
+        "acceptance": 0.006356314692353561,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.007312905429484083,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 921,
+        "title": "Minimum Add to Make Parentheses Valid",
+        "slug": "minimum-add-to-make-parentheses-valid",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.007427570442540657,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid"
+      },
+      {
+        "lcId": 152,
+        "title": "Maximum Product Subarray",
+        "slug": "maximum-product-subarray",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.0036892249411700695,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-subarray"
+      },
+      {
+        "lcId": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "slug": "angle-between-hands-of-a-clock",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.006987956660087807,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock"
+      },
+      {
+        "lcId": 260,
+        "title": "Single Number III",
+        "slug": "single-number-iii",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.007014413185387291,
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/single-number-iii"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.006713902078162962,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 189,
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.004532009250771366,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-array"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 71.3,
+        "acceptance": 0.006874755196938832,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3187,
+        "title": "Peaks in Array",
+        "slug": "peaks-in-array",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0028111490082770307,
+        "topics": [
+          "Array",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "link": "https://leetcode.com/problems/peaks-in-array"
+      },
+      {
+        "lcId": 2064,
+        "title": "Minimized Maximum of Products Distributed to Any Store",
+        "slug": "minimized-maximum-of-products-distributed-to-any-store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006322576549337968,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 96.6,
+        "acceptance": 0.006496056761377224,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 88.2,
+        "acceptance": 0.005257660987052711,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 82.5,
+        "acceptance": 0.004472567007912034,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 218,
+        "title": "The Skyline Problem",
+        "slug": "the-skyline-problem",
+        "difficulty": "Hard",
+        "frequency": 75.3,
+        "acceptance": 0.004577321766966395,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Sweep Line",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/the-skyline-problem"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 75.3,
+        "acceptance": 0.004786895677649352,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 65.1,
+        "acceptance": 0.006874755196938832,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 65.1,
+        "acceptance": 0.0068532467520360085,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "slug": "angle-between-hands-of-a-clock",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.006987956660087807,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock"
+      },
+      {
+        "lcId": 26,
+        "title": "Remove Duplicates from Sorted Array",
+        "slug": "remove-duplicates-from-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 65.1,
+        "acceptance": 0.006356314692353561,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.007312905429484083,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 921,
+        "title": "Minimum Add to Make Parentheses Valid",
+        "slug": "minimum-add-to-make-parentheses-valid",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.007427570442540657,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid"
+      },
+      {
+        "lcId": 152,
+        "title": "Maximum Product Subarray",
+        "slug": "maximum-product-subarray",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.0036892249411700695,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-subarray"
+      },
+      {
+        "lcId": 260,
+        "title": "Single Number III",
+        "slug": "single-number-iii",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.007014413185387291,
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/single-number-iii"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.006713902078162962,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 189,
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.004532009250771366,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-array"
+      },
+      {
+        "lcId": 133,
+        "title": "Clone Graph",
+        "slug": "clone-graph",
+        "difficulty": "Medium",
+        "frequency": 65.1,
+        "acceptance": 0.006597987956084482,
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/clone-graph"
+      },
+      {
+        "lcId": 420,
+        "title": "Strong Password Checker",
+        "slug": "strong-password-checker",
+        "difficulty": "Hard",
+        "frequency": 65.1,
+        "acceptance": 0.0016265791262282858,
+        "topics": [
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/strong-password-checker"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 65.1,
+        "acceptance": 0.005725130462146871,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 344,
+        "title": "Reverse String",
+        "slug": "reverse-string",
+        "difficulty": "Easy",
+        "frequency": 65.1,
+        "acceptance": 0.008119743168103375,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reverse-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,83 @@
+{
+  "name": "IVP",
+  "slug": "ivp",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3376,
+        "title": "Minimum Time to Break Locks I",
+        "slug": "minimum-time-to-break-locks-i",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0033005177892842063,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Breadth-First Search",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/minimum-time-to-break-locks-i"
+      },
+      {
+        "lcId": 3385,
+        "title": "Minimum Time to Break Locks II",
+        "slug": "minimum-time-to-break-locks-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004607013301088271,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3376,
+        "title": "Minimum Time to Break Locks I",
+        "slug": "minimum-time-to-break-locks-i",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0033005177892842063,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Breadth-First Search",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/minimum-time-to-break-locks-i"
+      },
+      {
+        "lcId": 3385,
+        "title": "Minimum Time to Break Locks II",
+        "slug": "minimum-time-to-break-locks-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004607013301088271,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

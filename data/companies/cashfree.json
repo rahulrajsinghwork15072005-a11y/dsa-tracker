@@ -1,0 +1,143 @@
+{
+  "name": "Cashfree",
+  "slug": "cashfree",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 658,
+        "title": "Find K Closest Elements",
+        "slug": "find-k-closest-elements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005001239284862486,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sliding Window",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/find-k-closest-elements"
+      },
+      {
+        "lcId": 2858,
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "slug": "minimum-edge-reversals-so-every-node-is-reachable",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005979448085239178,
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2560,
+        "title": "House Robber IV",
+        "slug": "house-robber-iv",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006457240782195585,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-iv"
+      },
+      {
+        "lcId": 1695,
+        "title": "Maximum Erasure Value",
+        "slug": "maximum-erasure-value",
+        "difficulty": "Medium",
+        "frequency": 95.3,
+        "acceptance": 0.006439779260564858,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/maximum-erasure-value"
+      },
+      {
+        "lcId": 658,
+        "title": "Find K Closest Elements",
+        "slug": "find-k-closest-elements",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.005001239284862486,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sliding Window",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/find-k-closest-elements"
+      },
+      {
+        "lcId": 2858,
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "slug": "minimum-edge-reversals-so-every-node-is-reachable",
+        "difficulty": "Hard",
+        "frequency": 66,
+        "acceptance": 0.005979448085239178,
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+      },
+      {
+        "lcId": 907,
+        "title": "Sum of Subarray Minimums",
+        "slug": "sum-of-subarray-minimums",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.00389497810983192,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+      },
+      {
+        "lcId": 13,
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "acceptance": 0.006704913157720514,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/roman-to-integer"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

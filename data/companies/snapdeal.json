@@ -1,0 +1,66 @@
+{
+  "name": "Snapdeal",
+  "slug": "snapdeal",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 543,
+        "title": "Diameter of Binary Tree",
+        "slug": "diameter-of-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006608631882957283,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/diameter-of-binary-tree"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1027,
+        "title": "Longest Arithmetic Subsequence",
+        "slug": "longest-arithmetic-subsequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0050144418683204925,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/longest-arithmetic-subsequence"
+      },
+      {
+        "lcId": 543,
+        "title": "Diameter of Binary Tree",
+        "slug": "diameter-of-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 71.2,
+        "acceptance": 0.006608631882957283,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/diameter-of-binary-tree"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

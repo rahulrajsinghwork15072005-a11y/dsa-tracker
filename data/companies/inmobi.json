@@ -1,0 +1,485 @@
+{
+  "name": "InMobi",
+  "slug": "inmobi",
+  "counts": {
+    "30d": 3,
+    "3m": 3,
+    "6m": 3,
+    "gt6m": 9,
+    "all": 13
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 741,
+        "title": "Cherry Pickup",
+        "slug": "cherry-pickup",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0040270487618501005,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/cherry-pickup"
+      },
+      {
+        "lcId": 1192,
+        "title": "Critical Connections in a Network",
+        "slug": "critical-connections-in-a-network",
+        "difficulty": "Hard",
+        "frequency": 93.4,
+        "acceptance": 0.006037233009194338,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory",
+          "Biconnected Component",
+          "Bridge (Graph)"
+        ],
+        "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+      },
+      {
+        "lcId": 3948,
+        "title": "Lexicographically Maximum MEX Array",
+        "slug": "lexicographically-maximum-mex-array",
+        "difficulty": "Hard",
+        "frequency": 84,
+        "acceptance": 0.005711650347665674,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-maximum-mex-array"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 741,
+        "title": "Cherry Pickup",
+        "slug": "cherry-pickup",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0040270487618501005,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/cherry-pickup"
+      },
+      {
+        "lcId": 1192,
+        "title": "Critical Connections in a Network",
+        "slug": "critical-connections-in-a-network",
+        "difficulty": "Hard",
+        "frequency": 84.9,
+        "acceptance": 0.006037233009194338,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory",
+          "Biconnected Component",
+          "Bridge (Graph)"
+        ],
+        "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+      },
+      {
+        "lcId": 3948,
+        "title": "Lexicographically Maximum MEX Array",
+        "slug": "lexicographically-maximum-mex-array",
+        "difficulty": "Hard",
+        "frequency": 76,
+        "acceptance": 0.005711650347665674,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-maximum-mex-array"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 741,
+        "title": "Cherry Pickup",
+        "slug": "cherry-pickup",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0040270487618501005,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/cherry-pickup"
+      },
+      {
+        "lcId": 1192,
+        "title": "Critical Connections in a Network",
+        "slug": "critical-connections-in-a-network",
+        "difficulty": "Hard",
+        "frequency": 84.8,
+        "acceptance": 0.006037233009194338,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory",
+          "Biconnected Component",
+          "Bridge (Graph)"
+        ],
+        "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+      },
+      {
+        "lcId": 3948,
+        "title": "Lexicographically Maximum MEX Array",
+        "slug": "lexicographically-maximum-mex-array",
+        "difficulty": "Hard",
+        "frequency": 75.9,
+        "acceptance": 0.005711650347665674,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-maximum-mex-array"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 664,
+        "title": "Strange Printer",
+        "slug": "strange-printer",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0060980229188425834,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/strange-printer"
+      },
+      {
+        "lcId": 1377,
+        "title": "Frog Position After T Seconds",
+        "slug": "frog-position-after-t-seconds",
+        "difficulty": "Hard",
+        "frequency": 94.3,
+        "acceptance": 0.00387813571172769,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/frog-position-after-t-seconds"
+      },
+      {
+        "lcId": 488,
+        "title": "Zuma Game",
+        "slug": "zuma-game",
+        "difficulty": "Hard",
+        "frequency": 94.3,
+        "acceptance": 0.0029359534480810517,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Breadth-First Search",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/zuma-game"
+      },
+      {
+        "lcId": 763,
+        "title": "Partition Labels",
+        "slug": "partition-labels",
+        "difficulty": "Medium",
+        "frequency": 76.5,
+        "acceptance": 0.008200887958439025,
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/partition-labels"
+      },
+      {
+        "lcId": 2398,
+        "title": "Maximum Number of Robots Within Budget",
+        "slug": "maximum-number-of-robots-within-budget",
+        "difficulty": "Hard",
+        "frequency": 76.5,
+        "acceptance": 0.0039010977694478198,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget"
+      },
+      {
+        "lcId": 684,
+        "title": "Redundant Connection",
+        "slug": "redundant-connection",
+        "difficulty": "Medium",
+        "frequency": 76.5,
+        "acceptance": 0.006808046845934029,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/redundant-connection"
+      },
+      {
+        "lcId": 32,
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 76.5,
+        "acceptance": 0.00395033008997663,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 76.5,
+        "acceptance": 0.0068028473122123435,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 76.5,
+        "acceptance": 0.005039591889336592,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 754,
+        "title": "Reach a Number",
+        "slug": "reach-a-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004554043273008655,
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/reach-a-number"
+      },
+      {
+        "lcId": 741,
+        "title": "Cherry Pickup",
+        "slug": "cherry-pickup",
+        "difficulty": "Hard",
+        "frequency": 93.1,
+        "acceptance": 0.0040270487618501005,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/cherry-pickup"
+      },
+      {
+        "lcId": 664,
+        "title": "Strange Printer",
+        "slug": "strange-printer",
+        "difficulty": "Hard",
+        "frequency": 88.7,
+        "acceptance": 0.0060980229188425834,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/strange-printer"
+      },
+      {
+        "lcId": 1377,
+        "title": "Frog Position After T Seconds",
+        "slug": "frog-position-after-t-seconds",
+        "difficulty": "Hard",
+        "frequency": 83.3,
+        "acceptance": 0.00387813571172769,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/frog-position-after-t-seconds"
+      },
+      {
+        "lcId": 488,
+        "title": "Zuma Game",
+        "slug": "zuma-game",
+        "difficulty": "Hard",
+        "frequency": 83.3,
+        "acceptance": 0.0029359534480810517,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Breadth-First Search",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/zuma-game"
+      },
+      {
+        "lcId": 1192,
+        "title": "Critical Connections in a Network",
+        "slug": "critical-connections-in-a-network",
+        "difficulty": "Hard",
+        "frequency": 76.4,
+        "acceptance": 0.006037233009194338,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory",
+          "Biconnected Component",
+          "Bridge (Graph)"
+        ],
+        "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+      },
+      {
+        "lcId": 763,
+        "title": "Partition Labels",
+        "slug": "partition-labels",
+        "difficulty": "Medium",
+        "frequency": 66.7,
+        "acceptance": 0.008200887958439025,
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/partition-labels"
+      },
+      {
+        "lcId": 2398,
+        "title": "Maximum Number of Robots Within Budget",
+        "slug": "maximum-number-of-robots-within-budget",
+        "difficulty": "Hard",
+        "frequency": 66.7,
+        "acceptance": 0.0039010977694478198,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget"
+      },
+      {
+        "lcId": 684,
+        "title": "Redundant Connection",
+        "slug": "redundant-connection",
+        "difficulty": "Medium",
+        "frequency": 66.7,
+        "acceptance": 0.006808046845934029,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/redundant-connection"
+      },
+      {
+        "lcId": 32,
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 66.7,
+        "acceptance": 0.00395033008997663,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 66.7,
+        "acceptance": 0.0068028473122123435,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 66.7,
+        "acceptance": 0.005039591889336592,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 3948,
+        "title": "Lexicographically Maximum MEX Array",
+        "slug": "lexicographically-maximum-mex-array",
+        "difficulty": "Hard",
+        "frequency": 66.7,
+        "acceptance": 0.005711650347665674,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-maximum-mex-array"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

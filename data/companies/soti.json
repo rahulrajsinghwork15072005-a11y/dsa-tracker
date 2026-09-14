@@ -1,0 +1,47 @@
+{
+  "name": "SOTI",
+  "slug": "soti",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 605,
+        "title": "Can Place Flowers",
+        "slug": "can-place-flowers",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.002927995565847032,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/can-place-flowers"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 605,
+        "title": "Can Place Flowers",
+        "slug": "can-place-flowers",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.002927995565847032,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/can-place-flowers"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,280 @@
+{
+  "name": "Avito",
+  "slug": "avito",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 8,
+    "all": 9
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006713859439054048,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0073128561363822375,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 215,
+        "title": "Kth Largest Element in an Array",
+        "slug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 94.4,
+        "acceptance": 0.0069243294870896055,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+      },
+      {
+        "lcId": 88,
+        "title": "Merge Sorted Array",
+        "slug": "merge-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 87.3,
+        "acceptance": 0.005552775650696054,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/merge-sorted-array"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 77.2,
+        "acceptance": 0.0049132569851247365,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      },
+      {
+        "lcId": 22,
+        "title": "Generate Parentheses",
+        "slug": "generate-parentheses",
+        "difficulty": "Medium",
+        "frequency": 77.2,
+        "acceptance": 0.007906588538921917,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/generate-parentheses"
+      },
+      {
+        "lcId": 907,
+        "title": "Sum of Subarray Minimums",
+        "slug": "sum-of-subarray-minimums",
+        "difficulty": "Medium",
+        "frequency": 77.2,
+        "acceptance": 0.0038949666375751517,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+      },
+      {
+        "lcId": 104,
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 77.2,
+        "acceptance": 0.007852233004775541,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0073128561363822375,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 95.6,
+        "acceptance": 0.006713859439054048,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 215,
+        "title": "Kth Largest Element in an Array",
+        "slug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 95.6,
+        "acceptance": 0.0069243294870896055,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+      },
+      {
+        "lcId": 88,
+        "title": "Merge Sorted Array",
+        "slug": "merge-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 83.1,
+        "acceptance": 0.005552775650696054,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/merge-sorted-array"
+      },
+      {
+        "lcId": 907,
+        "title": "Sum of Subarray Minimums",
+        "slug": "sum-of-subarray-minimums",
+        "difficulty": "Medium",
+        "frequency": 83.1,
+        "acceptance": 0.0038949666375751517,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 73.3,
+        "acceptance": 0.0049132569851247365,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      },
+      {
+        "lcId": 22,
+        "title": "Generate Parentheses",
+        "slug": "generate-parentheses",
+        "difficulty": "Medium",
+        "frequency": 73.3,
+        "acceptance": 0.007906588538921917,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/generate-parentheses"
+      },
+      {
+        "lcId": 104,
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 73.3,
+        "acceptance": 0.007852233004775541,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 73.3,
+        "acceptance": 0.006916445091796937,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

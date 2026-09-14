@@ -1,0 +1,107 @@
+{
+  "name": "Valve",
+  "slug": "valve",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 8,
+        "title": "String to Integer (atoi)",
+        "slug": "string-to-integer-atoi",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0021567228882764604,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+      },
+      {
+        "lcId": 2755,
+        "title": "Deep Merge of Two Objects",
+        "slug": "deep-merge-of-two-objects",
+        "difficulty": "Medium",
+        "frequency": 80.2,
+        "acceptance": 0.00625810635538262,
+        "topics": [],
+        "link": "https://leetcode.com/problems/deep-merge-of-two-objects"
+      },
+      {
+        "lcId": 1603,
+        "title": "Design Parking System",
+        "slug": "design-parking-system",
+        "difficulty": "Easy",
+        "frequency": 80.2,
+        "acceptance": 0.008718930508851891,
+        "topics": [
+          "Design",
+          "Simulation",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/design-parking-system"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 649,
+        "title": "Dota2 Senate",
+        "slug": "dota2-senate",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005037526913282247,
+        "topics": [
+          "String",
+          "Greedy",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/dota2-senate"
+      },
+      {
+        "lcId": 8,
+        "title": "String to Integer (atoi)",
+        "slug": "string-to-integer-atoi",
+        "difficulty": "Medium",
+        "frequency": 90.2,
+        "acceptance": 0.0021567228882764604,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+      },
+      {
+        "lcId": 2755,
+        "title": "Deep Merge of Two Objects",
+        "slug": "deep-merge-of-two-objects",
+        "difficulty": "Medium",
+        "frequency": 71.2,
+        "acceptance": 0.00625810635538262,
+        "topics": [],
+        "link": "https://leetcode.com/problems/deep-merge-of-two-objects"
+      },
+      {
+        "lcId": 1603,
+        "title": "Design Parking System",
+        "slug": "design-parking-system",
+        "difficulty": "Easy",
+        "frequency": 71.2,
+        "acceptance": 0.008718930508851891,
+        "topics": [
+          "Design",
+          "Simulation",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/design-parking-system"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

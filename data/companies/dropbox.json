@@ -1,0 +1,409 @@
+{
+  "name": "Dropbox",
+  "slug": "dropbox",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 22
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006956928323890204,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 843,
+        "title": "Guess the Word",
+        "slug": "guess-the-word",
+        "difficulty": "Hard",
+        "frequency": 85.6,
+        "acceptance": 0.003660275621759791,
+        "topics": [
+          "Array",
+          "Math",
+          "String",
+          "Minimax",
+          "Interactive",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/guess-the-word"
+      },
+      {
+        "lcId": 135,
+        "title": "Candy",
+        "slug": "candy",
+        "difficulty": "Hard",
+        "frequency": 75,
+        "acceptance": 0.004904699227433804,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/candy"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 66.6,
+        "acceptance": 0.005257634241389205,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006956928323890204,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 1236,
+        "title": "Web Crawler",
+        "slug": "web-crawler",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "acceptance": 0.006871576814803473,
+        "topics": [
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/web-crawler"
+      },
+      {
+        "lcId": 1242,
+        "title": "Web Crawler Multithreaded",
+        "slug": "web-crawler-multithreaded",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "acceptance": 0.005133506440324623,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Concurrency"
+        ],
+        "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+      },
+      {
+        "lcId": 924,
+        "title": "Minimize Malware Spread",
+        "slug": "minimize-malware-spread",
+        "difficulty": "Hard",
+        "frequency": 95,
+        "acceptance": 0.004339416421024741,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimize-malware-spread"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 92.1,
+        "acceptance": 0.0058009511386919775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 4,
+        "title": "Median of Two Sorted Arrays",
+        "slug": "median-of-two-sorted-arrays",
+        "difficulty": "Hard",
+        "frequency": 92.1,
+        "acceptance": 0.004736973625726364,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ],
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 92.1,
+        "acceptance": 0.00666599314734388,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 1001,
+        "title": "Grid Illumination",
+        "slug": "grid-illumination",
+        "difficulty": "Hard",
+        "frequency": 92.1,
+        "acceptance": 0.003991117814647226,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/grid-illumination"
+      },
+      {
+        "lcId": 609,
+        "title": "Find Duplicate File in System",
+        "slug": "find-duplicate-file-in-system",
+        "difficulty": "Medium",
+        "frequency": 92.1,
+        "acceptance": 0.006748934711999762,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/find-duplicate-file-in-system"
+      },
+      {
+        "lcId": 140,
+        "title": "Word Break II",
+        "slug": "word-break-ii",
+        "difficulty": "Hard",
+        "frequency": 92.1,
+        "acceptance": 0.005602422321927091,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Trie",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/word-break-ii"
+      },
+      {
+        "lcId": 1178,
+        "title": "Number of Valid Words for Each Puzzle",
+        "slug": "number-of-valid-words-for-each-puzzle",
+        "difficulty": "Hard",
+        "frequency": 92.1,
+        "acceptance": 0.0048101690367587865,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Bit Manipulation",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+      },
+      {
+        "lcId": 290,
+        "title": "Word Pattern",
+        "slug": "word-pattern",
+        "difficulty": "Easy",
+        "frequency": 92.1,
+        "acceptance": 0.004451276792373911,
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/word-pattern"
+      },
+      {
+        "lcId": 289,
+        "title": "Game of Life",
+        "slug": "game-of-life",
+        "difficulty": "Medium",
+        "frequency": 92.1,
+        "acceptance": 0.007294280419357083,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/game-of-life"
+      },
+      {
+        "lcId": 291,
+        "title": "Word Pattern II",
+        "slug": "word-pattern-ii",
+        "difficulty": "Medium",
+        "frequency": 92.1,
+        "acceptance": 0.004913577848502683,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/word-pattern-ii"
+      },
+      {
+        "lcId": 2296,
+        "title": "Design a Text Editor",
+        "slug": "design-a-text-editor",
+        "difficulty": "Hard",
+        "frequency": 92.1,
+        "acceptance": 0.005142438276746744,
+        "topics": [
+          "Linked List",
+          "String",
+          "Stack",
+          "Design",
+          "Simulation",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-a-text-editor"
+      },
+      {
+        "lcId": 1250,
+        "title": "Check If It Is a Good Array",
+        "slug": "check-if-it-is-a-good-array",
+        "difficulty": "Hard",
+        "frequency": 92.1,
+        "acceptance": 0.006576073593010977,
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory",
+          "Bézout's Lemma",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor",
+          "Extended Euclidean Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 92.1,
+        "acceptance": 0.006974238013047187,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      },
+      {
+        "lcId": 1845,
+        "title": "Seat Reservation Manager",
+        "slug": "seat-reservation-manager",
+        "difficulty": "Medium",
+        "frequency": 92.1,
+        "acceptance": 0.00673763209617571,
+        "topics": [
+          "Design",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/seat-reservation-manager"
+      },
+      {
+        "lcId": 928,
+        "title": "Minimize Malware Spread II",
+        "slug": "minimize-malware-spread-ii",
+        "difficulty": "Hard",
+        "frequency": 92.1,
+        "acceptance": 0.004598114378943417,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimize-malware-spread-ii"
+      },
+      {
+        "lcId": 843,
+        "title": "Guess the Word",
+        "slug": "guess-the-word",
+        "difficulty": "Hard",
+        "frequency": 80.5,
+        "acceptance": 0.003660275621759791,
+        "topics": [
+          "Array",
+          "Math",
+          "String",
+          "Minimax",
+          "Interactive",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/guess-the-word"
+      },
+      {
+        "lcId": 135,
+        "title": "Candy",
+        "slug": "candy",
+        "difficulty": "Hard",
+        "frequency": 67.9,
+        "acceptance": 0.004904699227433804,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/candy"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 58,
+        "acceptance": 0.005257634241389205,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

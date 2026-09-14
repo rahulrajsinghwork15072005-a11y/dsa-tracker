@@ -1,0 +1,182 @@
+{
+  "name": "Duolingo",
+  "slug": "duolingo",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 3,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 2227,
+        "title": "Encrypt and Decrypt Strings",
+        "slug": "encrypt-and-decrypt-strings",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0038738359108339304,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2227,
+        "title": "Encrypt and Decrypt Strings",
+        "slug": "encrypt-and-decrypt-strings",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0038738359108339304,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 2227,
+        "title": "Encrypt and Decrypt Strings",
+        "slug": "encrypt-and-decrypt-strings",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0038738359108339304,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings"
+      },
+      {
+        "lcId": 329,
+        "title": "Longest Increasing Path in a Matrix",
+        "slug": "longest-increasing-path-in-a-matrix",
+        "difficulty": "Hard",
+        "frequency": 84.1,
+        "acceptance": 0.005695044086814752,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Memoization",
+          "Matrix",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+      },
+      {
+        "lcId": 2365,
+        "title": "Task Scheduler II",
+        "slug": "task-scheduler-ii",
+        "difficulty": "Medium",
+        "frequency": 73.9,
+        "acceptance": 0.005498706473043259,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2227,
+        "title": "Encrypt and Decrypt Strings",
+        "slug": "encrypt-and-decrypt-strings",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0038738359108339304,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings"
+      },
+      {
+        "lcId": 2090,
+        "title": "K Radius Subarray Averages",
+        "slug": "k-radius-subarray-averages",
+        "difficulty": "Medium",
+        "frequency": 80.9,
+        "acceptance": 0.004642254788051423,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/k-radius-subarray-averages"
+      },
+      {
+        "lcId": 1733,
+        "title": "Minimum Number of People to Teach",
+        "slug": "minimum-number-of-people-to-teach",
+        "difficulty": "Medium",
+        "frequency": 80.9,
+        "acceptance": 0.0067254493774770805,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach"
+      },
+      {
+        "lcId": 329,
+        "title": "Longest Increasing Path in a Matrix",
+        "slug": "longest-increasing-path-in-a-matrix",
+        "difficulty": "Hard",
+        "frequency": 72,
+        "acceptance": 0.005695044086814752,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Memoization",
+          "Matrix",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+      },
+      {
+        "lcId": 2365,
+        "title": "Task Scheduler II",
+        "slug": "task-scheduler-ii",
+        "difficulty": "Medium",
+        "frequency": 67.8,
+        "acceptance": 0.005498706473043259,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

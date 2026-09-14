@@ -1,0 +1,172 @@
+{
+  "name": "Citigroup",
+  "slug": "citigroup",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800925551602618,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 82.2,
+        "acceptance": 0.005725115877104416,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 82.2,
+        "acceptance": 0.0039778944934471625,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 150,
+        "title": "Evaluate Reverse Polish Notation",
+        "slug": "evaluate-reverse-polish-notation",
+        "difficulty": "Medium",
+        "frequency": 82.2,
+        "acceptance": 0.005848798084285679,
+        "topics": [
+          "Array",
+          "Math",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800925551602618,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 87.1,
+        "acceptance": 0.005725115877104416,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 150,
+        "title": "Evaluate Reverse Polish Notation",
+        "slug": "evaluate-reverse-polish-notation",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.005848798084285679,
+        "topics": [
+          "Array",
+          "Math",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+      },
+      {
+        "lcId": 48,
+        "title": "Rotate Image",
+        "slug": "rotate-image",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.008056986803121915,
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotate-image"
+      },
+      {
+        "lcId": 209,
+        "title": "Minimum Size Subarray Sum",
+        "slug": "minimum-size-subarray-sum",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.005261635093110143,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-size-subarray-sum"
+      },
+      {
+        "lcId": 1944,
+        "title": "Number of Visible People in a Queue",
+        "slug": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard",
+        "frequency": 76.9,
+        "acceptance": 0.0073463324434102405,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.0039778944934471625,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

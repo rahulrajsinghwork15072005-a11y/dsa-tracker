@@ -1,0 +1,81 @@
+{
+  "name": "instabase",
+  "slug": "instabase",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2334,
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "slug": "subarray-with-elements-greater-than-varying-threshold",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004589604117374442,
+        "topics": [
+          "Array",
+          "Stack",
+          "Union-Find",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0056088256591242435,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2334,
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "slug": "subarray-with-elements-greater-than-varying-threshold",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004589604117374442,
+        "topics": [
+          "Array",
+          "Stack",
+          "Union-Find",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0056088256591242435,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

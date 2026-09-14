@@ -1,0 +1,62 @@
+{
+  "name": "Canonical",
+  "slug": "canonical",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 150,
+        "title": "Evaluate Reverse Polish Notation",
+        "slug": "evaluate-reverse-polish-notation",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005848798084285679,
+        "topics": [
+          "Array",
+          "Math",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2138,
+        "title": "Divide a String Into Groups of Size k",
+        "slug": "divide-a-string-into-groups-of-size-k",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007690458786601882,
+        "topics": [
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k"
+      },
+      {
+        "lcId": 150,
+        "title": "Evaluate Reverse Polish Notation",
+        "slug": "evaluate-reverse-polish-notation",
+        "difficulty": "Medium",
+        "frequency": 85.7,
+        "acceptance": 0.005848798084285679,
+        "topics": [
+          "Array",
+          "Math",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

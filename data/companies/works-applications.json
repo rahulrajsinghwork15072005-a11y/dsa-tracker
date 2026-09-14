@@ -1,0 +1,76 @@
+{
+  "name": "Works Applications",
+  "slug": "works-applications",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00396932772129858,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 630,
+        "title": "Course Schedule III",
+        "slug": "course-schedule-iii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004204426070315117,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-iii"
+      },
+      {
+        "lcId": 629,
+        "title": "K Inverse Pairs Array",
+        "slug": "k-inverse-pairs-array",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0049009324009324,
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/k-inverse-pairs-array"
+      },
+      {
+        "lcId": 179,
+        "title": "Largest Number",
+        "slug": "largest-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00435851734063324,
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/largest-number"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,401 @@
+{
+  "name": "Dell",
+  "slug": "dell",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 13,
+    "all": 14
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 696,
+        "title": "Count Binary Substrings",
+        "slug": "count-binary-substrings",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0070534191873448445,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/count-binary-substrings"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 696,
+        "title": "Count Binary Substrings",
+        "slug": "count-binary-substrings",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0070534191873448445,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/count-binary-substrings"
+      },
+      {
+        "lcId": 1328,
+        "title": "Break a Palindrome",
+        "slug": "break-a-palindrome",
+        "difficulty": "Medium",
+        "frequency": 84.6,
+        "acceptance": 0.0051624215671782535,
+        "topics": [
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/break-a-palindrome"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 69.2,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 69.2,
+        "acceptance": 0.0058009511386919775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 69.2,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 1413,
+        "title": "Minimum Value to Get Positive Step by Step Sum",
+        "slug": "minimum-value-to-get-positive-step-by-step-sum",
+        "difficulty": "Easy",
+        "frequency": 69.2,
+        "acceptance": 0.006482919736384212,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum"
+      },
+      {
+        "lcId": 196,
+        "title": "Delete Duplicate Emails",
+        "slug": "delete-duplicate-emails",
+        "difficulty": "Easy",
+        "frequency": 60.2,
+        "acceptance": 0.0066579648651073344,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/delete-duplicate-emails"
+      },
+      {
+        "lcId": 185,
+        "title": "Department Top Three Salaries",
+        "slug": "department-top-three-salaries",
+        "difficulty": "Hard",
+        "frequency": 60.2,
+        "acceptance": 0.006139896837129079,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/department-top-three-salaries"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 60.2,
+        "acceptance": 0.00685325196893623,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 60.2,
+        "acceptance": 0.005373539087154113,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 22,
+        "title": "Generate Parentheses",
+        "slug": "generate-parentheses",
+        "difficulty": "Medium",
+        "frequency": 60.2,
+        "acceptance": 0.00790661143263633,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/generate-parentheses"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 60.2,
+        "acceptance": 0.006874749441552822,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 60.2,
+        "acceptance": 0.004472563820601804,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 696,
+        "title": "Count Binary Substrings",
+        "slug": "count-binary-substrings",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0070534191873448445,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/count-binary-substrings"
+      },
+      {
+        "lcId": 1328,
+        "title": "Break a Palindrome",
+        "slug": "break-a-palindrome",
+        "difficulty": "Medium",
+        "frequency": 81.3,
+        "acceptance": 0.0051624215671782535,
+        "topics": [
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/break-a-palindrome"
+      },
+      {
+        "lcId": 1413,
+        "title": "Minimum Value to Get Positive Step by Step Sum",
+        "slug": "minimum-value-to-get-positive-step-by-step-sum",
+        "difficulty": "Easy",
+        "frequency": 72.3,
+        "acceptance": 0.006482919736384212,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "acceptance": 0.0058009511386919775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.005373539087154113,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 196,
+        "title": "Delete Duplicate Emails",
+        "slug": "delete-duplicate-emails",
+        "difficulty": "Easy",
+        "frequency": 57.1,
+        "acceptance": 0.0066579648651073344,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/delete-duplicate-emails"
+      },
+      {
+        "lcId": 185,
+        "title": "Department Top Three Salaries",
+        "slug": "department-top-three-salaries",
+        "difficulty": "Hard",
+        "frequency": 57.1,
+        "acceptance": 0.006139896837129079,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/department-top-three-salaries"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 57.1,
+        "acceptance": 0.004472563820601804,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 57.1,
+        "acceptance": 0.00685325196893623,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 22,
+        "title": "Generate Parentheses",
+        "slug": "generate-parentheses",
+        "difficulty": "Medium",
+        "frequency": 57.1,
+        "acceptance": 0.00790661143263633,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/generate-parentheses"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 57.1,
+        "acceptance": 0.006874749441552822,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 57.1,
+        "acceptance": 0.0068028406737841995,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Attentive",
+  "slug": "attentive",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 5,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 736,
+        "title": "Parse Lisp Expression",
+        "slug": "parse-lisp-expression",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005394257396880922,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/parse-lisp-expression"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1209,
+        "title": "Remove All Adjacent Duplicates in String II",
+        "slug": "remove-all-adjacent-duplicates-in-string-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0061756783851957585,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "lcId": 736,
+        "title": "Parse Lisp Expression",
+        "slug": "parse-lisp-expression",
+        "difficulty": "Hard",
+        "frequency": 92.3,
+        "acceptance": 0.005394257396880922,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/parse-lisp-expression"
+      },
+      {
+        "lcId": 680,
+        "title": "Valid Palindrome II",
+        "slug": "valid-palindrome-ii",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "acceptance": 0.00446133505896529,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome-ii"
+      },
+      {
+        "lcId": 724,
+        "title": "Find Pivot Index",
+        "slug": "find-pivot-index",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "acceptance": 0.006359815569948999,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/find-pivot-index"
+      },
+      {
+        "lcId": 34,
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "slug": "find-first-and-last-position-of-element-in-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 58.3,
+        "acceptance": 0.004950593660303967,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1209,
+        "title": "Remove All Adjacent Duplicates in String II",
+        "slug": "remove-all-adjacent-duplicates-in-string-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0061756783851957585,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "lcId": 736,
+        "title": "Parse Lisp Expression",
+        "slug": "parse-lisp-expression",
+        "difficulty": "Hard",
+        "frequency": 95.5,
+        "acceptance": 0.005394257396880922,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/parse-lisp-expression"
+      },
+      {
+        "lcId": 680,
+        "title": "Valid Palindrome II",
+        "slug": "valid-palindrome-ii",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "acceptance": 0.00446133505896529,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome-ii"
+      },
+      {
+        "lcId": 724,
+        "title": "Find Pivot Index",
+        "slug": "find-pivot-index",
+        "difficulty": "Easy",
+        "frequency": 65,
+        "acceptance": 0.006359815569948999,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/find-pivot-index"
+      },
+      {
+        "lcId": 34,
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "slug": "find-first-and-last-position-of-element-in-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 57.4,
+        "acceptance": 0.004950593660303967,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

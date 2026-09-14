@@ -1,0 +1,57 @@
+{
+  "name": "Cloudera",
+  "slug": "cloudera",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 476,
+        "title": "Number Complement",
+        "slug": "number-complement",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007053109242862149,
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/number-complement"
+      },
+      {
+        "lcId": 1009,
+        "title": "Complement of Base 10 Integer",
+        "slug": "complement-of-base-10-integer",
+        "difficulty": "Easy",
+        "frequency": 97.5,
+        "acceptance": 0.006341195170842446,
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/complement-of-base-10-integer"
+      },
+      {
+        "lcId": 1061,
+        "title": "Lexicographically Smallest Equivalent String",
+        "slug": "lexicographically-smallest-equivalent-string",
+        "difficulty": "Medium",
+        "frequency": 68.1,
+        "acceptance": 0.008108210630959803,
+        "topics": [
+          "String",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

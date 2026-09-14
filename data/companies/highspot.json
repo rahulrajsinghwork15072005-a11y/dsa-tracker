@@ -1,0 +1,49 @@
+{
+  "name": "Highspot",
+  "slug": "highspot",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 227,
+        "title": "Basic Calculator II",
+        "slug": "basic-calculator-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004708547618208222,
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 227,
+        "title": "Basic Calculator II",
+        "slug": "basic-calculator-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004708547618208222,
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

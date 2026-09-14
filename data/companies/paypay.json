@@ -1,0 +1,168 @@
+{
+  "name": "PayPay",
+  "slug": "paypay",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.005489181376629676,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 1584,
+        "title": "Min Cost to Connect All Points",
+        "slug": "min-cost-to-connect-all-points",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.007156210616738347,
+        "topics": [
+          "Array",
+          "Union-Find",
+          "Graph Theory",
+          "Minimum Spanning Tree",
+          "Prim's Algorithm",
+          "Kruskal's Algorithm",
+          "Borůvka's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/min-cost-to-connect-all-points"
+      },
+      {
+        "lcId": 2300,
+        "title": "Successful Pairs of Spells and Potions",
+        "slug": "successful-pairs-of-spells-and-potions",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.00498110765401369,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2264,
+        "title": "Largest 3-Same-Digit Number in String",
+        "slug": "largest-3-same-digit-number-in-string",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007266042166856903,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 77.2,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 67.8,
+        "acceptance": 0.005489181376629676,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 2300,
+        "title": "Successful Pairs of Spells and Potions",
+        "slug": "successful-pairs-of-spells-and-potions",
+        "difficulty": "Medium",
+        "frequency": 67.8,
+        "acceptance": 0.00498110765401369,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions"
+      },
+      {
+        "lcId": 1584,
+        "title": "Min Cost to Connect All Points",
+        "slug": "min-cost-to-connect-all-points",
+        "difficulty": "Medium",
+        "frequency": 67.8,
+        "acceptance": 0.007156210616738347,
+        "topics": [
+          "Array",
+          "Union-Find",
+          "Graph Theory",
+          "Minimum Spanning Tree",
+          "Prim's Algorithm",
+          "Kruskal's Algorithm",
+          "Borůvka's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/min-cost-to-connect-all-points"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 67.8,
+        "acceptance": 0.00572513154526733,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

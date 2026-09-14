@@ -1,0 +1,189 @@
+{
+  "name": "Zoox",
+  "slug": "zoox",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 6,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005725133789500735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 227,
+        "title": "Basic Calculator II",
+        "slug": "basic-calculator-ii",
+        "difficulty": "Medium",
+        "frequency": 72.3,
+        "acceptance": 0.004708546470297336,
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+      },
+      {
+        "lcId": 1419,
+        "title": "Minimum Number of Frogs Croaking",
+        "slug": "minimum-number-of-frogs-croaking",
+        "difficulty": "Medium",
+        "frequency": 64.3,
+        "acceptance": 0.005128255628909511,
+        "topics": [
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 64.3,
+        "acceptance": 0.005927631509613915,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 64.3,
+        "acceptance": 0.006060183350478085,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 149,
+        "title": "Max Points on a Line",
+        "slug": "max-points-on-a-line",
+        "difficulty": "Hard",
+        "frequency": 64.3,
+        "acceptance": 0.0031255363337593573,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Geometry",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/max-points-on-a-line"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005725133789500735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 227,
+        "title": "Basic Calculator II",
+        "slug": "basic-calculator-ii",
+        "difficulty": "Medium",
+        "frequency": 72.3,
+        "acceptance": 0.004708546470297336,
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+      },
+      {
+        "lcId": 1419,
+        "title": "Minimum Number of Frogs Croaking",
+        "slug": "minimum-number-of-frogs-croaking",
+        "difficulty": "Medium",
+        "frequency": 64.3,
+        "acceptance": 0.005128255628909511,
+        "topics": [
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 64.3,
+        "acceptance": 0.005927631509613915,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 64.3,
+        "acceptance": 0.006060183350478085,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 149,
+        "title": "Max Points on a Line",
+        "slug": "max-points-on-a-line",
+        "difficulty": "Hard",
+        "frequency": 64.3,
+        "acceptance": 0.0031255363337593573,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Geometry",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/max-points-on-a-line"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

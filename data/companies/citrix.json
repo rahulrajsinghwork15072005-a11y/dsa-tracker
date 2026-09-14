@@ -1,0 +1,76 @@
+{
+  "name": "Citrix",
+  "slug": "citrix",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 1992,
+        "title": "Find All Groups of Farmland",
+        "slug": "find-all-groups-of-farmland",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007547499739012423,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/find-all-groups-of-farmland"
+      },
+      {
+        "lcId": 2840,
+        "title": "Check if Strings Can be Made Equal With Operations II",
+        "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007414325208902814,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii"
+      },
+      {
+        "lcId": 2839,
+        "title": "Check if Strings Can be Made Equal With Operations I",
+        "slug": "check-if-strings-can-be-made-equal-with-operations-i",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006194472967543194,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i"
+      },
+      {
+        "lcId": 1383,
+        "title": "Maximum Performance of a Team",
+        "slug": "maximum-performance-of-a-team",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004808088592537988,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-performance-of-a-team"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

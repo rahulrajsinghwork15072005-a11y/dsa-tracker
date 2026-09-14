@@ -1,0 +1,64 @@
+{
+  "name": "Softwire",
+  "slug": "softwire",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038471143997938512,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1796,
+        "title": "Second Largest Digit in a String",
+        "slug": "second-largest-digit-in-a-string",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005511861457790609,
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/second-largest-digit-in-a-string"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "acceptance": 0.0038471143997938512,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

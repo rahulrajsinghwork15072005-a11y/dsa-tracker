@@ -1,0 +1,32 @@
+{
+  "name": "redbus",
+  "slug": "redbus",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 176,
+        "title": "Second Highest Salary",
+        "slug": "second-highest-salary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004798864905168074,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/second-highest-salary"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

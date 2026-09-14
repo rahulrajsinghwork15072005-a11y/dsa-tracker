@@ -1,0 +1,129 @@
+{
+  "name": "Trexquant",
+  "slug": "trexquant",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1432,
+        "title": "Max Difference You Can Get From Changing an Integer",
+        "slug": "max-difference-you-can-get-from-changing-an-integer",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004863295991316072,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.0066660050679582415,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.003969323310782407,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.005039601563705072,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1432,
+        "title": "Max Difference You Can Get From Changing an Integer",
+        "slug": "max-difference-you-can-get-from-changing-an-integer",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004863295991316072,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "acceptance": 0.0066660050679582415,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "acceptance": 0.003969323310782407,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "acceptance": 0.005039601563705072,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

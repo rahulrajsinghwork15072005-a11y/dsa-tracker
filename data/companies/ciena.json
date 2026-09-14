@@ -1,0 +1,86 @@
+{
+  "name": "ciena",
+  "slug": "ciena",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1454,
+        "title": "Active Users",
+        "slug": "active-users",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0036572007806708324,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/active-users"
+      },
+      {
+        "lcId": 2107,
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "slug": "number-of-unique-flavors-after-sharing-k-candies",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006235720114239086,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1454,
+        "title": "Active Users",
+        "slug": "active-users",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0036572007806708324,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/active-users"
+      },
+      {
+        "lcId": 2107,
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "slug": "number-of-unique-flavors-after-sharing-k-candies",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006235720114239086,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800952869674154,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

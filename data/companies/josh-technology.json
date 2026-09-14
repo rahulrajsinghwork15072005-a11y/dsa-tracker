@@ -1,0 +1,1066 @@
+{
+  "name": "josh technology",
+  "slug": "josh-technology",
+  "counts": {
+    "30d": 0,
+    "3m": 2,
+    "6m": 4,
+    "gt6m": 32,
+    "all": 36
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 179,
+        "title": "Largest Number",
+        "slug": "largest-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004358515792985559,
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/largest-number"
+      },
+      {
+        "lcId": 2074,
+        "title": "Reverse Nodes in Even Length Groups",
+        "slug": "reverse-nodes-in-even-length-groups",
+        "difficulty": "Medium",
+        "frequency": 74.7,
+        "acceptance": 0.006495238586137134,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 179,
+        "title": "Largest Number",
+        "slug": "largest-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004358515792985559,
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/largest-number"
+      },
+      {
+        "lcId": 1448,
+        "title": "Count Good Nodes in Binary Tree",
+        "slug": "count-good-nodes-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "acceptance": 0.007394893644820945,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "acceptance": 0.0047980053041721035,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 2074,
+        "title": "Reverse Nodes in Even Length Groups",
+        "slug": "reverse-nodes-in-even-length-groups",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "acceptance": 0.006495238586137134,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 179,
+        "title": "Largest Number",
+        "slug": "largest-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004358515792985559,
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/largest-number"
+      },
+      {
+        "lcId": 2130,
+        "title": "Maximum Twin Sum of a Linked List",
+        "slug": "maximum-twin-sum-of-a-linked-list",
+        "difficulty": "Medium",
+        "frequency": 83.6,
+        "acceptance": 0.008326421901251612,
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list"
+      },
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 79.3,
+        "acceptance": 0.006426546102342037,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 2074,
+        "title": "Reverse Nodes in Even Length Groups",
+        "slug": "reverse-nodes-in-even-length-groups",
+        "difficulty": "Medium",
+        "frequency": 79.3,
+        "acceptance": 0.006495238586137134,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 79.3,
+        "acceptance": 0.005762717036266193,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 2415,
+        "title": "Reverse Odd Levels of Binary Tree",
+        "slug": "reverse-odd-levels-of-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "acceptance": 0.008669438576987215,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree"
+      },
+      {
+        "lcId": 1325,
+        "title": "Delete Leaves With a Given Value",
+        "slug": "delete-leaves-with-a-given-value",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "acceptance": 0.00772027984248666,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/delete-leaves-with-a-given-value"
+      },
+      {
+        "lcId": 2824,
+        "title": "Count Pairs Whose Sum is Less than Target",
+        "slug": "count-pairs-whose-sum-is-less-than-target",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.008765101000647459,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target"
+      },
+      {
+        "lcId": 513,
+        "title": "Find Bottom Left Tree Value",
+        "slug": "find-bottom-left-tree-value",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.007252440130308803,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/find-bottom-left-tree-value"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.005039602774760288,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 402,
+        "title": "Remove K Digits",
+        "slug": "remove-k-digits",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.0037491044126562404,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-k-digits"
+      },
+      {
+        "lcId": 739,
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.006905699206520654,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/daily-temperatures"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.007312908556871405,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.006874758597486442,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 1315,
+        "title": "Sum of Nodes with Even-Valued Grandparent",
+        "slug": "sum-of-nodes-with-even-valued-grandparent",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.008598616074270074,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent"
+      },
+      {
+        "lcId": 328,
+        "title": "Odd Even Linked List",
+        "slug": "odd-even-linked-list",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.006273145796104754,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/odd-even-linked-list"
+      },
+      {
+        "lcId": 61,
+        "title": "Rotate List",
+        "slug": "rotate-list",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.004311411434125115,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-list"
+      },
+      {
+        "lcId": 2134,
+        "title": "Minimum Swaps to Group All 1's Together II",
+        "slug": "minimum-swaps-to-group-all-1s-together-ii",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.0065722497378981224,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 57.7,
+        "acceptance": 0.006696564159240927,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 1448,
+        "title": "Count Good Nodes in Binary Tree",
+        "slug": "count-good-nodes-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.007394893644820945,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree"
+      },
+      {
+        "lcId": 226,
+        "title": "Invert Binary Tree",
+        "slug": "invert-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 57.7,
+        "acceptance": 0.008036553572345307,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/invert-binary-tree"
+      },
+      {
+        "lcId": 1026,
+        "title": "Maximum Difference Between Node and Ancestor",
+        "slug": "maximum-difference-between-node-and-ancestor",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.007823411696870182,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor"
+      },
+      {
+        "lcId": 84,
+        "title": "Largest Rectangle in Histogram",
+        "slug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard",
+        "frequency": 57.7,
+        "acceptance": 0.005066394738196059,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+      },
+      {
+        "lcId": 114,
+        "title": "Flatten Binary Tree to Linked List",
+        "slug": "flatten-binary-tree-to-linked-list",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.007132475123270055,
+        "topics": [
+          "Linked List",
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+      },
+      {
+        "lcId": 19,
+        "title": "Remove Nth Node From End of List",
+        "slug": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.005239160871437336,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+      },
+      {
+        "lcId": 132,
+        "title": "Palindrome Partitioning II",
+        "slug": "palindrome-partitioning-ii",
+        "difficulty": "Hard",
+        "frequency": 57.7,
+        "acceptance": 0.0037742719278992566,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindrome-partitioning-ii"
+      },
+      {
+        "lcId": 617,
+        "title": "Merge Two Binary Trees",
+        "slug": "merge-two-binary-trees",
+        "difficulty": "Easy",
+        "frequency": 57.7,
+        "acceptance": 0.007914596999620434,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-binary-trees"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.004546233546369227,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 515,
+        "title": "Find Largest Value in Each Tree Row",
+        "slug": "find-largest-value-in-each-tree-row",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.006637039112586772,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row"
+      },
+      {
+        "lcId": 463,
+        "title": "Island Perimeter",
+        "slug": "island-perimeter",
+        "difficulty": "Easy",
+        "frequency": 57.7,
+        "acceptance": 0.007432079642392341,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/island-perimeter"
+      },
+      {
+        "lcId": 70,
+        "title": "Climbing Stairs",
+        "slug": "climbing-stairs",
+        "difficulty": "Easy",
+        "frequency": 57.7,
+        "acceptance": 0.0054281347800753275,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/climbing-stairs"
+      },
+      {
+        "lcId": 962,
+        "title": "Maximum Width Ramp",
+        "slug": "maximum-width-ramp",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.0055930835644557265,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/maximum-width-ramp"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 179,
+        "title": "Largest Number",
+        "slug": "largest-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004358515792985559,
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/largest-number"
+      },
+      {
+        "lcId": 2074,
+        "title": "Reverse Nodes in Even Length Groups",
+        "slug": "reverse-nodes-in-even-length-groups",
+        "difficulty": "Medium",
+        "frequency": 79.1,
+        "acceptance": 0.006495238586137134,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+      },
+      {
+        "lcId": 2130,
+        "title": "Maximum Twin Sum of a Linked List",
+        "slug": "maximum-twin-sum-of-a-linked-list",
+        "difficulty": "Medium",
+        "frequency": 75.7,
+        "acceptance": 0.008326421901251612,
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list"
+      },
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 71.7,
+        "acceptance": 0.006426546102342037,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 2415,
+        "title": "Reverse Odd Levels of Binary Tree",
+        "slug": "reverse-odd-levels-of-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 71.7,
+        "acceptance": 0.008669438576987215,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 71.7,
+        "acceptance": 0.005762717036266193,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 513,
+        "title": "Find Bottom Left Tree Value",
+        "slug": "find-bottom-left-tree-value",
+        "difficulty": "Medium",
+        "frequency": 66.7,
+        "acceptance": 0.007252440130308803,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/find-bottom-left-tree-value"
+      },
+      {
+        "lcId": 1448,
+        "title": "Count Good Nodes in Binary Tree",
+        "slug": "count-good-nodes-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 66.7,
+        "acceptance": 0.007394893644820945,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree"
+      },
+      {
+        "lcId": 1325,
+        "title": "Delete Leaves With a Given Value",
+        "slug": "delete-leaves-with-a-given-value",
+        "difficulty": "Medium",
+        "frequency": 66.7,
+        "acceptance": 0.00772027984248666,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/delete-leaves-with-a-given-value"
+      },
+      {
+        "lcId": 2824,
+        "title": "Count Pairs Whose Sum is Less than Target",
+        "slug": "count-pairs-whose-sum-is-less-than-target",
+        "difficulty": "Easy",
+        "frequency": 60.4,
+        "acceptance": 0.008765101000647459,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 60.4,
+        "acceptance": 0.006696564159240927,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 402,
+        "title": "Remove K Digits",
+        "slug": "remove-k-digits",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.0037491044126562404,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-k-digits"
+      },
+      {
+        "lcId": 739,
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.006905699206520654,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/daily-temperatures"
+      },
+      {
+        "lcId": 1026,
+        "title": "Maximum Difference Between Node and Ancestor",
+        "slug": "maximum-difference-between-node-and-ancestor",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.007823411696870182,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.007312908556871405,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.005039602774760288,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 617,
+        "title": "Merge Two Binary Trees",
+        "slug": "merge-two-binary-trees",
+        "difficulty": "Easy",
+        "frequency": 60.4,
+        "acceptance": 0.007914596999620434,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-binary-trees"
+      },
+      {
+        "lcId": 1315,
+        "title": "Sum of Nodes with Even-Valued Grandparent",
+        "slug": "sum-of-nodes-with-even-valued-grandparent",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.008598616074270074,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 60.4,
+        "acceptance": 0.006874758597486442,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 328,
+        "title": "Odd Even Linked List",
+        "slug": "odd-even-linked-list",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.006273145796104754,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/odd-even-linked-list"
+      },
+      {
+        "lcId": 61,
+        "title": "Rotate List",
+        "slug": "rotate-list",
+        "difficulty": "Medium",
+        "frequency": 60.4,
+        "acceptance": 0.004311411434125115,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-list"
+      },
+      {
+        "lcId": 463,
+        "title": "Island Perimeter",
+        "slug": "island-perimeter",
+        "difficulty": "Easy",
+        "frequency": 60.4,
+        "acceptance": 0.007432079642392341,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/island-perimeter"
+      },
+      {
+        "lcId": 2134,
+        "title": "Minimum Swaps to Group All 1's Together II",
+        "slug": "minimum-swaps-to-group-all-1s-together-ii",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.0065722497378981224,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii"
+      },
+      {
+        "lcId": 226,
+        "title": "Invert Binary Tree",
+        "slug": "invert-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 51.5,
+        "acceptance": 0.008036553572345307,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/invert-binary-tree"
+      },
+      {
+        "lcId": 114,
+        "title": "Flatten Binary Tree to Linked List",
+        "slug": "flatten-binary-tree-to-linked-list",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.007132475123270055,
+        "topics": [
+          "Linked List",
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+      },
+      {
+        "lcId": 19,
+        "title": "Remove Nth Node From End of List",
+        "slug": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.005239160871437336,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+      },
+      {
+        "lcId": 132,
+        "title": "Palindrome Partitioning II",
+        "slug": "palindrome-partitioning-ii",
+        "difficulty": "Hard",
+        "frequency": 51.5,
+        "acceptance": 0.0037742719278992566,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindrome-partitioning-ii"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.004546233546369227,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 515,
+        "title": "Find Largest Value in Each Tree Row",
+        "slug": "find-largest-value-in-each-tree-row",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.006637039112586772,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row"
+      },
+      {
+        "lcId": 84,
+        "title": "Largest Rectangle in Histogram",
+        "slug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard",
+        "frequency": 51.5,
+        "acceptance": 0.005066394738196059,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+      },
+      {
+        "lcId": 70,
+        "title": "Climbing Stairs",
+        "slug": "climbing-stairs",
+        "difficulty": "Easy",
+        "frequency": 51.5,
+        "acceptance": 0.0054281347800753275,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/climbing-stairs"
+      },
+      {
+        "lcId": 929,
+        "title": "Unique Email Addresses",
+        "slug": "unique-email-addresses",
+        "difficulty": "Easy",
+        "frequency": 51.5,
+        "acceptance": 0.006796223801528317,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/unique-email-addresses"
+      },
+      {
+        "lcId": 102,
+        "title": "Binary Tree Level Order Traversal",
+        "slug": "binary-tree-level-order-traversal",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.0073290075582113255,
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.0047980053041721035,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 863,
+        "title": "All Nodes Distance K in Binary Tree",
+        "slug": "all-nodes-distance-k-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.006800109031268344,
+        "topics": [
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+      },
+      {
+        "lcId": 962,
+        "title": "Maximum Width Ramp",
+        "slug": "maximum-width-ramp",
+        "difficulty": "Medium",
+        "frequency": 51.5,
+        "acceptance": 0.0055930835644557265,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/maximum-width-ramp"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

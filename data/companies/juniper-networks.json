@@ -1,0 +1,47 @@
+{
+  "name": "Juniper Networks",
+  "slug": "juniper-networks",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 39,
+        "title": "Combination Sum",
+        "slug": "combination-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00770061245396201,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/combination-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 39,
+        "title": "Combination Sum",
+        "slug": "combination-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00770061245396201,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/combination-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,145 @@
+{
+  "name": "HP",
+  "slug": "hp",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2379,
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006893891692102655,
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks"
+      },
+      {
+        "lcId": 2087,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium",
+        "frequency": 91,
+        "acceptance": 0.005186240939982271,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+      },
+      {
+        "lcId": 409,
+        "title": "Longest Palindrome",
+        "slug": "longest-palindrome",
+        "difficulty": "Easy",
+        "frequency": 75.5,
+        "acceptance": 0.0056173830777073415,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindrome"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 75.5,
+        "acceptance": 0.004472561161448614,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2379,
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006893891692102655,
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks"
+      },
+      {
+        "lcId": 2087,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium",
+        "frequency": 90.8,
+        "acceptance": 0.005186240939982271,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 84.3,
+        "acceptance": 0.004472561161448614,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 409,
+        "title": "Longest Palindrome",
+        "slug": "longest-palindrome",
+        "difficulty": "Easy",
+        "frequency": 75.2,
+        "acceptance": 0.0056173830777073415,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindrome"
+      },
+      {
+        "lcId": 678,
+        "title": "Valid Parenthesis String",
+        "slug": "valid-parenthesis-string",
+        "difficulty": "Medium",
+        "frequency": 75.2,
+        "acceptance": 0.004040380274685337,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parenthesis-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

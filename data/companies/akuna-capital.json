@@ -1,0 +1,310 @@
+{
+  "name": "Akuna Capital",
+  "slug": "akuna-capital",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 17
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2497,
+        "title": "Maximum Star Sum of a Graph",
+        "slug": "maximum-star-sum-of-a-graph",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004269174735376404,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph"
+      },
+      {
+        "lcId": 1192,
+        "title": "Critical Connections in a Network",
+        "slug": "critical-connections-in-a-network",
+        "difficulty": "Hard",
+        "frequency": 82.6,
+        "acceptance": 0.006037170676740863,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory",
+          "Biconnected Component",
+          "Bridge (Graph)"
+        ],
+        "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1177,
+        "title": "Can Make Palindrome from Substring",
+        "slug": "can-make-palindrome-from-substring",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004212371455282019,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Bit Manipulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/can-make-palindrome-from-substring"
+      },
+      {
+        "lcId": 677,
+        "title": "Map Sum Pairs",
+        "slug": "map-sum-pairs",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "acceptance": 0.005734100495031959,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/map-sum-pairs"
+      },
+      {
+        "lcId": 740,
+        "title": "Delete and Earn",
+        "slug": "delete-and-earn",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "acceptance": 0.005747823715420847,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/delete-and-earn"
+      },
+      {
+        "lcId": 741,
+        "title": "Cherry Pickup",
+        "slug": "cherry-pickup",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.004027049213150202,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/cherry-pickup"
+      },
+      {
+        "lcId": 743,
+        "title": "Network Delay Time",
+        "slug": "network-delay-time",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "acceptance": 0.006135669934181815,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path",
+          "Dijkstra's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/network-delay-time"
+      },
+      {
+        "lcId": 1649,
+        "title": "Create Sorted Array through Instructions",
+        "slug": "create-sorted-array-through-instructions",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.0042289478590516435,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Merge Sort",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/create-sorted-array-through-instructions"
+      },
+      {
+        "lcId": 1665,
+        "title": "Minimum Initial Energy to Finish Tasks",
+        "slug": "minimum-initial-energy-to-finish-tasks",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.007651235631973123,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks"
+      },
+      {
+        "lcId": 1425,
+        "title": "Constrained Subsequence Sum",
+        "slug": "constrained-subsequence-sum",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.005646144036274753,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/constrained-subsequence-sum"
+      },
+      {
+        "lcId": 1223,
+        "title": "Dice Roll Simulation",
+        "slug": "dice-roll-simulation",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.005121795871678885,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/dice-roll-simulation"
+      },
+      {
+        "lcId": 1819,
+        "title": "Number of Different Subsequences GCDs",
+        "slug": "number-of-different-subsequences-gcds",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.004682897021933492,
+        "topics": [
+          "Array",
+          "Math",
+          "Counting",
+          "Number Theory",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds"
+      },
+      {
+        "lcId": 1319,
+        "title": "Number of Operations to Make Network Connected",
+        "slug": "number-of-operations-to-make-network-connected",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "acceptance": 0.006714832158007217,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+      },
+      {
+        "lcId": 1326,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.005106344306636353,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+      },
+      {
+        "lcId": 1338,
+        "title": "Reduce Array Size to The Half",
+        "slug": "reduce-array-size-to-the-half",
+        "difficulty": "Medium",
+        "frequency": 97,
+        "acceptance": 0.006942578347082506,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/reduce-array-size-to-the-half"
+      },
+      {
+        "lcId": 1370,
+        "title": "Increasing Decreasing String",
+        "slug": "increasing-decreasing-string",
+        "difficulty": "Easy",
+        "frequency": 97,
+        "acceptance": 0.007732677450507002,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/increasing-decreasing-string"
+      },
+      {
+        "lcId": 2497,
+        "title": "Maximum Star Sum of a Graph",
+        "slug": "maximum-star-sum-of-a-graph",
+        "difficulty": "Medium",
+        "frequency": 85.2,
+        "acceptance": 0.004269174735376404,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph"
+      },
+      {
+        "lcId": 1192,
+        "title": "Critical Connections in a Network",
+        "slug": "critical-connections-in-a-network",
+        "difficulty": "Hard",
+        "frequency": 62.1,
+        "acceptance": 0.006037170676740863,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory",
+          "Biconnected Component",
+          "Bridge (Graph)"
+        ],
+        "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+      },
+      {
+        "lcId": 2904,
+        "title": "Shortest and Lexicographically Smallest Beautiful String",
+        "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+        "difficulty": "Medium",
+        "frequency": 62.1,
+        "acceptance": 0.004117452908032157,
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,921 @@
+{
+  "name": "Netflix",
+  "slug": "netflix",
+  "counts": {
+    "30d": 0,
+    "3m": 2,
+    "6m": 7,
+    "gt6m": 23,
+    "all": 29
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 2622,
+        "title": "Cache With Time Limit",
+        "slug": "cache-with-time-limit",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007630870705638099,
+        "topics": [],
+        "link": "https://leetcode.com/problems/cache-with-time-limit"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 83.7,
+        "acceptance": 0.005012842914836446,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2622,
+        "title": "Cache With Time Limit",
+        "slug": "cache-with-time-limit",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007630870705638099,
+        "topics": [],
+        "link": "https://leetcode.com/problems/cache-with-time-limit"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 90.1,
+        "acceptance": 0.005012842914836446,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 90.1,
+        "acceptance": 0.005608808202271377,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 83.1,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 1136,
+        "title": "Parallel Courses",
+        "slug": "parallel-courses",
+        "difficulty": "Medium",
+        "frequency": 83.1,
+        "acceptance": 0.0062360854065326935,
+        "topics": [
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/parallel-courses"
+      },
+      {
+        "lcId": 8,
+        "title": "String to Integer (atoi)",
+        "slug": "string-to-integer-atoi",
+        "difficulty": "Medium",
+        "frequency": 73.2,
+        "acceptance": 0.0021567208965441054,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+      },
+      {
+        "lcId": 220,
+        "title": "Contains Duplicate III",
+        "slug": "contains-duplicate-iii",
+        "difficulty": "Hard",
+        "frequency": 73.2,
+        "acceptance": 0.002508750925706753,
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Sorting",
+          "Bucket Sort",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate-iii"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 2622,
+        "title": "Cache With Time Limit",
+        "slug": "cache-with-time-limit",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007630870705638099,
+        "topics": [],
+        "link": "https://leetcode.com/problems/cache-with-time-limit"
+      },
+      {
+        "lcId": 332,
+        "title": "Reconstruct Itinerary",
+        "slug": "reconstruct-itinerary",
+        "difficulty": "Hard",
+        "frequency": 96,
+        "acceptance": 0.004489977329533721,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Eulerian Circuit",
+          "Eulerian Path",
+          "Semi-Eulerian Graph"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-itinerary"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 91.2,
+        "acceptance": 0.005277669191732435,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 91.2,
+        "acceptance": 0.007688323322346132,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 91.2,
+        "acceptance": 0.005012842914836446,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 91.2,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 220,
+        "title": "Contains Duplicate III",
+        "slug": "contains-duplicate-iii",
+        "difficulty": "Hard",
+        "frequency": 91.2,
+        "acceptance": 0.002508750925706753,
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Sorting",
+          "Bucket Sort",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate-iii"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.005257651100699819,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 85.2,
+        "acceptance": 0.005608808202271377,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      },
+      {
+        "lcId": 219,
+        "title": "Contains Duplicate II",
+        "slug": "contains-duplicate-ii",
+        "difficulty": "Easy",
+        "frequency": 77.1,
+        "acceptance": 0.005178512447791841,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate-ii"
+      },
+      {
+        "lcId": 743,
+        "title": "Network Delay Time",
+        "slug": "network-delay-time",
+        "difficulty": "Medium",
+        "frequency": 77.1,
+        "acceptance": 0.0061357168148367894,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path",
+          "Dijkstra's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/network-delay-time"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 77.1,
+        "acceptance": 0.004794694566253784,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 1136,
+        "title": "Parallel Courses",
+        "slug": "parallel-courses",
+        "difficulty": "Medium",
+        "frequency": 77.1,
+        "acceptance": 0.0062360854065326935,
+        "topics": [
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/parallel-courses"
+      },
+      {
+        "lcId": 41,
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive",
+        "difficulty": "Hard",
+        "frequency": 71.8,
+        "acceptance": 0.0043542924641683575,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/first-missing-positive"
+      },
+      {
+        "lcId": 228,
+        "title": "Summary Ranges",
+        "slug": "summary-ranges",
+        "difficulty": "Easy",
+        "frequency": 71.8,
+        "acceptance": 0.005461922682779337,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/summary-ranges"
+      },
+      {
+        "lcId": 217,
+        "title": "Contains Duplicate",
+        "slug": "contains-duplicate",
+        "difficulty": "Easy",
+        "frequency": 71.8,
+        "acceptance": 0.006462908251312051,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 64.9,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 64.9,
+        "acceptance": 0.006713897544786601,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 64.9,
+        "acceptance": 0.004977880519578815,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 64.9,
+        "acceptance": 0.005039594537339528,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 8,
+        "title": "String to Integer (atoi)",
+        "slug": "string-to-integer-atoi",
+        "difficulty": "Medium",
+        "frequency": 64.9,
+        "acceptance": 0.0021567208965441054,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+      },
+      {
+        "lcId": 904,
+        "title": "Fruit Into Baskets",
+        "slug": "fruit-into-baskets",
+        "difficulty": "Medium",
+        "frequency": 55.3,
+        "acceptance": 0.005215364637875424,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/fruit-into-baskets"
+      },
+      {
+        "lcId": 797,
+        "title": "All Paths From Source to Target",
+        "slug": "all-paths-from-source-to-target",
+        "difficulty": "Medium",
+        "frequency": 55.3,
+        "acceptance": 0.008377105584081028,
+        "topics": [
+          "Backtracking",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/all-paths-from-source-to-target"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2622,
+        "title": "Cache With Time Limit",
+        "slug": "cache-with-time-limit",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007630870705638099,
+        "topics": [],
+        "link": "https://leetcode.com/problems/cache-with-time-limit"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 91.5,
+        "acceptance": 0.005012842914836446,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 89.7,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.005608808202271377,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      },
+      {
+        "lcId": 332,
+        "title": "Reconstruct Itinerary",
+        "slug": "reconstruct-itinerary",
+        "difficulty": "Hard",
+        "frequency": 87.7,
+        "acceptance": 0.004489977329533721,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Eulerian Circuit",
+          "Eulerian Path",
+          "Semi-Eulerian Graph"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-itinerary"
+      },
+      {
+        "lcId": 220,
+        "title": "Contains Duplicate III",
+        "slug": "contains-duplicate-iii",
+        "difficulty": "Hard",
+        "frequency": 87.7,
+        "acceptance": 0.002508750925706753,
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Sorting",
+          "Bucket Sort",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate-iii"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 85.5,
+        "acceptance": 0.005277669191732435,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 85.5,
+        "acceptance": 0.007688323322346132,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 83.2,
+        "acceptance": 0.005257651100699819,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 1136,
+        "title": "Parallel Courses",
+        "slug": "parallel-courses",
+        "difficulty": "Medium",
+        "frequency": 80.5,
+        "acceptance": 0.0062360854065326935,
+        "topics": [
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/parallel-courses"
+      },
+      {
+        "lcId": 219,
+        "title": "Contains Duplicate II",
+        "slug": "contains-duplicate-ii",
+        "difficulty": "Easy",
+        "frequency": 74.1,
+        "acceptance": 0.005178512447791841,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate-ii"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.004794694566253784,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 743,
+        "title": "Network Delay Time",
+        "slug": "network-delay-time",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.0061357168148367894,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path",
+          "Dijkstra's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/network-delay-time"
+      },
+      {
+        "lcId": 217,
+        "title": "Contains Duplicate",
+        "slug": "contains-duplicate",
+        "difficulty": "Easy",
+        "frequency": 70,
+        "acceptance": 0.006462908251312051,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate"
+      },
+      {
+        "lcId": 8,
+        "title": "String to Integer (atoi)",
+        "slug": "string-to-integer-atoi",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.0021567208965441054,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+      },
+      {
+        "lcId": 41,
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive",
+        "difficulty": "Hard",
+        "frequency": 64.9,
+        "acceptance": 0.0043542924641683575,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/first-missing-positive"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 64.9,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 228,
+        "title": "Summary Ranges",
+        "slug": "summary-ranges",
+        "difficulty": "Easy",
+        "frequency": 64.9,
+        "acceptance": 0.005461922682779337,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/summary-ranges"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 58.5,
+        "acceptance": 0.006713897544786601,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 58.5,
+        "acceptance": 0.004977880519578815,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 58.5,
+        "acceptance": 0.005039594537339528,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 904,
+        "title": "Fruit Into Baskets",
+        "slug": "fruit-into-baskets",
+        "difficulty": "Medium",
+        "frequency": 49.4,
+        "acceptance": 0.005215364637875424,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/fruit-into-baskets"
+      },
+      {
+        "lcId": 797,
+        "title": "All Paths From Source to Target",
+        "slug": "all-paths-from-source-to-target",
+        "difficulty": "Medium",
+        "frequency": 49.4,
+        "acceptance": 0.008377105584081028,
+        "topics": [
+          "Backtracking",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/all-paths-from-source-to-target"
+      },
+      {
+        "lcId": 718,
+        "title": "Maximum Length of Repeated Subarray",
+        "slug": "maximum-length-of-repeated-subarray",
+        "difficulty": "Medium",
+        "frequency": 49.4,
+        "acceptance": 0.005153868993458293,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sliding Window",
+          "Rolling Hash",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+      },
+      {
+        "lcId": 1146,
+        "title": "Snapshot Array",
+        "slug": "snapshot-array",
+        "difficulty": "Medium",
+        "frequency": 49.4,
+        "acceptance": 0.0036804521594194805,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design",
+          "Persistent Data Structure"
+        ],
+        "link": "https://leetcode.com/problems/snapshot-array"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 49.4,
+        "acceptance": 0.005002959336524059,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      },
+      {
+        "lcId": 162,
+        "title": "Find Peak Element",
+        "slug": "find-peak-element",
+        "difficulty": "Medium",
+        "frequency": 49.4,
+        "acceptance": 0.004714060871000334,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-peak-element"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 49.4,
+        "acceptance": 0.00685325182319983,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 642,
+        "title": "Design Search Autocomplete System",
+        "slug": "design-search-autocomplete-system",
+        "difficulty": "Hard",
+        "frequency": 49.4,
+        "acceptance": 0.0050057343632813976,
+        "topics": [
+          "String",
+          "Depth-First Search",
+          "Design",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-search-autocomplete-system"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

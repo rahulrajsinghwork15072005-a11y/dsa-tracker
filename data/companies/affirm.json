@@ -1,0 +1,310 @@
+{
+  "name": "Affirm",
+  "slug": "affirm",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 9,
+    "all": 10
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0055486583995054475,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 3076,
+        "title": "Shortest Uncommon Substring in an Array",
+        "slug": "shortest-uncommon-substring-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 86.5,
+        "acceptance": 0.00508818239457578,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 70.7,
+        "acceptance": 0.007312852709282173,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 381,
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+        "difficulty": "Hard",
+        "frequency": 70.7,
+        "acceptance": 0.0036895060732996072,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 63.2,
+        "acceptance": 0.006974254642154143,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 63.2,
+        "acceptance": 0.006060080317898665,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 63.2,
+        "acceptance": 0.006853215114815539,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 322,
+        "title": "Coin Change",
+        "slug": "coin-change",
+        "difficulty": "Medium",
+        "frequency": 57.8,
+        "acceptance": 0.004897299461902748,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change"
+      },
+      {
+        "lcId": 465,
+        "title": "Optimal Account Balancing",
+        "slug": "optimal-account-balancing",
+        "difficulty": "Hard",
+        "frequency": 50.3,
+        "acceptance": 0.005061682275094789,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/optimal-account-balancing"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0055486583995054475,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 3076,
+        "title": "Shortest Uncommon Substring in an Array",
+        "slug": "shortest-uncommon-substring-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 86.3,
+        "acceptance": 0.00508818239457578,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+      },
+      {
+        "lcId": 736,
+        "title": "Parse Lisp Expression",
+        "slug": "parse-lisp-expression",
+        "difficulty": "Hard",
+        "frequency": 75.7,
+        "acceptance": 0.005394257396880922,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/parse-lisp-expression"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 70.3,
+        "acceptance": 0.007312852709282173,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 381,
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+        "difficulty": "Hard",
+        "frequency": 70.3,
+        "acceptance": 0.0036895060732996072,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 62.7,
+        "acceptance": 0.006974254642154143,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 62.7,
+        "acceptance": 0.006060080317898665,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 62.7,
+        "acceptance": 0.006853215114815539,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 322,
+        "title": "Coin Change",
+        "slug": "coin-change",
+        "difficulty": "Medium",
+        "frequency": 57.2,
+        "acceptance": 0.004897299461902748,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change"
+      },
+      {
+        "lcId": 465,
+        "title": "Optimal Account Balancing",
+        "slug": "optimal-account-balancing",
+        "difficulty": "Hard",
+        "frequency": 49.6,
+        "acceptance": 0.005061682275094789,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/optimal-account-balancing"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

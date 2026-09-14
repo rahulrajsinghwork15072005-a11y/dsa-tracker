@@ -1,0 +1,62 @@
+{
+  "name": "PubMatic",
+  "slug": "pubmatic",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006064829793750836,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006064829793750836,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 188,
+        "title": "Best Time to Buy and Sell Stock IV",
+        "slug": "best-time-to-buy-and-sell-stock-iv",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005104145455324896,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

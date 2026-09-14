@@ -1,0 +1,150 @@
+{
+  "name": "Chime",
+  "slug": "chime",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 2,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 739,
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006905662988356332,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/daily-temperatures"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1472,
+        "title": "Design Browser History",
+        "slug": "design-browser-history",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007844289892866441,
+        "topics": [
+          "Array",
+          "Linked List",
+          "Stack",
+          "Design",
+          "Doubly-Linked List",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-browser-history"
+      },
+      {
+        "lcId": 739,
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures",
+        "difficulty": "Medium",
+        "frequency": 74.6,
+        "acceptance": 0.006905662988356332,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/daily-temperatures"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1472,
+        "title": "Design Browser History",
+        "slug": "design-browser-history",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007844289892866441,
+        "topics": [
+          "Array",
+          "Linked List",
+          "Stack",
+          "Design",
+          "Doubly-Linked List",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-browser-history"
+      },
+      {
+        "lcId": 2101,
+        "title": "Detonate the Maximum Bombs",
+        "slug": "detonate-the-maximum-bombs",
+        "difficulty": "Medium",
+        "frequency": 97.1,
+        "acceptance": 0.0050379069262269805,
+        "topics": [
+          "Array",
+          "Math",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Geometry"
+        ],
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1472,
+        "title": "Design Browser History",
+        "slug": "design-browser-history",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007844289892866441,
+        "topics": [
+          "Array",
+          "Linked List",
+          "Stack",
+          "Design",
+          "Doubly-Linked List",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-browser-history"
+      },
+      {
+        "lcId": 2101,
+        "title": "Detonate the Maximum Bombs",
+        "slug": "detonate-the-maximum-bombs",
+        "difficulty": "Medium",
+        "frequency": 85.1,
+        "acceptance": 0.0050379069262269805,
+        "topics": [
+          "Array",
+          "Math",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Geometry"
+        ],
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+      },
+      {
+        "lcId": 739,
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures",
+        "difficulty": "Medium",
+        "frequency": 68.5,
+        "acceptance": 0.006905662988356332,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/daily-temperatures"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

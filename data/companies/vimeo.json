@@ -1,0 +1,205 @@
+{
+  "name": "Vimeo",
+  "slug": "vimeo",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 6,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1042,
+        "title": "Flower Planting With No Adjacent",
+        "slug": "flower-planting-with-no-adjacent",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0054154542193167775,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Graph Coloring"
+        ],
+        "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00537354766773175,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003969325456585282,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786900551133637,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005855048421020332,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472570758542255,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1803,
+        "title": "Count Pairs With XOR in a Range",
+        "slug": "count-pairs-with-xor-in-a-range",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004664383561643836,
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range"
+      },
+      {
+        "lcId": 1042,
+        "title": "Flower Planting With No Adjacent",
+        "slug": "flower-planting-with-no-adjacent",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.0054154542193167775,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Graph Coloring"
+        ],
+        "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.00537354766773175,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.003969325456585282,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.004786900551133637,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.005855048421020332,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 70,
+        "acceptance": 0.004472570758542255,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

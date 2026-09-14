@@ -1,0 +1,200 @@
+{
+  "name": "Urban Company",
+  "slug": "urban-company",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 5,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 417,
+        "title": "Pacific Atlantic Water Flow",
+        "slug": "pacific-atlantic-water-flow",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0061343298231028584,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 88.9,
+        "acceptance": 0.006802854934685826,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 135,
+        "title": "Candy",
+        "slug": "candy",
+        "difficulty": "Hard",
+        "frequency": 88.9,
+        "acceptance": 0.004904719917628917,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/candy"
+      },
+      {
+        "lcId": 162,
+        "title": "Find Peak Element",
+        "slug": "find-peak-element",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.004714061708087774,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-peak-element"
+      },
+      {
+        "lcId": 1653,
+        "title": "Minimum Deletions to Make String Balanced",
+        "slug": "minimum-deletions-to-make-string-balanced",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.006815874002694022,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 417,
+        "title": "Pacific Atlantic Water Flow",
+        "slug": "pacific-atlantic-water-flow",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0061343298231028584,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow"
+      },
+      {
+        "lcId": 135,
+        "title": "Candy",
+        "slug": "candy",
+        "difficulty": "Hard",
+        "frequency": 88.8,
+        "acceptance": 0.004904719917628917,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/candy"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 88.8,
+        "acceptance": 0.006802854934685826,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 162,
+        "title": "Find Peak Element",
+        "slug": "find-peak-element",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.004714061708087774,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-peak-element"
+      },
+      {
+        "lcId": 1653,
+        "title": "Minimum Deletions to Make String Balanced",
+        "slug": "minimum-deletions-to-make-string-balanced",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.006815874002694022,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.006450741323946335,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      },
+      {
+        "lcId": 1838,
+        "title": "Frequency of the Most Frequent Element",
+        "slug": "frequency-of-the-most-frequent-element",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.004512506450952909,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sliding Window",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

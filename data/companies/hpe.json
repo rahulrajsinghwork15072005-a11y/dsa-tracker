@@ -1,0 +1,131 @@
+{
+  "name": "HPE",
+  "slug": "hpe",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00687474806884603,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 70,
+        "title": "Climbing Stairs",
+        "slug": "climbing-stairs",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005428138437253181,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/climbing-stairs"
+      },
+      {
+        "lcId": 39,
+        "title": "Combination Sum",
+        "slug": "combination-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007700611045947865,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/combination-sum"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038471108019715737,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00687474806884603,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 39,
+        "title": "Combination Sum",
+        "slug": "combination-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007700611045947865,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/combination-sum"
+      },
+      {
+        "lcId": 70,
+        "title": "Climbing Stairs",
+        "slug": "climbing-stairs",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005428138437253181,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/climbing-stairs"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038471108019715737,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

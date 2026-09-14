@@ -1,0 +1,225 @@
+{
+  "name": "Teradata",
+  "slug": "teradata",
+  "counts": {
+    "30d": 2,
+    "3m": 2,
+    "6m": 2,
+    "gt6m": 2,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 2528,
+        "title": "Maximize the Minimum Powered City",
+        "slug": "maximize-the-minimum-powered-city",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00614006428369596,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Queue",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+      },
+      {
+        "lcId": 1402,
+        "title": "Reducing Dishes",
+        "slug": "reducing-dishes",
+        "difficulty": "Hard",
+        "frequency": 71.9,
+        "acceptance": 0.007681388138654052,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/reducing-dishes"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 2528,
+        "title": "Maximize the Minimum Powered City",
+        "slug": "maximize-the-minimum-powered-city",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00614006428369596,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Queue",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+      },
+      {
+        "lcId": 1402,
+        "title": "Reducing Dishes",
+        "slug": "reducing-dishes",
+        "difficulty": "Hard",
+        "frequency": 71.9,
+        "acceptance": 0.007681388138654052,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/reducing-dishes"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2528,
+        "title": "Maximize the Minimum Powered City",
+        "slug": "maximize-the-minimum-powered-city",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00614006428369596,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Queue",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+      },
+      {
+        "lcId": 1402,
+        "title": "Reducing Dishes",
+        "slug": "reducing-dishes",
+        "difficulty": "Hard",
+        "frequency": 71.3,
+        "acceptance": 0.007681388138654052,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/reducing-dishes"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 546,
+        "title": "Remove Boxes",
+        "slug": "remove-boxes",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004964726764037846,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/remove-boxes"
+      },
+      {
+        "lcId": 1885,
+        "title": "Count Pairs in Two Arrays",
+        "slug": "count-pairs-in-two-arrays",
+        "difficulty": "Medium",
+        "frequency": 67.5,
+        "acceptance": 0.0060234948604992655,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-pairs-in-two-arrays"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2528,
+        "title": "Maximize the Minimum Powered City",
+        "slug": "maximize-the-minimum-powered-city",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00614006428369596,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Queue",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+      },
+      {
+        "lcId": 546,
+        "title": "Remove Boxes",
+        "slug": "remove-boxes",
+        "difficulty": "Hard",
+        "frequency": 94.5,
+        "acceptance": 0.004964726764037846,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/remove-boxes"
+      },
+      {
+        "lcId": 3766,
+        "title": "Minimum Operations to Make Binary Palindrome",
+        "slug": "minimum-operations-to-make-binary-palindrome",
+        "difficulty": "Medium",
+        "frequency": 89.8,
+        "acceptance": 0.005230962366971954,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome"
+      },
+      {
+        "lcId": 1402,
+        "title": "Reducing Dishes",
+        "slug": "reducing-dishes",
+        "difficulty": "Hard",
+        "frequency": 69.1,
+        "acceptance": 0.007681388138654052,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/reducing-dishes"
+      },
+      {
+        "lcId": 1885,
+        "title": "Count Pairs in Two Arrays",
+        "slug": "count-pairs-in-two-arrays",
+        "difficulty": "Medium",
+        "frequency": 60.6,
+        "acceptance": 0.0060234948604992655,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-pairs-in-two-arrays"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

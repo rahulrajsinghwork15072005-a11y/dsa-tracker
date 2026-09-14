@@ -1,0 +1,773 @@
+{
+  "name": "Lyft",
+  "slug": "lyft",
+  "counts": {
+    "30d": 0,
+    "3m": 3,
+    "6m": 4,
+    "gt6m": 19,
+    "all": 25
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005012852742454725,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 93.3,
+        "acceptance": 0.004825491928795409,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 158,
+        "title": "Read N Characters Given read4 II - Call Multiple Times",
+        "slug": "read-n-characters-given-read4-ii-call-multiple-times",
+        "difficulty": "Hard",
+        "frequency": 93.3,
+        "acceptance": 0.004334779377755175,
+        "topics": [
+          "Array",
+          "Simulation",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004825491928795409,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005012852742454725,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 158,
+        "title": "Read N Characters Given read4 II - Call Multiple Times",
+        "slug": "read-n-characters-given-read4-ii-call-multiple-times",
+        "difficulty": "Hard",
+        "frequency": 96.6,
+        "acceptance": 0.004334779377755175,
+        "topics": [
+          "Array",
+          "Simulation",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.005927624222963237,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005927624222963237,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 90.1,
+        "acceptance": 0.004825491928795409,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 158,
+        "title": "Read N Characters Given read4 II - Call Multiple Times",
+        "slug": "read-n-characters-given-read4-ii-call-multiple-times",
+        "difficulty": "Hard",
+        "frequency": 89.2,
+        "acceptance": 0.004334779377755175,
+        "topics": [
+          "Array",
+          "Simulation",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 82.8,
+        "acceptance": 0.005012852742454725,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 109,
+        "title": "Convert Sorted List to Binary Search Tree",
+        "slug": "convert-sorted-list-to-binary-search-tree",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.006719566823465599,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree"
+      },
+      {
+        "lcId": 958,
+        "title": "Check Completeness of a Binary Tree",
+        "slug": "check-completeness-of-a-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 75.1,
+        "acceptance": 0.00594532343127758,
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree"
+      },
+      {
+        "lcId": 716,
+        "title": "Max Stack",
+        "slug": "max-stack",
+        "difficulty": "Hard",
+        "frequency": 70.8,
+        "acceptance": 0.004599698831436495,
+        "topics": [
+          "Linked List",
+          "Stack",
+          "Design",
+          "Doubly-Linked List",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/max-stack"
+      },
+      {
+        "lcId": 126,
+        "title": "Word Ladder II",
+        "slug": "word-ladder-ii",
+        "difficulty": "Hard",
+        "frequency": 68.3,
+        "acceptance": 0.0027962640603764856,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 61.9,
+        "acceptance": 0.005855048286217287,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 57.6,
+        "acceptance": 0.0047208339899073495,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 57.6,
+        "acceptance": 0.003977946185101758,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 91,
+        "title": "Decode Ways",
+        "slug": "decode-ways",
+        "difficulty": "Medium",
+        "frequency": 57.6,
+        "acceptance": 0.003844577698568601,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/decode-ways"
+      },
+      {
+        "lcId": 365,
+        "title": "Water and Jug Problem",
+        "slug": "water-and-jug-problem",
+        "difficulty": "Medium",
+        "frequency": 52.2,
+        "acceptance": 0.004620419040671594,
+        "topics": [
+          "Math",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Bézout's Lemma",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor",
+          "Extended Euclidean Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/water-and-jug-problem"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 52.2,
+        "acceptance": 0.0069164529225789195,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      },
+      {
+        "lcId": 1298,
+        "title": "Maximum Candies You Can Get from Boxes",
+        "slug": "maximum-candies-you-can-get-from-boxes",
+        "difficulty": "Hard",
+        "frequency": 52.2,
+        "acceptance": 0.006710428111732391,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
+      },
+      {
+        "lcId": 1620,
+        "title": "Coordinate With Maximum Network Quality",
+        "slug": "coordinate-with-maximum-network-quality",
+        "difficulty": "Medium",
+        "frequency": 52.2,
+        "acceptance": 0.003996725069592272,
+        "topics": [
+          "Array",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality"
+      },
+      {
+        "lcId": 148,
+        "title": "Sort List",
+        "slug": "sort-list",
+        "difficulty": "Medium",
+        "frequency": 52.2,
+        "acceptance": 0.00651868813992765,
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Divide and Conquer",
+          "Sorting",
+          "Merge Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-list"
+      },
+      {
+        "lcId": 208,
+        "title": "Implement Trie (Prefix Tree)",
+        "slug": "implement-trie-prefix-tree",
+        "difficulty": "Medium",
+        "frequency": 44.5,
+        "acceptance": 0.006991491146663074,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 44.5,
+        "acceptance": 0.005277681052747888,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005927624222963237,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 94.3,
+        "acceptance": 0.004825491928795409,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 158,
+        "title": "Read N Characters Given read4 II - Call Multiple Times",
+        "slug": "read-n-characters-given-read4-ii-call-multiple-times",
+        "difficulty": "Hard",
+        "frequency": 92.9,
+        "acceptance": 0.004334779377755175,
+        "topics": [
+          "Array",
+          "Simulation",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.005012852742454725,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 109,
+        "title": "Convert Sorted List to Binary Search Tree",
+        "slug": "convert-sorted-list-to-binary-search-tree",
+        "difficulty": "Medium",
+        "frequency": 75.5,
+        "acceptance": 0.006719566823465599,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree"
+      },
+      {
+        "lcId": 958,
+        "title": "Check Completeness of a Binary Tree",
+        "slug": "check-completeness-of-a-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 73.7,
+        "acceptance": 0.00594532343127758,
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree"
+      },
+      {
+        "lcId": 632,
+        "title": "Smallest Range Covering Elements from K Lists",
+        "slug": "smallest-range-covering-elements-from-k-lists",
+        "difficulty": "Hard",
+        "frequency": 69.4,
+        "acceptance": 0.007032804009378925,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sliding Window",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists"
+      },
+      {
+        "lcId": 1094,
+        "title": "Car Pooling",
+        "slug": "car-pooling",
+        "difficulty": "Medium",
+        "frequency": 69.4,
+        "acceptance": 0.005647519438385424,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/car-pooling"
+      },
+      {
+        "lcId": 716,
+        "title": "Max Stack",
+        "slug": "max-stack",
+        "difficulty": "Hard",
+        "frequency": 69.4,
+        "acceptance": 0.004599698831436495,
+        "topics": [
+          "Linked List",
+          "Stack",
+          "Design",
+          "Doubly-Linked List",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/max-stack"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 69.4,
+        "acceptance": 0.006060161946093505,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 126,
+        "title": "Word Ladder II",
+        "slug": "word-ladder-ii",
+        "difficulty": "Hard",
+        "frequency": 66.8,
+        "acceptance": 0.0027962640603764856,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 63.8,
+        "acceptance": 0.005855048286217287,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 91,
+        "title": "Decode Ways",
+        "slug": "decode-ways",
+        "difficulty": "Medium",
+        "frequency": 60.3,
+        "acceptance": 0.003844577698568601,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/decode-ways"
+      },
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "acceptance": 0.0047208339899073495,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 56,
+        "acceptance": 0.003977946185101758,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 50.5,
+        "acceptance": 0.005277681052747888,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 365,
+        "title": "Water and Jug Problem",
+        "slug": "water-and-jug-problem",
+        "difficulty": "Medium",
+        "frequency": 50.5,
+        "acceptance": 0.004620419040671594,
+        "topics": [
+          "Math",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Bézout's Lemma",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor",
+          "Extended Euclidean Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/water-and-jug-problem"
+      },
+      {
+        "lcId": 1620,
+        "title": "Coordinate With Maximum Network Quality",
+        "slug": "coordinate-with-maximum-network-quality",
+        "difficulty": "Medium",
+        "frequency": 50.5,
+        "acceptance": 0.003996725069592272,
+        "topics": [
+          "Array",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 50.5,
+        "acceptance": 0.0069164529225789195,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      },
+      {
+        "lcId": 1298,
+        "title": "Maximum Candies You Can Get from Boxes",
+        "slug": "maximum-candies-you-can-get-from-boxes",
+        "difficulty": "Hard",
+        "frequency": 50.5,
+        "acceptance": 0.006710428111732391,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
+      },
+      {
+        "lcId": 148,
+        "title": "Sort List",
+        "slug": "sort-list",
+        "difficulty": "Medium",
+        "frequency": 50.5,
+        "acceptance": 0.00651868813992765,
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Divide and Conquer",
+          "Sorting",
+          "Merge Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-list"
+      },
+      {
+        "lcId": 208,
+        "title": "Implement Trie (Prefix Tree)",
+        "slug": "implement-trie-prefix-tree",
+        "difficulty": "Medium",
+        "frequency": 42.7,
+        "acceptance": 0.006991491146663074,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 42.7,
+        "acceptance": 0.00666599875655181,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 2101,
+        "title": "Detonate the Maximum Bombs",
+        "slug": "detonate-the-maximum-bombs",
+        "difficulty": "Medium",
+        "frequency": 42.7,
+        "acceptance": 0.005037999667469388,
+        "topics": [
+          "Array",
+          "Math",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Geometry"
+        ],
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+      },
+      {
+        "lcId": 98,
+        "title": "Validate Binary Search Tree",
+        "slug": "validate-binary-search-tree",
+        "difficulty": "Medium",
+        "frequency": 42.7,
+        "acceptance": 0.0036206327238124504,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/validate-binary-search-tree"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Informatica",
+  "slug": "informatica",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005927616786771823,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.005855044939254337,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005927616786771823,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.005855044939254337,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

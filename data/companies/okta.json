@@ -1,0 +1,548 @@
+{
+  "name": "Okta",
+  "slug": "okta",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 2,
+    "gt6m": 15,
+    "all": 18
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005548628566042478,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786899429208218,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 863,
+        "title": "All Nodes Distance K in Binary Tree",
+        "slug": "all-nodes-distance-k-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 89.5,
+        "acceptance": 0.0068001123805607674,
+        "topics": [
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 89.5,
+        "acceptance": 0.0073129034460351705,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "acceptance": 0.005548628566042478,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 82,
+        "acceptance": 0.005487688192821134,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "acceptance": 0.004720840759581663,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 4,
+        "title": "Median of Two Sorted Arrays",
+        "slug": "median-of-two-sorted-arrays",
+        "difficulty": "Hard",
+        "frequency": 71.4,
+        "acceptance": 0.004736982113300721,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ],
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+      },
+      {
+        "lcId": 621,
+        "title": "Task Scheduler",
+        "slug": "task-scheduler",
+        "difficulty": "Medium",
+        "frequency": 71.4,
+        "acceptance": 0.006363492940458064,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler"
+      },
+      {
+        "lcId": 1487,
+        "title": "Making File Names Unique",
+        "slug": "making-file-names-unique",
+        "difficulty": "Medium",
+        "frequency": 71.4,
+        "acceptance": 0.0038893113083810138,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/making-file-names-unique"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 71.4,
+        "acceptance": 0.005257653378270721,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 304,
+        "title": "Range Sum Query 2D - Immutable",
+        "slug": "range-sum-query-2d-immutable",
+        "difficulty": "Medium",
+        "frequency": 71.4,
+        "acceptance": 0.005883569201135158,
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+      },
+      {
+        "lcId": 1190,
+        "title": "Reverse Substrings Between Each Pair of Parentheses",
+        "slug": "reverse-substrings-between-each-pair-of-parentheses",
+        "difficulty": "Medium",
+        "frequency": 71.4,
+        "acceptance": 0.007208309396858571,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses"
+      },
+      {
+        "lcId": 126,
+        "title": "Word Ladder II",
+        "slug": "word-ladder-ii",
+        "difficulty": "Hard",
+        "frequency": 71.4,
+        "acceptance": 0.0027962682264301964,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 71.4,
+        "acceptance": 0.004632630852158116,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786899429208218,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 95.1,
+        "acceptance": 0.005548628566042478,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 95.1,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 89.2,
+        "acceptance": 0.005487688192821134,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 863,
+        "title": "All Nodes Distance K in Binary Tree",
+        "slug": "all-nodes-distance-k-in-binary-tree",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.0068001123805607674,
+        "topics": [
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.0073129034460351705,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 81.6,
+        "acceptance": 0.004720840759581663,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.005257653378270721,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 4,
+        "title": "Median of Two Sorted Arrays",
+        "slug": "median-of-two-sorted-arrays",
+        "difficulty": "Hard",
+        "frequency": 70.8,
+        "acceptance": 0.004736982113300721,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ],
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.00606483008604204,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 1487,
+        "title": "Making File Names Unique",
+        "slug": "making-file-names-unique",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.0038893113083810138,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/making-file-names-unique"
+      },
+      {
+        "lcId": 304,
+        "title": "Range Sum Query 2D - Immutable",
+        "slug": "range-sum-query-2d-immutable",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.005883569201135158,
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+      },
+      {
+        "lcId": 1190,
+        "title": "Reverse Substrings Between Each Pair of Parentheses",
+        "slug": "reverse-substrings-between-each-pair-of-parentheses",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.007208309396858571,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses"
+      },
+      {
+        "lcId": 126,
+        "title": "Word Ladder II",
+        "slug": "word-ladder-ii",
+        "difficulty": "Hard",
+        "frequency": 70.8,
+        "acceptance": 0.0027962682264301964,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 70.8,
+        "acceptance": 0.004632630852158116,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 621,
+        "title": "Task Scheduler",
+        "slug": "task-scheduler",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.006363492940458064,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler"
+      },
+      {
+        "lcId": 381,
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+        "difficulty": "Hard",
+        "frequency": 70.8,
+        "acceptance": 0.0036895098916057754,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 70.8,
+        "acceptance": 0.006916454268884662,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

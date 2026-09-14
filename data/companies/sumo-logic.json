@@ -1,0 +1,81 @@
+{
+  "name": "Sumo Logic",
+  "slug": "sumo-logic",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1722,
+        "title": "Minimize Hamming Distance After Swap Operations",
+        "slug": "minimize-hamming-distance-after-swap-operations",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0069671608071531785,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 990,
+        "title": "Satisfiability of Equality Equations",
+        "slug": "satisfiability-of-equality-equations",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005211120031167728,
+        "topics": [
+          "Array",
+          "String",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+      },
+      {
+        "lcId": 1722,
+        "title": "Minimize Hamming Distance After Swap Operations",
+        "slug": "minimize-hamming-distance-after-swap-operations",
+        "difficulty": "Medium",
+        "frequency": 79.1,
+        "acceptance": 0.0069671608071531785,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations"
+      },
+      {
+        "lcId": 1438,
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": "Medium",
+        "frequency": 70.5,
+        "acceptance": 0.005791947622684372,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

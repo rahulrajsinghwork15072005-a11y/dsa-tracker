@@ -1,0 +1,325 @@
+{
+  "name": "SIG",
+  "slug": "sig",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 10,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005189788306344752,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 2768,
+        "title": "Number of Black Blocks",
+        "slug": "number-of-black-blocks",
+        "difficulty": "Medium",
+        "frequency": 87.1,
+        "acceptance": 0.004217931337705639,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/number-of-black-blocks"
+      },
+      {
+        "lcId": 48,
+        "title": "Rotate Image",
+        "slug": "rotate-image",
+        "difficulty": "Medium",
+        "frequency": 87.1,
+        "acceptance": 0.008057027271126817,
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotate-image"
+      },
+      {
+        "lcId": 1743,
+        "title": "Restore the Array From Adjacent Pairs",
+        "slug": "restore-the-array-from-adjacent-pairs",
+        "difficulty": "Medium",
+        "frequency": 87.1,
+        "acceptance": 0.007512462897809968,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.005762719105029598,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 76.9,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 1861,
+        "title": "Rotating the Box",
+        "slug": "rotating-the-box",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.008246603958014232,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotating-the-box"
+      },
+      {
+        "lcId": 2817,
+        "title": "Minimum Absolute Difference Between Elements With Constraint",
+        "slug": "minimum-absolute-difference-between-elements-with-constraint",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.0038007509255288422,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint"
+      },
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.006226152649412633,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.005055771602010812,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005189788306344752,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 86.7,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 2768,
+        "title": "Number of Black Blocks",
+        "slug": "number-of-black-blocks",
+        "difficulty": "Medium",
+        "frequency": 86.7,
+        "acceptance": 0.004217931337705639,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/number-of-black-blocks"
+      },
+      {
+        "lcId": 48,
+        "title": "Rotate Image",
+        "slug": "rotate-image",
+        "difficulty": "Medium",
+        "frequency": 86.7,
+        "acceptance": 0.008057027271126817,
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotate-image"
+      },
+      {
+        "lcId": 1743,
+        "title": "Restore the Array From Adjacent Pairs",
+        "slug": "restore-the-array-from-adjacent-pairs",
+        "difficulty": "Medium",
+        "frequency": 86.7,
+        "acceptance": 0.007512462897809968,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+      },
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 86.7,
+        "acceptance": 0.006226152649412633,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 2817,
+        "title": "Minimum Absolute Difference Between Elements With Constraint",
+        "slug": "minimum-absolute-difference-between-elements-with-constraint",
+        "difficulty": "Medium",
+        "frequency": 86.7,
+        "acceptance": 0.0038007509255288422,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 76.2,
+        "acceptance": 0.005762719105029598,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 1861,
+        "title": "Rotating the Box",
+        "slug": "rotating-the-box",
+        "difficulty": "Medium",
+        "frequency": 76.2,
+        "acceptance": 0.008246603958014232,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotating-the-box"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 76.2,
+        "acceptance": 0.005055771602010812,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 76.2,
+        "acceptance": 0.005487695875130243,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

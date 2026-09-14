@@ -1,0 +1,49 @@
+{
+  "name": "McKinsey",
+  "slug": "mckinsey",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2530,
+        "title": "Maximal Score After Applying K Operations",
+        "slug": "maximal-score-after-applying-k-operations",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006418739120098772,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations"
+      },
+      {
+        "lcId": 934,
+        "title": "Shortest Bridge",
+        "slug": "shortest-bridge",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00597095395782115,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/shortest-bridge"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

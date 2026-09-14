@@ -1,0 +1,125 @@
+{
+  "name": "WorldQuant",
+  "slug": "worldquant",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0052776827656154865,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 2617,
+        "title": "Minimum Number of Visited Cells in a Grid",
+        "slug": "minimum-number-of-visited-cells-in-a-grid",
+        "difficulty": "Hard",
+        "frequency": 83.3,
+        "acceptance": 0.002414294738051031,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Breadth-First Search",
+          "Union-Find",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 83.3,
+        "acceptance": 0.005487692969052594,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0052776827656154865,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 2617,
+        "title": "Minimum Number of Visited Cells in a Grid",
+        "slug": "minimum-number-of-visited-cells-in-a-grid",
+        "difficulty": "Hard",
+        "frequency": 83.1,
+        "acceptance": 0.002414294738051031,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Breadth-First Search",
+          "Union-Find",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 83.1,
+        "acceptance": 0.005487692969052594,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

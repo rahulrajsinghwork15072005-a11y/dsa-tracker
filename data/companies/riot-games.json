@@ -1,0 +1,153 @@
+{
+  "name": "Riot Games",
+  "slug": "riot-games",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 37,
+        "title": "Sudoku Solver",
+        "slug": "sudoku-solver",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006558601548945906,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Backtracking",
+          "Matrix",
+          "Algorithm X",
+          "Dancing Links"
+        ],
+        "link": "https://leetcode.com/problems/sudoku-solver"
+      },
+      {
+        "lcId": 3167,
+        "title": "Better Compression of String",
+        "slug": "better-compression-of-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007543256841330225,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/better-compression-of-string"
+      },
+      {
+        "lcId": 495,
+        "title": "Teemo Attacking",
+        "slug": "teemo-attacking",
+        "difficulty": "Easy",
+        "frequency": 89.8,
+        "acceptance": 0.005801694492035591,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/teemo-attacking"
+      },
+      {
+        "lcId": 289,
+        "title": "Game of Life",
+        "slug": "game-of-life",
+        "difficulty": "Medium",
+        "frequency": 89.8,
+        "acceptance": 0.0072942923794884155,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/game-of-life"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 495,
+        "title": "Teemo Attacking",
+        "slug": "teemo-attacking",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005801694492035591,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/teemo-attacking"
+      },
+      {
+        "lcId": 37,
+        "title": "Sudoku Solver",
+        "slug": "sudoku-solver",
+        "difficulty": "Hard",
+        "frequency": 74.2,
+        "acceptance": 0.006558601548945906,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Backtracking",
+          "Matrix",
+          "Algorithm X",
+          "Dancing Links"
+        ],
+        "link": "https://leetcode.com/problems/sudoku-solver"
+      },
+      {
+        "lcId": 3167,
+        "title": "Better Compression of String",
+        "slug": "better-compression-of-string",
+        "difficulty": "Medium",
+        "frequency": 74.2,
+        "acceptance": 0.007543256841330225,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/better-compression-of-string"
+      },
+      {
+        "lcId": 289,
+        "title": "Game of Life",
+        "slug": "game-of-life",
+        "difficulty": "Medium",
+        "frequency": 66.1,
+        "acceptance": 0.0072942923794884155,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/game-of-life"
+      },
+      {
+        "lcId": 36,
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku",
+        "difficulty": "Medium",
+        "frequency": 66.1,
+        "acceptance": 0.006495086472168866,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/valid-sudoku"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

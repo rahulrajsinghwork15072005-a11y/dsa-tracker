@@ -1,0 +1,78 @@
+{
+  "name": "Toptal",
+  "slug": "toptal",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1227,
+        "title": "Airplane Seat Assignment Probability",
+        "slug": "airplane-seat-assignment-probability",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0067578142172594205,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ],
+        "link": "https://leetcode.com/problems/airplane-seat-assignment-probability"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1531,
+        "title": "String Compression II",
+        "slug": "string-compression-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005220616870472778,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/string-compression-ii"
+      },
+      {
+        "lcId": 1227,
+        "title": "Airplane Seat Assignment Probability",
+        "slug": "airplane-seat-assignment-probability",
+        "difficulty": "Medium",
+        "frequency": 71.8,
+        "acceptance": 0.0067578142172594205,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ],
+        "link": "https://leetcode.com/problems/airplane-seat-assignment-probability"
+      },
+      {
+        "lcId": 1404,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": "Medium",
+        "frequency": 71.8,
+        "acceptance": 0.006374802235557344,
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

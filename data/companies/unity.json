@@ -1,0 +1,79 @@
+{
+  "name": "Unity",
+  "slug": "unity",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2470,
+        "title": "Number of Subarrays With LCM Equal to K",
+        "slug": "number-of-subarrays-with-lcm-equal-to-k",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004747205513333093,
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory"
+        ],
+        "link": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k"
+      },
+      {
+        "lcId": 2038,
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 90.5,
+        "acceptance": 0.0063135793275781995,
+        "topics": [
+          "Math",
+          "String",
+          "Greedy",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2470,
+        "title": "Number of Subarrays With LCM Equal to K",
+        "slug": "number-of-subarrays-with-lcm-equal-to-k",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004747205513333093,
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory"
+        ],
+        "link": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k"
+      },
+      {
+        "lcId": 2038,
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 90.4,
+        "acceptance": 0.0063135793275781995,
+        "topics": [
+          "Math",
+          "String",
+          "Greedy",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

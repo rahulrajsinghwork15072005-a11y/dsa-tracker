@@ -1,0 +1,255 @@
+{
+  "name": "Netskope",
+  "slug": "netskope",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 8,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007312522584701131,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005002959336524059,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      },
+      {
+        "lcId": 41,
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0043542924641683575,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/first-missing-positive"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 10,
+        "title": "Regular Expression Matching",
+        "slug": "regular-expression-matching",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0031576458248663924,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/regular-expression-matching"
+      },
+      {
+        "lcId": 588,
+        "title": "Design In-Memory File System",
+        "slug": "design-in-memory-file-system",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004831368860605818,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/design-in-memory-file-system"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006029397781967888,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007312522584701131,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005002959336524059,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 41,
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0043542924641683575,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/first-missing-positive"
+      },
+      {
+        "lcId": 588,
+        "title": "Design In-Memory File System",
+        "slug": "design-in-memory-file-system",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004831368860605818,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/design-in-memory-file-system"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006029397781967888,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 10,
+        "title": "Regular Expression Matching",
+        "slug": "regular-expression-matching",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0031576458248663924,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/regular-expression-matching"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

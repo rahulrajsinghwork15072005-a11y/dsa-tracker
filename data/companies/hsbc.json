@@ -1,0 +1,187 @@
+{
+  "name": "HSBC",
+  "slug": "hsbc",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 6,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 419,
+        "title": "Battleships in a Board",
+        "slug": "battleships-in-a-board",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007773019837965717,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/battleships-in-a-board"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 92.3,
+        "acceptance": 0.0038471108019715737,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 1323,
+        "title": "Maximum 69 Number",
+        "slug": "maximum-69-number",
+        "difficulty": "Easy",
+        "frequency": 92.3,
+        "acceptance": 0.008457796795235157,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-69-number"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 81.5,
+        "acceptance": 0.004818721754065003,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 70,
+        "title": "Climbing Stairs",
+        "slug": "climbing-stairs",
+        "difficulty": "Easy",
+        "frequency": 81.5,
+        "acceptance": 0.005428138437253181,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/climbing-stairs"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 81.5,
+        "acceptance": 0.005725131018831735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1323,
+        "title": "Maximum 69 Number",
+        "slug": "maximum-69-number",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008457796795235157,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-69-number"
+      },
+      {
+        "lcId": 419,
+        "title": "Battleships in a Board",
+        "slug": "battleships-in-a-board",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007773019837965717,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/battleships-in-a-board"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 92.2,
+        "acceptance": 0.0038471108019715737,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 81.3,
+        "acceptance": 0.005725131018831735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 81.3,
+        "acceptance": 0.004818721754065003,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 70,
+        "title": "Climbing Stairs",
+        "slug": "climbing-stairs",
+        "difficulty": "Easy",
+        "frequency": 81.3,
+        "acceptance": 0.005428138437253181,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/climbing-stairs"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

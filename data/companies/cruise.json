@@ -1,0 +1,70 @@
+{
+  "name": "Cruise",
+  "slug": "cruise",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005204020517708486,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1258,
+        "title": "Synonymous Sentences",
+        "slug": "synonymous-sentences",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005749698158768488,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Sort",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/synonymous-sentences"
+      },
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "acceptance": 0.005204020517708486,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Odoo",
+  "slug": "odoo",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 3,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472564740062016,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 169,
+        "title": "Majority Element",
+        "slug": "majority-element",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006648703196283034,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Counting",
+          "Boyer–Moore Majority Vote Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/majority-element"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005855051235347091,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472564740062016,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472564740062016,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 92.7,
+        "acceptance": 0.005855051235347091,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 169,
+        "title": "Majority Element",
+        "slug": "majority-element",
+        "difficulty": "Easy",
+        "frequency": 82.5,
+        "acceptance": 0.006648703196283034,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Counting",
+          "Boyer–Moore Majority Vote Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/majority-element"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

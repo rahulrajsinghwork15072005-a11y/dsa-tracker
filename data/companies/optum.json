@@ -1,0 +1,190 @@
+{
+  "name": "Optum",
+  "slug": "optum",
+  "counts": {
+    "30d": 0,
+    "3m": 2,
+    "6m": 2,
+    "gt6m": 2,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 432,
+        "title": "All O`one Data Structure",
+        "slug": "all-oone-data-structure",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004446828603783362,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/all-oone-data-structure"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977953357193677,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 432,
+        "title": "All O`one Data Structure",
+        "slug": "all-oone-data-structure",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004446828603783362,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/all-oone-data-structure"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977953357193677,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1143,
+        "title": "Longest Common Subsequence",
+        "slug": "longest-common-subsequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0059476726554075045,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Longest Common Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-subsequence"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800959235324353,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2000,
+        "title": "Reverse Prefix of Word",
+        "slug": "reverse-prefix-of-word",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008650372151559317,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/reverse-prefix-of-word"
+      },
+      {
+        "lcId": 1555,
+        "title": "Bank Account Summary",
+        "slug": "bank-account-summary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005232970884255931,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/bank-account-summary"
+      },
+      {
+        "lcId": 1143,
+        "title": "Longest Common Subsequence",
+        "slug": "longest-common-subsequence",
+        "difficulty": "Medium",
+        "frequency": 67.9,
+        "acceptance": 0.0059476726554075045,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Longest Common Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-subsequence"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 67.9,
+        "acceptance": 0.005800959235324353,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 432,
+        "title": "All O`one Data Structure",
+        "slug": "all-oone-data-structure",
+        "difficulty": "Hard",
+        "frequency": 67.9,
+        "acceptance": 0.004446828603783362,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/all-oone-data-structure"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 67.9,
+        "acceptance": 0.003977953357193677,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

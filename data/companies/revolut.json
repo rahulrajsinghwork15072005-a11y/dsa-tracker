@@ -1,0 +1,377 @@
+{
+  "name": "Revolut",
+  "slug": "revolut",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 10,
+    "all": 12
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 300,
+        "title": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005984861906367605,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 300,
+        "title": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005984861906367605,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0048187214076762285,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 279,
+        "title": "Perfect Squares",
+        "slug": "perfect-squares",
+        "difficulty": "Medium",
+        "frequency": 96.9,
+        "acceptance": 0.005680476050292981,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/perfect-squares"
+      },
+      {
+        "lcId": 92,
+        "title": "Reverse Linked List II",
+        "slug": "reverse-linked-list-ii",
+        "difficulty": "Medium",
+        "frequency": 89.3,
+        "acceptance": 0.005217661088741443,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii"
+      },
+      {
+        "lcId": 257,
+        "title": "Binary Tree Paths",
+        "slug": "binary-tree-paths",
+        "difficulty": "Easy",
+        "frequency": 89.3,
+        "acceptance": 0.0069176652171823024,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-paths"
+      },
+      {
+        "lcId": 438,
+        "title": "Find All Anagrams in a String",
+        "slug": "find-all-anagrams-in-a-string",
+        "difficulty": "Medium",
+        "frequency": 84.2,
+        "acceptance": 0.005432486105145879,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
+      },
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 68.3,
+        "acceptance": 0.0049211970223146575,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 268,
+        "title": "Missing Number",
+        "slug": "missing-number",
+        "difficulty": "Easy",
+        "frequency": 68.3,
+        "acceptance": 0.007251667216485274,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Bit Manipulation",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/missing-number"
+      },
+      {
+        "lcId": 535,
+        "title": "Encode and Decode TinyURL",
+        "slug": "encode-and-decode-tinyurl",
+        "difficulty": "Medium",
+        "frequency": 68.3,
+        "acceptance": 0.008660179620316994,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/encode-and-decode-tinyurl"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 68.3,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 1321,
+        "title": "Restaurant Growth",
+        "slug": "restaurant-growth",
+        "difficulty": "Medium",
+        "frequency": 68.3,
+        "acceptance": 0.005957983316167608,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/restaurant-growth"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0048187214076762285,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 279,
+        "title": "Perfect Squares",
+        "slug": "perfect-squares",
+        "difficulty": "Medium",
+        "frequency": 96.9,
+        "acceptance": 0.005680476050292981,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/perfect-squares"
+      },
+      {
+        "lcId": 92,
+        "title": "Reverse Linked List II",
+        "slug": "reverse-linked-list-ii",
+        "difficulty": "Medium",
+        "frequency": 89.1,
+        "acceptance": 0.005217661088741443,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii"
+      },
+      {
+        "lcId": 257,
+        "title": "Binary Tree Paths",
+        "slug": "binary-tree-paths",
+        "difficulty": "Easy",
+        "frequency": 89.1,
+        "acceptance": 0.0069176652171823024,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-paths"
+      },
+      {
+        "lcId": 438,
+        "title": "Find All Anagrams in a String",
+        "slug": "find-all-anagrams-in-a-string",
+        "difficulty": "Medium",
+        "frequency": 83.9,
+        "acceptance": 0.005432486105145879,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
+      },
+      {
+        "lcId": 300,
+        "title": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence",
+        "difficulty": "Medium",
+        "frequency": 83.9,
+        "acceptance": 0.005984861906367605,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+      },
+      {
+        "lcId": 1321,
+        "title": "Restaurant Growth",
+        "slug": "restaurant-growth",
+        "difficulty": "Medium",
+        "frequency": 77.2,
+        "acceptance": 0.005957983316167608,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/restaurant-growth"
+      },
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 67.9,
+        "acceptance": 0.0049211970223146575,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 268,
+        "title": "Missing Number",
+        "slug": "missing-number",
+        "difficulty": "Easy",
+        "frequency": 67.9,
+        "acceptance": 0.007251667216485274,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Bit Manipulation",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/missing-number"
+      },
+      {
+        "lcId": 535,
+        "title": "Encode and Decode TinyURL",
+        "slug": "encode-and-decode-tinyurl",
+        "difficulty": "Medium",
+        "frequency": 67.9,
+        "acceptance": 0.008660179620316994,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/encode-and-decode-tinyurl"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 67.9,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 713,
+        "title": "Subarray Product Less Than K",
+        "slug": "subarray-product-less-than-k",
+        "difficulty": "Medium",
+        "frequency": 67.9,
+        "acceptance": 0.005485870795134776,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

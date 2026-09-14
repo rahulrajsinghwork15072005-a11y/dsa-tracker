@@ -1,0 +1,88 @@
+{
+  "name": "Hulu",
+  "slug": "hulu",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 1063,
+        "title": "Number of Valid Subarrays",
+        "slug": "number-of-valid-subarrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.007990479562531965,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/number-of-valid-subarrays"
+      },
+      {
+        "lcId": 772,
+        "title": "Basic Calculator III",
+        "slug": "basic-calculator-iii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0053496846483939145,
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-iii"
+      },
+      {
+        "lcId": 814,
+        "title": "Binary Tree Pruning",
+        "slug": "binary-tree-pruning",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007255303942686012,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-pruning"
+      },
+      {
+        "lcId": 371,
+        "title": "Sum of Two Integers",
+        "slug": "sum-of-two-integers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005587486586676313,
+        "topics": [
+          "Math",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/sum-of-two-integers"
+      },
+      {
+        "lcId": 440,
+        "title": "K-th Smallest in Lexicographical Order",
+        "slug": "k-th-smallest-in-lexicographical-order",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004649765683562257,
+        "topics": [
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

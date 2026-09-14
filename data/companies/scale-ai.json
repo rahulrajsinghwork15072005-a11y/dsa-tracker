@@ -1,0 +1,33 @@
+{
+  "name": "Scale AI",
+  "slug": "scale-ai",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 134,
+        "title": "Gas Station",
+        "slug": "gas-station",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004855707547472648,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/gas-station"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

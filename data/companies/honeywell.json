@@ -1,0 +1,117 @@
+{
+  "name": "Honeywell",
+  "slug": "honeywell",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1975,
+        "title": "Maximum Matrix Sum",
+        "slug": "maximum-matrix-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006750693658860543,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximum-matrix-sum"
+      },
+      {
+        "lcId": 2747,
+        "title": "Count Zero Request Servers",
+        "slug": "count-zero-request-servers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003642152010487172,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-zero-request-servers"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 89.5,
+        "acceptance": 0.0058009546124321455,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1848,
+        "title": "Minimum Distance to the Target Element",
+        "slug": "minimum-distance-to-the-target-element",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006434521731074831,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/minimum-distance-to-the-target-element"
+      },
+      {
+        "lcId": 1975,
+        "title": "Maximum Matrix Sum",
+        "slug": "maximum-matrix-sum",
+        "difficulty": "Medium",
+        "frequency": 76.7,
+        "acceptance": 0.006750693658860543,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximum-matrix-sum"
+      },
+      {
+        "lcId": 2747,
+        "title": "Count Zero Request Servers",
+        "slug": "count-zero-request-servers",
+        "difficulty": "Medium",
+        "frequency": 76.7,
+        "acceptance": 0.003642152010487172,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-zero-request-servers"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 68.1,
+        "acceptance": 0.0058009546124321455,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

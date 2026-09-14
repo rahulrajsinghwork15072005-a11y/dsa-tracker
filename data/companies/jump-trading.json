@@ -1,0 +1,77 @@
+{
+  "name": "Jump Trading",
+  "slug": "jump-trading",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 202,
+        "title": "Happy Number",
+        "slug": "happy-number",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006011546520050849,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/happy-number"
+      },
+      {
+        "lcId": 60,
+        "title": "Permutation Sequence",
+        "slug": "permutation-sequence",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005400053213395375,
+        "topics": [
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/permutation-sequence"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 60,
+        "title": "Permutation Sequence",
+        "slug": "permutation-sequence",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005400053213395375,
+        "topics": [
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/permutation-sequence"
+      },
+      {
+        "lcId": 202,
+        "title": "Happy Number",
+        "slug": "happy-number",
+        "difficulty": "Easy",
+        "frequency": 93.2,
+        "acceptance": 0.006011546520050849,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/happy-number"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

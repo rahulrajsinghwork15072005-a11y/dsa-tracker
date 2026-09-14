@@ -1,0 +1,284 @@
+{
+  "name": "Box",
+  "slug": "box",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 3,
+    "gt6m": 6,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 684,
+        "title": "Redundant Connection",
+        "slug": "redundant-connection",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006808075250793098,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/redundant-connection"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 692,
+        "title": "Top K Frequent Words",
+        "slug": "top-k-frequent-words",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006050097518351516,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-words"
+      },
+      {
+        "lcId": 189,
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004532153173920612,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-array"
+      },
+      {
+        "lcId": 684,
+        "title": "Redundant Connection",
+        "slug": "redundant-connection",
+        "difficulty": "Medium",
+        "frequency": 90,
+        "acceptance": 0.006808075250793098,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/redundant-connection"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 692,
+        "title": "Top K Frequent Words",
+        "slug": "top-k-frequent-words",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006050097518351516,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-words"
+      },
+      {
+        "lcId": 191,
+        "title": "Number of 1 Bits",
+        "slug": "number-of-1-bits",
+        "difficulty": "Easy",
+        "frequency": 84.4,
+        "acceptance": 0.007736142228492658,
+        "topics": [
+          "Divide and Conquer",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-1-bits"
+      },
+      {
+        "lcId": 189,
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "difficulty": "Medium",
+        "frequency": 76.2,
+        "acceptance": 0.004532153173920612,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-array"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 70.4,
+        "acceptance": 0.004632593937071694,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 684,
+        "title": "Redundant Connection",
+        "slug": "redundant-connection",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.006808075250793098,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/redundant-connection"
+      },
+      {
+        "lcId": 965,
+        "title": "Univalued Binary Tree",
+        "slug": "univalued-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 62.2,
+        "acceptance": 0.007329127207444482,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/univalued-binary-tree"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 692,
+        "title": "Top K Frequent Words",
+        "slug": "top-k-frequent-words",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006050097518351516,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-words"
+      },
+      {
+        "lcId": 191,
+        "title": "Number of 1 Bits",
+        "slug": "number-of-1-bits",
+        "difficulty": "Easy",
+        "frequency": 83.5,
+        "acceptance": 0.007736142228492658,
+        "topics": [
+          "Divide and Conquer",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-1-bits"
+      },
+      {
+        "lcId": 189,
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "difficulty": "Medium",
+        "frequency": 83.5,
+        "acceptance": 0.004532153173920612,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-array"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 72.4,
+        "acceptance": 0.004632593937071694,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 684,
+        "title": "Redundant Connection",
+        "slug": "redundant-connection",
+        "difficulty": "Medium",
+        "frequency": 72.4,
+        "acceptance": 0.006808075250793098,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/redundant-connection"
+      },
+      {
+        "lcId": 965,
+        "title": "Univalued Binary Tree",
+        "slug": "univalued-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 58.6,
+        "acceptance": 0.007329127207444482,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/univalued-binary-tree"
+      },
+      {
+        "lcId": 126,
+        "title": "Word Ladder II",
+        "slug": "word-ladder-ii",
+        "difficulty": "Hard",
+        "frequency": 58.6,
+        "acceptance": 0.0027962547422966592,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

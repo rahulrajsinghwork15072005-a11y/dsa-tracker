@@ -1,0 +1,562 @@
+{
+  "name": "Tinkoff",
+  "slug": "tinkoff",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 18,
+    "all": 20
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038471146943177925,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038471146943177925,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800959051255636,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 34,
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "slug": "find-first-and-last-position-of-element-in-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.004950621761658031,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.005855049801876526,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.006309057042491219,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.006496058388815681,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 2605,
+        "title": "Form Smallest Number From Two Digit Arrays",
+        "slug": "form-smallest-number-from-two-digit-arrays",
+        "difficulty": "Easy",
+        "frequency": 93.8,
+        "acceptance": 0.0055356391656320855,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 85.9,
+        "acceptance": 0.004546232182132856,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 2694,
+        "title": "Event Emitter",
+        "slug": "event-emitter",
+        "difficulty": "Medium",
+        "frequency": 85.9,
+        "acceptance": 0.007511905845239178,
+        "topics": [],
+        "link": "https://leetcode.com/problems/event-emitter"
+      },
+      {
+        "lcId": 1984,
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+        "difficulty": "Easy",
+        "frequency": 85.9,
+        "acceptance": 0.006639359593012383,
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores"
+      },
+      {
+        "lcId": 2609,
+        "title": "Find the Longest Balanced Substring of a Binary String",
+        "slug": "find-the-longest-balanced-substring-of-a-binary-string",
+        "difficulty": "Easy",
+        "frequency": 85.9,
+        "acceptance": 0.004692027109438826,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string"
+      },
+      {
+        "lcId": 392,
+        "title": "Is Subsequence",
+        "slug": "is-subsequence",
+        "difficulty": "Easy",
+        "frequency": 85.9,
+        "acceptance": 0.004934160424384,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/is-subsequence"
+      },
+      {
+        "lcId": 19,
+        "title": "Remove Nth Node From End of List",
+        "slug": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium",
+        "frequency": 85.9,
+        "acceptance": 0.00523915706017093,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 74.7,
+        "acceptance": 0.003977958561102938,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 74.7,
+        "acceptance": 0.0038471146943177925,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 74.7,
+        "acceptance": 0.005122125839159629,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 448,
+        "title": "Find All Numbers Disappeared in an Array",
+        "slug": "find-all-numbers-disappeared-in-an-array",
+        "difficulty": "Easy",
+        "frequency": 74.7,
+        "acceptance": 0.006453707575455944,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array"
+      },
+      {
+        "lcId": 419,
+        "title": "Battleships in a Board",
+        "slug": "battleships-in-a-board",
+        "difficulty": "Medium",
+        "frequency": 74.7,
+        "acceptance": 0.007773037497554967,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/battleships-in-a-board"
+      },
+      {
+        "lcId": 13,
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "Easy",
+        "frequency": 74.7,
+        "acceptance": 0.006704947448036542,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/roman-to-integer"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800959051255636,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 34,
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "slug": "find-first-and-last-position-of-element-in-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004950621761658031,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.0038471146943177925,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.005855049801876526,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.004546232182132856,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.006309057042491219,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.006496058388815681,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 2605,
+        "title": "Form Smallest Number From Two Digit Arrays",
+        "slug": "form-smallest-number-from-two-digit-arrays",
+        "difficulty": "Easy",
+        "frequency": 93.8,
+        "acceptance": 0.0055356391656320855,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays"
+      },
+      {
+        "lcId": 1984,
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+        "difficulty": "Easy",
+        "frequency": 93.8,
+        "acceptance": 0.006639359593012383,
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 85.7,
+        "acceptance": 0.005122125839159629,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 392,
+        "title": "Is Subsequence",
+        "slug": "is-subsequence",
+        "difficulty": "Easy",
+        "frequency": 85.7,
+        "acceptance": 0.004934160424384,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/is-subsequence"
+      },
+      {
+        "lcId": 2694,
+        "title": "Event Emitter",
+        "slug": "event-emitter",
+        "difficulty": "Medium",
+        "frequency": 85.7,
+        "acceptance": 0.007511905845239178,
+        "topics": [],
+        "link": "https://leetcode.com/problems/event-emitter"
+      },
+      {
+        "lcId": 2609,
+        "title": "Find the Longest Balanced Substring of a Binary String",
+        "slug": "find-the-longest-balanced-substring-of-a-binary-string",
+        "difficulty": "Easy",
+        "frequency": 85.7,
+        "acceptance": 0.004692027109438826,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string"
+      },
+      {
+        "lcId": 19,
+        "title": "Remove Nth Node From End of List",
+        "slug": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium",
+        "frequency": 85.7,
+        "acceptance": 0.00523915706017093,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 74.4,
+        "acceptance": 0.003977958561102938,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 419,
+        "title": "Battleships in a Board",
+        "slug": "battleships-in-a-board",
+        "difficulty": "Medium",
+        "frequency": 74.4,
+        "acceptance": 0.007773037497554967,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/battleships-in-a-board"
+      },
+      {
+        "lcId": 448,
+        "title": "Find All Numbers Disappeared in an Array",
+        "slug": "find-all-numbers-disappeared-in-an-array",
+        "difficulty": "Easy",
+        "frequency": 74.4,
+        "acceptance": 0.006453707575455944,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array"
+      },
+      {
+        "lcId": 228,
+        "title": "Summary Ranges",
+        "slug": "summary-ranges",
+        "difficulty": "Easy",
+        "frequency": 74.4,
+        "acceptance": 0.005461932179938425,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/summary-ranges"
+      },
+      {
+        "lcId": 13,
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "Easy",
+        "frequency": 74.4,
+        "acceptance": 0.006704947448036542,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/roman-to-integer"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 74.4,
+        "acceptance": 0.006060174086630153,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

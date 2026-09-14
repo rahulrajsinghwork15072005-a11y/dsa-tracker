@@ -1,0 +1,718 @@
+{
+  "name": "Squarepoint Capital",
+  "slug": "squarepoint-capital",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 22,
+    "all": 26
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1268,
+        "title": "Search Suggestions System",
+        "slug": "search-suggestions-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006523464791026415,
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/search-suggestions-system"
+      },
+      {
+        "lcId": 2939,
+        "title": "Maximum Xor Product",
+        "slug": "maximum-xor-product",
+        "difficulty": "Medium",
+        "frequency": 93.7,
+        "acceptance": 0.00305721499182135,
+        "topics": [
+          "Math",
+          "Greedy",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/maximum-xor-product"
+      },
+      {
+        "lcId": 713,
+        "title": "Subarray Product Less Than K",
+        "slug": "subarray-product-less-than-k",
+        "difficulty": "Medium",
+        "frequency": 85.3,
+        "acceptance": 0.005485874518051174,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+      },
+      {
+        "lcId": 3649,
+        "title": "Number of Perfect Pairs",
+        "slug": "number-of-perfect-pairs",
+        "difficulty": "Medium",
+        "frequency": 85.3,
+        "acceptance": 0.0034627465946453734,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-perfect-pairs"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 79.7,
+        "acceptance": 0.004786895677649352,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 224,
+        "title": "Basic Calculator",
+        "slug": "basic-calculator",
+        "difficulty": "Hard",
+        "frequency": 79.7,
+        "acceptance": 0.004711213771316073,
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 79.7,
+        "acceptance": 0.006802853937837948,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 72.5,
+        "acceptance": 0.005725130462146871,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 72.5,
+        "acceptance": 0.005373544086224044,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 300,
+        "title": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence",
+        "difficulty": "Medium",
+        "frequency": 72.5,
+        "acceptance": 0.005984864518378644,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+      },
+      {
+        "lcId": 403,
+        "title": "Frog Jump",
+        "slug": "frog-jump",
+        "difficulty": "Hard",
+        "frequency": 72.5,
+        "acceptance": 0.004754536438928945,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/frog-jump"
+      },
+      {
+        "lcId": 2771,
+        "title": "Longest Non-decreasing Subarray From Two Arrays",
+        "slug": "longest-non-decreasing-subarray-from-two-arrays",
+        "difficulty": "Medium",
+        "frequency": 72.5,
+        "acceptance": 0.003149918742111385,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays"
+      },
+      {
+        "lcId": 2466,
+        "title": "Count Ways To Build Good Strings",
+        "slug": "count-ways-to-build-good-strings",
+        "difficulty": "Medium",
+        "frequency": 72.5,
+        "acceptance": 0.005884268138057586,
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/count-ways-to-build-good-strings"
+      },
+      {
+        "lcId": 3035,
+        "title": "Maximum Palindromes After Operations",
+        "slug": "maximum-palindromes-after-operations",
+        "difficulty": "Medium",
+        "frequency": 72.5,
+        "acceptance": 0.0047082602094137595,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+      },
+      {
+        "lcId": 1669,
+        "title": "Merge In Between Linked Lists",
+        "slug": "merge-in-between-linked-lists",
+        "difficulty": "Medium",
+        "frequency": 72.5,
+        "acceptance": 0.008312766796484836,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/merge-in-between-linked-lists"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 62.4,
+        "acceptance": 0.006496056761377224,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 62.4,
+        "acceptance": 0.007312905429484083,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 1605,
+        "title": "Find Valid Matrix Given Row and Column Sums",
+        "slug": "find-valid-matrix-given-row-and-column-sums",
+        "difficulty": "Medium",
+        "frequency": 62.4,
+        "acceptance": 0.008256669084461637,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix",
+          "Flow Network"
+        ],
+        "link": "https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums"
+      },
+      {
+        "lcId": 64,
+        "title": "Minimum Path Sum",
+        "slug": "minimum-path-sum",
+        "difficulty": "Medium",
+        "frequency": 62.4,
+        "acceptance": 0.006874283061219502,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-path-sum"
+      },
+      {
+        "lcId": 2918,
+        "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+        "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+        "difficulty": "Medium",
+        "frequency": 62.4,
+        "acceptance": 0.005007324913970859,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+      },
+      {
+        "lcId": 765,
+        "title": "Couples Holding Hands",
+        "slug": "couples-holding-hands",
+        "difficulty": "Hard",
+        "frequency": 62.4,
+        "acceptance": 0.005965861240251693,
+        "topics": [
+          "Greedy",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/couples-holding-hands"
+      },
+      {
+        "lcId": 1824,
+        "title": "Minimum Sideway Jumps",
+        "slug": "minimum-sideway-jumps",
+        "difficulty": "Medium",
+        "frequency": 62.4,
+        "acceptance": 0.005193363157405136,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-sideway-jumps"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1268,
+        "title": "Search Suggestions System",
+        "slug": "search-suggestions-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006523464791026415,
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/search-suggestions-system"
+      },
+      {
+        "lcId": 2939,
+        "title": "Maximum Xor Product",
+        "slug": "maximum-xor-product",
+        "difficulty": "Medium",
+        "frequency": 93.6,
+        "acceptance": 0.00305721499182135,
+        "topics": [
+          "Math",
+          "Greedy",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/maximum-xor-product"
+      },
+      {
+        "lcId": 713,
+        "title": "Subarray Product Less Than K",
+        "slug": "subarray-product-less-than-k",
+        "difficulty": "Medium",
+        "frequency": 89.7,
+        "acceptance": 0.005485874518051174,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 85.1,
+        "acceptance": 0.004786895677649352,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 224,
+        "title": "Basic Calculator",
+        "slug": "basic-calculator",
+        "difficulty": "Hard",
+        "frequency": 85.1,
+        "acceptance": 0.004711213771316073,
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator"
+      },
+      {
+        "lcId": 3649,
+        "title": "Number of Perfect Pairs",
+        "slug": "number-of-perfect-pairs",
+        "difficulty": "Medium",
+        "frequency": 85.1,
+        "acceptance": 0.0034627465946453734,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-perfect-pairs"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 79.4,
+        "acceptance": 0.005373544086224044,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 79.4,
+        "acceptance": 0.006802853937837948,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 72.2,
+        "acceptance": 0.005725130462146871,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 300,
+        "title": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.005984864518378644,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.007312905429484083,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 403,
+        "title": "Frog Jump",
+        "slug": "frog-jump",
+        "difficulty": "Hard",
+        "frequency": 72.2,
+        "acceptance": 0.004754536438928945,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/frog-jump"
+      },
+      {
+        "lcId": 2771,
+        "title": "Longest Non-decreasing Subarray From Two Arrays",
+        "slug": "longest-non-decreasing-subarray-from-two-arrays",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.003149918742111385,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays"
+      },
+      {
+        "lcId": 2466,
+        "title": "Count Ways To Build Good Strings",
+        "slug": "count-ways-to-build-good-strings",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.005884268138057586,
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/count-ways-to-build-good-strings"
+      },
+      {
+        "lcId": 3035,
+        "title": "Maximum Palindromes After Operations",
+        "slug": "maximum-palindromes-after-operations",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.0047082602094137595,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+      },
+      {
+        "lcId": 1669,
+        "title": "Merge In Between Linked Lists",
+        "slug": "merge-in-between-linked-lists",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.008312766796484836,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/merge-in-between-linked-lists"
+      },
+      {
+        "lcId": 1824,
+        "title": "Minimum Sideway Jumps",
+        "slug": "minimum-sideway-jumps",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.005193363157405136,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-sideway-jumps"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 61.9,
+        "acceptance": 0.006496056761377224,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 64,
+        "title": "Minimum Path Sum",
+        "slug": "minimum-path-sum",
+        "difficulty": "Medium",
+        "frequency": 61.9,
+        "acceptance": 0.006874283061219502,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-path-sum"
+      },
+      {
+        "lcId": 1605,
+        "title": "Find Valid Matrix Given Row and Column Sums",
+        "slug": "find-valid-matrix-given-row-and-column-sums",
+        "difficulty": "Medium",
+        "frequency": 61.9,
+        "acceptance": 0.008256669084461637,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix",
+          "Flow Network"
+        ],
+        "link": "https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums"
+      },
+      {
+        "lcId": 2918,
+        "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+        "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+        "difficulty": "Medium",
+        "frequency": 61.9,
+        "acceptance": 0.005007324913970859,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+      },
+      {
+        "lcId": 765,
+        "title": "Couples Holding Hands",
+        "slug": "couples-holding-hands",
+        "difficulty": "Hard",
+        "frequency": 61.9,
+        "acceptance": 0.005965861240251693,
+        "topics": [
+          "Greedy",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/couples-holding-hands"
+      },
+      {
+        "lcId": 1326,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+        "difficulty": "Hard",
+        "frequency": 61.9,
+        "acceptance": 0.005106341685817617,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+      },
+      {
+        "lcId": 992,
+        "title": "Subarrays with K Different Integers",
+        "slug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard",
+        "frequency": 61.9,
+        "acceptance": 0.006886151304501747,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+      },
+      {
+        "lcId": 746,
+        "title": "Min Cost Climbing Stairs",
+        "slug": "min-cost-climbing-stairs",
+        "difficulty": "Easy",
+        "frequency": 61.9,
+        "acceptance": 0.006863485650945895,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/min-cost-climbing-stairs"
+      },
+      {
+        "lcId": 451,
+        "title": "Sort Characters By Frequency",
+        "slug": "sort-characters-by-frequency",
+        "difficulty": "Medium",
+        "frequency": 61.9,
+        "acceptance": 0.007571009095740409,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/sort-characters-by-frequency"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

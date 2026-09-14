@@ -1,0 +1,324 @@
+{
+  "name": "Akamai",
+  "slug": "akamai",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 2,
+    "gt6m": 7,
+    "all": 13
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 525,
+        "title": "Contiguous Array",
+        "slug": "contiguous-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0052082291576860075,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/contiguous-array"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 78.9,
+        "acceptance": 0.007312510017465137,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005725108396973595,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 2235,
+        "title": "Add Two Integers",
+        "slug": "add-two-integers",
+        "difficulty": "Easy",
+        "frequency": 82.5,
+        "acceptance": 0.008809079255378442,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/add-two-integers"
+      },
+      {
+        "lcId": 387,
+        "title": "First Unique Character in a String",
+        "slug": "first-unique-character-in-a-string",
+        "difficulty": "Easy",
+        "frequency": 72.2,
+        "acceptance": 0.006611153379300317,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+      },
+      {
+        "lcId": 62,
+        "title": "Unique Paths",
+        "slug": "unique-paths",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.006717300556067408,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "link": "https://leetcode.com/problems/unique-paths"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.005762649340140076,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 72.2,
+        "acceptance": 0.005800918768980581,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.00397788058102357,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 961,
+        "title": "N-Repeated Element in Size 2N Array",
+        "slug": "n-repeated-element-in-size-2n-array",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007998950092984666,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Pigeonhole Principle"
+        ],
+        "link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 94,
+        "acceptance": 0.005725108396973595,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 525,
+        "title": "Contiguous Array",
+        "slug": "contiguous-array",
+        "difficulty": "Medium",
+        "frequency": 85.9,
+        "acceptance": 0.0052082291576860075,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/contiguous-array"
+      },
+      {
+        "lcId": 2235,
+        "title": "Add Two Integers",
+        "slug": "add-two-integers",
+        "difficulty": "Easy",
+        "frequency": 73.7,
+        "acceptance": 0.008809079255378442,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/add-two-integers"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "acceptance": 0.005800918768980581,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 387,
+        "title": "First Unique Character in a String",
+        "slug": "first-unique-character-in-a-string",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "acceptance": 0.006611153379300317,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+      },
+      {
+        "lcId": 62,
+        "title": "Unique Paths",
+        "slug": "unique-paths",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.006717300556067408,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "link": "https://leetcode.com/problems/unique-paths"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.005762649340140076,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.00397788058102357,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.007312510017465137,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 162,
+        "title": "Find Peak Element",
+        "slug": "find-peak-element",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.004714029442407914,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-peak-element"
+      },
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.005203993313307946,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      },
+      {
+        "lcId": 1200,
+        "title": "Minimum Absolute Difference",
+        "slug": "minimum-absolute-difference",
+        "difficulty": "Easy",
+        "frequency": 64,
+        "acceptance": 0.007518446875455541,
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-absolute-difference"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

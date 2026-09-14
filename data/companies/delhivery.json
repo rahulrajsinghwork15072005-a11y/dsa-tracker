@@ -1,0 +1,123 @@
+{
+  "name": "Delhivery",
+  "slug": "delhivery",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 180,
+        "title": "Consecutive Numbers",
+        "slug": "consecutive-numbers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0049083663487121095,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/consecutive-numbers"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0058009511386919775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 152,
+        "title": "Maximum Product Subarray",
+        "slug": "maximum-product-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003689215481738906,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-subarray"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0045462252732652204,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 180,
+        "title": "Consecutive Numbers",
+        "slug": "consecutive-numbers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0049083663487121095,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/consecutive-numbers"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0058009511386919775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 152,
+        "title": "Maximum Product Subarray",
+        "slug": "maximum-product-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003689215481738906,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-subarray"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0045462252732652204,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

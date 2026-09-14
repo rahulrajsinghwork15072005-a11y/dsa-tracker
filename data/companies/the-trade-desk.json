@@ -1,0 +1,150 @@
+{
+  "name": "The Trade Desk",
+  "slug": "the-trade-desk",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00463263270478461,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.00576272067573875,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.006956899618246427,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.006060174086630153,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006226133579441203,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 78,
+        "acceptance": 0.00463263270478461,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 68.9,
+        "acceptance": 0.00576272067573875,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 68.9,
+        "acceptance": 0.006956899618246427,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 68.9,
+        "acceptance": 0.006060174086630153,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

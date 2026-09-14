@@ -1,0 +1,656 @@
+{
+  "name": "Juspay",
+  "slug": "juspay",
+  "counts": {
+    "30d": 1,
+    "3m": 3,
+    "6m": 5,
+    "gt6m": 14,
+    "all": 20
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 2087,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005186240939982271,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 2087,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005186240939982271,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+      },
+      {
+        "lcId": 2009,
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "slug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard",
+        "frequency": 90.2,
+        "acceptance": 0.005176202584074462,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous"
+      },
+      {
+        "lcId": 1993,
+        "title": "Operations on Tree",
+        "slug": "operations-on-tree",
+        "difficulty": "Medium",
+        "frequency": 90.2,
+        "acceptance": 0.0045780126997418185,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/operations-on-tree"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2009,
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "slug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005176202584074462,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous"
+      },
+      {
+        "lcId": 2087,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005186240939982271,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+      },
+      {
+        "lcId": 152,
+        "title": "Maximum Product Subarray",
+        "slug": "maximum-product-subarray",
+        "difficulty": "Medium",
+        "frequency": 89.4,
+        "acceptance": 0.003689225221573429,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-subarray"
+      },
+      {
+        "lcId": 1993,
+        "title": "Operations on Tree",
+        "slug": "operations-on-tree",
+        "difficulty": "Medium",
+        "frequency": 89.4,
+        "acceptance": 0.0045780126997418185,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/operations-on-tree"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 89.4,
+        "acceptance": 0.004910891835136791,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1993,
+        "title": "Operations on Tree",
+        "slug": "operations-on-tree",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0045780126997418185,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/operations-on-tree"
+      },
+      {
+        "lcId": 3409,
+        "title": "Longest Subsequence With Decreasing Adjacent Difference",
+        "slug": "longest-subsequence-with-decreasing-adjacent-difference",
+        "difficulty": "Medium",
+        "frequency": 84.2,
+        "acceptance": 0.0016975247196230673,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference"
+      },
+      {
+        "lcId": 2359,
+        "title": "Find Closest Node to Given Two Nodes",
+        "slug": "find-closest-node-to-given-two-nodes",
+        "difficulty": "Medium",
+        "frequency": 63.8,
+        "acceptance": 0.0053061476790510365,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes"
+      },
+      {
+        "lcId": 1857,
+        "title": "Largest Color Value in a Directed Graph",
+        "slug": "largest-color-value-in-a-directed-graph",
+        "difficulty": "Hard",
+        "frequency": 58,
+        "acceptance": 0.005718224356286481,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Memoization",
+          "Counting",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph"
+      },
+      {
+        "lcId": 3515,
+        "title": "Shortest Path in a Weighted Tree",
+        "slug": "shortest-path-in-a-weighted-tree",
+        "difficulty": "Hard",
+        "frequency": 58,
+        "acceptance": 0.004148438350201328,
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 58,
+        "acceptance": 0.004910891835136791,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 2360,
+        "title": "Longest Cycle in a Graph",
+        "slug": "longest-cycle-in-a-graph",
+        "difficulty": "Hard",
+        "frequency": 49.9,
+        "acceptance": 0.005104752676015899,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Kosaraju's Algorithm",
+          "Tarjan's SCC Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/longest-cycle-in-a-graph"
+      },
+      {
+        "lcId": 73,
+        "title": "Set Matrix Zeroes",
+        "slug": "set-matrix-zeroes",
+        "difficulty": "Medium",
+        "frequency": 49.9,
+        "acceptance": 0.006348235344997938,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/set-matrix-zeroes"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 49.9,
+        "acceptance": 0.003977946185101758,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 134,
+        "title": "Gas Station",
+        "slug": "gas-station",
+        "difficulty": "Medium",
+        "frequency": 49.9,
+        "acceptance": 0.004855705321632883,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/gas-station"
+      },
+      {
+        "lcId": 1717,
+        "title": "Maximum Score From Removing Substrings",
+        "slug": "maximum-score-from-removing-substrings",
+        "difficulty": "Medium",
+        "frequency": 49.9,
+        "acceptance": 0.006641197407061561,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+      },
+      {
+        "lcId": 735,
+        "title": "Asteroid Collision",
+        "slug": "asteroid-collision",
+        "difficulty": "Medium",
+        "frequency": 49.9,
+        "acceptance": 0.0048763096265253296,
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/asteroid-collision"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 49.9,
+        "acceptance": 0.005800955370218203,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 49.9,
+        "acceptance": 0.005257644267966873,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1993,
+        "title": "Operations on Tree",
+        "slug": "operations-on-tree",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0045780126997418185,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/operations-on-tree"
+      },
+      {
+        "lcId": 2359,
+        "title": "Find Closest Node to Given Two Nodes",
+        "slug": "find-closest-node-to-given-two-nodes",
+        "difficulty": "Medium",
+        "frequency": 84.1,
+        "acceptance": 0.0053061476790510365,
+        "topics": [
+          "Depth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes"
+      },
+      {
+        "lcId": 3409,
+        "title": "Longest Subsequence With Decreasing Adjacent Difference",
+        "slug": "longest-subsequence-with-decreasing-adjacent-difference",
+        "difficulty": "Medium",
+        "frequency": 82.4,
+        "acceptance": 0.0016975247196230673,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference"
+      },
+      {
+        "lcId": 2360,
+        "title": "Longest Cycle in a Graph",
+        "slug": "longest-cycle-in-a-graph",
+        "difficulty": "Hard",
+        "frequency": 80.4,
+        "acceptance": 0.005104752676015899,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Kosaraju's Algorithm",
+          "Tarjan's SCC Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/longest-cycle-in-a-graph"
+      },
+      {
+        "lcId": 2374,
+        "title": "Node With Highest Edge Score",
+        "slug": "node-with-highest-edge-score",
+        "difficulty": "Medium",
+        "frequency": 75.8,
+        "acceptance": 0.004956843017127113,
+        "topics": [
+          "Hash Table",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/node-with-highest-edge-score"
+      },
+      {
+        "lcId": 3842,
+        "title": "Toggle Light Bulbs",
+        "slug": "toggle-light-bulbs",
+        "difficulty": "Easy",
+        "frequency": 75.8,
+        "acceptance": 0.007193254441829599,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/toggle-light-bulbs"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 66.2,
+        "acceptance": 0.004910891835136791,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 1857,
+        "title": "Largest Color Value in a Directed Graph",
+        "slug": "largest-color-value-in-a-directed-graph",
+        "difficulty": "Hard",
+        "frequency": 55.7,
+        "acceptance": 0.005718224356286481,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Memoization",
+          "Counting",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph"
+      },
+      {
+        "lcId": 3515,
+        "title": "Shortest Path in a Weighted Tree",
+        "slug": "shortest-path-in-a-weighted-tree",
+        "difficulty": "Hard",
+        "frequency": 55.7,
+        "acceptance": 0.004148438350201328,
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree"
+      },
+      {
+        "lcId": 2009,
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "slug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard",
+        "frequency": 55.7,
+        "acceptance": 0.005176202584074462,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous"
+      },
+      {
+        "lcId": 2087,
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium",
+        "frequency": 55.7,
+        "acceptance": 0.005186240939982271,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+      },
+      {
+        "lcId": 73,
+        "title": "Set Matrix Zeroes",
+        "slug": "set-matrix-zeroes",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.006348235344997938,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/set-matrix-zeroes"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.003977946185101758,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 1717,
+        "title": "Maximum Score From Removing Substrings",
+        "slug": "maximum-score-from-removing-substrings",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.006641197407061561,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+      },
+      {
+        "lcId": 134,
+        "title": "Gas Station",
+        "slug": "gas-station",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.004855705321632883,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/gas-station"
+      },
+      {
+        "lcId": 735,
+        "title": "Asteroid Collision",
+        "slug": "asteroid-collision",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.0048763096265253296,
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/asteroid-collision"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 47.5,
+        "acceptance": 0.005800955370218203,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.005257644267966873,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 152,
+        "title": "Maximum Product Subarray",
+        "slug": "maximum-product-subarray",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.003689225221573429,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-subarray"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.006064826340130374,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

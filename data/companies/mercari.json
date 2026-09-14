@@ -1,0 +1,119 @@
+{
+  "name": "Mercari",
+  "slug": "mercari",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 0,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 1396,
+        "title": "Design Underground System",
+        "slug": "design-underground-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007459873032280065,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/design-underground-system"
+      }
+    ],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2598,
+        "title": "Smallest Missing Non-negative Integer After Operations",
+        "slug": "smallest-missing-non-negative-integer-after-operations",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005593507763608596,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations"
+      },
+      {
+        "lcId": 1598,
+        "title": "Crawler Log Folder",
+        "slug": "crawler-log-folder",
+        "difficulty": "Easy",
+        "frequency": 97.4,
+        "acceptance": 0.007170762897559504,
+        "topics": [
+          "Array",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/crawler-log-folder"
+      },
+      {
+        "lcId": 1399,
+        "title": "Count Largest Group",
+        "slug": "count-largest-group",
+        "difficulty": "Easy",
+        "frequency": 97.4,
+        "acceptance": 0.007467390579457144,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-largest-group"
+      },
+      {
+        "lcId": 1403,
+        "title": "Minimum Subsequence in Non-Increasing Order",
+        "slug": "minimum-subsequence-in-non-increasing-order",
+        "difficulty": "Easy",
+        "frequency": 97.4,
+        "acceptance": 0.007404848297691654,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order"
+      },
+      {
+        "lcId": 1432,
+        "title": "Max Difference You Can Get From Changing an Integer",
+        "slug": "max-difference-you-can-get-from-changing-an-integer",
+        "difficulty": "Medium",
+        "frequency": 97.4,
+        "acceptance": 0.004863295991316072,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer"
+      },
+      {
+        "lcId": 1396,
+        "title": "Design Underground System",
+        "slug": "design-underground-system",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "acceptance": 0.007459873032280065,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/design-underground-system"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DSA Tracker — Editorial Paper Pro • 56 Chapters • PDF Viewer</title>
+<meta name="description" content="Editorial-style DSA tracker: 56 chapters, company-wise prep, progress sync, PDF notes.">
+<meta name="theme-color" content="#f8f5ee">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✒️</text></svg>">
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Patrick+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<script>
+tailwind.config = { theme:{ extend:{ fontFamily:{ serif:['Instrument Serif','serif'], sans:['Inter','sans-serif'], mono:['JetBrains Mono','monospace'], hand:['Patrick Hand','cursive'] } }}}
+</script>
+<style>
+:root{ --paper:#FFFEFA; --ink:#0f172a; --muted:#64748b; --line:#e7e5e4; --margin:#fecaca; --amber:#f59e0b; --tape:#fef08a; }
+*{ font-family: Inter, sans-serif }
+.serif{ font-family: "Instrument Serif", serif }
+.hand{ font-family: "Patrick Hand", cursive }
+.mono{ font-family: "JetBrains Mono", monospace }
+body{ background:#f8f5ee; background-image: radial-gradient(#e7e5e4 1.2px, transparent 1.2px); background-size:20px 20px; color:var(--ink) }
+.paper{ background:var(--paper); box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.06), 0 0 0 1px #e7e5e4; position:relative }
+.paper::before{ content:""; position:absolute; left:42px; top:0; bottom:0; width:1.5px; background:var(--margin); opacity:0.55 }
+.tape{ position:absolute; top:-9px; left:50%; transform:translateX(-50%) rotate(-0.9deg); background:var(--tape); padding:3px 14px; font-family:"Patrick Hand"; font-size:11px; border:1px solid #fde68a; box-shadow:0 1px 4px rgba(0,0,0,0.12) }
+.holes{ position:absolute; left:10px; top:16px; bottom:16px; display:flex; flex-direction:column; justify-content:space-around }
+.holes span{ width:12px; height:12px; border-radius:50%; background:#f8f5ee; border:1px solid #d6d3d1; box-shadow:inset 0 1px 2px rgba(0,0,0,0.12) }
+.sticky{ background:#fef9c3; border:1px solid #fde68a; box-shadow:2px 2px 0 rgba(0,0,0,0.05) }
+.check{ width:18px; height:18px; border:1.6px solid #1e293b; border-radius:5px; display:inline-flex; align-items:center; justify-content:center; background:#fff; font-size:11px }
+.check.done{ background:#0f172a; color:#fef9c3; border-color:#0f172a }
+.q-done{ background:#f0fdf4 !important }
+.q-revise{ background:#fffbeb !important; border-left:3px solid var(--amber) !important }
+.chip{ font-size:11px; padding:3px 8px; border:1px solid #e7e5e4; border-radius:999px; background:#fff }
+.chip.active{ background:#0f172a; color:#fff; border-color:#0f172a }
+.tab{ font-family:"Patrick Hand"; font-size:13px; padding:6px 12px; border:1px solid #e7e5e4; border-bottom:none; border-radius:10px 10px 0 0; background:#fff; margin-right:4px }
+.tab.active{ background:#0f172a; color:#fff; border-color:#0f172a }
+.kbd{ font-family:"JetBrains Mono"; font-size:10px; padding:1px 5px; border:1px solid #d6d3d1; border-bottom-width:2px; border-radius:4px; background:#fff }
+::-webkit-scrollbar{ width:6px; height:6px } ::-webkit-scrollbar-thumb{ background:#cbd5e1; border-radius:999px }
+.range{ accent-color:#0f172a }
+#boardViewport{ position:relative; overflow:hidden; height:calc(100vh - 56px); background:#f8f5ee; background-image: radial-gradient(#d6d3d1 1px, transparent 1px); background-size:22px 22px; cursor:grab; user-select:none; }
+#boardViewport:active{ cursor:grabbing; }
+#board{ position:absolute; left:0; top:0; width:8000px; height:6000px; transform-origin:0 0; }
+.board-card{ position:absolute; width:360px; min-height:140px; background:var(--paper); border:1px solid #e7e5e4; border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,0.08), 0 0 0 1px #e7e5e4; overflow:hidden; cursor:default; }
+body.board-mode{ background:#f8f5ee; }
+body.board-mode .max-w-\[1600px\]{ max-width:none !important; margin:0 !important; padding:0 !important; }
+body.board-mode aside{ display:none !important; }
+body.board-mode #dashboardGrid{ display:none !important; }
+body.board-mode #mainContent{ display:none !important; }
+body.board-mode #boardViewport{ position:fixed; top:56px; left:0; right:0; bottom:0; width:100vw; height:calc(100vh - 56px) !important; border:none; border-radius:0; z-index:10; }
+body.board-mode #boardViewport #boardToolbar{ left:12px; top:12px; }
+.board-card .card-header{ cursor:grab; user-select:none; }
+.board-card:active .card-header{ cursor:grabbing; }
+.board-card .resize-handle{ position:absolute; right:2px; bottom:2px; width:16px; height:16px; cursor:se-resize; display:flex; align-items:center; justify-content:center; color:#a8a29e; }
+.board-card.selected{ outline:2px solid #0f172a; outline-offset:2px; }
+ #boardConnections{ position:absolute; left:0; top:0; width:5000px; height:5000px; pointer-events:none; }
+/* ---- Pro polish pass ---- */
+::selection{ background:#fde68a; color:#0f172a }
+button, a, select, input[type="checkbox"], label{ transition: background-color .15s ease, color .15s ease, border-color .15s ease, box-shadow .15s ease }
+button:active{ transform: translateY(1px) }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible{ outline:2px solid #0f172a; outline-offset:2px }
+.check{ cursor:pointer } .check:hover{ border-color:#0f172a; box-shadow:0 0 0 2px #fef08a }
+.chip:hover{ border-color:#a8a29e } .tab:hover{ background:#fef9c3 }
+tbody tr{ transition: background-color .12s ease }
+.skeleton{ position:relative; overflow:hidden; background:#e7e5e4; border-radius:8px; min-height:14px }
+.skeleton::after{ content:""; position:absolute; inset:0; background:linear-gradient(90deg, transparent, rgba(255,255,255,.75), transparent); animation:shimmer 1.2s infinite }
+@keyframes shimmer{ from{ transform:translateX(-100%) } to{ transform:translateX(100%) } }
+#toasts{ position:fixed; bottom:16px; left:50%; transform:translateX(-50%); z-index:60; display:flex; flex-direction:column; gap:8px; align-items:center; pointer-events:none; width:max-content; max-width:92vw }
+.toast{ pointer-events:auto; background:#0f172a; color:#fef9c3; font-family:"Patrick Hand", cursive; font-size:14px; padding:8px 18px; border-radius:999px; box-shadow:0 8px 24px rgba(0,0,0,.25); animation:toastIn .25s ease; transition:opacity .3s ease }
+.toast.err{ background:#7f1d1d; color:#fecaca }
+@keyframes toastIn{ from{ opacity:0; transform:translateY(8px) } }
+.ring{ transform:rotate(-90deg) } .ring .bg{ stroke:#e7e5e4 } .ring .fg{ stroke:#0f172a; stroke-linecap:round; transition:stroke-dashoffset .5s ease }
+#boardViewport{ touch-action:none }
+.board-card .card-header{ touch-action:none }
+.board-card .resize-handle{ touch-action:none }
+body.board-mode header .mobile-row{ display:none !important }
+/* ---- Dark ink mode ---- */
+body.dark{ --paper:#1c1917; --ink:#e7e5e4; --muted:#a8a29e; --line:#44403c; background:#0c0a09; background-image:radial-gradient(#292524 1.2px, transparent 1.2px); color:var(--ink) }
+body.dark ::selection{ background:#78350f; color:#fef3c7 }
+body.dark .paper{ background:var(--paper); box-shadow:0 8px 24px rgba(0,0,0,.4), 0 0 0 1px #44403c }
+body.dark header{ background-color:rgba(12,10,9,.92) !important }
+body.dark .sticky{ background:#451a03; border-color:#92400e; color:#fde68a }
+body.dark .tape{ background:#78350f; border-color:#92400e; color:#fef3c7 }
+body.dark .holes span{ background:#0c0a09; border-color:#44403c }
+body.dark .check{ background:#292524; border-color:#a8a29e; color:#e7e5e4 }
+body.dark .check:hover{ border-color:#fbbf24; box-shadow:0 0 0 2px #451a03 }
+body.dark .check.done{ background:#fbbf24; color:#0c0a09; border-color:#fbbf24 }
+body.dark .q-done{ background:rgba(6,78,59,.35) !important }
+body.dark .q-revise{ background:rgba(69,26,3,.4) !important }
+body.dark .chip{ background:#292524; border-color:#44403c; color:#e7e5e4 }
+body.dark .chip.active{ background:#fbbf24; color:#0c0a09; border-color:#fbbf24 }
+body.dark .tab{ background:#292524; border-color:#44403c; color:#e7e5e4 }
+body.dark .tab.active{ background:#fbbf24; color:#0c0a09; border-color:#fbbf24 }
+body.dark .kbd{ background:#292524; border-color:#44403c; color:#e7e5e4 }
+body.dark ::-webkit-scrollbar-thumb{ background:#57534e }
+body.dark .board-card{ background:var(--paper); border-color:#44403c; box-shadow:0 8px 24px rgba(0,0,0,.5), 0 0 0 1px #44403c }
+body.dark #boardViewport{ background:#0c0a09; background-image:radial-gradient(#292524 1px, transparent 1px) }
+body.dark #boardMiniInner{ background:#0c0a09 !important }
+body.dark #boardMiniView{ border-color:#fbbf24 !important }
+body.dark .skeleton{ background:#44403c }
+body.dark .skeleton::after{ background:linear-gradient(90deg, transparent, rgba(255,255,255,.12), transparent) }
+body.dark .ring .bg{ stroke:#44403c } body.dark .ring .fg{ stroke:#fbbf24 }
+body.dark input, body.dark select, body.dark textarea{ background-color:#292524 !important; color:#e7e5e4 !important; border-color:#44403c !important }
+body.dark input::placeholder, body.dark textarea::placeholder{ color:#78716c }
+body.dark button:focus-visible, body.dark a:focus-visible, body.dark input:focus-visible, body.dark select:focus-visible, body.dark textarea:focus-visible{ outline-color:#fbbf24 }
+body.dark tbody tr:hover{ background:rgba(120,53,15,.25) !important }
+body.dark [class*="bg-white"]{ background-color:#292524 !important }
+body.dark [class*="bg-stone-100"]{ background-color:#292524 !important }
+body.dark [class*="bg-stone-200"]{ background-color:#44403c !important }
+body.dark [class*="bg-amber-50"]{ background-color:rgba(69,26,3,.4) !important }
+body.dark [class*="bg-amber-100"]{ background-color:rgba(69,26,3,.75) !important; color:#fde68a !important }
+body.dark [class*="bg-amber-200"]{ background-color:#78350f !important; color:#fef3c7 !important }
+body.dark [class*="bg-amber-400"]{ background-color:#b45309 !important }
+body.dark [class*="bg-emerald-50"], body.dark [class*="bg-emerald-100"]{ background-color:rgba(6,78,59,.55) !important }
+body.dark [class*="bg-red-50"], body.dark [class*="bg-red-100"]{ background-color:rgba(127,29,29,.55) !important }
+body.dark [class*="bg-sky-50"], body.dark [class*="bg-sky-100"]{ background-color:rgba(12,74,110,.55) !important }
+body.dark [class*="text-stone-500"]{ color:#a8a29e !important }
+body.dark [class*="text-stone-400"]{ color:#78716c !important }
+body.dark [class*="text-sky-700"]{ color:#7dd3fc !important }
+body.dark [class*="text-red-600"], body.dark [class*="text-red-700"]{ color:#fca5a5 !important }
+body.dark .border, body.dark [class*="border-stone-"]{ border-color:#44403c !important }
+body.dark [class*="border-amber-"]{ border-color:#92400e !important }
+body.dark [class*="border-sky-"]{ border-color:#0c4a6e !important }
+@media (prefers-reduced-motion: reduce){ *{ animation:none !important; transition:none !important } }
+</style>
+</head>
+<body class="antialiased">
+<div id="toasts" aria-live="polite"></div>
+<!-- Header 56px -->
+<header class="sticky top-0 z-30 backdrop-blur bg-[#f8f5ee]/90 border-b border-stone-300">
+  <div class="max-w-[1600px] mx-auto px-3 lg:px-5 h-[56px] flex items-center justify-between gap-3">
+    <div class="flex items-center gap-3 min-w-0">
+      <div class="w-8 h-8 bg-stone-900 text-amber-100 rounded-lg flex items-center justify-center -rotate-3 shadow"><i class="fa-solid fa-pen-nib text-xs"></i></div>
+      <div class="min-w-0">
+        <h1 class="serif text-[18px] lg:text-[20px] leading-none tracking-tight">DSA Mastery <span class="italic font-normal">— Editorial Paper</span></h1>
+        <p class="hand text-[11px] text-stone-500 truncate">56 chapters • <span id="totalQ">1235</span> rows • <b id="uniqueQ">844</b> unique • <span id="overallPctH">0%</span> inked</p>
+      </div>
+      <button onclick="openCmd()" class="hidden md:flex items-center gap-2 ml-2 paper px-2.5 py-1.5 rounded-full border text-xs hand"><i class="fa-solid fa-magnifying-glass"></i> Search <span class="kbd">⌘K</span></button>
+      <span id="netDot" title="Online" class="w-2 h-2 rounded-full bg-emerald-500 shrink-0"></span>
+    </div>
+    <div class="flex items-center gap-2 shrink-0">
+      <div class="hidden xl:flex items-center gap-1.5 paper px-2 py-1 rounded-full border text-xs hand">
+        <i class="fa-brands fa-leetcode text-orange-500"></i>
+        <input id="lcUser" placeholder="LC username" class="w-[110px] bg-transparent outline-none placeholder:text-stone-400">
+        <button onclick="connectLC()" id="lcBtn" class="bg-stone-900 text-white px-2.5 py-0.5 rounded-full serif text-xs">Sync</button>
+        <span id="lcStatus" class="text-[10px] text-stone-500 max-w-[110px] truncate"></span>
+      </div>
+      <div class="hidden lg:flex items-center gap-1 text-[11px] hand">
+        <span class="paper px-2 py-1 rounded-full border">Done <b id="doneCount">0</b></span>
+        <span class="sticky px-2 py-1 rounded-full">Revise <b id="reviseCount">0</b></span>
+        <span class="paper px-2 py-1 rounded-full border"><b id="remainCount">0</b> left</span>
+      </div>
+      <div id="authArea" class="flex items-center gap-1 paper px-2 py-1 rounded-full border hand text-xs">
+        <span id="authUser" class="hidden max-w-[90px] truncate"></span>
+        <button id="authBtn" onclick="openAuth()" class="bg-stone-900 text-white px-2.5 py-0.5 rounded-full serif">Login</button>
+        <button id="logoutBtn" onclick="doLogout()" class="hidden bg-red-50 text-red-700 px-2 py-0.5 rounded-full border">Logout</button>
+      </div>
+      <button onclick="exportProgress()" title="Export progress JSON" class="paper px-2.5 py-1.5 rounded-full border text-xs hand"><i class="fa-solid fa-download"></i></button>
+      <button onclick="resetAll()" title="Erase all ink" class="paper px-2.5 py-1.5 rounded-full border text-xs hand text-stone-400 hover:text-red-600"><i class="fa-solid fa-rotate-left"></i></button>
+      <button onclick="toggleTheme()" id="themeBtn" title="Toggle dark ink" class="paper px-2.5 py-1.5 rounded-full border text-xs hand"><i class="fa-solid fa-moon"></i></button>
+      <label class="paper px-2.5 py-1.5 rounded-full border text-xs hand cursor-pointer"><i class="fa-solid fa-upload"></i><input type="file" class="hidden" accept=".json" onchange="importProgress(event)"></label>
+    </div>
+  </div>
+  <div class="h-1 bg-stone-200 max-w-[1600px] mx-auto"><div id="overallBar" class="h-1 bg-stone-900 transition-all" style="width:0%"></div></div>
+  <!-- mobile LC + search -->
+  <div class="mobile-row lg:hidden px-3 py-1.5 flex gap-1.5 items-center">
+    <div class="flex-1 flex gap-1 items-center paper rounded-full border px-2 py-1 text-xs hand"><i class="fa-brands fa-leetcode text-orange-500"></i><input id="lcUserM" placeholder="LC username" class="flex-1 bg-transparent outline-none"><button onclick="connectLC(true)" class="bg-stone-900 text-white px-2 py-0.5 rounded-full serif">Sync</button></div>
+    <span id="lcStatusM" class="text-[10px] hand"></span>
+    <button onclick="openCmd()" class="paper p-1.5 rounded-full border"><i class="fa-solid fa-magnifying-glass text-xs"></i></button>
+  </div>
+</header>
+
+<div class="max-w-[1600px] mx-auto flex flex-col lg:flex-row gap-3 lg:gap-4 p-3 lg:p-4">
+  <!-- Sidebar with phases -->
+  <aside class="w-full lg:w-[360px] shrink-0">
+    <div class="paper rounded-2xl p-3 lg:sticky lg:top-[68px] lg:max-h-[calc(100vh-76px)] flex flex-col">
+      <div class="tape">INDEX • PHASES</div>
+      <div class="holes hidden lg:flex"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+      <div class="ml-0 lg:ml-8 mt-6 space-y-2">
+        <div class="grid grid-cols-2 gap-1">
+          <button onclick="setView('chapters')" id="btnChapters" class="serif text-sm py-1.5 rounded-full bg-stone-900 text-amber-100">Chapters</button>
+          <button onclick="setView('companies')" id="btnCompanies" class="serif text-sm py-1.5 rounded-full bg-white border">Companies</button>
+          <button onclick="setView('all')" id="btnAll" class="serif text-sm py-1.5 rounded-full bg-white border">Unique Qs</button>
+          <button onclick="setView('revise')" id="btnRevise" class="serif text-sm py-1.5 rounded-full bg-white border">Revise</button>
+        </div>
+        <button onclick="setView('due')" id="btnDue" class="w-full serif text-sm py-1.5 rounded-full bg-white border">Due today • <b id="dueCount">0</b></button>
+        <button onclick="setView('sprint')" id="btnSprint" class="w-full serif text-sm py-1.5 rounded-full bg-white border">Sprint ⏱</button>
+        <button onclick="setView('board')" id="btnBoard" class="w-full serif text-sm py-1.5 rounded-full bg-amber-200 border border-amber-300 hover:bg-amber-300">Board ∞ Wikiboard</button>
+        <label class="flex items-center gap-1.5 text-[11px] hand cursor-pointer select-none"><input type="checkbox" id="dedupToggle" checked onchange="render()" class="accent-stone-900"> Unique only — 844 (hide 391 shared rows)</label>
+        <div class="relative">
+          <i class="fa-solid fa-search absolute left-2.5 top-2.5 text-stone-400 text-[11px]"></i>
+          <input id="search" placeholder="Filter chapters, topics, LC…" oninput="onSearch()" class="w-full pl-7 pr-2 py-1.5 text-xs border border-stone-300 rounded-full bg-amber-50/40 hand focus:bg-white focus:outline-none">
+        </div>
+        <div class="flex flex-wrap gap-1">
+          <select id="filterDiff" onchange="render()" class="chip hand"><option value="">All levels</option><option>Easy</option><option>Medium</option><option>Hard</option></select>
+          <select id="filterStatus" onchange="render()" class="chip hand"><option value="">All status</option><option value="todo">✗ Todo</option><option value="done">✓ Done</option><option value="revise">★ Revise</option></select>
+          <button onclick="clearFilters()" class="chip hand">Clear</button>
+        </div>
+        <!-- Company picker - shown only in Companies view -->
+        <div id="companyPicker" class="hidden space-y-1.5 p-2 paper rounded-xl border">
+          <label class="hand text-[11px] tracking-widest text-stone-500">COMPANIES • 470 • <span id="companyCountLabel" class="font-semibold">loading</span></label>
+          <input id="companyFilter" placeholder="Search 470… Google, TCS, Goldman" oninput="filterCompanyPicker(this.value)" class="w-full hand text-xs border rounded-full px-2 py-1 bg-white">
+          <div id="topCompanyChips" class="flex flex-wrap gap-0.5"></div>
+          <div class="flex gap-1">
+            <select id="companySelect" onchange="onCompanyChange(this.value)" class="flex-1 chip hand text-xs w-full">
+              <option value="">Loading 470 companies...</option>
+            </select>
+            <button onclick="setCompanyTarget()" id="targetBtn" class="chip hand text-[11px] bg-amber-100 border-amber-300 whitespace-nowrap">★ Target</button>
+          </div>
+          <div id="targetBadge" class="hidden hand text-[11px] bg-amber-200 border border-amber-300 rounded-full px-2 py-0.5">Target: <b id="targetName">—</b> <button onclick="clearCompanyTarget()" class="ml-1 underline">clear</button></div>
+          <div id="companyTierList" class="space-y-1.5 max-h-[34vh] overflow-auto pr-1 border-t border-dashed pt-1.5"></div>
+          <p class="hand text-[10px] text-stone-500">Tip: Tap tier → pick company → 30d Top Qs. Freq 0-100.</p>
+        </div>
+        <div id="boardControls" class="hidden space-y-1.5 p-2 paper rounded-xl border">
+          <label class="hand text-[11px] tracking-widest">BOARD ∞ — NEETCODE MAP</label>
+          <button onclick="boardLoadNeetCodeMap()" class="w-full chip hand text-xs bg-sky-100 border-sky-300 font-semibold">🗺️ Load Full NeetCode Map (56 ch)</button>
+          <div class="grid grid-cols-2 gap-1">
+            <button onclick="boardAddCard('welcome')" class="chip hand text-xs">+ Welcome</button>
+            <button onclick="boardAddCard('stats')" class="chip hand text-xs">+ Stats</button>
+            <button onclick="boardAddCard('nextup')" class="chip hand text-xs">+ Next Up</button>
+            <button onclick="boardAddCard('company','google')" class="chip hand text-xs">+ Google</button>
+            <button onclick="boardAddCard('chapter',1)" class="chip hand text-xs">+ Ch 01</button>
+            <button onclick="boardAddCard('company','amazon')" class="chip hand text-xs">+ Amazon</button>
+          </div>
+          <div class="flex gap-1">
+            <button onclick="boardZoom(0.1)" class="chip hand text-xs flex-1"><i class="fa-solid fa-plus"></i> Zoom</button>
+            <button onclick="boardZoom(-0.1)" class="chip hand text-xs flex-1"><i class="fa-solid fa-minus"></i> Zoom</button>
+            <button onclick="boardReset()" class="chip hand text-xs">Reset</button>
+          </div>
+          <p class="hand text-[10px] text-stone-500">Board saves to <code>localStorage board-layout-v1</code> • drag header • ↘ resize • pan bg</p>
+        </div>
+      </div>
+      <div id="phaseList" class="ml-0 lg:ml-8 mt-3 flex-1 overflow-y-auto pr-1 space-y-2 max-h-[38vh] lg:max-h-none"></div>
+      <div id="companyMini" class="ml-0 lg:ml-8 mt-2 p-2 paper rounded-xl border hand text-xs">
+        <div class="hand text-[10px] tracking-widest text-stone-500">QUICK COMPANIES</div>
+        <div id="companyMiniChips" class="flex flex-wrap gap-0.5 mt-1"></div>
+        <p class="hand text-[10px] text-stone-400 mt-1">Tap to jump to Company Prep</p>
+      </div>
+      <div class="ml-0 lg:ml-8 mt-3 pt-2 border-t border-dashed hand text-[11px] text-stone-500">
+        <div class="flex justify-between"><span>Chapters done</span><span id="chaptersDone" class="font-semibold">0/56</span></div>
+        <div class="w-full bg-stone-100 h-1.5 rounded-full mt-1 border"><div id="chapterProgress" class="bg-emerald-600 h-1.5 rounded-full" style="width:0%"></div></div>
+        <p class="mt-2 leading-tight">Keys: <span class="kbd">J</span> <span class="kbd">K</span> nav • <span class="kbd">C</span> check • <span class="kbd">R</span> revise • <span class="kbd">/</span> search</p>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <main class="flex-1 min-w-0 space-y-3">
+    <!-- Dashboard -->
+    <div id="dashboardGrid" class="grid grid-cols-12 gap-3">
+      <div class="col-span-6 lg:col-span-3 paper rounded-2xl p-3 flex items-center gap-3">
+        <svg class="ring shrink-0" width="64" height="64" viewBox="0 0 64 64" aria-hidden="true">
+          <circle class="bg" cx="32" cy="32" r="26" fill="none" stroke-width="7"></circle>
+          <circle id="statRing" class="fg" cx="32" cy="32" r="26" fill="none" stroke-width="7" stroke-dasharray="163.3" stroke-dashoffset="163.3"></circle>
+        </svg>
+        <div class="min-w-0">
+          <p class="hand text-[11px] tracking-widest text-stone-500">PROGRESS</p>
+          <p class="serif text-3xl" id="statPct">0%</p>
+          <p class="hand text-xs"><span id="statDone">0</span> unique done • <span id="statLeft">844</span> left</p>
+          <div class="w-full bg-stone-100 h-1 rounded-full mt-2"><div id="dashBar" class="bg-stone-900 h-1 rounded-full" style="width:0%"></div></div>
+        </div>
+      </div>
+      <div class="col-span-6 lg:col-span-3 sticky rounded-2xl p-3">
+        <p class="hand text-[11px] tracking-widest">STREAK</p>
+        <p class="serif text-3xl" id="streak">0🔥</p>
+        <p class="hand text-xs" id="streakSub">ink daily to keep</p>
+        <div id="heatmap" class="flex gap-[3px] mt-2" title="Last 12 weeks"></div>
+        <p class="hand text-[10px] text-stone-400 mt-1">last 12 wks</p>
+      </div>
+      <div class="col-span-6 lg:col-span-3 paper rounded-2xl p-3">
+        <p class="hand text-[11px] tracking-widest text-stone-500">NEXT UP</p>
+        <p class="serif text-sm leading-tight" id="nextUp">—</p>
+        <button onclick="goNext()" class="mt-1 text-xs hand underline">Go →</button>
+      </div>
+      <div class="col-span-6 lg:col-span-3 sticky rounded-2xl p-3">
+        <p class="hand text-[11px] tracking-widest">FOCUS</p>
+        <p class="hand text-xs" id="focusText">Pick a phase → ink topics first</p>
+        <div class="flex gap-1 mt-1"><span class="chip">Medium</span><span class="chip">Revise</span></div>
+      </div>
+    </div>
+
+    <div id="diffStrip" class="paper rounded-2xl px-3 py-2 mt-3 flex flex-wrap gap-x-4 gap-y-1 items-center hand text-xs text-stone-500"></div>
+    <div id="mainContent"></div>
+    <div id="boardViewport" class="hidden relative rounded-2xl overflow-hidden border bg-[#f8f5ee]" style="height:calc(100vh - 140px); min-height:520px;">
+      <div id="boardToolbar" class="absolute top-2 left-2 z-20 flex flex-wrap gap-1 paper rounded-full p-1 border hand text-xs max-w-[90%]">
+        <button onclick="boardZoom(0.1)" class="chip" title="Zoom in"><i class="fa-solid fa-magnifying-glass-plus"></i></button>
+        <button onclick="boardZoom(-0.1)" class="chip" title="Zoom out"><i class="fa-solid fa-magnifying-glass-minus"></i></button>
+        <button onclick="boardReset()" class="chip">Reset</button>
+        <button onclick="boardLoadNeetCodeMap()" class="chip bg-sky-100 border-sky-300 font-semibold">🗺️ NeetCode Map</button>
+        <button onclick="boardAddCard('welcome')" class="chip">+ Welcome</button>
+        <button onclick="boardAddCard('stats')" class="chip">+ Stats</button>
+        <button onclick="boardAddCard('nextup')" class="chip">+ Next Up</button>
+        <button onclick="boardAddCard('chapter',1)" class="chip">+ Ch 01</button>
+        <button onclick="boardAddCard('company','google')" class="chip">+ Google</button>
+        <button onclick="boardClear()" class="chip">Clear</button>
+        <button onclick="boardExport()" class="chip" title="Download board layout JSON"><i class="fa-solid fa-download"></i></button>
+        <label class="chip cursor-pointer" title="Import board layout JSON"><i class="fa-solid fa-upload"></i><input type="file" class="hidden" accept=".json" onchange="boardImportFile(event)"></label>
+        <span class="hand text-[10px] text-stone-400 hidden md:inline ml-1">drag bg to pan • drag header to move • ↘ resize • click blue link → new card beside</span>
+      </div>
+      <div id="boardMini" class="absolute bottom-2 right-2 z-20 paper rounded-xl border p-1.5 hidden md:block">
+        <div id="boardMiniInner" class="relative rounded-lg overflow-hidden bg-[#f8f5ee] cursor-crosshair" style="width:160px;height:120px" onclick="boardMiniJump(event)" title="Minimap — click to jump">
+          <div id="boardMiniCards" class="absolute inset-0"></div>
+          <div id="boardMiniView" class="absolute border-2 border-stone-900 rounded-sm pointer-events-none"></div>
+        </div>
+      </div>
+      <div id="board" style="transform: translate(0px, 0px) scale(1);">
+        <svg id="boardConnections" style="position:absolute; left:0; top:0; width:5000px; height:5000px; pointer-events:none;"></svg>
+      </div>
+    </div>
+    <p class="text-center hand text-[11px] text-stone-400">Editorial Paper Pro • 56 ch • 470 companies • Board ∞ • LC sync • pdfNotes • <code>localStorage dsa-tracker-v3</code></p>
+  </main>
+</div>
+
+<!-- Command palette -->
+<div id="cmd" class="fixed inset-0 bg-black/30 backdrop-blur-sm hidden z-40" onclick="closeCmd(event)">
+  <div class="max-w-[640px] mx-auto mt-[18vh] paper rounded-2xl p-2" onclick="event.stopPropagation()">
+    <div class="flex items-center gap-2 px-3 py-2 border rounded-full bg-amber-50/50">
+      <i class="fa-solid fa-magnifying-glass text-stone-400"></i>
+      <input id="cmdInput" placeholder="Jump to chapter, LC, topic, notes…" class="flex-1 bg-transparent outline-none hand" oninput="cmdSearch(this.value)" onkeydown="cmdKey(event)">
+      <span class="kbd">ESC</span>
+    </div>
+    <div id="cmdList" class="max-h-[50vh] overflow-auto mt-2 space-y-1"></div>
+  </div>
+</div>
+
+<!-- Login modal (dynamic, not static) -->
+<div id="authModal" class="fixed inset-0 bg-black/40 backdrop-blur-sm hidden z-50 flex items-center justify-center p-4" onclick="if(event.target.id==='authModal') closeAuth()">
+  <div class="paper rounded-2xl max-w-[420px] w-full p-5 relative" onclick="event.stopPropagation()">
+    <div class="tape">DSA Login — dynamic</div>
+    <div class="holes hidden md:flex"><span></span><span></span><span></span><span></span></div>
+    <div class="ml-0 md:ml-8 mt-6">
+      <h3 class="serif text-xl">Welcome back <span class="hand">— ink your progress</span></h3>
+      <p class="hand text-xs text-stone-500">Login saves to server (refresh keeps). Connect LC after login.</p>
+      <div class="mt-3 space-y-2">
+        <input id="authName" placeholder="Name (for register)" class="w-full border rounded-full px-3 py-1.5 hand text-sm bg-amber-50/30">
+        <input id="authEmail" placeholder="Email" class="w-full border rounded-full px-3 py-1.5 hand text-sm">
+        <input id="authPass" type="password" placeholder="Password" class="w-full border rounded-full px-3 py-1.5 hand text-sm">
+        <div class="flex gap-1.5">
+          <button onclick="doLogin()" class="flex-1 bg-stone-900 text-white serif rounded-full py-1.5">Login</button>
+          <button onclick="doRegister()" class="flex-1 bg-white border serif rounded-full py-1.5">Register</button>
+        </div>
+        <p id="authMsg" class="hand text-xs text-red-600"></p>
+        <p class="hand text-[11px] text-stone-400">No email needed for demo — use any email. Password is hashed with bcrypt on server.</p>
+      </div>
+      <button onclick="closeAuth()" class="absolute top-2 right-3 text-stone-400"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+  </div>
+</div>
+
+<!-- LC manual paste modal -->
+<div id="lcModal" class="fixed inset-0 bg-black/40 backdrop-blur-sm hidden z-50 flex items-center justify-center p-4" onclick="if(event.target.id==='lcModal') closeLcPaste()">
+  <div class="paper rounded-2xl max-w-[480px] w-full p-5 relative" onclick="event.stopPropagation()">
+    <div class="tape">Paste solved • LC</div>
+    <div class="mt-6">
+      <h3 class="serif text-xl">Paste your solved list</h3>
+      <p class="hand text-xs text-stone-500">Auto-fetch failed. Paste LC numbers or slugs, comma or space separated — e.g. <span class="kbd">1, 121, two-sum</span></p>
+      <textarea id="lcPaste" rows="4" placeholder="1, 121, 242, two-sum…" class="w-full mt-2 hand text-sm border rounded-xl p-3 bg-amber-50/20 focus:bg-white focus:outline-none"></textarea>
+      <div class="flex gap-1.5 mt-2">
+        <button onclick="submitLcPaste()" class="flex-1 bg-stone-900 text-white serif rounded-full py-1.5">Sync pasted</button>
+        <button onclick="closeLcPaste()" class="flex-1 bg-white border serif rounded-full py-1.5">Cancel</button>
+      </div>
+      <p id="lcPasteMsg" class="hand text-xs text-stone-500 mt-1"></p>
+    </div>
+    <button onclick="closeLcPaste()" class="absolute top-2 right-3 text-stone-400"><i class="fa-solid fa-xmark"></i></button>
+  </div>
+</div>
+
+<script src="js/core.js"></script>
+<script src="js/data.js"></script>
+<script src="js/board.js"></script>
+<script src="js/companies.js"></script>
+<script src="js/track.js"></script>
+<script src="js/srs.js"></script>
+<script src="js/screens.js"></script>
+<script src="js/search.js"></script>
+<script src="js/sprint.js"></script>
+</body>
+</html>

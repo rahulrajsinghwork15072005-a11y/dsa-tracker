@@ -1,0 +1,47 @@
+{
+  "name": "CVENT",
+  "slug": "cvent",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 138,
+        "title": "Copy List with Random Pointer",
+        "slug": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00635090996757327,
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 138,
+        "title": "Copy List with Random Pointer",
+        "slug": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00635090996757327,
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

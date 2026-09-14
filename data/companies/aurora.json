@@ -1,0 +1,406 @@
+{
+  "name": "Aurora",
+  "slug": "aurora",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 3,
+    "gt6m": 8,
+    "all": 13
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005608725862795852,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      },
+      {
+        "lcId": 1610,
+        "title": "Maximum Number of Visible Points",
+        "slug": "maximum-number-of-visible-points",
+        "difficulty": "Hard",
+        "frequency": 89.8,
+        "acceptance": 0.0038392405852091366,
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points"
+      },
+      {
+        "lcId": 1146,
+        "title": "Snapshot Array",
+        "slug": "snapshot-array",
+        "difficulty": "Medium",
+        "frequency": 89.8,
+        "acceptance": 0.003680438748494565,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design",
+          "Persistent Data Structure"
+        ],
+        "link": "https://leetcode.com/problems/snapshot-array"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786837595797511,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 1610,
+        "title": "Maximum Number of Visible Points",
+        "slug": "maximum-number-of-visible-points",
+        "difficulty": "Hard",
+        "frequency": 72.7,
+        "acceptance": 0.0038392405852091366,
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 72.7,
+        "acceptance": 0.004910870393769064,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 694,
+        "title": "Number of Distinct Islands",
+        "slug": "number-of-distinct-islands",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.006293662276449443,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting",
+          "Matrix",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/number-of-distinct-islands"
+      },
+      {
+        "lcId": 212,
+        "title": "Word Search II",
+        "slug": "word-search-ii",
+        "difficulty": "Hard",
+        "frequency": 64.2,
+        "acceptance": 0.003878718747490637,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search-ii"
+      },
+      {
+        "lcId": 305,
+        "title": "Number of Islands II",
+        "slug": "number-of-islands-ii",
+        "difficulty": "Hard",
+        "frequency": 64.2,
+        "acceptance": 0.004070937581124033,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands-ii"
+      },
+      {
+        "lcId": 341,
+        "title": "Flatten Nested List Iterator",
+        "slug": "flatten-nested-list-iterator",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.006582841518480364,
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
+        ],
+        "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.005277665153614223,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786837595797511,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 1610,
+        "title": "Maximum Number of Visible Points",
+        "slug": "maximum-number-of-visible-points",
+        "difficulty": "Hard",
+        "frequency": 81.3,
+        "acceptance": 0.0038392405852091366,
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 76.6,
+        "acceptance": 0.004910870393769064,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 76.6,
+        "acceptance": 0.005608725862795852,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      },
+      {
+        "lcId": 694,
+        "title": "Number of Distinct Islands",
+        "slug": "number-of-distinct-islands",
+        "difficulty": "Medium",
+        "frequency": 61.8,
+        "acceptance": 0.006293662276449443,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting",
+          "Matrix",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/number-of-distinct-islands"
+      },
+      {
+        "lcId": 212,
+        "title": "Word Search II",
+        "slug": "word-search-ii",
+        "difficulty": "Hard",
+        "frequency": 61.8,
+        "acceptance": 0.003878718747490637,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search-ii"
+      },
+      {
+        "lcId": 488,
+        "title": "Zuma Game",
+        "slug": "zuma-game",
+        "difficulty": "Hard",
+        "frequency": 61.8,
+        "acceptance": 0.0029360087380651966,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Breadth-First Search",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/zuma-game"
+      },
+      {
+        "lcId": 305,
+        "title": "Number of Islands II",
+        "slug": "number-of-islands-ii",
+        "difficulty": "Hard",
+        "frequency": 61.8,
+        "acceptance": 0.004070937581124033,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands-ii"
+      },
+      {
+        "lcId": 341,
+        "title": "Flatten Nested List Iterator",
+        "slug": "flatten-nested-list-iterator",
+        "difficulty": "Medium",
+        "frequency": 61.8,
+        "acceptance": 0.006582841518480364,
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
+        ],
+        "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 61.8,
+        "acceptance": 0.005277665153614223,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 1146,
+        "title": "Snapshot Array",
+        "slug": "snapshot-array",
+        "difficulty": "Medium",
+        "frequency": 61.8,
+        "acceptance": 0.003680438748494565,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design",
+          "Persistent Data Structure"
+        ],
+        "link": "https://leetcode.com/problems/snapshot-array"
+      },
+      {
+        "lcId": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "slug": "angle-between-hands-of-a-clock",
+        "difficulty": "Medium",
+        "frequency": 61.8,
+        "acceptance": 0.006987913590099264,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 61.8,
+        "acceptance": 0.0064959996125990346,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,1076 @@
+{
+  "name": "Arista Networks",
+  "slug": "arista-networks",
+  "counts": {
+    "30d": 2,
+    "3m": 2,
+    "6m": 2,
+    "gt6m": 29,
+    "all": 39
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 3399,
+        "title": "Smallest Substring With Identical Characters II",
+        "slug": "smallest-substring-with-identical-characters-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004066115702479339,
+        "topics": [
+          "String",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/smallest-substring-with-identical-characters-ii"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005002874263165587,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 3399,
+        "title": "Smallest Substring With Identical Characters II",
+        "slug": "smallest-substring-with-identical-characters-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004066115702479339,
+        "topics": [
+          "String",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/smallest-substring-with-identical-characters-ii"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005002874263165587,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 3399,
+        "title": "Smallest Substring With Identical Characters II",
+        "slug": "smallest-substring-with-identical-characters-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004066115702479339,
+        "topics": [
+          "String",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/smallest-substring-with-identical-characters-ii"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005002874263165587,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 93,
+        "title": "Restore IP Addresses",
+        "slug": "restore-ip-addresses",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005679358104782088,
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/restore-ip-addresses"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 95.7,
+        "acceptance": 0.0066965109686016756,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 143,
+        "title": "Reorder List",
+        "slug": "reorder-list",
+        "difficulty": "Medium",
+        "frequency": 90.7,
+        "acceptance": 0.00660002656775456,
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reorder-list"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 90.7,
+        "acceptance": 0.005608725862795852,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      },
+      {
+        "lcId": 92,
+        "title": "Reverse Linked List II",
+        "slug": "reverse-linked-list-ii",
+        "difficulty": "Medium",
+        "frequency": 84.5,
+        "acceptance": 0.005217599261663659,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii"
+      },
+      {
+        "lcId": 219,
+        "title": "Contains Duplicate II",
+        "slug": "contains-duplicate-ii",
+        "difficulty": "Easy",
+        "frequency": 84.5,
+        "acceptance": 0.005178440677966102,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate-ii"
+      },
+      {
+        "lcId": 510,
+        "title": "Inorder Successor in BST II",
+        "slug": "inorder-successor-in-bst-ii",
+        "difficulty": "Medium",
+        "frequency": 84.5,
+        "acceptance": 0.00611048199304603,
+        "topics": [
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst-ii"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 84.5,
+        "acceptance": 0.004786837595797511,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 104,
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 84.5,
+        "acceptance": 0.007852233004775541,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 84.5,
+        "acceptance": 0.004546202419381116,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 138,
+        "title": "Copy List with Random Pointer",
+        "slug": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "frequency": 84.5,
+        "acceptance": 0.0063509073416312175,
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+      },
+      {
+        "lcId": 268,
+        "title": "Missing Number",
+        "slug": "missing-number",
+        "difficulty": "Easy",
+        "frequency": 84.5,
+        "acceptance": 0.007251660293379314,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Bit Manipulation",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/missing-number"
+      },
+      {
+        "lcId": 788,
+        "title": "Rotated Digits",
+        "slug": "rotated-digits",
+        "difficulty": "Medium",
+        "frequency": 76.6,
+        "acceptance": 0.006408488063660478,
+        "topics": [
+          "Math",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/rotated-digits"
+      },
+      {
+        "lcId": 203,
+        "title": "Remove Linked List Elements",
+        "slug": "remove-linked-list-elements",
+        "difficulty": "Easy",
+        "frequency": 76.6,
+        "acceptance": 0.005521330074644773,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/remove-linked-list-elements"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 76.6,
+        "acceptance": 0.005122077182050488,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 82,
+        "title": "Remove Duplicates from Sorted List II",
+        "slug": "remove-duplicates-from-sorted-list-ii",
+        "difficulty": "Medium",
+        "frequency": 76.6,
+        "acceptance": 0.005235391616134557,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.007312510017465137,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 113,
+        "title": "Path Sum II",
+        "slug": "path-sum-ii",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.00627416206467224,
+        "topics": [
+          "Backtracking",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/path-sum-ii"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.0038470798655414885,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.004794635270383615,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.008226109900892746,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.003977887244732649,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 1910,
+        "title": "Remove All Occurrences of a Substring",
+        "slug": "remove-all-occurrences-of-a-substring",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.007865664025982249,
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.005373529045417359,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 24,
+        "title": "Swap Nodes in Pairs",
+        "slug": "swap-nodes-in-pairs",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.007010483822064366,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/swap-nodes-in-pairs"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.004977850676155265,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.006713859439054048,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 65.4,
+        "acceptance": 0.00540700692650118,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 65.4,
+        "acceptance": 0.0049132569851247365,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2182,
+        "title": "Construct String With Repeat Limit",
+        "slug": "construct-string-with-repeat-limit",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007078096186862798,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/construct-string-with-repeat-limit"
+      },
+      {
+        "lcId": 997,
+        "title": "Find the Town Judge",
+        "slug": "find-the-town-judge",
+        "difficulty": "Easy",
+        "frequency": 96.8,
+        "acceptance": 0.005104583185044068,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/find-the-town-judge"
+      },
+      {
+        "lcId": 93,
+        "title": "Restore IP Addresses",
+        "slug": "restore-ip-addresses",
+        "difficulty": "Medium",
+        "frequency": 96.8,
+        "acceptance": 0.005679358104782088,
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/restore-ip-addresses"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 89.1,
+        "acceptance": 0.0066965109686016756,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 92,
+        "title": "Reverse Linked List II",
+        "slug": "reverse-linked-list-ii",
+        "difficulty": "Medium",
+        "frequency": 84.3,
+        "acceptance": 0.005217599261663659,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii"
+      },
+      {
+        "lcId": 143,
+        "title": "Reorder List",
+        "slug": "reorder-list",
+        "difficulty": "Medium",
+        "frequency": 84.3,
+        "acceptance": 0.00660002656775456,
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reorder-list"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 84.3,
+        "acceptance": 0.004786837595797511,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 210,
+        "title": "Course Schedule II",
+        "slug": "course-schedule-ii",
+        "difficulty": "Medium",
+        "frequency": 84.3,
+        "acceptance": 0.005608725862795852,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+      },
+      {
+        "lcId": 219,
+        "title": "Contains Duplicate II",
+        "slug": "contains-duplicate-ii",
+        "difficulty": "Easy",
+        "frequency": 78.3,
+        "acceptance": 0.005178440677966102,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/contains-duplicate-ii"
+      },
+      {
+        "lcId": 268,
+        "title": "Missing Number",
+        "slug": "missing-number",
+        "difficulty": "Easy",
+        "frequency": 78.3,
+        "acceptance": 0.007251660293379314,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Bit Manipulation",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/missing-number"
+      },
+      {
+        "lcId": 510,
+        "title": "Inorder Successor in BST II",
+        "slug": "inorder-successor-in-bst-ii",
+        "difficulty": "Medium",
+        "frequency": 78.3,
+        "acceptance": 0.00611048199304603,
+        "topics": [
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst-ii"
+      },
+      {
+        "lcId": 104,
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree",
+        "difficulty": "Easy",
+        "frequency": 78.3,
+        "acceptance": 0.007852233004775541,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 78.3,
+        "acceptance": 0.004546202419381116,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 138,
+        "title": "Copy List with Random Pointer",
+        "slug": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "frequency": 78.3,
+        "acceptance": 0.0063509073416312175,
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+      },
+      {
+        "lcId": 788,
+        "title": "Rotated Digits",
+        "slug": "rotated-digits",
+        "difficulty": "Medium",
+        "frequency": 70.6,
+        "acceptance": 0.006408488063660478,
+        "topics": [
+          "Math",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/rotated-digits"
+      },
+      {
+        "lcId": 203,
+        "title": "Remove Linked List Elements",
+        "slug": "remove-linked-list-elements",
+        "difficulty": "Easy",
+        "frequency": 70.6,
+        "acceptance": 0.005521330074644773,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/remove-linked-list-elements"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 70.6,
+        "acceptance": 0.008226109900892746,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 70.6,
+        "acceptance": 0.005122077182050488,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 82,
+        "title": "Remove Duplicates from Sorted List II",
+        "slug": "remove-duplicates-from-sorted-list-ii",
+        "difficulty": "Medium",
+        "frequency": 70.6,
+        "acceptance": 0.005235391616134557,
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.007312510017465137,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 113,
+        "title": "Path Sum II",
+        "slug": "path-sum-ii",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.00627416206467224,
+        "topics": [
+          "Backtracking",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/path-sum-ii"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.004794635270383615,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.0038470798655414885,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.005373529045417359,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.004977850676155265,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 1910,
+        "title": "Remove All Occurrences of a Substring",
+        "slug": "remove-all-occurrences-of-a-substring",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.007865664025982249,
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.006713859439054048,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 59.8,
+        "acceptance": 0.00540700692650118,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.003977887244732649,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 24,
+        "title": "Swap Nodes in Pairs",
+        "slug": "swap-nodes-in-pairs",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.007010483822064366,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/swap-nodes-in-pairs"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.006308994697353077,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 1351,
+        "title": "Count Negative Numbers in a Sorted Matrix",
+        "slug": "count-negative-numbers-in-a-sorted-matrix",
+        "difficulty": "Easy",
+        "frequency": 59.8,
+        "acceptance": 0.007972178344536555,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix"
+      },
+      {
+        "lcId": 346,
+        "title": "Moving Average from Data Stream",
+        "slug": "moving-average-from-data-stream",
+        "difficulty": "Easy",
+        "frequency": 59.8,
+        "acceptance": 0.00802284503412172,
+        "topics": [
+          "Array",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream"
+      },
+      {
+        "lcId": 232,
+        "title": "Implement Queue using Stacks",
+        "slug": "implement-queue-using-stacks",
+        "difficulty": "Easy",
+        "frequency": 59.8,
+        "acceptance": 0.007023237725269269,
+        "topics": [
+          "Stack",
+          "Design",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/implement-queue-using-stacks"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 59.8,
+        "acceptance": 0.006874738319339019,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.0049132569851247365,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      },
+      {
+        "lcId": 3399,
+        "title": "Smallest Substring With Identical Characters II",
+        "slug": "smallest-substring-with-identical-characters-ii",
+        "difficulty": "Hard",
+        "frequency": 59.8,
+        "acceptance": 0.004066115702479339,
+        "topics": [
+          "String",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/smallest-substring-with-identical-characters-ii"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 59.8,
+        "acceptance": 0.005002874263165587,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      },
+      {
+        "lcId": 1297,
+        "title": "Maximum Number of Occurrences of a Substring",
+        "slug": "maximum-number-of-occurrences-of-a-substring",
+        "difficulty": "Medium",
+        "frequency": 59.8,
+        "acceptance": 0.005480654487297779,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

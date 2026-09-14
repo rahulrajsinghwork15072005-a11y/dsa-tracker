@@ -1,0 +1,241 @@
+{
+  "name": "Info Edge",
+  "slug": "info-edge",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 7,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3334,
+        "title": "Find the Maximum Factor Score of Array",
+        "slug": "find-the-maximum-factor-score-of-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004144537870982751,
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory",
+          "Least Common Multiple"
+        ],
+        "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array"
+      },
+      {
+        "lcId": 3265,
+        "title": "Count Almost Equal Pairs I",
+        "slug": "count-almost-equal-pairs-i",
+        "difficulty": "Medium",
+        "frequency": 94.9,
+        "acceptance": 0.003827439273321086,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/count-almost-equal-pairs-i"
+      },
+      {
+        "lcId": 2032,
+        "title": "Two Out of Three",
+        "slug": "two-out-of-three",
+        "difficulty": "Easy",
+        "frequency": 84.3,
+        "acceptance": 0.007771198501069132,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/two-out-of-three"
+      },
+      {
+        "lcId": 815,
+        "title": "Bus Routes",
+        "slug": "bus-routes",
+        "difficulty": "Hard",
+        "frequency": 72.8,
+        "acceptance": 0.004749635960401232,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/bus-routes"
+      },
+      {
+        "lcId": 1476,
+        "title": "Subrectangle Queries",
+        "slug": "subrectangle-queries",
+        "difficulty": "Medium",
+        "frequency": 72.8,
+        "acceptance": 0.008645542032638807,
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/subrectangle-queries"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 63.6,
+        "acceptance": 0.003847112218768729,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 75,
+        "title": "Sort Colors",
+        "slug": "sort-colors",
+        "difficulty": "Medium",
+        "frequency": 63.6,
+        "acceptance": 0.007016876308054372,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting",
+          "Quicksort",
+          "Bubble Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-colors"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3334,
+        "title": "Find the Maximum Factor Score of Array",
+        "slug": "find-the-maximum-factor-score-of-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004144537870982751,
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory",
+          "Least Common Multiple"
+        ],
+        "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array"
+      },
+      {
+        "lcId": 3265,
+        "title": "Count Almost Equal Pairs I",
+        "slug": "count-almost-equal-pairs-i",
+        "difficulty": "Medium",
+        "frequency": 97.6,
+        "acceptance": 0.003827439273321086,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/count-almost-equal-pairs-i"
+      },
+      {
+        "lcId": 2058,
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "difficulty": "Medium",
+        "frequency": 94.8,
+        "acceptance": 0.006944661593622082,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
+      },
+      {
+        "lcId": 2032,
+        "title": "Two Out of Three",
+        "slug": "two-out-of-three",
+        "difficulty": "Easy",
+        "frequency": 84,
+        "acceptance": 0.007771198501069132,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/two-out-of-three"
+      },
+      {
+        "lcId": 815,
+        "title": "Bus Routes",
+        "slug": "bus-routes",
+        "difficulty": "Hard",
+        "frequency": 72.2,
+        "acceptance": 0.004749635960401232,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/bus-routes"
+      },
+      {
+        "lcId": 1476,
+        "title": "Subrectangle Queries",
+        "slug": "subrectangle-queries",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.008645542032638807,
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/subrectangle-queries"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 62.9,
+        "acceptance": 0.003847112218768729,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 75,
+        "title": "Sort Colors",
+        "slug": "sort-colors",
+        "difficulty": "Medium",
+        "frequency": 62.9,
+        "acceptance": 0.007016876308054372,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting",
+          "Quicksort",
+          "Bubble Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-colors"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

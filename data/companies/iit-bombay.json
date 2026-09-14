@@ -1,0 +1,35 @@
+{
+  "name": "IIT Bombay",
+  "slug": "iit-bombay",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 861,
+        "title": "Score After Flipping Matrix",
+        "slug": "score-after-flipping-matrix",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.008028913996280616,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Bit Manipulation",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/score-after-flipping-matrix"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

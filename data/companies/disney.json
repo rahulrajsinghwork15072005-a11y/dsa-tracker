@@ -1,0 +1,323 @@
+{
+  "name": "Disney",
+  "slug": "disney",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 7,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 1802,
+        "title": "Maximum Value at a Given Index in a Bounded Array",
+        "slug": "maximum-value-at-a-given-index-in-a-bounded-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038843747998548285,
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1802,
+        "title": "Maximum Value at a Given Index in a Bounded Array",
+        "slug": "maximum-value-at-a-given-index-in-a-bounded-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038843747998548285,
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786870487026064,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006713895062201222,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 88.3,
+        "acceptance": 0.005257634241389205,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 88.3,
+        "acceptance": 0.0048187220554086405,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 1209,
+        "title": "Remove All Adjacent Duplicates in String II",
+        "slug": "remove-all-adjacent-duplicates-in-string-ii",
+        "difficulty": "Medium",
+        "frequency": 88.3,
+        "acceptance": 0.006175710558084819,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "lcId": 22,
+        "title": "Generate Parentheses",
+        "slug": "generate-parentheses",
+        "difficulty": "Medium",
+        "frequency": 88.3,
+        "acceptance": 0.00790661143263633,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/generate-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786870487026064,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 1209,
+        "title": "Remove All Adjacent Duplicates in String II",
+        "slug": "remove-all-adjacent-duplicates-in-string-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006175710558084819,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0048187220554086405,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006713895062201222,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.005257634241389205,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 22,
+        "title": "Generate Parentheses",
+        "slug": "generate-parentheses",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.00790661143263633,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/generate-parentheses"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.005277672737389687,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 1802,
+        "title": "Maximum Value at a Given Index in a Bounded Array",
+        "slug": "maximum-value-at-a-given-index-in-a-bounded-array",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.0038843747998548285,
+        "topics": [
+          "Math",
+          "Binary Search",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.0038471098577563916,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 87.6,
+        "acceptance": 0.006029385293205945,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,232 @@
+{
+  "name": "Hive",
+  "slug": "hive",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 5,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0051897776670601515,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006496040637974149,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 1162,
+        "title": "As Far from Land as Possible",
+        "slug": "as-far-from-land-as-possible",
+        "difficulty": "Medium",
+        "frequency": 92.7,
+        "acceptance": 0.00524903222288861,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/as-far-from-land-as-possible"
+      },
+      {
+        "lcId": 912,
+        "title": "Sort an Array",
+        "slug": "sort-an-array",
+        "difficulty": "Medium",
+        "frequency": 82.4,
+        "acceptance": 0.005579252072864468,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Bucket Sort",
+          "Radix Sort",
+          "Counting Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-an-array"
+      },
+      {
+        "lcId": 297,
+        "title": "Serialize and Deserialize Binary Tree",
+        "slug": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard",
+        "frequency": 82.4,
+        "acceptance": 0.006102863643728873,
+        "topics": [
+          "String",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 82.4,
+        "acceptance": 0.0068028473122123435,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006496040637974149,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 297,
+        "title": "Serialize and Deserialize Binary Tree",
+        "slug": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard",
+        "frequency": 87.4,
+        "acceptance": 0.006102863643728873,
+        "topics": [
+          "String",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+      },
+      {
+        "lcId": 1162,
+        "title": "As Far from Land as Possible",
+        "slug": "as-far-from-land-as-possible",
+        "difficulty": "Medium",
+        "frequency": 87.4,
+        "acceptance": 0.00524903222288861,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/as-far-from-land-as-possible"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 87.4,
+        "acceptance": 0.0068028473122123435,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 912,
+        "title": "Sort an Array",
+        "slug": "sort-an-array",
+        "difficulty": "Medium",
+        "frequency": 77.5,
+        "acceptance": 0.005579252072864468,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Bucket Sort",
+          "Radix Sort",
+          "Counting Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-an-array"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 77.5,
+        "acceptance": 0.0051897776670601515,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 77.5,
+        "acceptance": 0.005487679835331043,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

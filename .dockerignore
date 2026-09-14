@@ -1,0 +1,12 @@
+node_modules
+server/node_modules
+qa/node_modules
+qa/shots
+server/data/users.json
+server/data/progress
+server/data/jwt_secret
+server/logs
+*.log
+.env
+.git
+.github

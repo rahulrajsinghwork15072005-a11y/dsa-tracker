@@ -1,0 +1,46 @@
+{
+  "name": "peak6",
+  "slug": "peak6",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 1599,
+        "title": "Maximum Profit of Operating a Centennial Wheel",
+        "slug": "maximum-profit-of-operating-a-centennial-wheel",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004471892903738158,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel"
+      },
+      {
+        "lcId": 1620,
+        "title": "Coordinate With Maximum Network Quality",
+        "slug": "coordinate-with-maximum-network-quality",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003996725069592272,
+        "topics": [
+          "Array",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

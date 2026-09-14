@@ -1,0 +1,101 @@
+{
+  "name": "Mindtickle",
+  "slug": "mindtickle",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006802852880710293,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1982,
+        "title": "Find Array Given Subset Sums",
+        "slug": "find-array-given-subset-sums",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004967753283302063,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/find-array-given-subset-sums"
+      },
+      {
+        "lcId": 1537,
+        "title": "Get the Maximum Score",
+        "slug": "get-the-maximum-score",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004138303970236744,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/get-the-maximum-score"
+      },
+      {
+        "lcId": 1434,
+        "title": "Number of Ways to Wear Different Hats to Each Other",
+        "slug": "number-of-ways-to-wear-different-hats-to-each-other",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004663038042851098,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask",
+          "Bipartite Graph",
+          "Matching (Graph)",
+          "Perfect Matching"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 69.3,
+        "acceptance": 0.006802852880710293,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

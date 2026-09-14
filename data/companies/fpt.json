@@ -1,0 +1,33 @@
+{
+  "name": "FPT",
+  "slug": "fpt",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2177,
+        "title": "Find Three Consecutive Integers That Sum to a Given Number",
+        "slug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006519417877886909,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

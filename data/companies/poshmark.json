@@ -1,0 +1,91 @@
+{
+  "name": "Poshmark",
+  "slug": "poshmark",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 769,
+        "title": "Max Chunks To Make Sorted",
+        "slug": "max-chunks-to-make-sorted",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006424614719709907,
+        "topics": [
+          "Array",
+          "Stack",
+          "Greedy",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1159,
+        "title": "Market Analysis II",
+        "slug": "market-analysis-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005781279265780108,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/market-analysis-ii"
+      },
+      {
+        "lcId": 2257,
+        "title": "Count Unguarded Cells in the Grid",
+        "slug": "count-unguarded-cells-in-the-grid",
+        "difficulty": "Medium",
+        "frequency": 97.5,
+        "acceptance": 0.0069157652042638705,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid"
+      },
+      {
+        "lcId": 1158,
+        "title": "Market Analysis I",
+        "slug": "market-analysis-i",
+        "difficulty": "Medium",
+        "frequency": 97.5,
+        "acceptance": 0.005764563557381716,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/market-analysis-i"
+      },
+      {
+        "lcId": 769,
+        "title": "Max Chunks To Make Sorted",
+        "slug": "max-chunks-to-make-sorted",
+        "difficulty": "Medium",
+        "frequency": 76.5,
+        "acceptance": 0.006424614719709907,
+        "topics": [
+          "Array",
+          "Stack",
+          "Greedy",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,367 @@
+{
+  "name": "DP world",
+  "slug": "dp-world",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 11,
+    "all": 12
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1011,
+        "title": "Capacity To Ship Packages Within D Days",
+        "slug": "capacity-to-ship-packages-within-d-days",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007450815956091617,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+      },
+      {
+        "lcId": 757,
+        "title": "Set Intersection Size At Least Two",
+        "slug": "set-intersection-size-at-least-two",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005812802984673142,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/set-intersection-size-at-least-two"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.0045462252732652204,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 968,
+        "title": "Binary Tree Cameras",
+        "slug": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "frequency": 87.7,
+        "acceptance": 0.004807800665910505,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-cameras"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 287,
+        "title": "Find the Duplicate Number",
+        "slug": "find-the-duplicate-number",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.006476930406947095,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Bit Manipulation",
+          "Pigeonhole Principle",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/find-the-duplicate-number"
+      },
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.005074658488341512,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.0038471098577563916,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 781,
+        "title": "Rabbits in Forest",
+        "slug": "rabbits-in-forest",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.005803383457517577,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/rabbits-in-forest"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 87.7,
+        "acceptance": 0.006450719403481376,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1011,
+        "title": "Capacity To Ship Packages Within D Days",
+        "slug": "capacity-to-ship-packages-within-d-days",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007450815956091617,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+      },
+      {
+        "lcId": 757,
+        "title": "Set Intersection Size At Least Two",
+        "slug": "set-intersection-size-at-least-two",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005812802984673142,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/set-intersection-size-at-least-two"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.0045462252732652204,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 968,
+        "title": "Binary Tree Cameras",
+        "slug": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "frequency": 87.6,
+        "acceptance": 0.004807800665910505,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-cameras"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 287,
+        "title": "Find the Duplicate Number",
+        "slug": "find-the-duplicate-number",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.006476930406947095,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Bit Manipulation",
+          "Pigeonhole Principle",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/find-the-duplicate-number"
+      },
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.005074658488341512,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.0038471098577563916,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 781,
+        "title": "Rabbits in Forest",
+        "slug": "rabbits-in-forest",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.005803383457517577,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/rabbits-in-forest"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.006450719403481376,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 87.6,
+        "acceptance": 0.004825486292312288,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

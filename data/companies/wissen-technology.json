@@ -1,0 +1,319 @@
+{
+  "name": "Wissen Technology",
+  "slug": "wissen-technology",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 2,
+    "gt6m": 8,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977957991168964,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00396932772129858,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004720837132700632,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 36,
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006495091088031032,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/valid-sudoku"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004825516087783337,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 74,
+        "title": "Search a 2D Matrix",
+        "slug": "search-a-2d-matrix",
+        "difficulty": "Medium",
+        "frequency": 88.5,
+        "acceptance": 0.0054380152401205025,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/search-a-2d-matrix"
+      },
+      {
+        "lcId": 451,
+        "title": "Sort Characters By Frequency",
+        "slug": "sort-characters-by-frequency",
+        "difficulty": "Medium",
+        "frequency": 88.5,
+        "acceptance": 0.007571013739168003,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/sort-characters-by-frequency"
+      },
+      {
+        "lcId": 80,
+        "title": "Remove Duplicates from Sorted Array II",
+        "slug": "remove-duplicates-from-sorted-array-ii",
+        "difficulty": "Medium",
+        "frequency": 88.5,
+        "acceptance": 0.006515557743928588,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 88.5,
+        "acceptance": 0.005762719986148905,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 26,
+        "title": "Remove Duplicates from Sorted Array",
+        "slug": "remove-duplicates-from-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 88.5,
+        "acceptance": 0.006356316837597572,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004720837132700632,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977957991168964,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 36,
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006495091088031032,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/valid-sudoku"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004825516087783337,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00396932772129858,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 80,
+        "title": "Remove Duplicates from Sorted Array II",
+        "slug": "remove-duplicates-from-sorted-array-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006515557743928588,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii"
+      },
+      {
+        "lcId": 26,
+        "title": "Remove Duplicates from Sorted Array",
+        "slug": "remove-duplicates-from-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006356316837597572,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+      },
+      {
+        "lcId": 74,
+        "title": "Search a 2D Matrix",
+        "slug": "search-a-2d-matrix",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "acceptance": 0.0054380152401205025,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/search-a-2d-matrix"
+      },
+      {
+        "lcId": 451,
+        "title": "Sort Characters By Frequency",
+        "slug": "sort-characters-by-frequency",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "acceptance": 0.007571013739168003,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/sort-characters-by-frequency"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "acceptance": 0.007312907069303087,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 88,
+        "acceptance": 0.005762719986148905,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

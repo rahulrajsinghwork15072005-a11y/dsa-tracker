@@ -1,0 +1,46 @@
+{
+  "name": "National Payments Corporation of India",
+  "slug": "national-payments-corporation-of-india",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 3152,
+        "title": "Special Array II",
+        "slug": "special-array-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004575563048671392,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/special-array-ii"
+      },
+      {
+        "lcId": 3151,
+        "title": "Special Array I",
+        "slug": "special-array-i",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0081638532619134,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/special-array-i"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

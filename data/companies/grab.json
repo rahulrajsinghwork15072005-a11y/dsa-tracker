@@ -1,0 +1,394 @@
+{
+  "name": "Grab",
+  "slug": "grab",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 10,
+    "all": 15
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 721,
+        "title": "Accounts Merge",
+        "slug": "accounts-merge",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006188994327914749,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/accounts-merge"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 739,
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006905688097164086,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/daily-temperatures"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005122124583086863,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005350272910647792,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 87.9,
+        "acceptance": 0.00580095238786551,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 87.9,
+        "acceptance": 0.004472561161448614,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 1404,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.006374802235557344,
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      },
+      {
+        "lcId": 721,
+        "title": "Accounts Merge",
+        "slug": "accounts-merge",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.006188994327914749,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/accounts-merge"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.004798003185147457,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 459,
+        "title": "Repeated Substring Pattern",
+        "slug": "repeated-substring-pattern",
+        "difficulty": "Easy",
+        "frequency": 87.9,
+        "acceptance": 0.004865482308431229,
+        "topics": [
+          "String",
+          "String Matching",
+          "Z Algorithm",
+          "Knuth–Morris–Pratt Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/repeated-substring-pattern"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.0038471108019715737,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 983,
+        "title": "Minimum Cost For Tickets",
+        "slug": "minimum-cost-for-tickets",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006747677199840635,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-for-tickets"
+      },
+      {
+        "lcId": 1073,
+        "title": "Adding Two Negabinary Numbers",
+        "slug": "adding-two-negabinary-numbers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0038149404643118474,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/adding-two-negabinary-numbers"
+      },
+      {
+        "lcId": 2086,
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "slug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00484113520700564,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters"
+      },
+      {
+        "lcId": 1253,
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "slug": "reconstruct-a-2-row-binary-matrix",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004924926168198504,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix"
+      },
+      {
+        "lcId": 721,
+        "title": "Accounts Merge",
+        "slug": "accounts-merge",
+        "difficulty": "Medium",
+        "frequency": 82.9,
+        "acceptance": 0.006188994327914749,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/accounts-merge"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 75.7,
+        "acceptance": 0.00580095238786551,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 75.7,
+        "acceptance": 0.004472561161448614,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 75.7,
+        "acceptance": 0.005122124583086863,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 739,
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures",
+        "difficulty": "Medium",
+        "frequency": 75.7,
+        "acceptance": 0.006905688097164086,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/daily-temperatures"
+      },
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 75.7,
+        "acceptance": 0.005350272910647792,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      },
+      {
+        "lcId": 459,
+        "title": "Repeated Substring Pattern",
+        "slug": "repeated-substring-pattern",
+        "difficulty": "Easy",
+        "frequency": 75.7,
+        "acceptance": 0.004865482308431229,
+        "topics": [
+          "String",
+          "String Matching",
+          "Z Algorithm",
+          "Knuth–Morris–Pratt Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/repeated-substring-pattern"
+      },
+      {
+        "lcId": 1404,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": "Medium",
+        "frequency": 65.7,
+        "acceptance": 0.006374802235557344,
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 65.7,
+        "acceptance": 0.004798003185147457,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 45,
+        "title": "Jump Game II",
+        "slug": "jump-game-ii",
+        "difficulty": "Medium",
+        "frequency": 65.7,
+        "acceptance": 0.004335944292113706,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/jump-game-ii"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 65.7,
+        "acceptance": 0.0038471108019715737,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

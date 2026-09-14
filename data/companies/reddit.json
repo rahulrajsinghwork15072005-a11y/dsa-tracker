@@ -1,0 +1,154 @@
+{
+  "name": "Reddit",
+  "slug": "reddit",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00463263125035227,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 81.2,
+        "acceptance": 0.006974272516303686,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 81.2,
+        "acceptance": 0.004786902323387324,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 81.2,
+        "acceptance": 0.007688327747225928,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2240,
+        "title": "Number of Ways to Buy Pens and Pencils",
+        "slug": "number-of-ways-to-buy-pens-and-pencils",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00570396024695076,
+        "topics": [
+          "Math",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00463263125035227,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 78.1,
+        "acceptance": 0.006974272516303686,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 78.1,
+        "acceptance": 0.004786902323387324,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 78.1,
+        "acceptance": 0.007688327747225928,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Dataminr",
+  "slug": "dataminr",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 885,
+        "title": "Spiral Matrix III",
+        "slug": "spiral-matrix-iii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.008458221252421887,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix-iii"
+      },
+      {
+        "lcId": 1840,
+        "title": "Maximum Building Height",
+        "slug": "maximum-building-height",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00669810646091745,
+        "topics": [
+          "Array",
+          "Math",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-building-height"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

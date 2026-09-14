@@ -1,0 +1,326 @@
+{
+  "name": "Hudson River Trading",
+  "slug": "hudson-river-trading",
+  "counts": {
+    "30d": 1,
+    "3m": 1,
+    "6m": 2,
+    "gt6m": 1,
+    "all": 16
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005055772660014417,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0051897776670601515,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1566,
+        "title": "Detect Pattern of Length M Repeated K or More Times",
+        "slug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004417411347193385,
+        "topics": [
+          "Array",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times"
+      },
+      {
+        "lcId": 1317,
+        "title": "Convert Integer to the Sum of Two No-Zero Integers",
+        "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0059154800617071575,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers"
+      },
+      {
+        "lcId": 3225,
+        "title": "Maximum Score From Grid Operations",
+        "slug": "maximum-score-from-grid-operations",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006421845093785888,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-score-from-grid-operations"
+      },
+      {
+        "lcId": 2508,
+        "title": "Add Edges to Make Degrees of All Nodes Even",
+        "slug": "add-edges-to-make-degrees-of-all-nodes-even",
+        "difficulty": "Hard",
+        "frequency": 97.1,
+        "acceptance": 0.0036939816092621913,
+        "topics": [
+          "Hash Table",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even"
+      },
+      {
+        "lcId": 2246,
+        "title": "Longest Path With Different Adjacent Characters",
+        "slug": "longest-path-with-different-adjacent-characters",
+        "difficulty": "Hard",
+        "frequency": 97.1,
+        "acceptance": 0.005401359248323351,
+        "topics": [
+          "Array",
+          "String",
+          "Tree",
+          "Depth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters"
+      },
+      {
+        "lcId": 2285,
+        "title": "Maximum Total Importance of Roads",
+        "slug": "maximum-total-importance-of-roads",
+        "difficulty": "Medium",
+        "frequency": 97.1,
+        "acceptance": 0.006913153411339334,
+        "topics": [
+          "Greedy",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/maximum-total-importance-of-roads"
+      },
+      {
+        "lcId": 1342,
+        "title": "Number of Steps to Reduce a Number to Zero",
+        "slug": "number-of-steps-to-reduce-a-number-to-zero",
+        "difficulty": "Easy",
+        "frequency": 97.1,
+        "acceptance": 0.008589094147723767,
+        "topics": [
+          "Math",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero"
+      },
+      {
+        "lcId": 1323,
+        "title": "Maximum 69 Number",
+        "slug": "maximum-69-number",
+        "difficulty": "Easy",
+        "frequency": 97.1,
+        "acceptance": 0.008457796795235157,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximum-69-number"
+      },
+      {
+        "lcId": 2772,
+        "title": "Apply Operations to Make All Array Elements Equal to Zero",
+        "slug": "apply-operations-to-make-all-array-elements-equal-to-zero",
+        "difficulty": "Medium",
+        "frequency": 97.1,
+        "acceptance": 0.0033726312869501902,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero"
+      },
+      {
+        "lcId": 2275,
+        "title": "Largest Combination With Bitwise AND Greater Than Zero",
+        "slug": "largest-combination-with-bitwise-and-greater-than-zero",
+        "difficulty": "Medium",
+        "frequency": 97.1,
+        "acceptance": 0.00807306553825184,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero"
+      },
+      {
+        "lcId": 2257,
+        "title": "Count Unguarded Cells in the Grid",
+        "slug": "count-unguarded-cells-in-the-grid",
+        "difficulty": "Medium",
+        "frequency": 97.1,
+        "acceptance": 0.0069157652042638705,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 62.6,
+        "acceptance": 0.004818721224905541,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 62.6,
+        "acceptance": 0.0051897776670601515,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 62.6,
+        "acceptance": 0.005055772660014417,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 243,
+        "title": "Shortest Word Distance",
+        "slug": "shortest-word-distance",
+        "difficulty": "Easy",
+        "frequency": 62.6,
+        "acceptance": 0.006638139688791753,
+        "topics": [
+          "Array",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/shortest-word-distance"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 62.6,
+        "acceptance": 0.004141530323533029,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

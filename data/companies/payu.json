@@ -1,0 +1,33 @@
+{
+  "name": "PayU",
+  "slug": "payu",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2169,
+        "title": "Count Operations to Obtain Zero",
+        "slug": "count-operations-to-obtain-zero",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00797711163914783,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/count-operations-to-obtain-zero"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

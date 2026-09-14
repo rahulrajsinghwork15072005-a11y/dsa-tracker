@@ -1,0 +1,231 @@
+{
+  "name": "Groww",
+  "slug": "groww",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 5,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 1799,
+        "title": "Maximize Score After N Operations",
+        "slug": "maximize-score-after-n-operations",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005790254203136838,
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Number Theory",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/maximize-score-after-n-operations"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1799,
+        "title": "Maximize Score After N Operations",
+        "slug": "maximize-score-after-n-operations",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005790254203136838,
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Number Theory",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/maximize-score-after-n-operations"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005725131018831735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 3026,
+        "title": "Maximum Good Subarray Sum",
+        "slug": "maximum-good-subarray-sum",
+        "difficulty": "Medium",
+        "frequency": 92.6,
+        "acceptance": 0.0022378640465363867,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-good-subarray-sum"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 82.2,
+        "acceptance": 0.00606482478622991,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 1239,
+        "title": "Maximum Length of a Concatenated String with Unique Characters",
+        "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+        "difficulty": "Medium",
+        "frequency": 82.2,
+        "acceptance": 0.005488775840463407,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
+      },
+      {
+        "lcId": 122,
+        "title": "Best Time to Buy and Sell Stock II",
+        "slug": "best-time-to-buy-and-sell-stock-ii",
+        "difficulty": "Medium",
+        "frequency": 82.2,
+        "acceptance": 0.007150173910926223,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2998,
+        "title": "Minimum Number of Operations to Make X and Y Equal",
+        "slug": "minimum-number-of-operations-to-make-x-and-y-equal",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004900075229777909,
+        "topics": [
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal"
+      },
+      {
+        "lcId": 1799,
+        "title": "Maximize Score After N Operations",
+        "slug": "maximize-score-after-n-operations",
+        "difficulty": "Hard",
+        "frequency": 96.9,
+        "acceptance": 0.005790254203136838,
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Number Theory",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/maximize-score-after-n-operations"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 83.9,
+        "acceptance": 0.005725131018831735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 3026,
+        "title": "Maximum Good Subarray Sum",
+        "slug": "maximum-good-subarray-sum",
+        "difficulty": "Medium",
+        "frequency": 77.2,
+        "acceptance": 0.0022378640465363867,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-good-subarray-sum"
+      },
+      {
+        "lcId": 1239,
+        "title": "Maximum Length of a Concatenated String with Unique Characters",
+        "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+        "difficulty": "Medium",
+        "frequency": 77.2,
+        "acceptance": 0.005488775840463407,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 67.7,
+        "acceptance": 0.00606482478622991,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 122,
+        "title": "Best Time to Buy and Sell Stock II",
+        "slug": "best-time-to-buy-and-sell-stock-ii",
+        "difficulty": "Medium",
+        "frequency": 67.7,
+        "acceptance": 0.007150173910926223,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

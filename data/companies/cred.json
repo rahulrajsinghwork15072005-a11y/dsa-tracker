@@ -1,0 +1,77 @@
+{
+  "name": "CRED",
+  "slug": "cred",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006042950971899408,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 3005,
+        "title": "Count Elements With Maximum Frequency",
+        "slug": "count-elements-with-maximum-frequency",
+        "difficulty": "Easy",
+        "frequency": 89.4,
+        "acceptance": 0.007972887146580234,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006042950971899408,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 3005,
+        "title": "Count Elements With Maximum Frequency",
+        "slug": "count-elements-with-maximum-frequency",
+        "difficulty": "Easy",
+        "frequency": 89.2,
+        "acceptance": 0.007972887146580234,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

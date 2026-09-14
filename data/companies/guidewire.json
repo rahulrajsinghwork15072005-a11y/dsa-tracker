@@ -1,0 +1,173 @@
+{
+  "name": "Guidewire",
+  "slug": "guidewire",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 5,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2850,
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "slug": "minimum-moves-to-spread-stones-over-grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0045880782789085054,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Matrix",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid"
+      },
+      {
+        "lcId": 2471,
+        "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+        "slug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007422767990160962,
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level"
+      },
+      {
+        "lcId": 1311,
+        "title": "Get Watched Videos by Your Friends",
+        "slug": "get-watched-videos-by-your-friends",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.00540014334896072,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends"
+      },
+      {
+        "lcId": 2745,
+        "title": "Construct the Longest New String",
+        "slug": "construct-the-longest-new-string",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.005509969931951258,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Greedy",
+          "Brainteaser"
+        ],
+        "link": "https://leetcode.com/problems/construct-the-longest-new-string"
+      },
+      {
+        "lcId": 1324,
+        "title": "Print Words Vertically",
+        "slug": "print-words-vertically",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.006800941930958466,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/print-words-vertically"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2850,
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "slug": "minimum-moves-to-spread-stones-over-grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0045880782789085054,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Matrix",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid"
+      },
+      {
+        "lcId": 2471,
+        "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+        "slug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007422767990160962,
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level"
+      },
+      {
+        "lcId": 1324,
+        "title": "Print Words Vertically",
+        "slug": "print-words-vertically",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006800941930958466,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/print-words-vertically"
+      },
+      {
+        "lcId": 1311,
+        "title": "Get Watched Videos by Your Friends",
+        "slug": "get-watched-videos-by-your-friends",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.00540014334896072,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends"
+      },
+      {
+        "lcId": 2745,
+        "title": "Construct the Longest New String",
+        "slug": "construct-the-longest-new-string",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.005509969931951258,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Greedy",
+          "Brainteaser"
+        ],
+        "link": "https://leetcode.com/problems/construct-the-longest-new-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Deliveroo",
+  "slug": "deliveroo",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0058669871346990485,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0058669871346990485,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0058669871346990485,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 80.2,
+        "acceptance": 0.007688314472535719,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0058669871346990485,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      },
+      {
+        "lcId": 2942,
+        "title": "Find Words Containing Character",
+        "slug": "find-words-containing-character",
+        "difficulty": "Easy",
+        "frequency": 92,
+        "acceptance": 0.00904133039863047,
+        "topics": [
+          "Array",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/find-words-containing-character"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 72.7,
+        "acceptance": 0.007688314472535719,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

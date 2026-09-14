@@ -1,0 +1,447 @@
+{
+  "name": "Nuro",
+  "slug": "nuro",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 2,
+    "gt6m": 11,
+    "all": 13
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0049211970223146575,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0049211970223146575,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 529,
+        "title": "Minesweeper",
+        "slug": "minesweeper",
+        "difficulty": "Medium",
+        "frequency": 90.5,
+        "acceptance": 0.006890005675052404,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minesweeper"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1610,
+        "title": "Maximum Number of Visible Points",
+        "slug": "maximum-number-of-visible-points",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003839241207421767,
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 76.8,
+        "acceptance": 0.0064507334533413655,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      },
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 76.8,
+        "acceptance": 0.0049211970223146575,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 494,
+        "title": "Target Sum",
+        "slug": "target-sum",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.005273124567948673,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/target-sum"
+      },
+      {
+        "lcId": 1293,
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard",
+        "frequency": 62.2,
+        "acceptance": 0.004663196154145178,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
+      },
+      {
+        "lcId": 986,
+        "title": "Interval List Intersections",
+        "slug": "interval-list-intersections",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.007314302081344282,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sweep Line"
+        ],
+        "link": "https://leetcode.com/problems/interval-list-intersections"
+      },
+      {
+        "lcId": 735,
+        "title": "Asteroid Collision",
+        "slug": "asteroid-collision",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.0048763237039410896,
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/asteroid-collision"
+      },
+      {
+        "lcId": 311,
+        "title": "Sparse Matrix Multiplication",
+        "slug": "sparse-matrix-multiplication",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.006934051069363004,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Linear Algebra"
+        ],
+        "link": "https://leetcode.com/problems/sparse-matrix-multiplication"
+      },
+      {
+        "lcId": 269,
+        "title": "Alien Dictionary",
+        "slug": "alien-dictionary",
+        "difficulty": "Hard",
+        "frequency": 62.2,
+        "acceptance": 0.0037286585868950483,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/alien-dictionary"
+      },
+      {
+        "lcId": 1570,
+        "title": "Dot Product of Two Sparse Vectors",
+        "slug": "dot-product-of-two-sparse-vectors",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.00898920702566936,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Design",
+          "Linear Algebra"
+        ],
+        "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors"
+      },
+      {
+        "lcId": 1233,
+        "title": "Remove Sub-Folders from the Filesystem",
+        "slug": "remove-sub-folders-from-the-filesystem",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.007860429223690901,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1610,
+        "title": "Maximum Number of Visible Points",
+        "slug": "maximum-number-of-visible-points",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003839241207421767,
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points"
+      },
+      {
+        "lcId": 1476,
+        "title": "Subrectangle Queries",
+        "slug": "subrectangle-queries",
+        "difficulty": "Medium",
+        "frequency": 91.2,
+        "acceptance": 0.008645542032638807,
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/subrectangle-queries"
+      },
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 88.3,
+        "acceptance": 0.0049211970223146575,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 76.2,
+        "acceptance": 0.0064507334533413655,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      },
+      {
+        "lcId": 1293,
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard",
+        "frequency": 69.9,
+        "acceptance": 0.004663196154145178,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
+      },
+      {
+        "lcId": 986,
+        "title": "Interval List Intersections",
+        "slug": "interval-list-intersections",
+        "difficulty": "Medium",
+        "frequency": 61.1,
+        "acceptance": 0.007314302081344282,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sweep Line"
+        ],
+        "link": "https://leetcode.com/problems/interval-list-intersections"
+      },
+      {
+        "lcId": 735,
+        "title": "Asteroid Collision",
+        "slug": "asteroid-collision",
+        "difficulty": "Medium",
+        "frequency": 61.1,
+        "acceptance": 0.0048763237039410896,
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/asteroid-collision"
+      },
+      {
+        "lcId": 311,
+        "title": "Sparse Matrix Multiplication",
+        "slug": "sparse-matrix-multiplication",
+        "difficulty": "Medium",
+        "frequency": 61.1,
+        "acceptance": 0.006934051069363004,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Linear Algebra"
+        ],
+        "link": "https://leetcode.com/problems/sparse-matrix-multiplication"
+      },
+      {
+        "lcId": 494,
+        "title": "Target Sum",
+        "slug": "target-sum",
+        "difficulty": "Medium",
+        "frequency": 61.1,
+        "acceptance": 0.005273124567948673,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/target-sum"
+      },
+      {
+        "lcId": 269,
+        "title": "Alien Dictionary",
+        "slug": "alien-dictionary",
+        "difficulty": "Hard",
+        "frequency": 61.1,
+        "acceptance": 0.0037286585868950483,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/alien-dictionary"
+      },
+      {
+        "lcId": 1233,
+        "title": "Remove Sub-Folders from the Filesystem",
+        "slug": "remove-sub-folders-from-the-filesystem",
+        "difficulty": "Medium",
+        "frequency": 61.1,
+        "acceptance": 0.007860429223690901,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem"
+      },
+      {
+        "lcId": 529,
+        "title": "Minesweeper",
+        "slug": "minesweeper",
+        "difficulty": "Medium",
+        "frequency": 61.1,
+        "acceptance": 0.006890005675052404,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minesweeper"
+      },
+      {
+        "lcId": 1570,
+        "title": "Dot Product of Two Sparse Vectors",
+        "slug": "dot-product-of-two-sparse-vectors",
+        "difficulty": "Medium",
+        "frequency": 61.1,
+        "acceptance": 0.00898920702566936,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Design",
+          "Linear Algebra"
+        ],
+        "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

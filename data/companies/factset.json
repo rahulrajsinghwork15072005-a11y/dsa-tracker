@@ -1,0 +1,94 @@
+{
+  "name": "FactSet",
+  "slug": "factset",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007312897991491617,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 316,
+        "title": "Remove Duplicate Letters",
+        "slug": "remove-duplicate-letters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005427931288657423,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-duplicate-letters"
+      },
+      {
+        "lcId": 1081,
+        "title": "Smallest Subsequence of Distinct Characters",
+        "slug": "smallest-subsequence-of-distinct-characters",
+        "difficulty": "Medium",
+        "frequency": 97.2,
+        "acceptance": 0.007056504215069009,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
+      },
+      {
+        "lcId": 1209,
+        "title": "Remove All Adjacent Duplicates in String II",
+        "slug": "remove-all-adjacent-duplicates-in-string-ii",
+        "difficulty": "Medium",
+        "frequency": 97.2,
+        "acceptance": 0.006175710558084819,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 64.7,
+        "acceptance": 0.007312897991491617,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

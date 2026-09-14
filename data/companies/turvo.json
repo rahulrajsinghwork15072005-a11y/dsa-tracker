@@ -1,0 +1,46 @@
+{
+  "name": "Turvo",
+  "slug": "turvo",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 1335,
+        "title": "Minimum Difficulty of a Job Schedule",
+        "slug": "minimum-difficulty-of-a-job-schedule",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005980770562393088,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule"
+      },
+      {
+        "lcId": 1534,
+        "title": "Count Good Triplets",
+        "slug": "count-good-triplets",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008554780919803459,
+        "topics": [
+          "Array",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/count-good-triplets"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

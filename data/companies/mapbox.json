@@ -1,0 +1,35 @@
+{
+  "name": "Mapbox",
+  "slug": "mapbox",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 1356,
+        "title": "Sort Integers by The Number of 1 Bits",
+        "slug": "sort-integers-by-the-number-of-1-bits",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008243396967458481,
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,113 @@
+{
+  "name": "NCR",
+  "slug": "ncr",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2327,
+        "title": "Number of People Aware of a Secret",
+        "slug": "number-of-people-aware-of-a-secret",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006061813760697001,
+        "topics": [
+          "Dynamic Programming",
+          "Queue",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret"
+      },
+      {
+        "lcId": 924,
+        "title": "Minimize Malware Spread",
+        "slug": "minimize-malware-spread",
+        "difficulty": "Hard",
+        "frequency": 89.8,
+        "acceptance": 0.004339416421024741,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimize-malware-spread"
+      },
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 89.8,
+        "acceptance": 0.0058670256372037564,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2327,
+        "title": "Number of People Aware of a Secret",
+        "slug": "number-of-people-aware-of-a-secret",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006061813760697001,
+        "topics": [
+          "Dynamic Programming",
+          "Queue",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret"
+      },
+      {
+        "lcId": 924,
+        "title": "Minimize Malware Spread",
+        "slug": "minimize-malware-spread",
+        "difficulty": "Hard",
+        "frequency": 89.8,
+        "acceptance": 0.004339416421024741,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimize-malware-spread"
+      },
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 89.8,
+        "acceptance": 0.0058670256372037564,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

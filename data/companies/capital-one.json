@@ -1,0 +1,2037 @@
+{
+  "name": "Capital One",
+  "slug": "capital-one",
+  "counts": {
+    "30d": 4,
+    "3m": 5,
+    "6m": 15,
+    "gt6m": 52,
+    "all": 63
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 2232,
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "slug": "minimize-result-by-adding-parentheses-to-expression",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006833369209059816,
+        "topics": [
+          "String",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 90.9,
+        "acceptance": 0.004141519762821538,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 84.5,
+        "acceptance": 0.005055448568962082,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 75.4,
+        "acceptance": 0.006956878910347154,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 2232,
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "slug": "minimize-result-by-adding-parentheses-to-expression",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006833369209059816,
+        "topics": [
+          "String",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.004141519762821538,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 89.4,
+        "acceptance": 0.005055448568962082,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 3208,
+        "title": "Alternating Groups II",
+        "slug": "alternating-groups-ii",
+        "difficulty": "Medium",
+        "frequency": 68.7,
+        "acceptance": 0.00599506282008769,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/alternating-groups-ii"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 68.7,
+        "acceptance": 0.006956878910347154,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005055448568962082,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 2232,
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "slug": "minimize-result-by-adding-parentheses-to-expression",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006833369209059816,
+        "topics": [
+          "String",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 94,
+        "acceptance": 0.004141519762821538,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 90.3,
+        "acceptance": 0.0051897231256176,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 1743,
+        "title": "Restore the Array From Adjacent Pairs",
+        "slug": "restore-the-array-from-adjacent-pairs",
+        "difficulty": "Medium",
+        "frequency": 90.3,
+        "acceptance": 0.007512477437469558,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 86,
+        "acceptance": 0.006956878910347154,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 80.7,
+        "acceptance": 0.006226097083965104,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 73.8,
+        "acceptance": 0.005762664320105749,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 257,
+        "title": "Binary Tree Paths",
+        "slug": "binary-tree-paths",
+        "difficulty": "Easy",
+        "frequency": 73.8,
+        "acceptance": 0.006917621655050464,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-paths"
+      },
+      {
+        "lcId": 723,
+        "title": "Candy Crush",
+        "slug": "candy-crush",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.007762864266154412,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/candy-crush"
+      },
+      {
+        "lcId": 2672,
+        "title": "Number of Adjacent Elements With the Same Color",
+        "slug": "number-of-adjacent-elements-with-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.0059793453235009505,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color"
+      },
+      {
+        "lcId": 3072,
+        "title": "Distribute Elements Into Two Arrays II",
+        "slug": "distribute-elements-into-two-arrays-ii",
+        "difficulty": "Hard",
+        "frequency": 64.2,
+        "acceptance": 0.0031232893884629042,
+        "topics": [
+          "Array",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii"
+      },
+      {
+        "lcId": 48,
+        "title": "Rotate Image",
+        "slug": "rotate-image",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.008056986803121915,
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotate-image"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.005257589399494338,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 3208,
+        "title": "Alternating Groups II",
+        "slug": "alternating-groups-ii",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.00599506282008769,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/alternating-groups-ii"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006956878910347154,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 92.8,
+        "acceptance": 0.0051897231256176,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 88.2,
+        "acceptance": 0.005762664320105749,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 86.7,
+        "acceptance": 0.004141519762821538,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 723,
+        "title": "Candy Crush",
+        "slug": "candy-crush",
+        "difficulty": "Medium",
+        "frequency": 83.3,
+        "acceptance": 0.007762864266154412,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/candy-crush"
+      },
+      {
+        "lcId": 3071,
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "slug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+        "difficulty": "Medium",
+        "frequency": 83.3,
+        "acceptance": 0.006479741732713856,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid"
+      },
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 76.7,
+        "acceptance": 0.006226097083965104,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 2768,
+        "title": "Number of Black Blocks",
+        "slug": "number-of-black-blocks",
+        "difficulty": "Medium",
+        "frequency": 73.8,
+        "acceptance": 0.004217931337705639,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/number-of-black-blocks"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 72.3,
+        "acceptance": 0.005122080323810099,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 1438,
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": "Medium",
+        "frequency": 70.5,
+        "acceptance": 0.005791914263893225,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+      },
+      {
+        "lcId": 2672,
+        "title": "Number of Adjacent Elements With the Same Color",
+        "slug": "number-of-adjacent-elements-with-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 70.5,
+        "acceptance": 0.0059793453235009505,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color"
+      },
+      {
+        "lcId": 48,
+        "title": "Rotate Image",
+        "slug": "rotate-image",
+        "difficulty": "Medium",
+        "frequency": 68.7,
+        "acceptance": 0.008056986803121915,
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotate-image"
+      },
+      {
+        "lcId": 1743,
+        "title": "Restore the Array From Adjacent Pairs",
+        "slug": "restore-the-array-from-adjacent-pairs",
+        "difficulty": "Medium",
+        "frequency": 68.7,
+        "acceptance": 0.007512477437469558,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+      },
+      {
+        "lcId": 84,
+        "title": "Largest Rectangle in Histogram",
+        "slug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard",
+        "frequency": 66.6,
+        "acceptance": 0.005066339364746699,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+      },
+      {
+        "lcId": 2169,
+        "title": "Count Operations to Obtain Zero",
+        "slug": "count-operations-to-obtain-zero",
+        "difficulty": "Easy",
+        "frequency": 66.6,
+        "acceptance": 0.007977104791949442,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/count-operations-to-obtain-zero"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 64.3,
+        "acceptance": 0.006495999775591767,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 1861,
+        "title": "Rotating the Box",
+        "slug": "rotating-the-box",
+        "difficulty": "Medium",
+        "frequency": 61.6,
+        "acceptance": 0.008246581015691852,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotating-the-box"
+      },
+      {
+        "lcId": 3045,
+        "title": "Count Prefix and Suffix Pairs II",
+        "slug": "count-prefix-and-suffix-pairs-ii",
+        "difficulty": "Hard",
+        "frequency": 58.6,
+        "acceptance": 0.0028489622880283473,
+        "topics": [
+          "Array",
+          "String",
+          "Trie",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function",
+          "Z Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "acceptance": 0.005725115877104416,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 9,
+        "title": "Palindrome Number",
+        "slug": "palindrome-number",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "acceptance": 0.006087443332110619,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/palindrome-number"
+      },
+      {
+        "lcId": 415,
+        "title": "Add Strings",
+        "slug": "add-strings",
+        "difficulty": "Easy",
+        "frequency": 55,
+        "acceptance": 0.005221916982841368,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/add-strings"
+      },
+      {
+        "lcId": 3034,
+        "title": "Number of Subarrays That Match a Pattern I",
+        "slug": "number-of-subarrays-that-match-a-pattern-i",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "acceptance": 0.006887562006246555,
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "acceptance": 0.006064805437323167,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 55,
+        "acceptance": 0.005055448568962082,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 257,
+        "title": "Binary Tree Paths",
+        "slug": "binary-tree-paths",
+        "difficulty": "Easy",
+        "frequency": 50.6,
+        "acceptance": 0.006917621655050464,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-paths"
+      },
+      {
+        "lcId": 1166,
+        "title": "Design File System",
+        "slug": "design-file-system",
+        "difficulty": "Medium",
+        "frequency": 50.6,
+        "acceptance": 0.006517900483302497,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/design-file-system"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 50.6,
+        "acceptance": 0.004913266245679432,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      },
+      {
+        "lcId": 539,
+        "title": "Minimum Time Difference",
+        "slug": "minimum-time-difference",
+        "difficulty": "Medium",
+        "frequency": 50.6,
+        "acceptance": 0.006268158846292107,
+        "topics": [
+          "Array",
+          "Math",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-time-difference"
+      },
+      {
+        "lcId": 896,
+        "title": "Monotonic Array",
+        "slug": "monotonic-array",
+        "difficulty": "Easy",
+        "frequency": 50.6,
+        "acceptance": 0.006258804921750706,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/monotonic-array"
+      },
+      {
+        "lcId": 2021,
+        "title": "Brightest Position on Street",
+        "slug": "brightest-position-on-street",
+        "difficulty": "Medium",
+        "frequency": 45,
+        "acceptance": 0.006074920242873315,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Prefix Sum",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/brightest-position-on-street"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 45,
+        "acceptance": 0.0066659622962056495,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 1052,
+        "title": "Grumpy Bookstore Owner",
+        "slug": "grumpy-bookstore-owner",
+        "difficulty": "Medium",
+        "frequency": 45,
+        "acceptance": 0.006413707906061219,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/grumpy-bookstore-owner"
+      },
+      {
+        "lcId": 2817,
+        "title": "Minimum Absolute Difference Between Elements With Constraint",
+        "slug": "minimum-absolute-difference-between-elements-with-constraint",
+        "difficulty": "Medium",
+        "frequency": 45,
+        "acceptance": 0.0038006214170058206,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint"
+      },
+      {
+        "lcId": 546,
+        "title": "Remove Boxes",
+        "slug": "remove-boxes",
+        "difficulty": "Hard",
+        "frequency": 37.2,
+        "acceptance": 0.0049645747465326875,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/remove-boxes"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 37.2,
+        "acceptance": 0.004472534241056997,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 435,
+        "title": "Non-overlapping Intervals",
+        "slug": "non-overlapping-intervals",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.005756952726081699,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/non-overlapping-intervals"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.005277673469154167,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 3042,
+        "title": "Count Prefix and Suffix Pairs I",
+        "slug": "count-prefix-and-suffix-pairs-i",
+        "difficulty": "Easy",
+        "frequency": 37.2,
+        "acceptance": 0.007766672717500792,
+        "topics": [
+          "Array",
+          "String",
+          "Trie",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.005257589399494338,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.004786839258915928,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 992,
+        "title": "Subarrays with K Different Integers",
+        "slug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard",
+        "frequency": 37.2,
+        "acceptance": 0.006886142188337047,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+      },
+      {
+        "lcId": 733,
+        "title": "Flood Fill",
+        "slug": "flood-fill",
+        "difficulty": "Easy",
+        "frequency": 37.2,
+        "acceptance": 0.006878720632199644,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/flood-fill"
+      },
+      {
+        "lcId": 2544,
+        "title": "Alternating Digit Sum",
+        "slug": "alternating-digit-sum",
+        "difficulty": "Easy",
+        "frequency": 37.2,
+        "acceptance": 0.006958387429066019,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/alternating-digit-sum"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 37.2,
+        "acceptance": 0.004632595590670158,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 1814,
+        "title": "Count Nice Pairs in an Array",
+        "slug": "count-nice-pairs-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.004843697806480348,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 37.2,
+        "acceptance": 0.005800925551602618,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 332,
+        "title": "Reconstruct Itinerary",
+        "slug": "reconstruct-itinerary",
+        "difficulty": "Hard",
+        "frequency": 37.2,
+        "acceptance": 0.0044899335815843985,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Eulerian Circuit",
+          "Eulerian Path",
+          "Semi-Eulerian Graph"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-itinerary"
+      },
+      {
+        "lcId": 3019,
+        "title": "Number of Changing Keys",
+        "slug": "number-of-changing-keys",
+        "difficulty": "Easy",
+        "frequency": 37.2,
+        "acceptance": 0.008099966191569245,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/number-of-changing-keys"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.0047979764011513715,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 2141,
+        "title": "Maximum Running Time of N Computers",
+        "slug": "maximum-running-time-of-n-computers",
+        "difficulty": "Hard",
+        "frequency": 37.2,
+        "acceptance": 0.0056378038356855046,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.007312513639968701,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 2023,
+        "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+        "slug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
+        "difficulty": "Medium",
+        "frequency": 37.2,
+        "acceptance": 0.007548294286888616,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006956878910347154,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 94.1,
+        "acceptance": 0.0051897231256176,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 3161,
+        "title": "Block Placement Queries",
+        "slug": "block-placement-queries",
+        "difficulty": "Hard",
+        "frequency": 89.7,
+        "acceptance": 0.004141519762821538,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/block-placement-queries"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.005762664320105749,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 723,
+        "title": "Candy Crush",
+        "slug": "candy-crush",
+        "difficulty": "Medium",
+        "frequency": 83.2,
+        "acceptance": 0.007762864266154412,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/candy-crush"
+      },
+      {
+        "lcId": 3071,
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "slug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+        "difficulty": "Medium",
+        "frequency": 81.4,
+        "acceptance": 0.006479741732713856,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid"
+      },
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 79.4,
+        "acceptance": 0.006226097083965104,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 1743,
+        "title": "Restore the Array From Adjacent Pairs",
+        "slug": "restore-the-array-from-adjacent-pairs",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.007512477437469558,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 73.4,
+        "acceptance": 0.005055448568962082,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 2768,
+        "title": "Number of Black Blocks",
+        "slug": "number-of-black-blocks",
+        "difficulty": "Medium",
+        "frequency": 71.9,
+        "acceptance": 0.004217931337705639,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/number-of-black-blocks"
+      },
+      {
+        "lcId": 2672,
+        "title": "Number of Adjacent Elements With the Same Color",
+        "slug": "number-of-adjacent-elements-with-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 71.9,
+        "acceptance": 0.0059793453235009505,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color"
+      },
+      {
+        "lcId": 48,
+        "title": "Rotate Image",
+        "slug": "rotate-image",
+        "difficulty": "Medium",
+        "frequency": 70.3,
+        "acceptance": 0.008056986803121915,
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotate-image"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 70.3,
+        "acceptance": 0.005122080323810099,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 1438,
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": "Medium",
+        "frequency": 68.6,
+        "acceptance": 0.005791914263893225,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+      },
+      {
+        "lcId": 84,
+        "title": "Largest Rectangle in Histogram",
+        "slug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard",
+        "frequency": 66.7,
+        "acceptance": 0.005066339364746699,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+      },
+      {
+        "lcId": 1390,
+        "title": "Four Divisors",
+        "slug": "four-divisors",
+        "difficulty": "Medium",
+        "frequency": 64.6,
+        "acceptance": 0.005652986792647637,
+        "topics": [
+          "Array",
+          "Math",
+          "Prime Factorization",
+          "Sieve Theory"
+        ],
+        "link": "https://leetcode.com/problems/four-divisors"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 64.6,
+        "acceptance": 0.006495999775591767,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 2169,
+        "title": "Count Operations to Obtain Zero",
+        "slug": "count-operations-to-obtain-zero",
+        "difficulty": "Easy",
+        "frequency": 64.6,
+        "acceptance": 0.007977104791949442,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/count-operations-to-obtain-zero"
+      },
+      {
+        "lcId": 2232,
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "slug": "minimize-result-by-adding-parentheses-to-expression",
+        "difficulty": "Medium",
+        "frequency": 64.6,
+        "acceptance": 0.006833369209059816,
+        "topics": [
+          "String",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression"
+      },
+      {
+        "lcId": 3101,
+        "title": "Count Alternating Subarrays",
+        "slug": "count-alternating-subarrays",
+        "difficulty": "Medium",
+        "frequency": 62.3,
+        "acceptance": 0.0057251777815791405,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/count-alternating-subarrays"
+      },
+      {
+        "lcId": 257,
+        "title": "Binary Tree Paths",
+        "slug": "binary-tree-paths",
+        "difficulty": "Easy",
+        "frequency": 59.7,
+        "acceptance": 0.006917621655050464,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-paths"
+      },
+      {
+        "lcId": 1861,
+        "title": "Rotating the Box",
+        "slug": "rotating-the-box",
+        "difficulty": "Medium",
+        "frequency": 59.7,
+        "acceptance": 0.008246581015691852,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotating-the-box"
+      },
+      {
+        "lcId": 3045,
+        "title": "Count Prefix and Suffix Pairs II",
+        "slug": "count-prefix-and-suffix-pairs-ii",
+        "difficulty": "Hard",
+        "frequency": 56.7,
+        "acceptance": 0.0028489622880283473,
+        "topics": [
+          "Array",
+          "String",
+          "Trie",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function",
+          "Z Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 56.7,
+        "acceptance": 0.006064805437323167,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 53.1,
+        "acceptance": 0.005725115877104416,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 9,
+        "title": "Palindrome Number",
+        "slug": "palindrome-number",
+        "difficulty": "Easy",
+        "frequency": 53.1,
+        "acceptance": 0.006087443332110619,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/palindrome-number"
+      },
+      {
+        "lcId": 415,
+        "title": "Add Strings",
+        "slug": "add-strings",
+        "difficulty": "Easy",
+        "frequency": 53.1,
+        "acceptance": 0.005221916982841368,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/add-strings"
+      },
+      {
+        "lcId": 3034,
+        "title": "Number of Subarrays That Match a Pattern I",
+        "slug": "number-of-subarrays-that-match-a-pattern-i",
+        "difficulty": "Medium",
+        "frequency": 53.1,
+        "acceptance": 0.006887562006246555,
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i"
+      },
+      {
+        "lcId": 539,
+        "title": "Minimum Time Difference",
+        "slug": "minimum-time-difference",
+        "difficulty": "Medium",
+        "frequency": 53.1,
+        "acceptance": 0.006268158846292107,
+        "topics": [
+          "Array",
+          "Math",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-time-difference"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 48.7,
+        "acceptance": 0.004913266245679432,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      },
+      {
+        "lcId": 1166,
+        "title": "Design File System",
+        "slug": "design-file-system",
+        "difficulty": "Medium",
+        "frequency": 48.7,
+        "acceptance": 0.006517900483302497,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/design-file-system"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 48.7,
+        "acceptance": 0.005257589399494338,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 2817,
+        "title": "Minimum Absolute Difference Between Elements With Constraint",
+        "slug": "minimum-absolute-difference-between-elements-with-constraint",
+        "difficulty": "Medium",
+        "frequency": 48.7,
+        "acceptance": 0.0038006214170058206,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint"
+      },
+      {
+        "lcId": 2021,
+        "title": "Brightest Position on Street",
+        "slug": "brightest-position-on-street",
+        "difficulty": "Medium",
+        "frequency": 48.7,
+        "acceptance": 0.006074920242873315,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Prefix Sum",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/brightest-position-on-street"
+      },
+      {
+        "lcId": 896,
+        "title": "Monotonic Array",
+        "slug": "monotonic-array",
+        "difficulty": "Easy",
+        "frequency": 48.7,
+        "acceptance": 0.006258804921750706,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/monotonic-array"
+      },
+      {
+        "lcId": 3042,
+        "title": "Count Prefix and Suffix Pairs I",
+        "slug": "count-prefix-and-suffix-pairs-i",
+        "difficulty": "Easy",
+        "frequency": 43.1,
+        "acceptance": 0.007766672717500792,
+        "topics": [
+          "Array",
+          "String",
+          "Trie",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i"
+      },
+      {
+        "lcId": 1052,
+        "title": "Grumpy Bookstore Owner",
+        "slug": "grumpy-bookstore-owner",
+        "difficulty": "Medium",
+        "frequency": 43.1,
+        "acceptance": 0.006413707906061219,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/grumpy-bookstore-owner"
+      },
+      {
+        "lcId": 3019,
+        "title": "Number of Changing Keys",
+        "slug": "number-of-changing-keys",
+        "difficulty": "Easy",
+        "frequency": 43.1,
+        "acceptance": 0.008099966191569245,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/number-of-changing-keys"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 43.1,
+        "acceptance": 0.0066659622962056495,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 2023,
+        "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+        "slug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
+        "difficulty": "Medium",
+        "frequency": 43.1,
+        "acceptance": 0.007548294286888616,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target"
+      },
+      {
+        "lcId": 3072,
+        "title": "Distribute Elements Into Two Arrays II",
+        "slug": "distribute-elements-into-two-arrays-ii",
+        "difficulty": "Hard",
+        "frequency": 43.1,
+        "acceptance": 0.0031232893884629042,
+        "topics": [
+          "Array",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 43.1,
+        "acceptance": 0.005800925551602618,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 546,
+        "title": "Remove Boxes",
+        "slug": "remove-boxes",
+        "difficulty": "Hard",
+        "frequency": 35.2,
+        "acceptance": 0.0049645747465326875,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/remove-boxes"
+      },
+      {
+        "lcId": 435,
+        "title": "Non-overlapping Intervals",
+        "slug": "non-overlapping-intervals",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.005756952726081699,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/non-overlapping-intervals"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.005277673469154167,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 35.2,
+        "acceptance": 0.004472534241056997,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.004786839258915928,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 992,
+        "title": "Subarrays with K Different Integers",
+        "slug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard",
+        "frequency": 35.2,
+        "acceptance": 0.006886142188337047,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+      },
+      {
+        "lcId": 733,
+        "title": "Flood Fill",
+        "slug": "flood-fill",
+        "difficulty": "Easy",
+        "frequency": 35.2,
+        "acceptance": 0.006878720632199644,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/flood-fill"
+      },
+      {
+        "lcId": 2544,
+        "title": "Alternating Digit Sum",
+        "slug": "alternating-digit-sum",
+        "difficulty": "Easy",
+        "frequency": 35.2,
+        "acceptance": 0.006958387429066019,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/alternating-digit-sum"
+      },
+      {
+        "lcId": 1814,
+        "title": "Count Nice Pairs in an Array",
+        "slug": "count-nice-pairs-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.004843697806480348,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array"
+      },
+      {
+        "lcId": 332,
+        "title": "Reconstruct Itinerary",
+        "slug": "reconstruct-itinerary",
+        "difficulty": "Hard",
+        "frequency": 35.2,
+        "acceptance": 0.0044899335815843985,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Eulerian Circuit",
+          "Eulerian Path",
+          "Semi-Eulerian Graph"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-itinerary"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 35.2,
+        "acceptance": 0.004632595590670158,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 560,
+        "title": "Subarray Sum Equals K",
+        "slug": "subarray-sum-equals-k",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.0047979764011513715,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+      },
+      {
+        "lcId": 2141,
+        "title": "Maximum Running Time of N Computers",
+        "slug": "maximum-running-time-of-n-computers",
+        "difficulty": "Hard",
+        "frequency": 35.2,
+        "acceptance": 0.0056378038356855046,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.007312513639968701,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 128,
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.004720821988640708,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+      },
+      {
+        "lcId": 412,
+        "title": "Fizz Buzz",
+        "slug": "fizz-buzz",
+        "difficulty": "Easy",
+        "frequency": 35.2,
+        "acceptance": 0.007580834485919522,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/fizz-buzz"
+      },
+      {
+        "lcId": 75,
+        "title": "Sort Colors",
+        "slug": "sort-colors",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.00701689159361304,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting",
+          "Quicksort",
+          "Bubble Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-colors"
+      },
+      {
+        "lcId": 1865,
+        "title": "Finding Pairs With a Certain Sum",
+        "slug": "finding-pairs-with-a-certain-sum",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.006154366988351633,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.0038470800995286636,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 3208,
+        "title": "Alternating Groups II",
+        "slug": "alternating-groups-ii",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.00599506282008769,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/alternating-groups-ii"
+      },
+      {
+        "lcId": 2237,
+        "title": "Count Positions on Street With Required Brightness",
+        "slug": "count-positions-on-street-with-required-brightness",
+        "difficulty": "Medium",
+        "frequency": 35.2,
+        "acceptance": 0.006328439497987213,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/count-positions-on-street-with-required-brightness"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

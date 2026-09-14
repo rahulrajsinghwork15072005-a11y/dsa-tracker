@@ -1,0 +1,51 @@
+{
+  "name": "Fastenal",
+  "slug": "fastenal",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 726,
+        "title": "Number of Atoms",
+        "slug": "number-of-atoms",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006524251244310877,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-atoms"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 726,
+        "title": "Number of Atoms",
+        "slug": "number-of-atoms",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006524251244310877,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-atoms"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

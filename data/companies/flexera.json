@@ -1,0 +1,50 @@
+{
+  "name": "Flexera",
+  "slug": "flexera",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 3170,
+        "title": "Lexicographically Minimum String After Removing Stars",
+        "slug": "lexicographically-minimum-string-after-removing-stars",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005086538421213761,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars"
+      },
+      {
+        "lcId": 3174,
+        "title": "Clear Digits",
+        "slug": "clear-digits",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008269975759497972,
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/clear-digits"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

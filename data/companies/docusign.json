@@ -1,0 +1,1006 @@
+{
+  "name": "Docusign",
+  "slug": "docusign",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 3,
+    "gt6m": 28,
+    "all": 33
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786870487026064,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0068028406737841995,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 1235,
+        "title": "Maximum Profit in Job Scheduling",
+        "slug": "maximum-profit-in-job-scheduling",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0054811953101291085,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0058669871346990485,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      },
+      {
+        "lcId": 208,
+        "title": "Implement Trie (Prefix Tree)",
+        "slug": "implement-trie-prefix-tree",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "acceptance": 0.0069914863392823755,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+      },
+      {
+        "lcId": 3588,
+        "title": "Find Maximum Area of a Triangle",
+        "slug": "find-maximum-area-of-a-triangle",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "acceptance": 0.0029904114118369466,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Greedy",
+          "Geometry",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/find-maximum-area-of-a-triangle"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.005548636371848174,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.005257634241389205,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 81.1,
+        "acceptance": 0.005487680665623296,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.004786870487026064,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 12,
+        "title": "Integer to Roman",
+        "slug": "integer-to-roman",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.007149614772743043,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-roman"
+      },
+      {
+        "lcId": 1268,
+        "title": "Search Suggestions System",
+        "slug": "search-suggestions-system",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.006523510165592719,
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/search-suggestions-system"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.00649603671458986,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 81.1,
+        "acceptance": 0.007688314472535719,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.006713895062201222,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 171,
+        "title": "Excel Sheet Column Number",
+        "slug": "excel-sheet-column-number",
+        "difficulty": "Easy",
+        "frequency": 70,
+        "acceptance": 0.006827420363854645,
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/excel-sheet-column-number"
+      },
+      {
+        "lcId": 285,
+        "title": "Inorder Successor in BST",
+        "slug": "inorder-successor-in-bst",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.005126173893753201,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst"
+      },
+      {
+        "lcId": 934,
+        "title": "Shortest Bridge",
+        "slug": "shortest-bridge",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.00597095395782115,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/shortest-bridge"
+      },
+      {
+        "lcId": 726,
+        "title": "Number of Atoms",
+        "slug": "number-of-atoms",
+        "difficulty": "Hard",
+        "frequency": 70,
+        "acceptance": 0.006524237536136429,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-atoms"
+      },
+      {
+        "lcId": 337,
+        "title": "House Robber III",
+        "slug": "house-robber-iii",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.005622316508869117,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-iii"
+      },
+      {
+        "lcId": 213,
+        "title": "House Robber II",
+        "slug": "house-robber-ii",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.004540394014696185,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-ii"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.005277672737389687,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 1368,
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "difficulty": "Hard",
+        "frequency": 70,
+        "acceptance": 0.007112786447781475,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Shortest Path",
+          "0-1 BFS",
+          "Dijkstra's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 70,
+        "acceptance": 0.004632622385363264,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.0060430273555805315,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 70,
+        "acceptance": 0.006874749441552822,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 621,
+        "title": "Task Scheduler",
+        "slug": "task-scheduler",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.006363480002895486,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler"
+      },
+      {
+        "lcId": 2326,
+        "title": "Spiral Matrix IV",
+        "slug": "spiral-matrix-iv",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.008231698225734307,
+        "topics": [
+          "Array",
+          "Linked List",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix-iv"
+      },
+      {
+        "lcId": 2115,
+        "title": "Find All Possible Recipes from Given Supplies",
+        "slug": "find-all-possible-recipes-from-given-supplies",
+        "difficulty": "Medium",
+        "frequency": 70,
+        "acceptance": 0.005707434391023154,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3883,
+        "title": "Count Non Decreasing Arrays With Given Digit Sums",
+        "slug": "count-non-decreasing-arrays-with-given-digit-sums",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004030404808202228,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums"
+      },
+      {
+        "lcId": 1797,
+        "title": "Design Authentication Manager",
+        "slug": "design-authentication-manager",
+        "difficulty": "Medium",
+        "frequency": 96.5,
+        "acceptance": 0.0058669871346990485,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+      },
+      {
+        "lcId": 208,
+        "title": "Implement Trie (Prefix Tree)",
+        "slug": "implement-trie-prefix-tree",
+        "difficulty": "Medium",
+        "frequency": 92.4,
+        "acceptance": 0.0069914863392823755,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.004786870487026064,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 3588,
+        "title": "Find Maximum Area of a Triangle",
+        "slug": "find-maximum-area-of-a-triangle",
+        "difficulty": "Medium",
+        "frequency": 87.6,
+        "acceptance": 0.0029904114118369466,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Greedy",
+          "Geometry",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/find-maximum-area-of-a-triangle"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 81.7,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 81.7,
+        "acceptance": 0.005548636371848174,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 1268,
+        "title": "Search Suggestions System",
+        "slug": "search-suggestions-system",
+        "difficulty": "Medium",
+        "frequency": 81.7,
+        "acceptance": 0.006523510165592719,
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/search-suggestions-system"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.005257634241389205,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.006713895062201222,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 74.1,
+        "acceptance": 0.005487680665623296,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 12,
+        "title": "Integer to Roman",
+        "slug": "integer-to-roman",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.007149614772743043,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-roman"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.005277672737389687,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.00649603671458986,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 359,
+        "title": "Logger Rate Limiter",
+        "slug": "logger-rate-limiter",
+        "difficulty": "Easy",
+        "frequency": 74.1,
+        "acceptance": 0.007688314472535719,
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+      },
+      {
+        "lcId": 621,
+        "title": "Task Scheduler",
+        "slug": "task-scheduler",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.006363480002895486,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 74.1,
+        "acceptance": 0.007312895664398646,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 171,
+        "title": "Excel Sheet Column Number",
+        "slug": "excel-sheet-column-number",
+        "difficulty": "Easy",
+        "frequency": 63.5,
+        "acceptance": 0.006827420363854645,
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/excel-sheet-column-number"
+      },
+      {
+        "lcId": 285,
+        "title": "Inorder Successor in BST",
+        "slug": "inorder-successor-in-bst",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.005126173893753201,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst"
+      },
+      {
+        "lcId": 934,
+        "title": "Shortest Bridge",
+        "slug": "shortest-bridge",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.00597095395782115,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/shortest-bridge"
+      },
+      {
+        "lcId": 726,
+        "title": "Number of Atoms",
+        "slug": "number-of-atoms",
+        "difficulty": "Hard",
+        "frequency": 63.5,
+        "acceptance": 0.006524237536136429,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-atoms"
+      },
+      {
+        "lcId": 213,
+        "title": "House Robber II",
+        "slug": "house-robber-ii",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.004540394014696185,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-ii"
+      },
+      {
+        "lcId": 337,
+        "title": "House Robber III",
+        "slug": "house-robber-iii",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.005622316508869117,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-iii"
+      },
+      {
+        "lcId": 1368,
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "difficulty": "Hard",
+        "frequency": 63.5,
+        "acceptance": 0.007112786447781475,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Shortest Path",
+          "0-1 BFS",
+          "Dijkstra's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+      },
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.0060430273555805315,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 63.5,
+        "acceptance": 0.004632622385363264,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 63.5,
+        "acceptance": 0.006874749441552822,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 2326,
+        "title": "Spiral Matrix IV",
+        "slug": "spiral-matrix-iv",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.008231698225734307,
+        "topics": [
+          "Array",
+          "Linked List",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix-iv"
+      },
+      {
+        "lcId": 2115,
+        "title": "Find All Possible Recipes from Given Supplies",
+        "slug": "find-all-possible-recipes-from-given-supplies",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.005707434391023154,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 63.5,
+        "acceptance": 0.0068028406737841995,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 1235,
+        "title": "Maximum Profit in Job Scheduling",
+        "slug": "maximum-profit-in-job-scheduling",
+        "difficulty": "Hard",
+        "frequency": 63.5,
+        "acceptance": 0.0054811953101291085,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+      },
+      {
+        "lcId": 162,
+        "title": "Find Peak Element",
+        "slug": "find-peak-element",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.004714045421702244,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/find-peak-element"
+      },
+      {
+        "lcId": 721,
+        "title": "Accounts Merge",
+        "slug": "accounts-merge",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.006188980120599831,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/accounts-merge"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

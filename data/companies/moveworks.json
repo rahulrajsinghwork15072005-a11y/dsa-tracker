@@ -1,0 +1,273 @@
+{
+  "name": "Moveworks",
+  "slug": "moveworks",
+  "counts": {
+    "30d": 0,
+    "3m": 2,
+    "6m": 2,
+    "gt6m": 6,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 3076,
+        "title": "Shortest Uncommon Substring in an Array",
+        "slug": "shortest-uncommon-substring-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005088245950002588,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+      },
+      {
+        "lcId": 140,
+        "title": "Word Break II",
+        "slug": "word-break-ii",
+        "difficulty": "Hard",
+        "frequency": 93.2,
+        "acceptance": 0.0056024252519363705,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Trie",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/word-break-ii"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 3076,
+        "title": "Shortest Uncommon Substring in an Array",
+        "slug": "shortest-uncommon-substring-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005088245950002588,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+      },
+      {
+        "lcId": 140,
+        "title": "Word Break II",
+        "slug": "word-break-ii",
+        "difficulty": "Hard",
+        "frequency": 95.6,
+        "acceptance": 0.0056024252519363705,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Trie",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/word-break-ii"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 3076,
+        "title": "Shortest Uncommon Substring in an Array",
+        "slug": "shortest-uncommon-substring-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005088245950002588,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.005189781309297195,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 140,
+        "title": "Word Break II",
+        "slug": "word-break-ii",
+        "difficulty": "Hard",
+        "frequency": 97,
+        "acceptance": 0.0056024252519363705,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Trie",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/word-break-ii"
+      },
+      {
+        "lcId": 1258,
+        "title": "Synonymous Sentences",
+        "slug": "synonymous-sentences",
+        "difficulty": "Medium",
+        "frequency": 93.6,
+        "acceptance": 0.005749698158768488,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Sort",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/synonymous-sentences"
+      },
+      {
+        "lcId": 2366,
+        "title": "Minimum Replacements to Sort the Array",
+        "slug": "minimum-replacements-to-sort-the-array",
+        "difficulty": "Hard",
+        "frequency": 78.2,
+        "acceptance": 0.005310344827586206,
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 69.3,
+        "acceptance": 0.005257646418354588,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3076,
+        "title": "Shortest Uncommon Substring in an Array",
+        "slug": "shortest-uncommon-substring-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005088245950002588,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+      },
+      {
+        "lcId": 140,
+        "title": "Word Break II",
+        "slug": "word-break-ii",
+        "difficulty": "Hard",
+        "frequency": 89.8,
+        "acceptance": 0.005602428181941747,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Backtracking",
+          "Trie",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/word-break-ii"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 75.8,
+        "acceptance": 0.005189777379666066,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 1258,
+        "title": "Synonymous Sentences",
+        "slug": "synonymous-sentences",
+        "difficulty": "Medium",
+        "frequency": 72.9,
+        "acceptance": 0.005749698158768488,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Sort",
+          "Union-Find"
+        ],
+        "link": "https://leetcode.com/problems/synonymous-sentences"
+      },
+      {
+        "lcId": 2366,
+        "title": "Minimum Replacements to Sort the Array",
+        "slug": "minimum-replacements-to-sort-the-array",
+        "difficulty": "Hard",
+        "frequency": 60.1,
+        "acceptance": 0.005310271728656774,
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 52.7,
+        "acceptance": 0.005257651100699819,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

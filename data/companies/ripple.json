@@ -1,0 +1,202 @@
+{
+  "name": "Ripple",
+  "slug": "ripple",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 6,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257655719437011,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257655719437011,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "acceptance": 0.006060163705313572,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 1047,
+        "title": "Remove All Adjacent Duplicates In String",
+        "slug": "remove-all-adjacent-duplicates-in-string",
+        "difficulty": "Easy",
+        "frequency": 89,
+        "acceptance": 0.0073868093900326505,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "acceptance": 0.005039594514761195,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 224,
+        "title": "Basic Calculator",
+        "slug": "basic-calculator",
+        "difficulty": "Hard",
+        "frequency": 89,
+        "acceptance": 0.004711213771316073,
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator"
+      },
+      {
+        "lcId": 853,
+        "title": "Car Fleet",
+        "slug": "car-fleet",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "acceptance": 0.005556893794510703,
+        "topics": [
+          "Array",
+          "Stack",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/car-fleet"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257655719437011,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 77.9,
+        "acceptance": 0.006060163705313572,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 77.9,
+        "acceptance": 0.005039594514761195,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 224,
+        "title": "Basic Calculator",
+        "slug": "basic-calculator",
+        "difficulty": "Hard",
+        "frequency": 77.9,
+        "acceptance": 0.004711213771316073,
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator"
+      },
+      {
+        "lcId": 853,
+        "title": "Car Fleet",
+        "slug": "car-fleet",
+        "difficulty": "Medium",
+        "frequency": 77.9,
+        "acceptance": 0.005556893794510703,
+        "topics": [
+          "Array",
+          "Stack",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/car-fleet"
+      },
+      {
+        "lcId": 1047,
+        "title": "Remove All Adjacent Duplicates In String",
+        "slug": "remove-all-adjacent-duplicates-in-string",
+        "difficulty": "Easy",
+        "frequency": 77.9,
+        "acceptance": 0.0073868093900326505,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

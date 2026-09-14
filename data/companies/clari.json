@@ -1,0 +1,80 @@
+{
+  "name": "Clari",
+  "slug": "clari",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 96,
+        "title": "Unique Binary Search Trees",
+        "slug": "unique-binary-search-trees",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006408363594251005,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/unique-binary-search-trees"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2196,
+        "title": "Create Binary Tree From Descriptions",
+        "slug": "create-binary-tree-from-descriptions",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.008391448766100243,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions"
+      },
+      {
+        "lcId": 1875,
+        "title": "Group Employees of the Same Salary",
+        "slug": "group-employees-of-the-same-salary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006522315144489525,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/group-employees-of-the-same-salary"
+      },
+      {
+        "lcId": 96,
+        "title": "Unique Binary Search Trees",
+        "slug": "unique-binary-search-trees",
+        "difficulty": "Medium",
+        "frequency": 78.9,
+        "acceptance": 0.006408363594251005,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/unique-binary-search-trees"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

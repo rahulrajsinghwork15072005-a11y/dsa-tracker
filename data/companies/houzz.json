@@ -1,0 +1,47 @@
+{
+  "name": "Houzz",
+  "slug": "houzz",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 660,
+        "title": "Remove 9",
+        "slug": "remove-9",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005747602221100454,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/remove-9"
+      },
+      {
+        "lcId": 772,
+        "title": "Basic Calculator III",
+        "slug": "basic-calculator-iii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0053496846483939145,
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-iii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

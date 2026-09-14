@@ -1,0 +1,283 @@
+{
+  "name": "Nokia",
+  "slug": "nokia",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 2,
+    "gt6m": 6,
+    "all": 9
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 206,
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008094205434218129,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2751,
+        "title": "Robot Collisions",
+        "slug": "robot-collisions",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006163435341823481,
+        "topics": [
+          "Array",
+          "Stack",
+          "Sorting",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/robot-collisions"
+      },
+      {
+        "lcId": 206,
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008094205434218129,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00685325182319983,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 2144,
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "slug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy",
+        "frequency": 92.2,
+        "acceptance": 0.007161019331063989,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount"
+      },
+      {
+        "lcId": 1250,
+        "title": "Check If It Is a Good Array",
+        "slug": "check-if-it-is-a-good-array",
+        "difficulty": "Hard",
+        "frequency": 81.2,
+        "acceptance": 0.006576073593010977,
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory",
+          "Bézout's Lemma",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor",
+          "Extended Euclidean Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 81.2,
+        "acceptance": 0.004472564740062016,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 81.2,
+        "acceptance": 0.0048187253432166125,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 81.2,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00685325182319983,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 2144,
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "slug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy",
+        "frequency": 91.8,
+        "acceptance": 0.007161019331063989,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 80.4,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 1250,
+        "title": "Check If It Is a Good Array",
+        "slug": "check-if-it-is-a-good-array",
+        "difficulty": "Hard",
+        "frequency": 80.4,
+        "acceptance": 0.006576073593010977,
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory",
+          "Bézout's Lemma",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor",
+          "Extended Euclidean Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 80.4,
+        "acceptance": 0.0048187253432166125,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 80.4,
+        "acceptance": 0.004472564740062016,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 2751,
+        "title": "Robot Collisions",
+        "slug": "robot-collisions",
+        "difficulty": "Hard",
+        "frequency": 80.4,
+        "acceptance": 0.006163435341823481,
+        "topics": [
+          "Array",
+          "Stack",
+          "Sorting",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/robot-collisions"
+      },
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 80.4,
+        "acceptance": 0.005039594537339528,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 206,
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list",
+        "difficulty": "Easy",
+        "frequency": 80.4,
+        "acceptance": 0.008094205434218129,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

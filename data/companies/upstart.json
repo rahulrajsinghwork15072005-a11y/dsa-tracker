@@ -1,0 +1,234 @@
+{
+  "name": "Upstart",
+  "slug": "upstart",
+  "counts": {
+    "30d": 1,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 6,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00537354766773175,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00537354766773175,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00537354766773175,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00537354766773175,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 66.6,
+        "acceptance": 0.005122120182912487,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 304,
+        "title": "Range Sum Query 2D - Immutable",
+        "slug": "range-sum-query-2d-immutable",
+        "difficulty": "Medium",
+        "frequency": 66.6,
+        "acceptance": 0.005883569201135158,
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+      },
+      {
+        "lcId": 36,
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku",
+        "difficulty": "Medium",
+        "frequency": 66.6,
+        "acceptance": 0.00649508934413301,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/valid-sudoku"
+      },
+      {
+        "lcId": 120,
+        "title": "Triangle",
+        "slug": "triangle",
+        "difficulty": "Medium",
+        "frequency": 58.8,
+        "acceptance": 0.005991284061241328,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/triangle"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 58.8,
+        "acceptance": 0.0073129100197969945,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00537354766773175,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 36,
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku",
+        "difficulty": "Medium",
+        "frequency": 67.6,
+        "acceptance": 0.00649508934413301,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/valid-sudoku"
+      },
+      {
+        "lcId": 71,
+        "title": "Simplify Path",
+        "slug": "simplify-path",
+        "difficulty": "Medium",
+        "frequency": 62.3,
+        "acceptance": 0.005122120182912487,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/simplify-path"
+      },
+      {
+        "lcId": 304,
+        "title": "Range Sum Query 2D - Immutable",
+        "slug": "range-sum-query-2d-immutable",
+        "difficulty": "Medium",
+        "frequency": 62.3,
+        "acceptance": 0.005883569201135158,
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+      },
+      {
+        "lcId": 120,
+        "title": "Triangle",
+        "slug": "triangle",
+        "difficulty": "Medium",
+        "frequency": 54.8,
+        "acceptance": 0.005991284061241328,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/triangle"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 54.8,
+        "acceptance": 0.0073129100197969945,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

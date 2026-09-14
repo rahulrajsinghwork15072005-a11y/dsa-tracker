@@ -1,0 +1,87 @@
+{
+  "name": "Airbus SE",
+  "slug": "airbus-se",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800918768980581,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3164,
+        "title": "Find the Number of Good Pairs II",
+        "slug": "find-the-number-of-good-pairs-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0026732438415855504,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii"
+      },
+      {
+        "lcId": 3162,
+        "title": "Find the Number of Good Pairs I",
+        "slug": "find-the-number-of-good-pairs-i",
+        "difficulty": "Easy",
+        "frequency": 97.4,
+        "acceptance": 0.008667475028405718,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i"
+      },
+      {
+        "lcId": 3224,
+        "title": "Minimum Array Changes to Make Differences Equal",
+        "slug": "minimum-array-changes-to-make-differences-equal",
+        "difficulty": "Medium",
+        "frequency": 97.4,
+        "acceptance": 0.002468252135765412,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 87.1,
+        "acceptance": 0.005800918768980581,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

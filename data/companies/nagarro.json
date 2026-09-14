@@ -1,0 +1,193 @@
+{
+  "name": "Nagarro",
+  "slug": "nagarro",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00685325182319983,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 225,
+        "title": "Implement Stack using Queues",
+        "slug": "implement-stack-using-queues",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007054260458330416,
+        "topics": [
+          "Stack",
+          "Design",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/implement-stack-using-queues"
+      },
+      {
+        "lcId": 75,
+        "title": "Sort Colors",
+        "slug": "sort-colors",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007016877648840693,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting",
+          "Quicksort",
+          "Bubble Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-colors"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2320,
+        "title": "Count Number of Ways to Place Houses",
+        "slug": "count-number-of-ways-to-place-houses",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004417228170574119,
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/count-number-of-ways-to-place-houses"
+      },
+      {
+        "lcId": 3852,
+        "title": "Smallest Pair With Different Frequencies",
+        "slug": "smallest-pair-with-different-frequencies",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006944381856942301,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/smallest-pair-with-different-frequencies"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 66.9,
+        "acceptance": 0.003977950880255266,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 66.9,
+        "acceptance": 0.00685325182319983,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 225,
+        "title": "Implement Stack using Queues",
+        "slug": "implement-stack-using-queues",
+        "difficulty": "Easy",
+        "frequency": 66.9,
+        "acceptance": 0.007054260458330416,
+        "topics": [
+          "Stack",
+          "Design",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/implement-stack-using-queues"
+      },
+      {
+        "lcId": 75,
+        "title": "Sort Colors",
+        "slug": "sort-colors",
+        "difficulty": "Medium",
+        "frequency": 66.9,
+        "acceptance": 0.007016877648840693,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting",
+          "Quicksort",
+          "Bubble Sort"
+        ],
+        "link": "https://leetcode.com/problems/sort-colors"
+      },
+      {
+        "lcId": 141,
+        "title": "Linked List Cycle",
+        "slug": "linked-list-cycle",
+        "difficulty": "Easy",
+        "frequency": 66.9,
+        "acceptance": 0.005490605524880996,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/linked-list-cycle"
+      },
+      {
+        "lcId": 2434,
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+        "difficulty": "Medium",
+        "frequency": 66.9,
+        "acceptance": 0.006219613337069207,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

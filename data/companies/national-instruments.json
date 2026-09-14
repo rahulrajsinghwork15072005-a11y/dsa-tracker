@@ -1,0 +1,33 @@
+{
+  "name": "National Instruments",
+  "slug": "national-instruments",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 880,
+        "title": "Decoded String at Index",
+        "slug": "decoded-string-at-index",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003750067982813945,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/decoded-string-at-index"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

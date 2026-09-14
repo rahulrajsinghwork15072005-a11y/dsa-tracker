@@ -1,0 +1,86 @@
+{
+  "name": "GE Digital",
+  "slug": "ge-digital",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2162,
+        "title": "Minimum Cost to Set Cooking Time",
+        "slug": "minimum-cost-to-set-cooking-time",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0045075366508362585,
+        "topics": [
+          "Math",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time"
+      },
+      {
+        "lcId": 1249,
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "slug": "minimum-remove-to-make-valid-parentheses",
+        "difficulty": "Medium",
+        "frequency": 90.4,
+        "acceptance": 0.007157022820809079,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 697,
+        "title": "Degree of an Array",
+        "slug": "degree-of-an-array",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0058602424860898505,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/degree-of-an-array"
+      },
+      {
+        "lcId": 2162,
+        "title": "Minimum Cost to Set Cooking Time",
+        "slug": "minimum-cost-to-set-cooking-time",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "acceptance": 0.0045075366508362585,
+        "topics": [
+          "Math",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time"
+      },
+      {
+        "lcId": 1249,
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "slug": "minimum-remove-to-make-valid-parentheses",
+        "difficulty": "Medium",
+        "frequency": 71.7,
+        "acceptance": 0.007157022820809079,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

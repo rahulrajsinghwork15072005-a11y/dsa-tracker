@@ -1,0 +1,95 @@
+{
+  "name": "Point72",
+  "slug": "point72",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 1407,
+        "title": "Top Travellers",
+        "slug": "top-travellers",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005763504111639683,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/top-travellers"
+      },
+      {
+        "lcId": 1294,
+        "title": "Weather Type in Each Country",
+        "slug": "weather-type-in-each-country",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0067106196355425606,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/weather-type-in-each-country"
+      },
+      {
+        "lcId": 1440,
+        "title": "Evaluate Boolean Expression",
+        "slug": "evaluate-boolean-expression",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007168747847835149,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-boolean-expression"
+      },
+      {
+        "lcId": 1321,
+        "title": "Restaurant Growth",
+        "slug": "restaurant-growth",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005957995763225297,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/restaurant-growth"
+      },
+      {
+        "lcId": 1378,
+        "title": "Replace Employee ID With The Unique Identifier",
+        "slug": "replace-employee-id-with-the-unique-identifier",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008375610958824638,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
+      },
+      {
+        "lcId": 2680,
+        "title": "Maximum OR",
+        "slug": "maximum-or",
+        "difficulty": "Medium",
+        "frequency": 67.6,
+        "acceptance": 0.0043697638994668695,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Bit Manipulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-or"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

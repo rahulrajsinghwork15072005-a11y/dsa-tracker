@@ -1,0 +1,75 @@
+{
+  "name": "Amadeus",
+  "slug": "amadeus",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2079,
+        "title": "Watering Plants",
+        "slug": "watering-plants",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00800445632798574,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/watering-plants"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 82.4,
+        "acceptance": 0.006853215114815539,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2079,
+        "title": "Watering Plants",
+        "slug": "watering-plants",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00800445632798574,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/watering-plants"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 82.2,
+        "acceptance": 0.006853215114815539,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

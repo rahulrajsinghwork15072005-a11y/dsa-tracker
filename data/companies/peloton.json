@@ -1,0 +1,85 @@
+{
+  "name": "Peloton",
+  "slug": "peloton",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 381,
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0036895098916057754,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 95.1,
+        "acceptance": 0.005548628566042478,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 381,
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0036895098916057754,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 95.1,
+        "acceptance": 0.005548628566042478,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

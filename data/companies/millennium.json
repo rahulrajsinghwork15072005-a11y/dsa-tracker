@@ -1,0 +1,326 @@
+{
+  "name": "Millennium",
+  "slug": "millennium",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 9,
+    "all": 12
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005725127893111592,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 2484,
+        "title": "Count Palindromic Subsequences",
+        "slug": "count-palindromic-subsequences",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004186745946693399,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/count-palindromic-subsequences"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 86.8,
+        "acceptance": 0.004472564577393003,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 2603,
+        "title": "Collect Coins in a Tree",
+        "slug": "collect-coins-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 86.8,
+        "acceptance": 0.003979289006756331,
+        "topics": [
+          "Array",
+          "Tree",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 76.4,
+        "acceptance": 0.005257646418354588,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 301,
+        "title": "Remove Invalid Parentheses",
+        "slug": "remove-invalid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 76.4,
+        "acceptance": 0.005009524180511462,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/remove-invalid-parentheses"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 76.4,
+        "acceptance": 0.004977888526934449,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 437,
+        "title": "Path Sum III",
+        "slug": "path-sum-iii",
+        "difficulty": "Medium",
+        "frequency": 76.4,
+        "acceptance": 0.004658917248768188,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/path-sum-iii"
+      },
+      {
+        "lcId": 98,
+        "title": "Validate Binary Search Tree",
+        "slug": "validate-binary-search-tree",
+        "difficulty": "Medium",
+        "frequency": 76.4,
+        "acceptance": 0.0036206319940006175,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/validate-binary-search-tree"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005725127893111592,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 2484,
+        "title": "Count Palindromic Subsequences",
+        "slug": "count-palindromic-subsequences",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004186745946693399,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/count-palindromic-subsequences"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 86.5,
+        "acceptance": 0.004472564577393003,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 2603,
+        "title": "Collect Coins in a Tree",
+        "slug": "collect-coins-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 86.5,
+        "acceptance": 0.003979289006756331,
+        "topics": [
+          "Array",
+          "Tree",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 86.5,
+        "acceptance": 0.005257646418354588,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 301,
+        "title": "Remove Invalid Parentheses",
+        "slug": "remove-invalid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 75.9,
+        "acceptance": 0.005009524180511462,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/remove-invalid-parentheses"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.004977888526934449,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 437,
+        "title": "Path Sum III",
+        "slug": "path-sum-iii",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.004658917248768188,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/path-sum-iii"
+      },
+      {
+        "lcId": 98,
+        "title": "Validate Binary Search Tree",
+        "slug": "validate-binary-search-tree",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.0036206319940006175,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/validate-binary-search-tree"
+      },
+      {
+        "lcId": 622,
+        "title": "Design Circular Queue",
+        "slug": "design-circular-queue",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.005521272128251863,
+        "topics": [
+          "Array",
+          "Linked List",
+          "Design",
+          "Queue"
+        ],
+        "link": "https://leetcode.com/problems/design-circular-queue"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.007312900794903427,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.004786886321880775,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

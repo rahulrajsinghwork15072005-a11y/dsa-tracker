@@ -1,0 +1,140 @@
+{
+  "name": "Gameskraft",
+  "slug": "gameskraft",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3367,
+        "title": "Maximize Sum of Weights after Edge Removals",
+        "slug": "maximize-sum-of-weights-after-edge-removals",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003135128622206157,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 64.5,
+        "acceptance": 0.004910891640522027,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 2867,
+        "title": "Count Valid Paths in a Tree",
+        "slug": "count-valid-paths-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 64.5,
+        "acceptance": 0.003710709613548775,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Number Theory",
+          "Primality Test",
+          "Sieve Theory",
+          "Prime Number Sieve"
+        ],
+        "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3367,
+        "title": "Maximize Sum of Weights after Edge Removals",
+        "slug": "maximize-sum-of-weights-after-edge-removals",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003135128622206157,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals"
+      },
+      {
+        "lcId": 3710,
+        "title": "Maximum Partition Factor",
+        "slug": "maximum-partition-factor",
+        "difficulty": "Hard",
+        "frequency": 93.2,
+        "acceptance": 0.0032368801788767595,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/maximum-partition-factor"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 63.8,
+        "acceptance": 0.004910891640522027,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 2867,
+        "title": "Count Valid Paths in a Tree",
+        "slug": "count-valid-paths-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 63.8,
+        "acceptance": 0.003710709613548775,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Number Theory",
+          "Primality Test",
+          "Sieve Theory",
+          "Prime Number Sieve"
+        ],
+        "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

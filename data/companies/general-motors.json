@@ -1,0 +1,376 @@
+{
+  "name": "General Motors",
+  "slug": "general-motors",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 10,
+    "all": 13
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00525763756239288,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 323,
+        "title": "Number of Connected Components in an Undirected Graph",
+        "slug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0065101303151850285,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+      },
+      {
+        "lcId": 208,
+        "title": "Implement Trie (Prefix Tree)",
+        "slug": "implement-trie-prefix-tree",
+        "difficulty": "Medium",
+        "frequency": 65.5,
+        "acceptance": 0.0069914863392823755,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+      },
+      {
+        "lcId": 1404,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": "Medium",
+        "frequency": 65.5,
+        "acceptance": 0.006374802235557344,
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      },
+      {
+        "lcId": 64,
+        "title": "Minimum Path Sum",
+        "slug": "minimum-path-sum",
+        "difficulty": "Medium",
+        "frequency": 60.2,
+        "acceptance": 0.006874286330677579,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-path-sum"
+      },
+      {
+        "lcId": 1570,
+        "title": "Dot Product of Two Sparse Vectors",
+        "slug": "dot-product-of-two-sparse-vectors",
+        "difficulty": "Medium",
+        "frequency": 60.2,
+        "acceptance": 0.00898920702566936,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Design",
+          "Linear Algebra"
+        ],
+        "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors"
+      },
+      {
+        "lcId": 1637,
+        "title": "Widest Vertical Area Between Two Points Containing No Points",
+        "slug": "widest-vertical-area-between-two-points-containing-no-points",
+        "difficulty": "Easy",
+        "frequency": 52.8,
+        "acceptance": 0.00871239654018519,
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points"
+      },
+      {
+        "lcId": 41,
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive",
+        "difficulty": "Hard",
+        "frequency": 52.8,
+        "acceptance": 0.0043542872859601775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/first-missing-positive"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 52.8,
+        "acceptance": 0.004786875211032887,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 297,
+        "title": "Serialize and Deserialize Binary Tree",
+        "slug": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard",
+        "frequency": 52.8,
+        "acceptance": 0.006102863893992712,
+        "topics": [
+          "String",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+      },
+      {
+        "lcId": 689,
+        "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "slug": "maximum-sum-of-3-non-overlapping-subarrays",
+        "difficulty": "Hard",
+        "frequency": 52.8,
+        "acceptance": 0.005999105525447425,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 323,
+        "title": "Number of Connected Components in an Undirected Graph",
+        "slug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0065101303151850285,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+      },
+      {
+        "lcId": 1404,
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "acceptance": 0.006374802235557344,
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      },
+      {
+        "lcId": 208,
+        "title": "Implement Trie (Prefix Tree)",
+        "slug": "implement-trie-prefix-tree",
+        "difficulty": "Medium",
+        "frequency": 64.8,
+        "acceptance": 0.0069914863392823755,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+      },
+      {
+        "lcId": 64,
+        "title": "Minimum Path Sum",
+        "slug": "minimum-path-sum",
+        "difficulty": "Medium",
+        "frequency": 59.4,
+        "acceptance": 0.006874286330677579,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-path-sum"
+      },
+      {
+        "lcId": 1570,
+        "title": "Dot Product of Two Sparse Vectors",
+        "slug": "dot-product-of-two-sparse-vectors",
+        "difficulty": "Medium",
+        "frequency": 59.4,
+        "acceptance": 0.00898920702566936,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Design",
+          "Linear Algebra"
+        ],
+        "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors"
+      },
+      {
+        "lcId": 689,
+        "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "slug": "maximum-sum-of-3-non-overlapping-subarrays",
+        "difficulty": "Hard",
+        "frequency": 59.4,
+        "acceptance": 0.005999105525447425,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 51.8,
+        "acceptance": 0.004786875211032887,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 41,
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive",
+        "difficulty": "Hard",
+        "frequency": 51.8,
+        "acceptance": 0.0043542872859601775,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/first-missing-positive"
+      },
+      {
+        "lcId": 1637,
+        "title": "Widest Vertical Area Between Two Points Containing No Points",
+        "slug": "widest-vertical-area-between-two-points-containing-no-points",
+        "difficulty": "Easy",
+        "frequency": 51.8,
+        "acceptance": 0.00871239654018519,
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points"
+      },
+      {
+        "lcId": 297,
+        "title": "Serialize and Deserialize Binary Tree",
+        "slug": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard",
+        "frequency": 51.8,
+        "acceptance": 0.006102863893992712,
+        "topics": [
+          "String",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+      },
+      {
+        "lcId": 843,
+        "title": "Guess the Word",
+        "slug": "guess-the-word",
+        "difficulty": "Hard",
+        "frequency": 51.8,
+        "acceptance": 0.003660275621759791,
+        "topics": [
+          "Array",
+          "Math",
+          "String",
+          "Minimax",
+          "Interactive",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/guess-the-word"
+      },
+      {
+        "lcId": 1647,
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "slug": "minimum-deletions-to-make-character-frequencies-unique",
+        "difficulty": "Medium",
+        "frequency": 51.8,
+        "acceptance": 0.006153051151358865,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 51.8,
+        "acceptance": 0.00525763756239288,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

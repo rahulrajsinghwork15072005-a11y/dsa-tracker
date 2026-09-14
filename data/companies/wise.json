@@ -1,0 +1,221 @@
+{
+  "name": "Wise",
+  "slug": "wise",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 3,
+    "gt6m": 3,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 348,
+        "title": "Design Tic-Tac-Toe",
+        "slug": "design-tic-tac-toe",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005875625669705109,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-tic-tac-toe"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 3649,
+        "title": "Number of Perfect Pairs",
+        "slug": "number-of-perfect-pairs",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0034627465946453734,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-perfect-pairs"
+      },
+      {
+        "lcId": 348,
+        "title": "Design Tic-Tac-Toe",
+        "slug": "design-tic-tac-toe",
+        "difficulty": "Medium",
+        "frequency": 90.3,
+        "acceptance": 0.005875625669705109,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-tic-tac-toe"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 90.3,
+        "acceptance": 0.006974272516303686,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005074676265817781,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      },
+      {
+        "lcId": 348,
+        "title": "Design Tic-Tac-Toe",
+        "slug": "design-tic-tac-toe",
+        "difficulty": "Medium",
+        "frequency": 75.5,
+        "acceptance": 0.005875625669705109,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-tic-tac-toe"
+      },
+      {
+        "lcId": 713,
+        "title": "Subarray Product Less Than K",
+        "slug": "subarray-product-less-than-k",
+        "difficulty": "Medium",
+        "frequency": 67.3,
+        "acceptance": 0.005485891529639582,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005074676265817781,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      },
+      {
+        "lcId": 348,
+        "title": "Design Tic-Tac-Toe",
+        "slug": "design-tic-tac-toe",
+        "difficulty": "Medium",
+        "frequency": 85.4,
+        "acceptance": 0.005875625669705109,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-tic-tac-toe"
+      },
+      {
+        "lcId": 3649,
+        "title": "Number of Perfect Pairs",
+        "slug": "number-of-perfect-pairs",
+        "difficulty": "Medium",
+        "frequency": 80.7,
+        "acceptance": 0.0034627465946453734,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/number-of-perfect-pairs"
+      },
+      {
+        "lcId": 713,
+        "title": "Subarray Product Less Than K",
+        "slug": "subarray-product-less-than-k",
+        "difficulty": "Medium",
+        "frequency": 66.1,
+        "acceptance": 0.005485891529639582,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+      },
+      {
+        "lcId": 2451,
+        "title": "Odd String Difference",
+        "slug": "odd-string-difference",
+        "difficulty": "Easy",
+        "frequency": 66.1,
+        "acceptance": 0.006219930347322137,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/odd-string-difference"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 66.1,
+        "acceptance": 0.006974272516303686,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

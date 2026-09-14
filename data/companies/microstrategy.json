@@ -1,0 +1,311 @@
+{
+  "name": "Microstrategy",
+  "slug": "microstrategy",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 8,
+    "all": 10
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0058009569065051395,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0058009569065051395,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005489179264677859,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 844,
+        "title": "Backspace String Compare",
+        "slug": "backspace-string-compare",
+        "difficulty": "Easy",
+        "frequency": 87.6,
+        "acceptance": 0.00501727156043414,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/backspace-string-compare"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 77.8,
+        "acceptance": 0.006713896392811846,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 419,
+        "title": "Battleships in a Board",
+        "slug": "battleships-in-a-board",
+        "difficulty": "Medium",
+        "frequency": 77.8,
+        "acceptance": 0.0077730257245265865,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/battleships-in-a-board"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 77.8,
+        "acceptance": 0.005725127893111592,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 2184,
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "slug": "number-of-ways-to-build-sturdy-brick-wall",
+        "difficulty": "Medium",
+        "frequency": 77.8,
+        "acceptance": 0.0049533478365965675,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 77.8,
+        "acceptance": 0.008226147251178878,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 1963,
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "slug": "minimum-number-of-swaps-to-make-the-string-balanced",
+        "difficulty": "Medium",
+        "frequency": 77.8,
+        "acceptance": 0.007804356967066127,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1227,
+        "title": "Airplane Seat Assignment Probability",
+        "slug": "airplane-seat-assignment-probability",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0067578142172594205,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ],
+        "link": "https://leetcode.com/problems/airplane-seat-assignment-probability"
+      },
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 89.4,
+        "acceptance": 0.005489179264677859,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 844,
+        "title": "Backspace String Compare",
+        "slug": "backspace-string-compare",
+        "difficulty": "Easy",
+        "frequency": 77.9,
+        "acceptance": 0.00501727156043414,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/backspace-string-compare"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 68.8,
+        "acceptance": 0.006713896392811846,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 68.8,
+        "acceptance": 0.005725127893111592,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 419,
+        "title": "Battleships in a Board",
+        "slug": "battleships-in-a-board",
+        "difficulty": "Medium",
+        "frequency": 68.8,
+        "acceptance": 0.0077730257245265865,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/battleships-in-a-board"
+      },
+      {
+        "lcId": 2184,
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "slug": "number-of-ways-to-build-sturdy-brick-wall",
+        "difficulty": "Medium",
+        "frequency": 68.8,
+        "acceptance": 0.0049533478365965675,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 68.8,
+        "acceptance": 0.008226147251178878,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 1963,
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "slug": "minimum-number-of-swaps-to-make-the-string-balanced",
+        "difficulty": "Medium",
+        "frequency": 68.8,
+        "acceptance": 0.007804356967066127,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 68.8,
+        "acceptance": 0.0058009569065051395,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

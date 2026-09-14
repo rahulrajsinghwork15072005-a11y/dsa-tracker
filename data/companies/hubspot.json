@@ -1,0 +1,359 @@
+{
+  "name": "Hubspot",
+  "slug": "hubspot",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 2,
+    "gt6m": 11,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 277,
+        "title": "Find the Celebrity",
+        "slug": "find-the-celebrity",
+        "difficulty": "Medium",
+        "frequency": 93.8,
+        "acceptance": 0.004906643023186505,
+        "topics": [
+          "Two Pointers",
+          "Graph Theory",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/find-the-celebrity"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 277,
+        "title": "Find the Celebrity",
+        "slug": "find-the-celebrity",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004906643023186505,
+        "topics": [
+          "Two Pointers",
+          "Graph Theory",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/find-the-celebrity"
+      },
+      {
+        "lcId": 88,
+        "title": "Merge Sorted Array",
+        "slug": "merge-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 86,
+        "acceptance": 0.005552799447048253,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/merge-sorted-array"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 81,
+        "acceptance": 0.005257640819791322,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 76.8,
+        "acceptance": 0.0058009546124321455,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 74.2,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 1297,
+        "title": "Maximum Number of Occurrences of a Substring",
+        "slug": "maximum-number-of-occurrences-of-a-substring",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.005480517882953531,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 67.8,
+        "acceptance": 0.006874747676584544,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 63.6,
+        "acceptance": 0.005277681052747888,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 2386,
+        "title": "Find the K-Sum of an Array",
+        "slug": "find-the-k-sum-of-an-array",
+        "difficulty": "Hard",
+        "frequency": 50.4,
+        "acceptance": 0.004181787445058041,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/find-the-k-sum-of-an-array"
+      },
+      {
+        "lcId": 2623,
+        "title": "Memoize",
+        "slug": "memoize",
+        "difficulty": "Medium",
+        "frequency": 50.4,
+        "acceptance": 0.006526172280691071,
+        "topics": [],
+        "link": "https://leetcode.com/problems/memoize"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 50.4,
+        "acceptance": 0.0060293913261848684,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 277,
+        "title": "Find the Celebrity",
+        "slug": "find-the-celebrity",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004906643023186505,
+        "topics": [
+          "Two Pointers",
+          "Graph Theory",
+          "Interactive"
+        ],
+        "link": "https://leetcode.com/problems/find-the-celebrity"
+      },
+      {
+        "lcId": 88,
+        "title": "Merge Sorted Array",
+        "slug": "merge-sorted-array",
+        "difficulty": "Easy",
+        "frequency": 84.3,
+        "acceptance": 0.005552799447048253,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/merge-sorted-array"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.0069569251305521326,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 79.3,
+        "acceptance": 0.005257640819791322,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 75.1,
+        "acceptance": 0.0058009546124321455,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 1297,
+        "title": "Maximum Number of Occurrences of a Substring",
+        "slug": "maximum-number-of-occurrences-of-a-substring",
+        "difficulty": "Medium",
+        "frequency": 69.7,
+        "acceptance": 0.005480517882953531,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+      },
+      {
+        "lcId": 21,
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists",
+        "difficulty": "Easy",
+        "frequency": 66.3,
+        "acceptance": 0.006874747676584544,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 62.1,
+        "acceptance": 0.005277681052747888,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 49,
+        "acceptance": 0.0060293913261848684,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 2386,
+        "title": "Find the K-Sum of an Array",
+        "slug": "find-the-k-sum-of-an-array",
+        "difficulty": "Hard",
+        "frequency": 49,
+        "acceptance": 0.004181787445058041,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/find-the-k-sum-of-an-array"
+      },
+      {
+        "lcId": 2623,
+        "title": "Memoize",
+        "slug": "memoize",
+        "difficulty": "Medium",
+        "frequency": 49,
+        "acceptance": 0.006526172280691071,
+        "topics": [],
+        "link": "https://leetcode.com/problems/memoize"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Careem",
+  "slug": "careem",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006974266759846454,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      },
+      {
+        "lcId": 1094,
+        "title": "Car Pooling",
+        "slug": "car-pooling",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005647517923586532,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/car-pooling"
+      },
+      {
+        "lcId": 485,
+        "title": "Max Consecutive Ones",
+        "slug": "max-consecutive-ones",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006591762148051581,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/max-consecutive-ones"
+      },
+      {
+        "lcId": 122,
+        "title": "Best Time to Buy and Sell Stock II",
+        "slug": "best-time-to-buy-and-sell-stock-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007150145044640653,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 122,
+        "title": "Best Time to Buy and Sell Stock II",
+        "slug": "best-time-to-buy-and-sell-stock-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007150145044640653,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+      },
+      {
+        "lcId": 362,
+        "title": "Design Hit Counter",
+        "slug": "design-hit-counter",
+        "difficulty": "Medium",
+        "frequency": 89.1,
+        "acceptance": 0.006974266759846454,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/design-hit-counter"
+      },
+      {
+        "lcId": 1094,
+        "title": "Car Pooling",
+        "slug": "car-pooling",
+        "difficulty": "Medium",
+        "frequency": 89.1,
+        "acceptance": 0.005647517923586532,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/car-pooling"
+      },
+      {
+        "lcId": 485,
+        "title": "Max Consecutive Ones",
+        "slug": "max-consecutive-ones",
+        "difficulty": "Easy",
+        "frequency": 89.1,
+        "acceptance": 0.006591762148051581,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/max-consecutive-ones"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 89.1,
+        "acceptance": 0.006064805437323167,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

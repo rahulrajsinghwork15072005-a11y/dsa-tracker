@@ -1,0 +1,138 @@
+{
+  "name": "Trilogy",
+  "slug": "trilogy",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 592,
+        "title": "Fraction Addition and Subtraction",
+        "slug": "fraction-addition-and-subtraction",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006656669888377206,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/fraction-addition-and-subtraction"
+      },
+      {
+        "lcId": 2438,
+        "title": "Range Product Queries of Powers",
+        "slug": "range-product-queries-of-powers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006120184318642893,
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/range-product-queries-of-powers"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2564,
+        "title": "Substring XOR Queries",
+        "slug": "substring-xor-queries",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0035909071541181986,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/substring-xor-queries"
+      },
+      {
+        "lcId": 2569,
+        "title": "Handling Sum Queries After Update",
+        "slug": "handling-sum-queries-after-update",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003178260227440555,
+        "topics": [
+          "Array",
+          "Segment Tree"
+        ],
+        "link": "https://leetcode.com/problems/handling-sum-queries-after-update"
+      },
+      {
+        "lcId": 2425,
+        "title": "Bitwise XOR of All Pairings",
+        "slug": "bitwise-xor-of-all-pairings",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006688367755750501,
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Brainteaser"
+        ],
+        "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings"
+      },
+      {
+        "lcId": 2403,
+        "title": "Minimum Time to Kill All Monsters",
+        "slug": "minimum-time-to-kill-all-monsters",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005779104477611941,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters"
+      },
+      {
+        "lcId": 592,
+        "title": "Fraction Addition and Subtraction",
+        "slug": "fraction-addition-and-subtraction",
+        "difficulty": "Medium",
+        "frequency": 77.3,
+        "acceptance": 0.006656669888377206,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/fraction-addition-and-subtraction"
+      },
+      {
+        "lcId": 2438,
+        "title": "Range Product Queries of Powers",
+        "slug": "range-product-queries-of-powers",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "acceptance": 0.006120184318642893,
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/range-product-queries-of-powers"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

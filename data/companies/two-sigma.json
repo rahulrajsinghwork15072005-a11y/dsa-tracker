@@ -1,0 +1,498 @@
+{
+  "name": "Two Sigma",
+  "slug": "two-sigma",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 2,
+    "gt6m": 10,
+    "all": 19
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 43,
+        "title": "Multiply Strings",
+        "slug": "multiply-strings",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004462395811409853,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/multiply-strings"
+      },
+      {
+        "lcId": 337,
+        "title": "House Robber III",
+        "slug": "house-robber-iii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00562234293063795,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-iii"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 43,
+        "title": "Multiply Strings",
+        "slug": "multiply-strings",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004462395811409853,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/multiply-strings"
+      },
+      {
+        "lcId": 212,
+        "title": "Word Search II",
+        "slug": "word-search-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0038787521659781653,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search-ii"
+      },
+      {
+        "lcId": 2050,
+        "title": "Parallel Courses III",
+        "slug": "parallel-courses-iii",
+        "difficulty": "Hard",
+        "frequency": 95.4,
+        "acceptance": 0.006681007096628293,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/parallel-courses-iii"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 82.3,
+        "acceptance": 0.006029411849278554,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 82.3,
+        "acceptance": 0.004921190432880283,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 1889,
+        "title": "Minimum Space Wasted From Packaging",
+        "slug": "minimum-space-wasted-from-packaging",
+        "difficulty": "Hard",
+        "frequency": 82.3,
+        "acceptance": 0.003374687595519356,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-space-wasted-from-packaging"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 82.3,
+        "acceptance": 0.005055770544047347,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 82.3,
+        "acceptance": 0.004472570758542255,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "acceptance": 0.006496058615499655,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 72,
+        "acceptance": 0.00527767860798182,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004921190432880283,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 547,
+        "title": "Number of Provinces",
+        "slug": "number-of-provinces",
+        "difficulty": "Medium",
+        "frequency": 93.2,
+        "acceptance": 0.007093692971150773,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/number-of-provinces"
+      },
+      {
+        "lcId": 1186,
+        "title": "Maximum Subarray Sum with One Deletion",
+        "slug": "maximum-subarray-sum-with-one-deletion",
+        "difficulty": "Medium",
+        "frequency": 93.2,
+        "acceptance": 0.004915490997837769,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion"
+      },
+      {
+        "lcId": 43,
+        "title": "Multiply Strings",
+        "slug": "multiply-strings",
+        "difficulty": "Medium",
+        "frequency": 90.4,
+        "acceptance": 0.004462395811409853,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/multiply-strings"
+      },
+      {
+        "lcId": 44,
+        "title": "Wildcard Matching",
+        "slug": "wildcard-matching",
+        "difficulty": "Hard",
+        "frequency": 90.4,
+        "acceptance": 0.0032623626421706474,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/wildcard-matching"
+      },
+      {
+        "lcId": 1048,
+        "title": "Longest String Chain",
+        "slug": "longest-string-chain",
+        "difficulty": "Medium",
+        "frequency": 90.4,
+        "acceptance": 0.006339639238225504,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/longest-string-chain"
+      },
+      {
+        "lcId": 289,
+        "title": "Game of Life",
+        "slug": "game-of-life",
+        "difficulty": "Medium",
+        "frequency": 90.4,
+        "acceptance": 0.0072943073295038885,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/game-of-life"
+      },
+      {
+        "lcId": 342,
+        "title": "Power of Four",
+        "slug": "power-of-four",
+        "difficulty": "Easy",
+        "frequency": 90.4,
+        "acceptance": 0.005247289411061193,
+        "topics": [
+          "Math",
+          "Bit Manipulation",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/power-of-four"
+      },
+      {
+        "lcId": 349,
+        "title": "Intersection of Two Arrays",
+        "slug": "intersection-of-two-arrays",
+        "difficulty": "Easy",
+        "frequency": 90.4,
+        "acceptance": 0.007820170589133429,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+      },
+      {
+        "lcId": 918,
+        "title": "Maximum Sum Circular Subarray",
+        "slug": "maximum-sum-circular-subarray",
+        "difficulty": "Medium",
+        "frequency": 90.4,
+        "acceptance": 0.005115705754723952,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming",
+          "Queue",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/maximum-sum-circular-subarray"
+      },
+      {
+        "lcId": 2050,
+        "title": "Parallel Courses III",
+        "slug": "parallel-courses-iii",
+        "difficulty": "Hard",
+        "frequency": 83.6,
+        "acceptance": 0.006681007096628293,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/parallel-courses-iii"
+      },
+      {
+        "lcId": 212,
+        "title": "Word Search II",
+        "slug": "word-search-ii",
+        "difficulty": "Hard",
+        "frequency": 83.6,
+        "acceptance": 0.0038787521659781653,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search-ii"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 67.3,
+        "acceptance": 0.006029411849278554,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 1889,
+        "title": "Minimum Space Wasted From Packaging",
+        "slug": "minimum-space-wasted-from-packaging",
+        "difficulty": "Hard",
+        "frequency": 67.3,
+        "acceptance": 0.003374687595519356,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-space-wasted-from-packaging"
+      },
+      {
+        "lcId": 2502,
+        "title": "Design Memory Allocator",
+        "slug": "design-memory-allocator",
+        "difficulty": "Medium",
+        "frequency": 67.3,
+        "acceptance": 0.005055770544047347,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/design-memory-allocator"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 67.3,
+        "acceptance": 0.004472570758542255,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 253,
+        "title": "Meeting Rooms II",
+        "slug": "meeting-rooms-ii",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.00527767860798182,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.006496058615499655,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 337,
+        "title": "House Robber III",
+        "slug": "house-robber-iii",
+        "difficulty": "Medium",
+        "frequency": 57.7,
+        "acceptance": 0.00562234293063795,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-iii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

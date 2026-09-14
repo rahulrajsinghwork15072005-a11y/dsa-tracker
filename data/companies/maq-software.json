@@ -1,0 +1,172 @@
+{
+  "name": "MAQ Software",
+  "slug": "maq-software",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 5,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003977946185101758,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.0038471123361969732,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 516,
+        "title": "Longest Palindromic Subsequence",
+        "slug": "longest-palindromic-subsequence",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.006580388376809849,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-subsequence"
+      },
+      {
+        "lcId": 32,
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 88.4,
+        "acceptance": 0.003950327504831748,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+      },
+      {
+        "lcId": 196,
+        "title": "Delete Duplicate Emails",
+        "slug": "delete-duplicate-emails",
+        "difficulty": "Easy",
+        "frequency": 88.4,
+        "acceptance": 0.00665799653658102,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/delete-duplicate-emails"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 467,
+        "title": "Unique Substrings in Wraparound String",
+        "slug": "unique-substrings-in-wraparound-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004371702514367287,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/unique-substrings-in-wraparound-string"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 77.6,
+        "acceptance": 0.003977946185101758,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 68.3,
+        "acceptance": 0.0038471123361969732,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 516,
+        "title": "Longest Palindromic Subsequence",
+        "slug": "longest-palindromic-subsequence",
+        "difficulty": "Medium",
+        "frequency": 68.3,
+        "acceptance": 0.006580388376809849,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-subsequence"
+      },
+      {
+        "lcId": 196,
+        "title": "Delete Duplicate Emails",
+        "slug": "delete-duplicate-emails",
+        "difficulty": "Easy",
+        "frequency": 68.3,
+        "acceptance": 0.00665799653658102,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/delete-duplicate-emails"
+      },
+      {
+        "lcId": 32,
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 68.3,
+        "acceptance": 0.003950327504831748,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Braze",
+  "slug": "braze",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 723,
+        "title": "Candy Crush",
+        "slug": "candy-crush",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007762864266154412,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/candy-crush"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 723,
+        "title": "Candy Crush",
+        "slug": "candy-crush",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007762864266154412,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/candy-crush"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

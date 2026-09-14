@@ -1,0 +1,20 @@
+﻿# deps
+node_modules/
+server/node_modules/
+qa/node_modules/
+
+# runtime / secrets (never commit)
+.env
+server/data/users.json
+server/data/progress/
+server/data/jwt_secret
+server/logs/
+*.log
+
+# qa artifacts
+qa/shots/
+
+# os
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,299 @@
+{
+  "name": "Criteo",
+  "slug": "criteo",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 8,
+    "all": 10
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004472538005981907,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 349,
+        "title": "Intersection of Two Arrays",
+        "slug": "intersection-of-two-arrays",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007820113059813682,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+      },
+      {
+        "lcId": 733,
+        "title": "Flood Fill",
+        "slug": "flood-fill",
+        "difficulty": "Easy",
+        "frequency": 81.1,
+        "acceptance": 0.006878722063599652,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/flood-fill"
+      },
+      {
+        "lcId": 383,
+        "title": "Ransom Note",
+        "slug": "ransom-note",
+        "difficulty": "Easy",
+        "frequency": 81.1,
+        "acceptance": 0.0066313892124181695,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/ransom-note"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 81.1,
+        "acceptance": 0.005800928036039174,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.00454620659684972,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 350,
+        "title": "Intersection of Two Arrays II",
+        "slug": "intersection-of-two-arrays-ii",
+        "difficulty": "Easy",
+        "frequency": 81.1,
+        "acceptance": 0.006021524732697484,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii"
+      },
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.004921199117994516,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.005373530760305162,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 349,
+        "title": "Intersection of Two Arrays",
+        "slug": "intersection-of-two-arrays",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007820113059813682,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+      },
+      {
+        "lcId": 733,
+        "title": "Flood Fill",
+        "slug": "flood-fill",
+        "difficulty": "Easy",
+        "frequency": 84.6,
+        "acceptance": 0.006878722063599652,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/flood-fill"
+      },
+      {
+        "lcId": 350,
+        "title": "Intersection of Two Arrays II",
+        "slug": "intersection-of-two-arrays-ii",
+        "difficulty": "Easy",
+        "frequency": 84.6,
+        "acceptance": 0.006021524732697484,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii"
+      },
+      {
+        "lcId": 383,
+        "title": "Ransom Note",
+        "slug": "ransom-note",
+        "difficulty": "Easy",
+        "frequency": 78.2,
+        "acceptance": 0.0066313892124181695,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/ransom-note"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 78.2,
+        "acceptance": 0.005800928036039174,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 78.2,
+        "acceptance": 0.00454620659684972,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 528,
+        "title": "Random Pick with Weight",
+        "slug": "random-pick-with-weight",
+        "difficulty": "Medium",
+        "frequency": 78.2,
+        "acceptance": 0.004921199117994516,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 78.2,
+        "acceptance": 0.004472538005981907,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 53,
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "Medium",
+        "frequency": 69.3,
+        "acceptance": 0.005373530760305162,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/maximum-subarray"
+      },
+      {
+        "lcId": 645,
+        "title": "Set Mismatch",
+        "slug": "set-mismatch",
+        "difficulty": "Easy",
+        "frequency": 69.3,
+        "acceptance": 0.004337093652600287,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/set-mismatch"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

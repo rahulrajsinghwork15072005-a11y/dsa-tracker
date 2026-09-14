@@ -1,0 +1,406 @@
+{
+  "name": "UiPath",
+  "slug": "uipath",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 2,
+    "gt6m": 9,
+    "all": 15
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005855048421020332,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 968,
+        "title": "Binary Tree Cameras",
+        "slug": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004807813330861584,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-cameras"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 12,
+        "title": "Integer to Roman",
+        "slug": "integer-to-roman",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007149613342193813,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-roman"
+      },
+      {
+        "lcId": 827,
+        "title": "Making A Large Island",
+        "slug": "making-a-large-island",
+        "difficulty": "Hard",
+        "frequency": 87.8,
+        "acceptance": 0.005708592445368767,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/making-a-large-island"
+      },
+      {
+        "lcId": 881,
+        "title": "Boats to Save People",
+        "slug": "boats-to-save-people",
+        "difficulty": "Medium",
+        "frequency": 87.8,
+        "acceptance": 0.006229808543772329,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Timsort"
+        ],
+        "link": "https://leetcode.com/problems/boats-to-save-people"
+      },
+      {
+        "lcId": 990,
+        "title": "Satisfiability of Equality Equations",
+        "slug": "satisfiability-of-equality-equations",
+        "difficulty": "Medium",
+        "frequency": 87.8,
+        "acceptance": 0.005211120031167728,
+        "topics": [
+          "Array",
+          "String",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+      },
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 87.8,
+        "acceptance": 0.0060430446881604176,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 312,
+        "title": "Burst Balloons",
+        "slug": "burst-balloons",
+        "difficulty": "Hard",
+        "frequency": 87.8,
+        "acceptance": 0.006419262527881141,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/burst-balloons"
+      },
+      {
+        "lcId": 2603,
+        "title": "Collect Coins in a Tree",
+        "slug": "collect-coins-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 87.8,
+        "acceptance": 0.0039794157265532915,
+        "topics": [
+          "Array",
+          "Tree",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree"
+      },
+      {
+        "lcId": 90,
+        "title": "Subsets II",
+        "slug": "subsets-ii",
+        "difficulty": "Medium",
+        "frequency": 87.8,
+        "acceptance": 0.006182657265322458,
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/subsets-ii"
+      },
+      {
+        "lcId": 354,
+        "title": "Russian Doll Envelopes",
+        "slug": "russian-doll-envelopes",
+        "difficulty": "Hard",
+        "frequency": 87.8,
+        "acceptance": 0.0038121836054652593,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/russian-doll-envelopes"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1036,
+        "title": "Escape a Large Maze",
+        "slug": "escape-a-large-maze",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003703043139003456,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/escape-a-large-maze"
+      },
+      {
+        "lcId": 2826,
+        "title": "Sorting Three Groups",
+        "slug": "sorting-three-groups",
+        "difficulty": "Medium",
+        "frequency": 97.2,
+        "acceptance": 0.004332284770803011,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/sorting-three-groups"
+      },
+      {
+        "lcId": 1162,
+        "title": "As Far from Land as Possible",
+        "slug": "as-far-from-land-as-possible",
+        "difficulty": "Medium",
+        "frequency": 97.2,
+        "acceptance": 0.00524903222288861,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/as-far-from-land-as-possible"
+      },
+      {
+        "lcId": 12,
+        "title": "Integer to Roman",
+        "slug": "integer-to-roman",
+        "difficulty": "Medium",
+        "frequency": 73.7,
+        "acceptance": 0.007149613342193813,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-roman"
+      },
+      {
+        "lcId": 827,
+        "title": "Making A Large Island",
+        "slug": "making-a-large-island",
+        "difficulty": "Hard",
+        "frequency": 64.1,
+        "acceptance": 0.005708592445368767,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/making-a-large-island"
+      },
+      {
+        "lcId": 881,
+        "title": "Boats to Save People",
+        "slug": "boats-to-save-people",
+        "difficulty": "Medium",
+        "frequency": 64.1,
+        "acceptance": 0.006229808543772329,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Timsort"
+        ],
+        "link": "https://leetcode.com/problems/boats-to-save-people"
+      },
+      {
+        "lcId": 990,
+        "title": "Satisfiability of Equality Equations",
+        "slug": "satisfiability-of-equality-equations",
+        "difficulty": "Medium",
+        "frequency": 64.1,
+        "acceptance": 0.005211120031167728,
+        "topics": [
+          "Array",
+          "String",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+      },
+      {
+        "lcId": 424,
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "Medium",
+        "frequency": 64.1,
+        "acceptance": 0.0060430446881604176,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+      },
+      {
+        "lcId": 2603,
+        "title": "Collect Coins in a Tree",
+        "slug": "collect-coins-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 64.1,
+        "acceptance": 0.0039794157265532915,
+        "topics": [
+          "Array",
+          "Tree",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree"
+      },
+      {
+        "lcId": 312,
+        "title": "Burst Balloons",
+        "slug": "burst-balloons",
+        "difficulty": "Hard",
+        "frequency": 64.1,
+        "acceptance": 0.006419262527881141,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/burst-balloons"
+      },
+      {
+        "lcId": 155,
+        "title": "Min Stack",
+        "slug": "min-stack",
+        "difficulty": "Medium",
+        "frequency": 64.1,
+        "acceptance": 0.005855048421020332,
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/min-stack"
+      },
+      {
+        "lcId": 90,
+        "title": "Subsets II",
+        "slug": "subsets-ii",
+        "difficulty": "Medium",
+        "frequency": 64.1,
+        "acceptance": 0.006182657265322458,
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/subsets-ii"
+      },
+      {
+        "lcId": 143,
+        "title": "Reorder List",
+        "slug": "reorder-list",
+        "difficulty": "Medium",
+        "frequency": 64.1,
+        "acceptance": 0.00660007994683371,
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reorder-list"
+      },
+      {
+        "lcId": 354,
+        "title": "Russian Doll Envelopes",
+        "slug": "russian-doll-envelopes",
+        "difficulty": "Hard",
+        "frequency": 64.1,
+        "acceptance": 0.0038121836054652593,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/russian-doll-envelopes"
+      },
+      {
+        "lcId": 968,
+        "title": "Binary Tree Cameras",
+        "slug": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "frequency": 64.1,
+        "acceptance": 0.004807813330861584,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-cameras"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

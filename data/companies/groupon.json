@@ -1,0 +1,66 @@
+{
+  "name": "Groupon",
+  "slug": "groupon",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 45,
+        "title": "Jump Game II",
+        "slug": "jump-game-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004335944292113706,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/jump-game-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1648,
+        "title": "Sell Diminishing-Valued Colored Balls",
+        "slug": "sell-diminishing-valued-colored-balls",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0030387360552114762,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls"
+      },
+      {
+        "lcId": 45,
+        "title": "Jump Game II",
+        "slug": "jump-game-ii",
+        "difficulty": "Medium",
+        "frequency": 72.2,
+        "acceptance": 0.004335944292113706,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/jump-game-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

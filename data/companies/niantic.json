@@ -1,0 +1,111 @@
+{
+  "name": "Niantic",
+  "slug": "niantic",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 8,
+        "title": "String to Integer (atoi)",
+        "slug": "string-to-integer-atoi",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0021567208965441054,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+      },
+      {
+        "lcId": 287,
+        "title": "Find the Duplicate Number",
+        "slug": "find-the-duplicate-number",
+        "difficulty": "Medium",
+        "frequency": 89.5,
+        "acceptance": 0.0064769336188518845,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Bit Manipulation",
+          "Pigeonhole Principle",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/find-the-duplicate-number"
+      },
+      {
+        "lcId": 1087,
+        "title": "Brace Expansion",
+        "slug": "brace-expansion",
+        "difficulty": "Medium",
+        "frequency": 89.5,
+        "acceptance": 0.006686752308703887,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Stack",
+          "Breadth-First Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/brace-expansion"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 8,
+        "title": "String to Integer (atoi)",
+        "slug": "string-to-integer-atoi",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0021567208965441054,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+      },
+      {
+        "lcId": 1087,
+        "title": "Brace Expansion",
+        "slug": "brace-expansion",
+        "difficulty": "Medium",
+        "frequency": 89.5,
+        "acceptance": 0.006686752308703887,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Stack",
+          "Breadth-First Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/brace-expansion"
+      },
+      {
+        "lcId": 287,
+        "title": "Find the Duplicate Number",
+        "slug": "find-the-duplicate-number",
+        "difficulty": "Medium",
+        "frequency": 89.5,
+        "acceptance": 0.0064769336188518845,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Bit Manipulation",
+          "Pigeonhole Principle",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/find-the-duplicate-number"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

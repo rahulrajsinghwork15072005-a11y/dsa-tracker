@@ -1,0 +1,286 @@
+{
+  "name": "Rivian",
+  "slug": "rivian",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 9,
+    "all": 9
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0064960546166425515,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786902323387324,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 697,
+        "title": "Degree of an Array",
+        "slug": "degree-of-an-array",
+        "difficulty": "Easy",
+        "frequency": 92.3,
+        "acceptance": 0.0058602424860898505,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/degree-of-an-array"
+      },
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 81.4,
+        "acceptance": 0.0064960546166425515,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 2625,
+        "title": "Flatten Deeply Nested Array",
+        "slug": "flatten-deeply-nested-array",
+        "difficulty": "Medium",
+        "frequency": 81.4,
+        "acceptance": 0.006614240056275136,
+        "topics": [],
+        "link": "https://leetcode.com/problems/flatten-deeply-nested-array"
+      },
+      {
+        "lcId": 796,
+        "title": "Rotate String",
+        "slug": "rotate-string",
+        "difficulty": "Easy",
+        "frequency": 81.4,
+        "acceptance": 0.006666962036533033,
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/rotate-string"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 81.4,
+        "acceptance": 0.006029401193093561,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 807,
+        "title": "Max Increase to Keep City Skyline",
+        "slug": "max-increase-to-keep-city-skyline",
+        "difficulty": "Medium",
+        "frequency": 81.4,
+        "acceptance": 0.008642547098044483,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/max-increase-to-keep-city-skyline"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 81.4,
+        "acceptance": 0.006060163705313572,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 227,
+        "title": "Basic Calculator II",
+        "slug": "basic-calculator-ii",
+        "difficulty": "Medium",
+        "frequency": 81.4,
+        "acceptance": 0.004708543633336923,
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 200,
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0064960546166425515,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/number-of-islands"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004786902323387324,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 697,
+        "title": "Degree of an Array",
+        "slug": "degree-of-an-array",
+        "difficulty": "Easy",
+        "frequency": 92.2,
+        "acceptance": 0.0058602424860898505,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/degree-of-an-array"
+      },
+      {
+        "lcId": 2625,
+        "title": "Flatten Deeply Nested Array",
+        "slug": "flatten-deeply-nested-array",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.006614240056275136,
+        "topics": [],
+        "link": "https://leetcode.com/problems/flatten-deeply-nested-array"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.006060163705313572,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 796,
+        "title": "Rotate String",
+        "slug": "rotate-string",
+        "difficulty": "Easy",
+        "frequency": 81.1,
+        "acceptance": 0.006666962036533033,
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/rotate-string"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 81.1,
+        "acceptance": 0.006029401193093561,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 807,
+        "title": "Max Increase to Keep City Skyline",
+        "slug": "max-increase-to-keep-city-skyline",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.008642547098044483,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/max-increase-to-keep-city-skyline"
+      },
+      {
+        "lcId": 227,
+        "title": "Basic Calculator II",
+        "slug": "basic-calculator-ii",
+        "difficulty": "Medium",
+        "frequency": 81.1,
+        "acceptance": 0.004708543633336923,
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

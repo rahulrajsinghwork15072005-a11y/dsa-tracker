@@ -1,0 +1,138 @@
+{
+  "name": "Dunzo",
+  "slug": "dunzo",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 222,
+        "title": "Count Complete Tree Nodes",
+        "slug": "count-complete-tree-nodes",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007287331312183118,
+        "topics": [
+          "Binary Search",
+          "Bit Manipulation",
+          "Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/count-complete-tree-nodes"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1690,
+        "title": "Stone Game VII",
+        "slug": "stone-game-vii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005915183112919634,
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Minimax",
+          "Game Theory",
+          "Zero-Sum Game"
+        ],
+        "link": "https://leetcode.com/problems/stone-game-vii"
+      },
+      {
+        "lcId": 1420,
+        "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+        "slug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006537512811159171,
+        "topics": [
+          "Dynamic Programming",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
+      },
+      {
+        "lcId": 1698,
+        "title": "Number of Distinct Substrings in a String",
+        "slug": "number-of-distinct-substrings-in-a-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00647142161420286,
+        "topics": [
+          "String",
+          "Trie",
+          "Rolling Hash",
+          "Suffix Array",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string"
+      },
+      {
+        "lcId": 1639,
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005632918209914903,
+        "topics": [
+          "Array",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary"
+      },
+      {
+        "lcId": 1397,
+        "title": "Find All Good Strings",
+        "slug": "find-all-good-strings",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004608082451857879,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/find-all-good-strings"
+      },
+      {
+        "lcId": 1664,
+        "title": "Ways to Make a Fair Array",
+        "slug": "ways-to-make-a-fair-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006741510800562396,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/ways-to-make-a-fair-array"
+      },
+      {
+        "lcId": 222,
+        "title": "Count Complete Tree Nodes",
+        "slug": "count-complete-tree-nodes",
+        "difficulty": "Medium",
+        "frequency": 68.3,
+        "acceptance": 0.007287331312183118,
+        "topics": [
+          "Binary Search",
+          "Bit Manipulation",
+          "Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/count-complete-tree-nodes"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

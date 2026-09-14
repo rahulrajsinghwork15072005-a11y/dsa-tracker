@@ -1,0 +1,121 @@
+{
+  "name": "Tower Research Capital",
+  "slug": "tower-research-capital",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2434,
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006219613337069207,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+      },
+      {
+        "lcId": 934,
+        "title": "Shortest Bridge",
+        "slug": "shortest-bridge",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00597095395782115,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/shortest-bridge"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006450732055500427,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2434,
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006219613337069207,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+      },
+      {
+        "lcId": 934,
+        "title": "Shortest Bridge",
+        "slug": "shortest-bridge",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.00597095395782115,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/shortest-bridge"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006450732055500427,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

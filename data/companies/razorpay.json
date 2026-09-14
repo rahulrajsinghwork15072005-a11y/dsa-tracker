@@ -1,0 +1,283 @@
+{
+  "name": "razorpay",
+  "slug": "razorpay",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 7,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1574,
+        "title": "Shortest Subarray to be Removed to Make Array Sorted",
+        "slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0051308723133302436,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 93.4,
+        "acceptance": 0.004786905499388411,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 89.1,
+        "acceptance": 0.006309063115833288,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "acceptance": 0.005257669728522977,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 189,
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "acceptance": 0.0045320039813999645,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-array"
+      },
+      {
+        "lcId": 387,
+        "title": "First Unique Character in a String",
+        "slug": "first-unique-character-in-a-string",
+        "difficulty": "Easy",
+        "frequency": 68,
+        "acceptance": 0.006611211017063519,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+      },
+      {
+        "lcId": 62,
+        "title": "Unique Paths",
+        "slug": "unique-paths",
+        "difficulty": "Medium",
+        "frequency": 68,
+        "acceptance": 0.0067173202775224865,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "link": "https://leetcode.com/problems/unique-paths"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2499,
+        "title": "Minimum Total Cost to Make Arrays Unequal",
+        "slug": "minimum-total-cost-to-make-arrays-unequal",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004153083359157111,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal"
+      },
+      {
+        "lcId": 2054,
+        "title": "Two Best Non-Overlapping Events",
+        "slug": "two-best-non-overlapping-events",
+        "difficulty": "Medium",
+        "frequency": 97.2,
+        "acceptance": 0.006394894503777025,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/two-best-non-overlapping-events"
+      },
+      {
+        "lcId": 2070,
+        "title": "Most Beautiful Item for Each Query",
+        "slug": "most-beautiful-item-for-each-query",
+        "difficulty": "Medium",
+        "frequency": 97.2,
+        "acceptance": 0.006204684755391112,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query"
+      },
+      {
+        "lcId": 1574,
+        "title": "Shortest Subarray to be Removed to Make Array Sorted",
+        "slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+        "difficulty": "Medium",
+        "frequency": 97.2,
+        "acceptance": 0.0051308723133302436,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 90.4,
+        "acceptance": 0.004786905499388411,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 86.1,
+        "acceptance": 0.006309063115833288,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 64.5,
+        "acceptance": 0.005257669728522977,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 189,
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "difficulty": "Medium",
+        "frequency": 64.5,
+        "acceptance": 0.0045320039813999645,
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/rotate-array"
+      },
+      {
+        "lcId": 387,
+        "title": "First Unique Character in a String",
+        "slug": "first-unique-character-in-a-string",
+        "difficulty": "Easy",
+        "frequency": 64.5,
+        "acceptance": 0.006611211017063519,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+      },
+      {
+        "lcId": 62,
+        "title": "Unique Paths",
+        "slug": "unique-paths",
+        "difficulty": "Medium",
+        "frequency": 64.5,
+        "acceptance": 0.0067173202775224865,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "link": "https://leetcode.com/problems/unique-paths"
+      },
+      {
+        "lcId": 483,
+        "title": "Smallest Good Base",
+        "slug": "smallest-good-base",
+        "difficulty": "Hard",
+        "frequency": 64.5,
+        "acceptance": 0.004711680151249757,
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/smallest-good-base"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

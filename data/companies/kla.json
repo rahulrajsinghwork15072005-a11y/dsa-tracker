@@ -1,0 +1,249 @@
+{
+  "name": "KLA",
+  "slug": "kla",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 8,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3584,
+        "title": "Maximum Product of First and Last Elements of a Subsequence",
+        "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003158028455284553,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 93.4,
+        "acceptance": 0.004786878853306251,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 780,
+        "title": "Reaching Points",
+        "slug": "reaching-points",
+        "difficulty": "Hard",
+        "frequency": 84.2,
+        "acceptance": 0.003458673010051953,
+        "topics": [
+          "Math",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/reaching-points"
+      },
+      {
+        "lcId": 2106,
+        "title": "Maximum Fruits Harvested After at Most K Steps",
+        "slug": "maximum-fruits-harvested-after-at-most-k-steps",
+        "difficulty": "Hard",
+        "frequency": 84.2,
+        "acceptance": 0.006098323525529239,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps"
+      },
+      {
+        "lcId": 554,
+        "title": "Brick Wall",
+        "slug": "brick-wall",
+        "difficulty": "Medium",
+        "frequency": 84.2,
+        "acceptance": 0.005606223364071898,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/brick-wall"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 77.6,
+        "acceptance": 0.005800955370218203,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 68.4,
+        "acceptance": 0.005002947165362769,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 68.4,
+        "acceptance": 0.005487683261365982,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3584,
+        "title": "Maximum Product of First and Last Elements of a Subsequence",
+        "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003158028455284553,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 96.9,
+        "acceptance": 0.004786878853306251,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 780,
+        "title": "Reaching Points",
+        "slug": "reaching-points",
+        "difficulty": "Hard",
+        "frequency": 84,
+        "acceptance": 0.003458673010051953,
+        "topics": [
+          "Math",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/reaching-points"
+      },
+      {
+        "lcId": 2106,
+        "title": "Maximum Fruits Harvested After at Most K Steps",
+        "slug": "maximum-fruits-harvested-after-at-most-k-steps",
+        "difficulty": "Hard",
+        "frequency": 84,
+        "acceptance": 0.006098323525529239,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps"
+      },
+      {
+        "lcId": 554,
+        "title": "Brick Wall",
+        "slug": "brick-wall",
+        "difficulty": "Medium",
+        "frequency": 84,
+        "acceptance": 0.005606223364071898,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/brick-wall"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 77.4,
+        "acceptance": 0.005800955370218203,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 460,
+        "title": "LFU Cache",
+        "slug": "lfu-cache",
+        "difficulty": "Hard",
+        "frequency": 68,
+        "acceptance": 0.005002947165362769,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lfu-cache"
+      },
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 68,
+        "acceptance": 0.005487683261365982,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

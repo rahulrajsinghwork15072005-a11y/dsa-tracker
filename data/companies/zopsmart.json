@@ -1,0 +1,486 @@
+{
+  "name": "Zopsmart",
+  "slug": "zopsmart",
+  "counts": {
+    "30d": 0,
+    "3m": 3,
+    "6m": 4,
+    "gt6m": 12,
+    "all": 15
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005489183399383995,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 89.3,
+        "acceptance": 0.006309059424580802,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 62.7,
+        "acceptance": 0.006696564159240927,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005489183399383995,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 89.1,
+        "acceptance": 0.006309059424580802,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 93,
+        "title": "Restore IP Addresses",
+        "slug": "restore-ip-addresses",
+        "difficulty": "Medium",
+        "frequency": 62.2,
+        "acceptance": 0.005679403301634236,
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/restore-ip-addresses"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 62.2,
+        "acceptance": 0.006696564159240927,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005489183399383995,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 94.4,
+        "acceptance": 0.006802858934823714,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 299,
+        "title": "Bulls and Cows",
+        "slug": "bulls-and-cows",
+        "difficulty": "Medium",
+        "frequency": 74.7,
+        "acceptance": 0.005288307195598304,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/bulls-and-cows"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 74.7,
+        "acceptance": 0.006309059424580802,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 402,
+        "title": "Remove K Digits",
+        "slug": "remove-k-digits",
+        "difficulty": "Medium",
+        "frequency": 70.1,
+        "acceptance": 0.0037491044126562404,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-k-digits"
+      },
+      {
+        "lcId": 151,
+        "title": "Reverse Words in a String",
+        "slug": "reverse-words-in-a-string",
+        "difficulty": "Medium",
+        "frequency": 70.1,
+        "acceptance": 0.005753081584586209,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+      },
+      {
+        "lcId": 991,
+        "title": "Broken Calculator",
+        "slug": "broken-calculator",
+        "difficulty": "Medium",
+        "frequency": 64.1,
+        "acceptance": 0.0056407654264088065,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/broken-calculator"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 55.7,
+        "acceptance": 0.006064834109539502,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 55.7,
+        "acceptance": 0.006666008573295622,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 55.7,
+        "acceptance": 0.0038471229639906878,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 3602,
+        "title": "Hexadecimal and Hexatrigesimal Conversion",
+        "slug": "hexadecimal-and-hexatrigesimal-conversion",
+        "difficulty": "Easy",
+        "frequency": 55.7,
+        "acceptance": 0.008103356689348138,
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 55.7,
+        "acceptance": 0.0068532500837229955,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 6,
+        "title": "Zigzag Conversion",
+        "slug": "zigzag-conversion",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005489183399383995,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+      },
+      {
+        "lcId": 42,
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water",
+        "difficulty": "Hard",
+        "frequency": 83.3,
+        "acceptance": 0.006802858934823714,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 83.3,
+        "acceptance": 0.006309059424580802,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 3602,
+        "title": "Hexadecimal and Hexatrigesimal Conversion",
+        "slug": "hexadecimal-and-hexatrigesimal-conversion",
+        "difficulty": "Easy",
+        "frequency": 78.3,
+        "acceptance": 0.008103356689348138,
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion"
+      },
+      {
+        "lcId": 2074,
+        "title": "Reverse Nodes in Even Length Groups",
+        "slug": "reverse-nodes-in-even-length-groups",
+        "difficulty": "Medium",
+        "frequency": 74,
+        "acceptance": 0.006495238586137134,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+      },
+      {
+        "lcId": 299,
+        "title": "Bulls and Cows",
+        "slug": "bulls-and-cows",
+        "difficulty": "Medium",
+        "frequency": 65,
+        "acceptance": 0.005288307195598304,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/bulls-and-cows"
+      },
+      {
+        "lcId": 402,
+        "title": "Remove K Digits",
+        "slug": "remove-k-digits",
+        "difficulty": "Medium",
+        "frequency": 60.8,
+        "acceptance": 0.0037491044126562404,
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/remove-k-digits"
+      },
+      {
+        "lcId": 151,
+        "title": "Reverse Words in a String",
+        "slug": "reverse-words-in-a-string",
+        "difficulty": "Medium",
+        "frequency": 60.8,
+        "acceptance": 0.005753081584586209,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 55.3,
+        "acceptance": 0.006666008573295622,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 991,
+        "title": "Broken Calculator",
+        "slug": "broken-calculator",
+        "difficulty": "Medium",
+        "frequency": 55.3,
+        "acceptance": 0.0056407654264088065,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/broken-calculator"
+      },
+      {
+        "lcId": 93,
+        "title": "Restore IP Addresses",
+        "slug": "restore-ip-addresses",
+        "difficulty": "Medium",
+        "frequency": 55.3,
+        "acceptance": 0.005679403301634236,
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/restore-ip-addresses"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 55.3,
+        "acceptance": 0.006696564159240927,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.006064834109539502,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 47.5,
+        "acceptance": 0.0038471229639906878,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 47.5,
+        "acceptance": 0.0068532500837229955,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

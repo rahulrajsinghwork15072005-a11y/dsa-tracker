@@ -1,0 +1,363 @@
+{
+  "name": "UKG",
+  "slug": "ukg",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 10,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 410,
+        "title": "Split Array Largest Sum",
+        "slug": "split-array-largest-sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006119260048615028,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/split-array-largest-sum"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 410,
+        "title": "Split Array Largest Sum",
+        "slug": "split-array-largest-sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006119260048615028,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/split-array-largest-sum"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 3382,
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "slug": "maximum-area-rectangle-with-point-constraints-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.002367239831503349,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii"
+      },
+      {
+        "lcId": 3380,
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "slug": "maximum-area-rectangle-with-point-constraints-i",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005238169027179471,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i"
+      },
+      {
+        "lcId": 761,
+        "title": "Special Binary String",
+        "slug": "special-binary-string",
+        "difficulty": "Hard",
+        "frequency": 97.6,
+        "acceptance": 0.007943574057109139,
+        "topics": [
+          "String",
+          "Divide and Conquer",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/special-binary-string"
+      },
+      {
+        "lcId": 3138,
+        "title": "Minimum Length of Anagram Concatenation",
+        "slug": "minimum-length-of-anagram-concatenation",
+        "difficulty": "Medium",
+        "frequency": 78.9,
+        "acceptance": 0.003971273781025577,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 78.9,
+        "acceptance": 0.00580095815633082,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 2539,
+        "title": "Count the Number of Good Subsequences",
+        "slug": "count-the-number-of-good-subsequences",
+        "difficulty": "Medium",
+        "frequency": 78.9,
+        "acceptance": 0.004828411811652035,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+      },
+      {
+        "lcId": 2592,
+        "title": "Maximize Greatness of an Array",
+        "slug": "maximize-greatness-of-an-array",
+        "difficulty": "Medium",
+        "frequency": 78.9,
+        "acceptance": 0.006211831928088635,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximize-greatness-of-an-array"
+      },
+      {
+        "lcId": 3136,
+        "title": "Valid Word",
+        "slug": "valid-word",
+        "difficulty": "Easy",
+        "frequency": 72.2,
+        "acceptance": 0.005084752246113829,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-word"
+      },
+      {
+        "lcId": 3511,
+        "title": "Make a Positive Array",
+        "slug": "make-a-positive-array",
+        "difficulty": "Medium",
+        "frequency": 62.9,
+        "acceptance": 0.003668384879725085,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/make-a-positive-array"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 62.9,
+        "acceptance": 0.0054070531867822635,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 761,
+        "title": "Special Binary String",
+        "slug": "special-binary-string",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.007943574057109139,
+        "topics": [
+          "String",
+          "Divide and Conquer",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/special-binary-string"
+      },
+      {
+        "lcId": 3380,
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "slug": "maximum-area-rectangle-with-point-constraints-i",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005238169027179471,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i"
+      },
+      {
+        "lcId": 3382,
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "slug": "maximum-area-rectangle-with-point-constraints-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.002367239831503349,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii"
+      },
+      {
+        "lcId": 3138,
+        "title": "Minimum Length of Anagram Concatenation",
+        "slug": "minimum-length-of-anagram-concatenation",
+        "difficulty": "Medium",
+        "frequency": 78.7,
+        "acceptance": 0.003971273781025577,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 78.7,
+        "acceptance": 0.00580095815633082,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 2539,
+        "title": "Count the Number of Good Subsequences",
+        "slug": "count-the-number-of-good-subsequences",
+        "difficulty": "Medium",
+        "frequency": 78.7,
+        "acceptance": 0.004828411811652035,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+      },
+      {
+        "lcId": 2592,
+        "title": "Maximize Greatness of an Array",
+        "slug": "maximize-greatness-of-an-array",
+        "difficulty": "Medium",
+        "frequency": 78.7,
+        "acceptance": 0.006211831928088635,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/maximize-greatness-of-an-array"
+      },
+      {
+        "lcId": 3136,
+        "title": "Valid Word",
+        "slug": "valid-word",
+        "difficulty": "Easy",
+        "frequency": 72,
+        "acceptance": 0.005084752246113829,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-word"
+      },
+      {
+        "lcId": 410,
+        "title": "Split Array Largest Sum",
+        "slug": "split-array-largest-sum",
+        "difficulty": "Hard",
+        "frequency": 72,
+        "acceptance": 0.006119260048615028,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/split-array-largest-sum"
+      },
+      {
+        "lcId": 3511,
+        "title": "Make a Positive Array",
+        "slug": "make-a-positive-array",
+        "difficulty": "Medium",
+        "frequency": 62.6,
+        "acceptance": 0.003668384879725085,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/make-a-positive-array"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 62.6,
+        "acceptance": 0.0054070531867822635,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "AQR Capital Management",
+  "slug": "aqr-capital-management",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1696,
+        "title": "Jump Game VI",
+        "slug": "jump-game-vi",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004656717961089763,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Queue",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/jump-game-vi"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.0049132544618928084,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      },
+      {
+        "lcId": 309,
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.006260459989362005,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1696,
+        "title": "Jump Game VI",
+        "slug": "jump-game-vi",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004656717961089763,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Queue",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/jump-game-vi"
+      },
+      {
+        "lcId": 309,
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.006260459989362005,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown"
+      },
+      {
+        "lcId": 2,
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "difficulty": "Medium",
+        "frequency": 64,
+        "acceptance": 0.0049132544618928084,
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/add-two-numbers"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

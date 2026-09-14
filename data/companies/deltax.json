@@ -1,0 +1,111 @@
+{
+  "name": "DeltaX",
+  "slug": "deltax",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 13,
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0067049325279030505,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/roman-to-integer"
+      },
+      {
+        "lcId": 241,
+        "title": "Different Ways to Add Parentheses",
+        "slug": "different-ways-to-add-parentheses",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.007353062481284993,
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/different-ways-to-add-parentheses"
+      },
+      {
+        "lcId": 815,
+        "title": "Bus Routes",
+        "slug": "bus-routes",
+        "difficulty": "Hard",
+        "frequency": 89.2,
+        "acceptance": 0.004749635960401232,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/bus-routes"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 13,
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0067049325279030505,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/roman-to-integer"
+      },
+      {
+        "lcId": 241,
+        "title": "Different Ways to Add Parentheses",
+        "slug": "different-ways-to-add-parentheses",
+        "difficulty": "Medium",
+        "frequency": 89.2,
+        "acceptance": 0.007353062481284993,
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/different-ways-to-add-parentheses"
+      },
+      {
+        "lcId": 815,
+        "title": "Bus Routes",
+        "slug": "bus-routes",
+        "difficulty": "Hard",
+        "frequency": 89.2,
+        "acceptance": 0.004749635960401232,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/bus-routes"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

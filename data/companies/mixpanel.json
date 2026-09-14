@@ -1,0 +1,83 @@
+{
+  "name": "Mixpanel",
+  "slug": "mixpanel",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 341,
+        "title": "Flatten Nested List Iterator",
+        "slug": "flatten-nested-list-iterator",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006582862080460586,
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
+        ],
+        "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+      },
+      {
+        "lcId": 986,
+        "title": "Interval List Intersections",
+        "slug": "interval-list-intersections",
+        "difficulty": "Medium",
+        "frequency": 95.1,
+        "acceptance": 0.007314302081344282,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sweep Line"
+        ],
+        "link": "https://leetcode.com/problems/interval-list-intersections"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 986,
+        "title": "Interval List Intersections",
+        "slug": "interval-list-intersections",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007314302081344282,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sweep Line"
+        ],
+        "link": "https://leetcode.com/problems/interval-list-intersections"
+      },
+      {
+        "lcId": 341,
+        "title": "Flatten Nested List Iterator",
+        "slug": "flatten-nested-list-iterator",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006582862080460586,
+        "topics": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Design",
+          "Queue",
+          "Iterator"
+        ],
+        "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

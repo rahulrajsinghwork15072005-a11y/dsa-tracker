@@ -1,0 +1,198 @@
+{
+  "name": "Baidu",
+  "slug": "baidu",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 11
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 240,
+        "title": "Search a 2D Matrix II",
+        "slug": "search-a-2d-matrix-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005790394323149824,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 124,
+        "title": "Binary Tree Maximum Path Sum",
+        "slug": "binary-tree-maximum-path-sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004266444603027717,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+      },
+      {
+        "lcId": 395,
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "slug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004656532009866387,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Divide and Conquer",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters"
+      },
+      {
+        "lcId": 397,
+        "title": "Integer Replacement",
+        "slug": "integer-replacement",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003789076001592573,
+        "topics": [
+          "Dynamic Programming",
+          "Greedy",
+          "Bit Manipulation",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/integer-replacement"
+      },
+      {
+        "lcId": 410,
+        "title": "Split Array Largest Sum",
+        "slug": "split-array-largest-sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006119151789018185,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/split-array-largest-sum"
+      },
+      {
+        "lcId": 413,
+        "title": "Arithmetic Slices",
+        "slug": "arithmetic-slices",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0064878552370925035,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/arithmetic-slices"
+      },
+      {
+        "lcId": 446,
+        "title": "Arithmetic Slices II - Subsequence",
+        "slug": "arithmetic-slices-ii-subsequence",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005521608540108282,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence"
+      },
+      {
+        "lcId": 488,
+        "title": "Zuma Game",
+        "slug": "zuma-game",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0029360087380651966,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Breadth-First Search",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/zuma-game"
+      },
+      {
+        "lcId": 576,
+        "title": "Out of Boundary Paths",
+        "slug": "out-of-boundary-paths",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004854483449354777,
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/out-of-boundary-paths"
+      },
+      {
+        "lcId": 588,
+        "title": "Design In-Memory File System",
+        "slug": "design-in-memory-file-system",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004831380475423341,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/design-in-memory-file-system"
+      },
+      {
+        "lcId": 873,
+        "title": "Length of Longest Fibonacci Subsequence",
+        "slug": "length-of-longest-fibonacci-subsequence",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005757466757083468,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence"
+      },
+      {
+        "lcId": 240,
+        "title": "Search a 2D Matrix II",
+        "slug": "search-a-2d-matrix-ii",
+        "difficulty": "Medium",
+        "frequency": 66.2,
+        "acceptance": 0.005790394323149824,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

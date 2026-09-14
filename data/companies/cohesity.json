@@ -1,0 +1,129 @@
+{
+  "name": "Cohesity",
+  "slug": "cohesity",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005487649620471269,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 88.6,
+        "acceptance": 0.0045462065984033075,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 2251,
+        "title": "Number of Flowers in Full Bloom",
+        "slug": "number-of-flowers-in-full-bloom",
+        "difficulty": "Hard",
+        "frequency": 88.6,
+        "acceptance": 0.005810299605282744,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sorting",
+          "Prefix Sum",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 295,
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005487649620471269,
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+      },
+      {
+        "lcId": 2251,
+        "title": "Number of Flowers in Full Bloom",
+        "slug": "number-of-flowers-in-full-bloom",
+        "difficulty": "Hard",
+        "frequency": 87.9,
+        "acceptance": 0.005810299605282744,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sorting",
+          "Prefix Sum",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.0045462065984033075,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 87.9,
+        "acceptance": 0.006029345204124923,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "WinZO",
+  "slug": "winzo",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 0
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": []
+  },
+  "updated": "2026-09-01"
+}

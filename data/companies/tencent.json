@@ -1,0 +1,77 @@
+{
+  "name": "Tencent",
+  "slug": "tencent",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006309057042491219,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006309057042491219,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 546,
+        "title": "Remove Boxes",
+        "slug": "remove-boxes",
+        "difficulty": "Hard",
+        "frequency": 90.2,
+        "acceptance": 0.004964726764037846,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/remove-boxes"
+      },
+      {
+        "lcId": 625,
+        "title": "Minimum Factorization",
+        "slug": "minimum-factorization",
+        "difficulty": "Medium",
+        "frequency": 90.2,
+        "acceptance": 0.003412143564901464,
+        "topics": [
+          "Math",
+          "Greedy",
+          "Prime Factorization"
+        ],
+        "link": "https://leetcode.com/problems/minimum-factorization"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

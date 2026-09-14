@@ -1,0 +1,90 @@
+{
+  "name": "HiLabs",
+  "slug": "hilabs",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1518,
+        "title": "Water Bottles",
+        "slug": "water-bottles",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007256279117522492,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/water-bottles"
+      },
+      {
+        "lcId": 1106,
+        "title": "Parsing A Boolean Expression",
+        "slug": "parsing-a-boolean-expression",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006979832451459678,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/parsing-a-boolean-expression"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3003,
+        "title": "Maximize the Number of Partitions After Operations",
+        "slug": "maximize-the-number-of-partitions-after-operations",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005325663120396669,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations"
+      },
+      {
+        "lcId": 1518,
+        "title": "Water Bottles",
+        "slug": "water-bottles",
+        "difficulty": "Easy",
+        "frequency": 69.6,
+        "acceptance": 0.007256279117522492,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/water-bottles"
+      },
+      {
+        "lcId": 1106,
+        "title": "Parsing A Boolean Expression",
+        "slug": "parsing-a-boolean-expression",
+        "difficulty": "Hard",
+        "frequency": 69.6,
+        "acceptance": 0.006979832451459678,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/parsing-a-boolean-expression"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

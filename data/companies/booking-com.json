@@ -1,0 +1,455 @@
+{
+  "name": "Booking.com",
+  "slug": "booking-com",
+  "counts": {
+    "30d": 1,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 10,
+    "all": 15
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 2512,
+        "title": "Reward Top K Students",
+        "slug": "reward-top-k-students",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004752170342562177,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/reward-top-k-students"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 2512,
+        "title": "Reward Top K Students",
+        "slug": "reward-top-k-students",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004752170342562177,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/reward-top-k-students"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 2512,
+        "title": "Reward Top K Students",
+        "slug": "reward-top-k-students",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004752170342562177,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/reward-top-k-students"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 2512,
+        "title": "Reward Top K Students",
+        "slug": "reward-top-k-students",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004752170342562177,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/reward-top-k-students"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 88.7,
+        "acceptance": 0.004910876146127737,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 332,
+        "title": "Reconstruct Itinerary",
+        "slug": "reconstruct-itinerary",
+        "difficulty": "Hard",
+        "frequency": 83.4,
+        "acceptance": 0.004489929254672969,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Eulerian Circuit",
+          "Eulerian Path",
+          "Semi-Eulerian Graph"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-itinerary"
+      },
+      {
+        "lcId": 12,
+        "title": "Integer to Roman",
+        "slug": "integer-to-roman",
+        "difficulty": "Medium",
+        "frequency": 83.4,
+        "acceptance": 0.007149571236984769,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-roman"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 83.4,
+        "acceptance": 0.008226112598117502,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 76.5,
+        "acceptance": 0.005074627966974904,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      },
+      {
+        "lcId": 13,
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "Easy",
+        "frequency": 76.5,
+        "acceptance": 0.00670490993910127,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/roman-to-integer"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 76.5,
+        "acceptance": 0.004786836905342104,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 32,
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 66.8,
+        "acceptance": 0.003950360822704821,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+      },
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 66.8,
+        "acceptance": 0.00520400527949122,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2512,
+        "title": "Reward Top K Students",
+        "slug": "reward-top-k-students",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004752170342562177,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/reward-top-k-students"
+      },
+      {
+        "lcId": 1948,
+        "title": "Delete Duplicate Folders in System",
+        "slug": "delete-duplicate-folders-in-system",
+        "difficulty": "Hard",
+        "frequency": 82.2,
+        "acceptance": 0.00772256520377578,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Trie",
+          "Sorting",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system"
+      },
+      {
+        "lcId": 2032,
+        "title": "Two Out of Three",
+        "slug": "two-out-of-three",
+        "difficulty": "Easy",
+        "frequency": 82.2,
+        "acceptance": 0.007771166622565812,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/two-out-of-three"
+      },
+      {
+        "lcId": 1034,
+        "title": "Coloring A Border",
+        "slug": "coloring-a-border",
+        "difficulty": "Medium",
+        "frequency": 79.7,
+        "acceptance": 0.0051607929515418505,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/coloring-a-border"
+      },
+      {
+        "lcId": 2146,
+        "title": "K Highest Ranked Items Within a Price Range",
+        "slug": "k-highest-ranked-items-within-a-price-range",
+        "difficulty": "Medium",
+        "frequency": 79.7,
+        "acceptance": 0.004714945432707242,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range"
+      },
+      {
+        "lcId": 2159,
+        "title": "Order Two Columns Independently",
+        "slug": "order-two-columns-independently",
+        "difficulty": "Medium",
+        "frequency": 79.7,
+        "acceptance": 0.006185601239555088,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/order-two-columns-independently"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 73.7,
+        "acceptance": 0.004910876146127737,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 69.9,
+        "acceptance": 0.008226112598117502,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 221,
+        "title": "Maximal Square",
+        "slug": "maximal-square",
+        "difficulty": "Medium",
+        "frequency": 65.2,
+        "acceptance": 0.005074627966974904,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/maximal-square"
+      },
+      {
+        "lcId": 332,
+        "title": "Reconstruct Itinerary",
+        "slug": "reconstruct-itinerary",
+        "difficulty": "Hard",
+        "frequency": 65.2,
+        "acceptance": 0.004489929254672969,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Graph Theory",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Eulerian Circuit",
+          "Eulerian Path",
+          "Semi-Eulerian Graph"
+        ],
+        "link": "https://leetcode.com/problems/reconstruct-itinerary"
+      },
+      {
+        "lcId": 12,
+        "title": "Integer to Roman",
+        "slug": "integer-to-roman",
+        "difficulty": "Medium",
+        "frequency": 65.2,
+        "acceptance": 0.007149571236984769,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-roman"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 59.2,
+        "acceptance": 0.004786836905342104,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 13,
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "Easy",
+        "frequency": 59.2,
+        "acceptance": 0.00670490993910127,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/roman-to-integer"
+      },
+      {
+        "lcId": 32,
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses",
+        "difficulty": "Hard",
+        "frequency": 50.7,
+        "acceptance": 0.003950360822704821,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+      },
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 50.7,
+        "acceptance": 0.00520400527949122,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

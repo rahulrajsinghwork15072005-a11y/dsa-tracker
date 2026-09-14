@@ -1,0 +1,142 @@
+{
+  "name": "Asana",
+  "slug": "asana",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 2,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006916445091796937,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 973,
+        "title": "K Closest Points to Origin",
+        "slug": "k-closest-points-to-origin",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006928806872145195,
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect",
+          "K-D Tree"
+        ],
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 92.8,
+        "acceptance": 0.006916445091796937,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 973,
+        "title": "K Closest Points to Origin",
+        "slug": "k-closest-points-to-origin",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006928806872145195,
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect",
+          "K-D Tree"
+        ],
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+      },
+      {
+        "lcId": 238,
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "difficulty": "Medium",
+        "frequency": 98.5,
+        "acceptance": 0.006916445091796937,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/product-of-array-except-self"
+      },
+      {
+        "lcId": 1668,
+        "title": "Maximum Repeating Substring",
+        "slug": "maximum-repeating-substring",
+        "difficulty": "Easy",
+        "frequency": 88.7,
+        "acceptance": 0.004218876454167217,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/maximum-repeating-substring"
+      },
+      {
+        "lcId": 3650,
+        "title": "Minimum Cost Path with Edge Reversals",
+        "slug": "minimum-cost-path-with-edge-reversals",
+        "difficulty": "Medium",
+        "frequency": 88.7,
+        "acceptance": 0.006152009870025535,
+        "topics": [
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals"
+      },
+      {
+        "lcId": 98,
+        "title": "Validate Binary Search Tree",
+        "slug": "validate-binary-search-tree",
+        "difficulty": "Medium",
+        "frequency": 60.6,
+        "acceptance": 0.0036206023335409103,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/validate-binary-search-tree"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

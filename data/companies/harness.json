@@ -1,0 +1,123 @@
+{
+  "name": "Harness",
+  "slug": "harness",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 2,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 3878,
+        "title": "Count Good Subarrays",
+        "slug": "count-good-subarrays",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.002592994746059545,
+        "topics": [
+          "Array",
+          "Stack",
+          "Bit Manipulation",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/count-good-subarrays"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 16,
+        "title": "3Sum Closest",
+        "slug": "3sum-closest",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004920550647540531,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum-closest"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 89.5,
+        "acceptance": 0.004825493507502785,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 16,
+        "title": "3Sum Closest",
+        "slug": "3sum-closest",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004920550647540531,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum-closest"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 88.9,
+        "acceptance": 0.004825493507502785,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 3878,
+        "title": "Count Good Subarrays",
+        "slug": "count-good-subarrays",
+        "difficulty": "Hard",
+        "frequency": 88.9,
+        "acceptance": 0.002592994746059545,
+        "topics": [
+          "Array",
+          "Stack",
+          "Bit Manipulation",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/count-good-subarrays"
+      },
+      {
+        "lcId": 395,
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "slug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 88.9,
+        "acceptance": 0.004656568185611751,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Divide and Conquer",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

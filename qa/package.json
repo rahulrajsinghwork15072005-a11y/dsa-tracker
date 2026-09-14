@@ -1,0 +1,16 @@
+{
+  "name": "dsa-tracker-qa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Headless-browser QA for DSA Tracker (Playwright + system Chrome)",
+  "scripts": {
+    "test": "node core-flow.mjs && node srs-flow.mjs && node craft-flow.mjs && node sprint-flow.mjs",
+    "test:core": "node core-flow.mjs",
+    "test:srs": "node srs-flow.mjs",
+    "test:craft": "node craft-flow.mjs",
+    "test:sprint": "node sprint-flow.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.49.0"
+  }
+}

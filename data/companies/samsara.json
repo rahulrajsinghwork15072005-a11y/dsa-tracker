@@ -1,0 +1,75 @@
+{
+  "name": "Samsara",
+  "slug": "samsara",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 36,
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006495086472168866,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/valid-sudoku"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 36,
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006495086472168866,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/valid-sudoku"
+      },
+      {
+        "lcId": 3206,
+        "title": "Alternating Groups I",
+        "slug": "alternating-groups-i",
+        "difficulty": "Easy",
+        "frequency": 97.5,
+        "acceptance": 0.006943124151240083,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/alternating-groups-i"
+      },
+      {
+        "lcId": 3208,
+        "title": "Alternating Groups II",
+        "slug": "alternating-groups-ii",
+        "difficulty": "Medium",
+        "frequency": 97.5,
+        "acceptance": 0.005994974652204669,
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/alternating-groups-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

@@ -1,0 +1,142 @@
+{
+  "name": "ZipRecruiter",
+  "slug": "ziprecruiter",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 3,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 1366,
+        "title": "Rank Teams by Votes",
+        "slug": "rank-teams-by-votes",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005999646657206198,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/rank-teams-by-votes"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006226136483493302,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 93,
+        "acceptance": 0.005927631509613915,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 3071,
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "slug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+        "difficulty": "Medium",
+        "frequency": 83.1,
+        "acceptance": 0.006479801861815697,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3043,
+        "title": "Find the Length of the Longest Common Prefix",
+        "slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006226136483493302,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 92.9,
+        "acceptance": 0.005927631509613915,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 1366,
+        "title": "Rank Teams by Votes",
+        "slug": "rank-teams-by-votes",
+        "difficulty": "Medium",
+        "frequency": 92.9,
+        "acceptance": 0.005999646657206198,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/rank-teams-by-votes"
+      },
+      {
+        "lcId": 3071,
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "slug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+        "difficulty": "Medium",
+        "frequency": 82.9,
+        "acceptance": 0.006479801861815697,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

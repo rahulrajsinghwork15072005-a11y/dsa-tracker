@@ -1,0 +1,74 @@
+{
+  "name": "DRW",
+  "slug": "drw",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3496,
+        "title": "Maximize Score After Pair Deletions",
+        "slug": "maximize-score-after-pair-deletions",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005221745350500715,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximize-score-after-pair-deletions"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3496,
+        "title": "Maximize Score After Pair Deletions",
+        "slug": "maximize-score-after-pair-deletions",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005221745350500715,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/maximize-score-after-pair-deletions"
+      },
+      {
+        "lcId": 2098,
+        "title": "Subsequence of Size K With the Largest Even Sum",
+        "slug": "subsequence-of-size-k-with-the-largest-even-sum",
+        "difficulty": "Medium",
+        "frequency": 95.3,
+        "acceptance": 0.0035664040517726504,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum"
+      },
+      {
+        "lcId": 1426,
+        "title": "Counting Elements",
+        "slug": "counting-elements",
+        "difficulty": "Easy",
+        "frequency": 95.3,
+        "acceptance": 0.006080562319888557,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/counting-elements"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

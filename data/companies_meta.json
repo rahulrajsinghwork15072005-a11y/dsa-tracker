@@ -1,0 +1,5648 @@
+{
+  "updated": "2026-09-01T10:55:25.362Z",
+  "totalCompanies": 470,
+  "totalQuestions": 37714,
+  "fetches": 295,
+  "companies": [
+    {
+      "name": "Google",
+      "slug": "google",
+      "counts": {
+        "30d": 183,
+        "3m": 496,
+        "6m": 785,
+        "gt6m": 1931,
+        "all": 2344
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "counts": {
+        "30d": 171,
+        "3m": 450,
+        "6m": 725,
+        "gt6m": 1633,
+        "all": 2011
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Meta",
+      "slug": "meta",
+      "counts": {
+        "30d": 55,
+        "3m": 197,
+        "6m": 377,
+        "gt6m": 1249,
+        "all": 1399
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+      "counts": {
+        "30d": 43,
+        "3m": 199,
+        "6m": 411,
+        "gt6m": 1171,
+        "all": 1384
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Bloomberg",
+      "slug": "bloomberg",
+      "counts": {
+        "30d": 57,
+        "3m": 248,
+        "6m": 405,
+        "gt6m": 1084,
+        "all": 1223
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Uber",
+      "slug": "uber",
+      "counts": {
+        "30d": 2,
+        "3m": 18,
+        "6m": 57,
+        "gt6m": 245,
+        "all": 359
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "TikTok",
+      "slug": "tiktok",
+      "counts": {
+        "30d": 2,
+        "3m": 15,
+        "6m": 36,
+        "gt6m": 315,
+        "all": 348
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Oracle",
+      "slug": "oracle",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 14,
+        "gt6m": 274,
+        "all": 299
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Apple",
+      "slug": "apple",
+      "counts": {
+        "30d": 4,
+        "3m": 29,
+        "6m": 69,
+        "gt6m": 246,
+        "all": 298
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Goldman Sachs",
+      "slug": "goldman-sachs",
+      "counts": {
+        "30d": 6,
+        "3m": 18,
+        "6m": 38,
+        "gt6m": 213,
+        "all": 264
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "tcs",
+      "slug": "tcs",
+      "counts": {
+        "30d": 25,
+        "3m": 64,
+        "6m": 94,
+        "gt6m": 179,
+        "all": 253
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Infosys",
+      "slug": "infosys",
+      "counts": {
+        "30d": 33,
+        "3m": 60,
+        "6m": 89,
+        "gt6m": 116,
+        "all": 221
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Salesforce",
+      "slug": "salesforce",
+      "counts": {
+        "30d": 5,
+        "3m": 23,
+        "6m": 32,
+        "gt6m": 139,
+        "all": 193
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "LinkedIn",
+      "slug": "linkedin",
+      "counts": {
+        "30d": 5,
+        "3m": 6,
+        "6m": 36,
+        "gt6m": 141,
+        "all": 175
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "IBM",
+      "slug": "ibm",
+      "counts": {
+        "30d": 0,
+        "3m": 5,
+        "6m": 26,
+        "gt6m": 143,
+        "all": 173
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zoho",
+      "slug": "zoho",
+      "counts": {
+        "30d": 1,
+        "3m": 3,
+        "6m": 11,
+        "gt6m": 134,
+        "all": 155
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Walmart Labs",
+      "slug": "walmart-labs",
+      "counts": {
+        "30d": 2,
+        "3m": 5,
+        "6m": 20,
+        "gt6m": 122,
+        "all": 152
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Adobe",
+      "slug": "adobe",
+      "counts": {
+        "30d": 3,
+        "3m": 3,
+        "6m": 12,
+        "gt6m": 107,
+        "all": 148
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Visa",
+      "slug": "visa",
+      "counts": {
+        "30d": 1,
+        "3m": 10,
+        "6m": 22,
+        "gt6m": 111,
+        "all": 145
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nvidia",
+      "slug": "nvidia",
+      "counts": {
+        "30d": 0,
+        "3m": 6,
+        "6m": 19,
+        "gt6m": 111,
+        "all": 136
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Yandex",
+      "slug": "yandex",
+      "counts": {
+        "30d": 2,
+        "3m": 11,
+        "6m": 24,
+        "gt6m": 119,
+        "all": 131
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Accenture",
+      "slug": "accenture",
+      "counts": {
+        "30d": 0,
+        "3m": 3,
+        "6m": 11,
+        "gt6m": 110,
+        "all": 129
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "DE Shaw",
+      "slug": "de-shaw",
+      "counts": {
+        "30d": 5,
+        "3m": 10,
+        "6m": 15,
+        "gt6m": 80,
+        "all": 116
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Flipkart",
+      "slug": "flipkart",
+      "counts": {
+        "30d": 3,
+        "3m": 3,
+        "6m": 7,
+        "gt6m": 87,
+        "all": 108
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "PayPal",
+      "slug": "paypal",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 4,
+        "gt6m": 86,
+        "all": 103
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Snowflake",
+      "slug": "snowflake",
+      "counts": {
+        "30d": 1,
+        "3m": 4,
+        "6m": 26,
+        "gt6m": 86,
+        "all": 101
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "PhonePe",
+      "slug": "phonepe",
+      "counts": {
+        "30d": 6,
+        "3m": 7,
+        "6m": 7,
+        "gt6m": 81,
+        "all": 95
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cisco",
+      "slug": "cisco",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 4,
+        "gt6m": 71,
+        "all": 88
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Citadel",
+      "slug": "citadel",
+      "counts": {
+        "30d": 3,
+        "3m": 3,
+        "6m": 6,
+        "gt6m": 76,
+        "all": 87
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Snap",
+      "slug": "snap",
+      "counts": {
+        "30d": 2,
+        "3m": 3,
+        "6m": 6,
+        "gt6m": 50,
+        "all": 80
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 4,
+        "gt6m": 68,
+        "all": 74
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Expedia",
+      "slug": "expedia",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 12,
+        "gt6m": 39,
+        "all": 69
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nutanix",
+      "slug": "nutanix",
+      "counts": {
+        "30d": 1,
+        "3m": 2,
+        "6m": 4,
+        "gt6m": 49,
+        "all": 67
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ServiceNow",
+      "slug": "servicenow",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 60,
+        "all": 67
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "eBay",
+      "slug": "ebay",
+      "counts": {
+        "30d": 1,
+        "3m": 4,
+        "6m": 13,
+        "gt6m": 43,
+        "all": 64
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Airbnb",
+      "slug": "airbnb",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 10,
+        "gt6m": 28,
+        "all": 63
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ByteDance",
+      "slug": "bytedance",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 4,
+        "gt6m": 56,
+        "all": 63
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Capital One",
+      "slug": "capital-one",
+      "counts": {
+        "30d": 4,
+        "3m": 5,
+        "6m": 15,
+        "gt6m": 52,
+        "all": 63
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Intuit",
+      "slug": "intuit",
+      "counts": {
+        "30d": 4,
+        "3m": 5,
+        "6m": 9,
+        "gt6m": 42,
+        "all": 62
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Morgan Stanley",
+      "slug": "morgan-stanley",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 4,
+        "gt6m": 42,
+        "all": 62
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Samsung",
+      "slug": "samsung",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 46,
+        "all": 62
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Atlassian",
+      "slug": "atlassian",
+      "counts": {
+        "30d": 1,
+        "3m": 3,
+        "6m": 4,
+        "gt6m": 47,
+        "all": 58
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Roblox",
+      "slug": "roblox",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 4,
+        "gt6m": 48,
+        "all": 56
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wix",
+      "slug": "wix",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 21,
+        "all": 56
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Anduril",
+      "slug": "anduril",
+      "counts": {
+        "30d": 2,
+        "3m": 11,
+        "6m": 22,
+        "gt6m": 38,
+        "all": 54
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Qualcomm",
+      "slug": "qualcomm",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 9,
+        "gt6m": 45,
+        "all": 53
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 51
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "EPAM Systems",
+      "slug": "epam-systems",
+      "counts": {
+        "30d": 2,
+        "3m": 7,
+        "6m": 10,
+        "gt6m": 40,
+        "all": 49
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks",
+      "counts": {
+        "30d": 1,
+        "3m": 3,
+        "6m": 12,
+        "gt6m": 39,
+        "all": 49
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Coupang",
+      "slug": "coupang",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 2,
+        "gt6m": 39,
+        "all": 48
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cognizant",
+      "slug": "cognizant",
+      "counts": {
+        "30d": 0,
+        "3m": 5,
+        "6m": 9,
+        "gt6m": 37,
+        "all": 47
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Pinterest",
+      "slug": "pinterest",
+      "counts": {
+        "30d": 6,
+        "3m": 8,
+        "6m": 14,
+        "gt6m": 38,
+        "all": 45
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Deloitte",
+      "slug": "deloitte",
+      "counts": {
+        "30d": 0,
+        "3m": 4,
+        "6m": 9,
+        "gt6m": 35,
+        "all": 44
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Agoda",
+      "slug": "agoda",
+      "counts": {
+        "30d": 1,
+        "3m": 4,
+        "6m": 11,
+        "gt6m": 38,
+        "all": 43
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Sprinklr",
+      "slug": "sprinklr",
+      "counts": {
+        "30d": 1,
+        "3m": 2,
+        "6m": 3,
+        "gt6m": 23,
+        "all": 43
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "SAP",
+      "slug": "sap",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 32,
+        "all": 42
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tesla",
+      "slug": "tesla",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 7,
+        "gt6m": 30,
+        "all": 42
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Meesho",
+      "slug": "meesho",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 2,
+        "gt6m": 32,
+        "all": 40
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Arista Networks",
+      "slug": "arista-networks",
+      "counts": {
+        "30d": 2,
+        "3m": 2,
+        "6m": 2,
+        "gt6m": 29,
+        "all": 39
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Capgemini",
+      "slug": "capgemini",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 3,
+        "gt6m": 31,
+        "all": 36
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Rubrik",
+      "slug": "rubrik",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 24,
+        "all": 36
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Swiggy",
+      "slug": "swiggy",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 32,
+        "all": 36
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "josh technology",
+      "slug": "josh-technology",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 4,
+        "gt6m": 32,
+        "all": 36
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Media.net",
+      "slug": "media-net",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 3,
+        "gt6m": 17,
+        "all": 35
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Turing",
+      "slug": "turing",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 5,
+        "gt6m": 31,
+        "all": 35
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Docusign",
+      "slug": "docusign",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 3,
+        "gt6m": 28,
+        "all": 33
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Yahoo",
+      "slug": "yahoo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 13,
+        "all": 32
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Autodesk",
+      "slug": "autodesk",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 4,
+        "gt6m": 22,
+        "all": 31
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Databricks",
+      "slug": "databricks",
+      "counts": {
+        "30d": 0,
+        "3m": 3,
+        "6m": 8,
+        "gt6m": 28,
+        "all": 31
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "HashedIn",
+      "slug": "hashedin",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 28,
+        "all": 31
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Grammarly",
+      "slug": "grammarly",
+      "counts": {
+        "30d": 2,
+        "3m": 6,
+        "6m": 7,
+        "gt6m": 23,
+        "all": 30
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zomato",
+      "slug": "zomato",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 19,
+        "all": 30
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Netflix",
+      "slug": "netflix",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 7,
+        "gt6m": 23,
+        "all": 29
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Paytm",
+      "slug": "paytm",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 2,
+        "gt6m": 17,
+        "all": 29
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Rippling",
+      "slug": "rippling",
+      "counts": {
+        "30d": 4,
+        "3m": 5,
+        "6m": 6,
+        "gt6m": 22,
+        "all": 29
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Waymo",
+      "slug": "waymo",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 7,
+        "gt6m": 18,
+        "all": 29
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "MathWorks",
+      "slug": "mathworks",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 19,
+        "all": 28
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Yelp",
+      "slug": "yelp",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 28
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zeta",
+      "slug": "zeta",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 27,
+        "all": 28
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "American Express",
+      "slug": "american-express",
+      "counts": {
+        "30d": 2,
+        "3m": 2,
+        "6m": 3,
+        "gt6m": 13,
+        "all": 27
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tekion",
+      "slug": "tekion",
+      "counts": {
+        "30d": 0,
+        "3m": 3,
+        "6m": 6,
+        "gt6m": 17,
+        "all": 27
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Squarepoint Capital",
+      "slug": "squarepoint-capital",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 22,
+        "all": 26
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Lyft",
+      "slug": "lyft",
+      "counts": {
+        "30d": 0,
+        "3m": 3,
+        "6m": 4,
+        "gt6m": 19,
+        "all": 25
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 4,
+        "gt6m": 18,
+        "all": 25
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Deutsche Bank",
+      "slug": "deutsche-bank",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 11,
+        "all": 22
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Dropbox",
+      "slug": "dropbox",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 22
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Siemens",
+      "slug": "siemens",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 15,
+        "all": 21
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zenefits",
+      "slug": "zenefits",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 21
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zepto",
+      "slug": "zepto",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 19,
+        "all": 21
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Intel",
+      "slug": "intel",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 16,
+        "all": 20
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Juspay",
+      "slug": "juspay",
+      "counts": {
+        "30d": 1,
+        "3m": 3,
+        "6m": 5,
+        "gt6m": 14,
+        "all": 20
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Myntra",
+      "slug": "myntra",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 18,
+        "all": 20
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tinkoff",
+      "slug": "tinkoff",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 18,
+        "all": 20
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wayfair",
+      "slug": "wayfair",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 10,
+        "all": 20
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wells Fargo",
+      "slug": "wells-fargo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 19,
+        "all": 20
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wipro",
+      "slug": "wipro",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 13,
+        "all": 20
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Accolite",
+      "slug": "accolite",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 15,
+        "all": 19
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "BNY Mellon",
+      "slug": "bny-mellon",
+      "counts": {
+        "30d": 4,
+        "3m": 4,
+        "6m": 4,
+        "gt6m": 10,
+        "all": 19
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "MakeMyTrip",
+      "slug": "makemytrip",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 13,
+        "all": 19
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Quora",
+      "slug": "quora",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 6,
+        "all": 19
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Two Sigma",
+      "slug": "two-sigma",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 10,
+        "all": 19
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Verkada",
+      "slug": "verkada",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 18,
+        "all": 19
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "HCL",
+      "slug": "hcl",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 15,
+        "all": 18
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Okta",
+      "slug": "okta",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 15,
+        "all": 18
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Roku",
+      "slug": "roku",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 13,
+        "all": 18
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "AMD",
+      "slug": "amd",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 15,
+        "all": 17
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Akuna Capital",
+      "slug": "akuna-capital",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 17
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "BlackRock",
+      "slug": "blackrock",
+      "counts": {
+        "30d": 4,
+        "3m": 4,
+        "6m": 4,
+        "gt6m": 13,
+        "all": 17
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Geico",
+      "slug": "geico",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 16,
+        "all": 17
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Huawei",
+      "slug": "huawei",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 13,
+        "all": 17
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "IXL",
+      "slug": "ixl",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 12,
+        "all": 17
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "OpenAI",
+      "slug": "openai",
+      "counts": {
+        "30d": 2,
+        "3m": 3,
+        "6m": 3,
+        "gt6m": 13,
+        "all": 17
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Barclays",
+      "slug": "barclays",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 4,
+        "gt6m": 8,
+        "all": 16
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Epic Systems",
+      "slug": "epic-systems",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 13,
+        "all": 16
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Hudson River Trading",
+      "slug": "hudson-river-trading",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 2,
+        "gt6m": 1,
+        "all": 16
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ZScaler",
+      "slug": "zscaler",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 9,
+        "all": 16
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "BitGo",
+      "slug": "bitgo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 13,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Booking.com",
+      "slug": "booking-com",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Grab",
+      "slug": "grab",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Moloco",
+      "slug": "moloco",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 11,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Pocket Gems",
+      "slug": "pocket-gems",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Robinhood",
+      "slug": "robinhood",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 7,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Sigmoid",
+      "slug": "sigmoid",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 12,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "SoFi",
+      "slug": "sofi",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 4,
+        "gt6m": 12,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "UiPath",
+      "slug": "uipath",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 9,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zopsmart",
+      "slug": "zopsmart",
+      "counts": {
+        "30d": 0,
+        "3m": 3,
+        "6m": 4,
+        "gt6m": 12,
+        "all": 15
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Dell",
+      "slug": "dell",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 13,
+        "all": 14
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Jane Street",
+      "slug": "jane-street",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 12,
+        "all": 14
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mitsogo",
+      "slug": "mitsogo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 14
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nike",
+      "slug": "nike",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 13,
+        "all": 14
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Spotify",
+      "slug": "spotify",
+      "counts": {
+        "30d": 0,
+        "3m": 4,
+        "6m": 5,
+        "gt6m": 11,
+        "all": 14
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Akamai",
+      "slug": "akamai",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 7,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 3,
+        "gt6m": 8,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Datadog",
+      "slug": "datadog",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 13,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "General Motors",
+      "slug": "general-motors",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "InMobi",
+      "slug": "inmobi",
+      "counts": {
+        "30d": 3,
+        "3m": 3,
+        "6m": 3,
+        "gt6m": 9,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nuro",
+      "slug": "nuro",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 2,
+        "gt6m": 11,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Stripe",
+      "slug": "stripe",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 10,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "VK",
+      "slug": "vk",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 12,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Whatnot",
+      "slug": "whatnot",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 10,
+        "all": 13
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "DP world",
+      "slug": "dp-world",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 11,
+        "all": 12
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Dream11",
+      "slug": "dream11",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 11,
+        "all": 12
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mastercard",
+      "slug": "mastercard",
+      "counts": {
+        "30d": 2,
+        "3m": 2,
+        "6m": 3,
+        "gt6m": 9,
+        "all": 12
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Millennium",
+      "slug": "millennium",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 9,
+        "all": 12
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Revolut",
+      "slug": "revolut",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 12
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Applied Intuition",
+      "slug": "applied-intuition",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Baidu",
+      "slug": "baidu",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 11,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 10,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CrowdStrike",
+      "slug": "crowdstrike",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Disney",
+      "slug": "disney",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 7,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Hubspot",
+      "slug": "hubspot",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 11,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "NetApp",
+      "slug": "netapp",
+      "counts": {
+        "30d": 2,
+        "3m": 2,
+        "6m": 3,
+        "gt6m": 6,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Ozon",
+      "slug": "ozon",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "PornHub",
+      "slug": "pornhub",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 8,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "SIG",
+      "slug": "sig",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 10,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Splunk",
+      "slug": "splunk",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 10,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Twilio",
+      "slug": "twilio",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 6,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "UKG",
+      "slug": "ukg",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 10,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Verily",
+      "slug": "verily",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 9,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wissen Technology",
+      "slug": "wissen-technology",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 8,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "razorpay",
+      "slug": "razorpay",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 7,
+        "all": 11
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Affirm",
+      "slug": "affirm",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 9,
+        "all": 10
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Arcesium",
+      "slug": "arcesium",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 4,
+        "all": 10
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Criteo",
+      "slug": "criteo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 8,
+        "all": 10
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Flexport",
+      "slug": "flexport",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 8,
+        "all": 10
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Karat",
+      "slug": "karat",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 9,
+        "all": 10
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Microstrategy",
+      "slug": "microstrategy",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 8,
+        "all": 10
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "WeRide",
+      "slug": "weride",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 9,
+        "all": 10
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Avito",
+      "slug": "avito",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 8,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Compass",
+      "slug": "compass",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 8,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Confluent",
+      "slug": "confluent",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 3,
+        "gt6m": 8,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Coursera",
+      "slug": "coursera",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "FreshWorks",
+      "slug": "freshworks",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 5,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Instacart",
+      "slug": "instacart",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 3,
+        "gt6m": 8,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nokia",
+      "slug": "nokia",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 2,
+        "gt6m": 6,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Publicis Sapient",
+      "slug": "publicis-sapient",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Rivian",
+      "slug": "rivian",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 9,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "opentext",
+      "slug": "opentext",
+      "counts": {
+        "30d": 0,
+        "3m": 3,
+        "6m": 3,
+        "gt6m": 4,
+        "all": 9
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Axon",
+      "slug": "axon",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 7,
+        "gt6m": 6,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Directi",
+      "slug": "directi",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Info Edge",
+      "slug": "info-edge",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 7,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "KLA",
+      "slug": "kla",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 8,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "LTI",
+      "slug": "lti",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 6,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nagarro",
+      "slug": "nagarro",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Netskope",
+      "slug": "netskope",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 8,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Pure Storage",
+      "slug": "pure-storage",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 3,
+        "gt6m": 6,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "oyo",
+      "slug": "oyo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 7,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "persistent systems",
+      "slug": "persistent-systems",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 7,
+        "all": 8
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Airtel",
+      "slug": "airtel",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Audible",
+      "slug": "audible",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 1,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Box",
+      "slug": "box",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 3,
+        "gt6m": 6,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Citigroup",
+      "slug": "citigroup",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Dunzo",
+      "slug": "dunzo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Groww",
+      "slug": "groww",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 5,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Hive",
+      "slug": "hive",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 5,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "IMC",
+      "slug": "imc",
+      "counts": {
+        "30d": 1,
+        "3m": 2,
+        "6m": 3,
+        "gt6m": 4,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Optiver",
+      "slug": "optiver",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 3,
+        "gt6m": 5,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Rakuten",
+      "slug": "rakuten",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Shopee",
+      "slug": "shopee",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Twitch",
+      "slug": "twitch",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 4,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Urban Company",
+      "slug": "urban-company",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "VMware",
+      "slug": "vmware",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Vimeo",
+      "slug": "vimeo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Warnermedia",
+      "slug": "warnermedia",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "jio",
+      "slug": "jio",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 7,
+        "all": 7
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cadence",
+      "slug": "cadence",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cashfree",
+      "slug": "cashfree",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Comcast",
+      "slug": "comcast",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Darwinbox",
+      "slug": "darwinbox",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Faire",
+      "slug": "faire",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 2,
+        "gt6m": 5,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Fidelity",
+      "slug": "fidelity",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "HSBC",
+      "slug": "hsbc",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Indeed",
+      "slug": "indeed",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "LiveRamp",
+      "slug": "liveramp",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Lowe's",
+      "slug": "lowe-s",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Lucid",
+      "slug": "lucid",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "MAQ Software",
+      "slug": "maq-software",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mercari",
+      "slug": "mercari",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 0,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Moveworks",
+      "slug": "moveworks",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 2,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Optum",
+      "slug": "optum",
+      "counts": {
+        "30d": 0,
+        "3m": 2,
+        "6m": 2,
+        "gt6m": 2,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "PayPay",
+      "slug": "paypay",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Point72",
+      "slug": "point72",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Ripple",
+      "slug": "ripple",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Rokt",
+      "slug": "rokt",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Target",
+      "slug": "target",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Trilogy",
+      "slug": "trilogy",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Upstart",
+      "slug": "upstart",
+      "counts": {
+        "30d": 1,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Virtu Financial",
+      "slug": "virtu-financial",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 5,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Virtusa",
+      "slug": "virtusa",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wise",
+      "slug": "wise",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 3,
+        "gt6m": 3,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Workday",
+      "slug": "workday",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ZS Associates",
+      "slug": "zs-associates",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zoox",
+      "slug": "zoox",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 6,
+        "all": 6
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Alibaba",
+      "slug": "alibaba",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Amdocs",
+      "slug": "amdocs",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Aon",
+      "slug": "aon",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Asana",
+      "slug": "asana",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Attentive",
+      "slug": "attentive",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Bolt",
+      "slug": "bolt",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 3,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Careem",
+      "slug": "careem",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Chewy",
+      "slug": "chewy",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Duolingo",
+      "slug": "duolingo",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 3,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "GSN Games",
+      "slug": "gsn-games",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Garmin",
+      "slug": "garmin",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "GoDaddy",
+      "slug": "godaddy",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Guidewire",
+      "slug": "guidewire",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Gusto",
+      "slug": "gusto",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "HP",
+      "slug": "hp",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Hulu",
+      "slug": "hulu",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nielsen",
+      "slug": "nielsen",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Qualtrics",
+      "slug": "qualtrics",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Reddit",
+      "slug": "reddit",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Remitly",
+      "slug": "remitly",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Riot Games",
+      "slug": "riot-games",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Shopify",
+      "slug": "shopify",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Sony",
+      "slug": "sony",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Squarespace",
+      "slug": "squarespace",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 2,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Teradata",
+      "slug": "teradata",
+      "counts": {
+        "30d": 2,
+        "3m": 2,
+        "6m": 2,
+        "gt6m": 2,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "The Trade Desk",
+      "slug": "the-trade-desk",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Toast",
+      "slug": "toast",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 5,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tripadvisor",
+      "slug": "tripadvisor",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wish",
+      "slug": "wish",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "athenahealth",
+      "slug": "athenahealth",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 5
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Acko",
+      "slug": "acko",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Airbus SE",
+      "slug": "airbus-se",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Altimetrik",
+      "slug": "altimetrik",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 1,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Citrix",
+      "slug": "citrix",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cohesity",
+      "slug": "cohesity",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Commvault",
+      "slug": "commvault",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Delhivery",
+      "slug": "delhivery",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "DevRev",
+      "slug": "devrev",
+      "counts": {
+        "30d": 2,
+        "3m": 2,
+        "6m": 2,
+        "gt6m": 2,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "EarnIn",
+      "slug": "earnin",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "FactSet",
+      "slug": "factset",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Fortinet",
+      "slug": "fortinet",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Gameskraft",
+      "slug": "gameskraft",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "HPE",
+      "slug": "hpe",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Harness",
+      "slug": "harness",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Honeywell",
+      "slug": "honeywell",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Liftoff",
+      "slug": "liftoff",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "MindTree",
+      "slug": "mindtree",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mindtickle",
+      "slug": "mindtickle",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nordstrom",
+      "slug": "nordstrom",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nykaa",
+      "slug": "nykaa",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Otter.ai",
+      "slug": "otter-ai",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Patreon",
+      "slug": "patreon",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Pony.ai",
+      "slug": "pony-ai",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Poshmark",
+      "slug": "poshmark",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Pwc",
+      "slug": "pwc",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Societe Generale",
+      "slug": "societe-generale",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Texas Instruments",
+      "slug": "texas-instruments",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Trexquant",
+      "slug": "trexquant",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "TuSimple",
+      "slug": "tusimple",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "UBS",
+      "slug": "ubs",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Valve",
+      "slug": "valve",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Works Applications",
+      "slug": "works-applications",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ZipRecruiter",
+      "slug": "ziprecruiter",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 3,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zoom",
+      "slug": "zoom",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "blinkit",
+      "slug": "blinkit",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "thoughtspot",
+      "slug": "thoughtspot",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 4,
+        "all": 4
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "AQR Capital Management",
+      "slug": "aqr-capital-management",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Activision",
+      "slug": "activision",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Airwallex",
+      "slug": "airwallex",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Apollo.io",
+      "slug": "apollo-io",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "AppFolio",
+      "slug": "appfolio",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CME Group",
+      "slug": "cme-group",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Chime",
+      "slug": "chime",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 2,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Clari",
+      "slug": "clari",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cloudera",
+      "slug": "cloudera",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "DRW",
+      "slug": "drw",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Deliveroo",
+      "slug": "deliveroo",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "DeltaX",
+      "slug": "deltax",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Freecharge",
+      "slug": "freecharge",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "GE Digital",
+      "slug": "ge-digital",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "GE Healthcare",
+      "slug": "ge-healthcare",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "HiLabs",
+      "slug": "hilabs",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "slug": "larsen-toubro",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "NCR",
+      "slug": "ncr",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Navan",
+      "slug": "navan",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Navi",
+      "slug": "navi",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Nextdoor",
+      "slug": "nextdoor",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Niantic",
+      "slug": "niantic",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Odoo",
+      "slug": "odoo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 3,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Postmates",
+      "slug": "postmates",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Samsara",
+      "slug": "samsara",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Sumo Logic",
+      "slug": "sumo-logic",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tech Mahindra",
+      "slug": "tech-mahindra",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tencent",
+      "slug": "tencent",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ThoughtWorks",
+      "slug": "thoughtworks",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ThousandEyes",
+      "slug": "thousandeyes",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tiger Analytics",
+      "slug": "tiger-analytics",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tinder",
+      "slug": "tinder",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Toptal",
+      "slug": "toptal",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tower Research Capital",
+      "slug": "tower-research-capital",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "USAA",
+      "slug": "usaa",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "WorldQuant",
+      "slug": "worldquant",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "carwale",
+      "slug": "carwale",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 3,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ciena",
+      "slug": "ciena",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "fourkites",
+      "slug": "fourkites",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 3
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Amadeus",
+      "slug": "amadeus",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Analytics quotient",
+      "slug": "analytics-quotient",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "AppDynamics",
+      "slug": "appdynamics",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Bank of America",
+      "slug": "bank-of-america",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "BlackStone",
+      "slug": "blackstone",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Bridgewater Associates",
+      "slug": "bridgewater-associates",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CARS24",
+      "slug": "cars24",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CRED",
+      "slug": "cred",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Canonical",
+      "slug": "canonical",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cruise",
+      "slug": "cruise",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Dataminr",
+      "slug": "dataminr",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "EY",
+      "slug": "ey",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Fiverr",
+      "slug": "fiverr",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Flexera",
+      "slug": "flexera",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Groupon",
+      "slug": "groupon",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Grubhub",
+      "slug": "grubhub",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Hotstar",
+      "slug": "hotstar",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Houzz",
+      "slug": "houzz",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "IVP",
+      "slug": "ivp",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Informatica",
+      "slug": "informatica",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Jump Trading",
+      "slug": "jump-trading",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Kakao",
+      "slug": "kakao",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "LINE",
+      "slug": "line",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Luxoft",
+      "slug": "luxoft",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Machine Zone",
+      "slug": "machine-zone",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "McKinsey",
+      "slug": "mckinsey",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mixpanel",
+      "slug": "mixpanel",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "National Payments Corporation of India",
+      "slug": "national-payments-corporation-of-india",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "NetEase",
+      "slug": "netease",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Netsuite",
+      "slug": "netsuite",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Paycom",
+      "slug": "paycom",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Peloton",
+      "slug": "peloton",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "PubMatic",
+      "slug": "pubmatic",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "RBC",
+      "slug": "rbc",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Sentry",
+      "slug": "sentry",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ShareChat",
+      "slug": "sharechat",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Snapdeal",
+      "slug": "snapdeal",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Softwire",
+      "slug": "softwire",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "SoundHound",
+      "slug": "soundhound",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "StackAdapt",
+      "slug": "stackadapt",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Stackline",
+      "slug": "stackline",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tanium",
+      "slug": "tanium",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tesco",
+      "slug": "tesco",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 1,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Thomson Reuters",
+      "slug": "thomson-reuters",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Turvo",
+      "slug": "turvo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Unity",
+      "slug": "unity",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zalando",
+      "slug": "zalando",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zendesk",
+      "slug": "zendesk",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zluri",
+      "slug": "zluri",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zynga",
+      "slug": "zynga",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "instabase",
+      "slug": "instabase",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 2,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "peak6",
+      "slug": "peak6",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 2
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Avalara",
+      "slug": "avalara",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Braze",
+      "slug": "braze",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CTC",
+      "slug": "ctc",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CVENT",
+      "slug": "cvent",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Circle",
+      "slug": "circle",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Cleartrip",
+      "slug": "cleartrip",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CureFit",
+      "slug": "curefit",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Devsinc",
+      "slug": "devsinc",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Druva",
+      "slug": "druva",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Edelweiss Group",
+      "slug": "edelweiss-group",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "FPT",
+      "slug": "fpt",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Fastenal",
+      "slug": "fastenal",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "GSA Capital",
+      "slug": "gsa-capital",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Highspot",
+      "slug": "highspot",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "IIT Bombay",
+      "slug": "iit-bombay",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Juniper Networks",
+      "slug": "juniper-networks",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Lendingkart Technologies",
+      "slug": "lendingkart-technologies",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Lenskart",
+      "slug": "lenskart",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mapbox",
+      "slug": "mapbox",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mobileye",
+      "slug": "mobileye",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Moengage",
+      "slug": "moengage",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "National Instruments",
+      "slug": "national-instruments",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "OKX",
+      "slug": "okx",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "PayU",
+      "slug": "payu",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "SOTI",
+      "slug": "soti",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Scale AI",
+      "slug": "scale-ai",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Slice",
+      "slug": "slice",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Smartsheet",
+      "slug": "smartsheet",
+      "counts": {
+        "30d": 0,
+        "3m": 1,
+        "6m": 1,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Synopsys",
+      "slug": "synopsys",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Veeva Systems",
+      "slug": "veeva-systems",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Veritas",
+      "slug": "veritas",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Wealthfront",
+      "slug": "wealthfront",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Western Digital",
+      "slug": "western-digital",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Zillow",
+      "slug": "zillow",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "redbus",
+      "slug": "redbus",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "smartnews",
+      "slug": "smartnews",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 1,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "zeta suite",
+      "slug": "zeta-suite",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 1
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "BILL Holdings",
+      "slug": "bill-holdings",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "BP",
+      "slug": "bp",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Bentley Systems",
+      "slug": "bentley-systems",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "BharatPe",
+      "slug": "bharatpe",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Blizzard",
+      "slug": "blizzard",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Block",
+      "slug": "block",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Bosch",
+      "slug": "bosch",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Brex",
+      "slug": "brex",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "CEDCOSS",
+      "slug": "cedcoss",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Celigo",
+      "slug": "celigo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Coforge",
+      "slug": "coforge",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "ConsultAdd",
+      "slug": "consultadd",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Coveo",
+      "slug": "coveo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Credit Karma",
+      "slug": "credit-karma",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "DXC Technology",
+      "slug": "dxc-technology",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Devtron",
+      "slug": "devtron",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Electronic Arts",
+      "slug": "electronic-arts",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Genpact",
+      "slug": "genpact",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Gojek",
+      "slug": "gojek",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Graviton",
+      "slug": "graviton",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Hertz",
+      "slug": "hertz",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Hiver",
+      "slug": "hiver",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "INDmoney",
+      "slug": "indmoney",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "J.P. Morgan",
+      "slug": "j-p-morgan",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Komprise",
+      "slug": "komprise",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Licious",
+      "slug": "licious",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "MSCI",
+      "slug": "msci",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Miro",
+      "slug": "miro",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Mountblue",
+      "slug": "mountblue",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "NinjaCart",
+      "slug": "ninjacart",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Ola Cabs",
+      "slug": "ola-cabs",
+      "counts": {
+        "30d": 24,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Opendoor",
+      "slug": "opendoor",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Palantir Technologies",
+      "slug": "palantir-technologies",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "QBurst",
+      "slug": "qburst",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Roche",
+      "slug": "roche",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Tejas Networks",
+      "slug": "tejas-networks",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Turo",
+      "slug": "turo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Vanguard",
+      "slug": "vanguard",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "WatchGuard",
+      "slug": "watchguard",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "WinZO",
+      "slug": "winzo",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "Yext",
+      "slug": "yext",
+      "counts": {
+        "30d": 0,
+        "3m": 0,
+        "6m": 0,
+        "gt6m": 0,
+        "all": 0
+      },
+      "updated": "2026-09-01"
+    }
+  ]
+}

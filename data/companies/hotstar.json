@@ -1,0 +1,60 @@
+{
+  "name": "Hotstar",
+  "slug": "hotstar",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005350270641637675,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 927,
+        "title": "Three Equal Parts",
+        "slug": "three-equal-parts",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004161705662467119,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/three-equal-parts"
+      },
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 71,
+        "acceptance": 0.005350270641637675,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

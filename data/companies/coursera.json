@@ -1,0 +1,177 @@
+{
+  "name": "Coursera",
+  "slug": "coursera",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 9
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1366,
+        "title": "Rank Teams by Votes",
+        "slug": "rank-teams-by-votes",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005999509862590548,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/rank-teams-by-votes"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0051897228382969725,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1137,
+        "title": "N-th Tribonacci Number",
+        "slug": "n-th-tribonacci-number",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006307471456530559,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/n-th-tribonacci-number"
+      },
+      {
+        "lcId": 945,
+        "title": "Minimum Increment to Make Array Unique",
+        "slug": "minimum-increment-to-make-array-unique",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006077448847763436,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+      },
+      {
+        "lcId": 780,
+        "title": "Reaching Points",
+        "slug": "reaching-points",
+        "difficulty": "Hard",
+        "frequency": 97.3,
+        "acceptance": 0.003458701577599736,
+        "topics": [
+          "Math",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "link": "https://leetcode.com/problems/reaching-points"
+      },
+      {
+        "lcId": 920,
+        "title": "Number of Music Playlists",
+        "slug": "number-of-music-playlists",
+        "difficulty": "Hard",
+        "frequency": 97.3,
+        "acceptance": 0.0060093516903551416,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "link": "https://leetcode.com/problems/number-of-music-playlists"
+      },
+      {
+        "lcId": 1112,
+        "title": "Highest Grade For Each Student",
+        "slug": "highest-grade-for-each-student",
+        "difficulty": "Medium",
+        "frequency": 97.3,
+        "acceptance": 0.0071217787750886006,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/highest-grade-for-each-student"
+      },
+      {
+        "lcId": 453,
+        "title": "Minimum Moves to Equal Array Elements",
+        "slug": "minimum-moves-to-equal-array-elements",
+        "difficulty": "Medium",
+        "frequency": 97.3,
+        "acceptance": 0.0059017866678475325,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements"
+      },
+      {
+        "lcId": 761,
+        "title": "Special Binary String",
+        "slug": "special-binary-string",
+        "difficulty": "Hard",
+        "frequency": 97.3,
+        "acceptance": 0.007943542126020931,
+        "topics": [
+          "String",
+          "Divide and Conquer",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/special-binary-string"
+      },
+      {
+        "lcId": 1366,
+        "title": "Rank Teams by Votes",
+        "slug": "rank-teams-by-votes",
+        "difficulty": "Medium",
+        "frequency": 90.6,
+        "acceptance": 0.005999509862590548,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/rank-teams-by-votes"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 86.3,
+        "acceptance": 0.0051897228382969725,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

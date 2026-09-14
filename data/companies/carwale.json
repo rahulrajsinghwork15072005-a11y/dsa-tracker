@@ -1,0 +1,105 @@
+{
+  "name": "carwale",
+  "slug": "carwale",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3412,
+        "title": "Find Mirror Score of a String",
+        "slug": "find-mirror-score-of-a-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0035890500778624703,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/find-mirror-score-of-a-string"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 66.5,
+        "acceptance": 0.004472573332822307,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 66.5,
+        "acceptance": 0.005725133789500735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3412,
+        "title": "Find Mirror Score of a String",
+        "slug": "find-mirror-score-of-a-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0035890500778624703,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/find-mirror-score-of-a-string"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 66.4,
+        "acceptance": 0.004472573332822307,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 66.4,
+        "acceptance": 0.005725133789500735,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

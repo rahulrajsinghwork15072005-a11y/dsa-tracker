@@ -1,0 +1,45 @@
+{
+  "name": "Netsuite",
+  "slug": "netsuite",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 577,
+        "title": "Employee Bonus",
+        "slug": "employee-bonus",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00779128548505449,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/employee-bonus"
+      },
+      {
+        "lcId": 1491,
+        "title": "Average Salary Excluding the Minimum and Maximum Salary",
+        "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0063554587140017505,
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

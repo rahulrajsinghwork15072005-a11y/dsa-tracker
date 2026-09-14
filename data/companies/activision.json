@@ -1,0 +1,87 @@
+{
+  "name": "Activision",
+  "slug": "activision",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006308994697353077,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 2964,
+        "title": "Number of Divisible Triplet Sums",
+        "slug": "number-of-divisible-triplet-sums",
+        "difficulty": "Medium",
+        "frequency": 89.5,
+        "acceptance": 0.0067640522875816985,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1694,
+        "title": "Reformat Phone Number",
+        "slug": "reformat-phone-number",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006782594907437996,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reformat-phone-number"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 78.9,
+        "acceptance": 0.006308994697353077,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 2964,
+        "title": "Number of Divisible Triplet Sums",
+        "slug": "number-of-divisible-triplet-sums",
+        "difficulty": "Medium",
+        "frequency": 70.1,
+        "acceptance": 0.0067640522875816985,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

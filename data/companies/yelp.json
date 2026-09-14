@@ -1,0 +1,471 @@
+{
+  "name": "Yelp",
+  "slug": "yelp",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 28
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2038,
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0063135793275781995,
+        "topics": [
+          "Math",
+          "String",
+          "Greedy",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+      },
+      {
+        "lcId": 1436,
+        "title": "Destination City",
+        "slug": "destination-city",
+        "difficulty": "Easy",
+        "frequency": 68.2,
+        "acceptance": 0.007954308215057649,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/destination-city"
+      },
+      {
+        "lcId": 2904,
+        "title": "Shortest and Lexicographically Smallest Beautiful String",
+        "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+        "difficulty": "Medium",
+        "frequency": 68.2,
+        "acceptance": 0.004117425180051157,
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1436,
+        "title": "Destination City",
+        "slug": "destination-city",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007954308215057649,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/destination-city"
+      },
+      {
+        "lcId": 2038,
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0063135793275781995,
+        "topics": [
+          "Math",
+          "String",
+          "Greedy",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+      },
+      {
+        "lcId": 1333,
+        "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+        "slug": "filter-restaurants-by-vegan-friendly-price-and-distance",
+        "difficulty": "Medium",
+        "frequency": 97.3,
+        "acceptance": 0.006448711756574454,
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 94.2,
+        "acceptance": 0.005800955990336114,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.003977957991168964,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 94.2,
+        "acceptance": 0.004818719734782995,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.007312907069303087,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.005257663671981929,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 126,
+        "title": "Word Ladder II",
+        "slug": "word-ladder-ii",
+        "difficulty": "Hard",
+        "frequency": 94.2,
+        "acceptance": 0.0027962707753449233,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 94.2,
+        "acceptance": 0.004632637466263454,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 151,
+        "title": "Reverse Words in a String",
+        "slug": "reverse-words-in-a-string",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.005753077773172842,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+      },
+      {
+        "lcId": 1126,
+        "title": "Active Businesses",
+        "slug": "active-businesses",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.0066016620498614955,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/active-businesses"
+      },
+      {
+        "lcId": 206,
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list",
+        "difficulty": "Easy",
+        "frequency": 94.2,
+        "acceptance": 0.00809421323866869,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list"
+      },
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.005204037331422034,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      },
+      {
+        "lcId": 218,
+        "title": "The Skyline Problem",
+        "slug": "the-skyline-problem",
+        "difficulty": "Hard",
+        "frequency": 94.2,
+        "acceptance": 0.0045773238943932594,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Sweep Line",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/the-skyline-problem"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 94.2,
+        "acceptance": 0.006853248243938401,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.006713901402826968,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.00554861683301535,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 381,
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+        "difficulty": "Hard",
+        "frequency": 94.2,
+        "acceptance": 0.0036895098916057754,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "lcId": 394,
+        "title": "Decode String",
+        "slug": "decode-string",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.0063090607337534695,
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/decode-string"
+      },
+      {
+        "lcId": 443,
+        "title": "String Compression",
+        "slug": "string-compression",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.006060183350478085,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/string-compression"
+      },
+      {
+        "lcId": 1455,
+        "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+        "slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+        "difficulty": "Easy",
+        "frequency": 94.2,
+        "acceptance": 0.006880191842187771,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
+      },
+      {
+        "lcId": 564,
+        "title": "Find the Closest Palindrome",
+        "slug": "find-the-closest-palindrome",
+        "difficulty": "Hard",
+        "frequency": 94.2,
+        "acceptance": 0.003207172219572574,
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/find-the-closest-palindrome"
+      },
+      {
+        "lcId": 599,
+        "title": "Minimum Index Sum of Two Lists",
+        "slug": "minimum-index-sum-of-two-lists",
+        "difficulty": "Easy",
+        "frequency": 94.2,
+        "acceptance": 0.00603474184268441,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/minimum-index-sum-of-two-lists"
+      },
+      {
+        "lcId": 692,
+        "title": "Top K Frequent Words",
+        "slug": "top-k-frequent-words",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.00605012280736682,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-words"
+      },
+      {
+        "lcId": 784,
+        "title": "Letter Case Permutation",
+        "slug": "letter-case-permutation",
+        "difficulty": "Medium",
+        "frequency": 94.2,
+        "acceptance": 0.007603367607316193,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/letter-case-permutation"
+      },
+      {
+        "lcId": 2904,
+        "title": "Shortest and Lexicographically Smallest Beautiful String",
+        "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+        "difficulty": "Medium",
+        "frequency": 58.5,
+        "acceptance": 0.004117425180051157,
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string"
+      },
+      {
+        "lcId": 1413,
+        "title": "Minimum Value to Get Positive Step by Step Sum",
+        "slug": "minimum-value-to-get-positive-step-by-step-sum",
+        "difficulty": "Easy",
+        "frequency": 58.5,
+        "acceptance": 0.006482922710461644,
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

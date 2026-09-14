@@ -1,0 +1,716 @@
+{
+  "name": "MathWorks",
+  "slug": "mathworks",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 19,
+    "all": 28
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 1648,
+        "title": "Sell Diminishing-Valued Colored Balls",
+        "slug": "sell-diminishing-valued-colored-balls",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0030387360552114762,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls"
+      },
+      {
+        "lcId": 968,
+        "title": "Binary Tree Cameras",
+        "slug": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "frequency": 95.7,
+        "acceptance": 0.004807813330861584,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-cameras"
+      },
+      {
+        "lcId": 638,
+        "title": "Shopping Offers",
+        "slug": "shopping-offers",
+        "difficulty": "Medium",
+        "frequency": 95.7,
+        "acceptance": 0.005271090895894321,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Memoization",
+          "Bitmask",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/shopping-offers"
+      },
+      {
+        "lcId": 2444,
+        "title": "Count Subarrays With Fixed Bounds",
+        "slug": "count-subarrays-with-fixed-bounds",
+        "difficulty": "Hard",
+        "frequency": 90.5,
+        "acceptance": 0.006917437440700361,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+      },
+      {
+        "lcId": 2582,
+        "title": "Pass the Pillow",
+        "slug": "pass-the-pillow",
+        "difficulty": "Easy",
+        "frequency": 90.5,
+        "acceptance": 0.005660925684988857,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/pass-the-pillow"
+      },
+      {
+        "lcId": 2858,
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "slug": "minimum-edge-reversals-so-every-node-is-reachable",
+        "difficulty": "Hard",
+        "frequency": 79.5,
+        "acceptance": 0.005979537703675635,
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+      },
+      {
+        "lcId": 621,
+        "title": "Task Scheduler",
+        "slug": "task-scheduler",
+        "difficulty": "Medium",
+        "frequency": 74.2,
+        "acceptance": 0.006363490690592593,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler"
+      },
+      {
+        "lcId": 2918,
+        "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+        "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+        "difficulty": "Medium",
+        "frequency": 74.2,
+        "acceptance": 0.005007307784677668,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+      },
+      {
+        "lcId": 2851,
+        "title": "String Transformation",
+        "slug": "string-transformation",
+        "difficulty": "Hard",
+        "frequency": 67.5,
+        "acceptance": 0.002704022150976392,
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/string-transformation"
+      },
+      {
+        "lcId": 2462,
+        "title": "Total Cost to Hire K Workers",
+        "slug": "total-cost-to-hire-k-workers",
+        "difficulty": "Medium",
+        "frequency": 67.5,
+        "acceptance": 0.00438624044405703,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Heap (Priority Queue)",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers"
+      },
+      {
+        "lcId": 2964,
+        "title": "Number of Divisible Triplet Sums",
+        "slug": "number-of-divisible-triplet-sums",
+        "difficulty": "Medium",
+        "frequency": 67.5,
+        "acceptance": 0.0067640522875816985,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 67.5,
+        "acceptance": 0.0066965588403128115,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 2861,
+        "title": "Maximum Number of Alloys",
+        "slug": "maximum-number-of-alloys",
+        "difficulty": "Medium",
+        "frequency": 58,
+        "acceptance": 0.004113502190059036,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-alloys"
+      },
+      {
+        "lcId": 3035,
+        "title": "Maximum Palindromes After Operations",
+        "slug": "maximum-palindromes-after-operations",
+        "difficulty": "Medium",
+        "frequency": 58,
+        "acceptance": 0.0047082602094137595,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 58,
+        "acceptance": 0.004472562561793012,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 2559,
+        "title": "Count Vowel Strings in Ranges",
+        "slug": "count-vowel-strings-in-ranges",
+        "difficulty": "Medium",
+        "frequency": 58,
+        "acceptance": 0.006788224525156103,
+        "topics": [
+          "Array",
+          "String",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges"
+      },
+      {
+        "lcId": 2831,
+        "title": "Find the Longest Equal Subarray",
+        "slug": "find-the-longest-equal-subarray",
+        "difficulty": "Medium",
+        "frequency": 58,
+        "acceptance": 0.003859559504858752,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/find-the-longest-equal-subarray"
+      },
+      {
+        "lcId": 2697,
+        "title": "Lexicographically Smallest Palindrome",
+        "slug": "lexicographically-smallest-palindrome",
+        "difficulty": "Easy",
+        "frequency": 58,
+        "acceptance": 0.008166346641547712,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-smallest-palindrome"
+      },
+      {
+        "lcId": 1220,
+        "title": "Count Vowels Permutation",
+        "slug": "count-vowels-permutation",
+        "difficulty": "Hard",
+        "frequency": 58,
+        "acceptance": 0.006134700577485958,
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/count-vowels-permutation"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1648,
+        "title": "Sell Diminishing-Valued Colored Balls",
+        "slug": "sell-diminishing-valued-colored-balls",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0030387360552114762,
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls"
+      },
+      {
+        "lcId": 2462,
+        "title": "Total Cost to Hire K Workers",
+        "slug": "total-cost-to-hire-k-workers",
+        "difficulty": "Medium",
+        "frequency": 98,
+        "acceptance": 0.00438624044405703,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Heap (Priority Queue)",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers"
+      },
+      {
+        "lcId": 2861,
+        "title": "Maximum Number of Alloys",
+        "slug": "maximum-number-of-alloys",
+        "difficulty": "Medium",
+        "frequency": 95.9,
+        "acceptance": 0.004113267190981281,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-alloys"
+      },
+      {
+        "lcId": 3035,
+        "title": "Maximum Palindromes After Operations",
+        "slug": "maximum-palindromes-after-operations",
+        "difficulty": "Medium",
+        "frequency": 93.6,
+        "acceptance": 0.0047082602094137595,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+      },
+      {
+        "lcId": 968,
+        "title": "Binary Tree Cameras",
+        "slug": "binary-tree-cameras",
+        "difficulty": "Hard",
+        "frequency": 93.6,
+        "acceptance": 0.004807813330861584,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/binary-tree-cameras"
+      },
+      {
+        "lcId": 638,
+        "title": "Shopping Offers",
+        "slug": "shopping-offers",
+        "difficulty": "Medium",
+        "frequency": 93.6,
+        "acceptance": 0.005271090895894321,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Memoization",
+          "Bitmask",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/shopping-offers"
+      },
+      {
+        "lcId": 566,
+        "title": "Reshape the Matrix",
+        "slug": "reshape-the-matrix",
+        "difficulty": "Easy",
+        "frequency": 91,
+        "acceptance": 0.0065420043013043735,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/reshape-the-matrix"
+      },
+      {
+        "lcId": 2514,
+        "title": "Count Anagrams",
+        "slug": "count-anagrams",
+        "difficulty": "Hard",
+        "frequency": 88.1,
+        "acceptance": 0.003816611318547069,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting",
+          "Fermat's Little Theorem"
+        ],
+        "link": "https://leetcode.com/problems/count-anagrams"
+      },
+      {
+        "lcId": 2038,
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": "Medium",
+        "frequency": 88.1,
+        "acceptance": 0.0063135793275781995,
+        "topics": [
+          "Math",
+          "String",
+          "Greedy",
+          "Game Theory"
+        ],
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+      },
+      {
+        "lcId": 1163,
+        "title": "Last Substring in Lexicographical Order",
+        "slug": "last-substring-in-lexicographical-order",
+        "difficulty": "Hard",
+        "frequency": 88.1,
+        "acceptance": 0.003521058679028488,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Lyndon Factorization"
+        ],
+        "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
+      },
+      {
+        "lcId": 1130,
+        "title": "Minimum Cost Tree From Leaf Values",
+        "slug": "minimum-cost-tree-from-leaf-values",
+        "difficulty": "Medium",
+        "frequency": 88.1,
+        "acceptance": 0.006795047544443719,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack",
+          "Cartesian Tree"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
+      },
+      {
+        "lcId": 3049,
+        "title": "Earliest Second to Mark Indices II",
+        "slug": "earliest-second-to-mark-indices-ii",
+        "difficulty": "Hard",
+        "frequency": 88.1,
+        "acceptance": 0.002226770146714863,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii"
+      },
+      {
+        "lcId": 3048,
+        "title": "Earliest Second to Mark Indices I",
+        "slug": "earliest-second-to-mark-indices-i",
+        "difficulty": "Medium",
+        "frequency": 88.1,
+        "acceptance": 0.00368376655836041,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i"
+      },
+      {
+        "lcId": 2444,
+        "title": "Count Subarrays With Fixed Bounds",
+        "slug": "count-subarrays-with-fixed-bounds",
+        "difficulty": "Hard",
+        "frequency": 88.1,
+        "acceptance": 0.006917437440700361,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Monotonic Queue"
+        ],
+        "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+      },
+      {
+        "lcId": 500,
+        "title": "Keyboard Row",
+        "slug": "keyboard-row",
+        "difficulty": "Easy",
+        "frequency": 88.1,
+        "acceptance": 0.007427276582438434,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/keyboard-row"
+      },
+      {
+        "lcId": 2582,
+        "title": "Pass the Pillow",
+        "slug": "pass-the-pillow",
+        "difficulty": "Easy",
+        "frequency": 88.1,
+        "acceptance": 0.005660925684988857,
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/pass-the-pillow"
+      },
+      {
+        "lcId": 2858,
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "slug": "minimum-edge-reversals-so-every-node-is-reachable",
+        "difficulty": "Hard",
+        "frequency": 76.6,
+        "acceptance": 0.005979537703675635,
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory"
+        ],
+        "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+      },
+      {
+        "lcId": 621,
+        "title": "Task Scheduler",
+        "slug": "task-scheduler",
+        "difficulty": "Medium",
+        "frequency": 71.2,
+        "acceptance": 0.006363492940458064,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/task-scheduler"
+      },
+      {
+        "lcId": 2918,
+        "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+        "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+        "difficulty": "Medium",
+        "frequency": 71.2,
+        "acceptance": 0.005007324913970859,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+      },
+      {
+        "lcId": 2851,
+        "title": "String Transformation",
+        "slug": "string-transformation",
+        "difficulty": "Hard",
+        "frequency": 64.2,
+        "acceptance": 0.002704022150976392,
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "link": "https://leetcode.com/problems/string-transformation"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 64.2,
+        "acceptance": 0.006696562856773472,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 2964,
+        "title": "Number of Divisible Triplet Sums",
+        "slug": "number-of-divisible-triplet-sums",
+        "difficulty": "Medium",
+        "frequency": 64.2,
+        "acceptance": 0.0067640522875816985,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+      },
+      {
+        "lcId": 2559,
+        "title": "Count Vowel Strings in Ranges",
+        "slug": "count-vowel-strings-in-ranges",
+        "difficulty": "Medium",
+        "frequency": 54.3,
+        "acceptance": 0.006788224525156103,
+        "topics": [
+          "Array",
+          "String",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges"
+      },
+      {
+        "lcId": 2831,
+        "title": "Find the Longest Equal Subarray",
+        "slug": "find-the-longest-equal-subarray",
+        "difficulty": "Medium",
+        "frequency": 54.3,
+        "acceptance": 0.003859559504858752,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/find-the-longest-equal-subarray"
+      },
+      {
+        "lcId": 2697,
+        "title": "Lexicographically Smallest Palindrome",
+        "slug": "lexicographically-smallest-palindrome",
+        "difficulty": "Easy",
+        "frequency": 54.3,
+        "acceptance": 0.008166346641547712,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/lexicographically-smallest-palindrome"
+      },
+      {
+        "lcId": 1220,
+        "title": "Count Vowels Permutation",
+        "slug": "count-vowels-permutation",
+        "difficulty": "Hard",
+        "frequency": 54.3,
+        "acceptance": 0.006134700577485958,
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/count-vowels-permutation"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 54.3,
+        "acceptance": 0.004472564577393003,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 3335,
+        "title": "Total Characters in String After Transformations I",
+        "slug": "total-characters-in-string-after-transformations-i",
+        "difficulty": "Medium",
+        "frequency": 54.3,
+        "acceptance": 0.004564912511155842,
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/total-characters-in-string-after-transformations-i"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

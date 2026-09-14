@@ -1,0 +1,45 @@
+{
+  "name": "Veeva Systems",
+  "slug": "veeva-systems",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 38,
+        "title": "Count and Say",
+        "slug": "count-and-say",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006362006830398445,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/count-and-say"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 38,
+        "title": "Count and Say",
+        "slug": "count-and-say",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006362006830398445,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/count-and-say"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

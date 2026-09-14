@@ -1,0 +1,133 @@
+{
+  "name": "Otter.ai",
+  "slug": "otter-ai",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 407,
+        "title": "Trapping Rain Water II",
+        "slug": "trapping-rain-water-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006419299448122842,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Heap (Priority Queue)",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 92.9,
+        "acceptance": 0.004977887613923577,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 2625,
+        "title": "Flatten Deeply Nested Array",
+        "slug": "flatten-deeply-nested-array",
+        "difficulty": "Medium",
+        "frequency": 82.8,
+        "acceptance": 0.006614240056275136,
+        "topics": [],
+        "link": "https://leetcode.com/problems/flatten-deeply-nested-array"
+      },
+      {
+        "lcId": 403,
+        "title": "Frog Jump",
+        "slug": "frog-jump",
+        "difficulty": "Hard",
+        "frequency": 82.8,
+        "acceptance": 0.004754549182634706,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/frog-jump"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 407,
+        "title": "Trapping Rain Water II",
+        "slug": "trapping-rain-water-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.006419299448122842,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Heap (Priority Queue)",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii"
+      },
+      {
+        "lcId": 139,
+        "title": "Word Break",
+        "slug": "word-break",
+        "difficulty": "Medium",
+        "frequency": 92.8,
+        "acceptance": 0.004977887613923577,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization",
+          "Brute-Force Search"
+        ],
+        "link": "https://leetcode.com/problems/word-break"
+      },
+      {
+        "lcId": 403,
+        "title": "Frog Jump",
+        "slug": "frog-jump",
+        "difficulty": "Hard",
+        "frequency": 82.7,
+        "acceptance": 0.004754549182634706,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/frog-jump"
+      },
+      {
+        "lcId": 2625,
+        "title": "Flatten Deeply Nested Array",
+        "slug": "flatten-deeply-nested-array",
+        "difficulty": "Medium",
+        "frequency": 82.7,
+        "acceptance": 0.006614240056275136,
+        "topics": [],
+        "link": "https://leetcode.com/problems/flatten-deeply-nested-array"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

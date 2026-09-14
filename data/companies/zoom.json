@@ -1,0 +1,92 @@
+{
+  "name": "Zoom",
+  "slug": "zoom",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 212,
+        "title": "Word Search II",
+        "slug": "word-search-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003878762248462817,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search-ii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1141,
+        "title": "User Activity for the Past 30 Days I",
+        "slug": "user-activity-for-the-past-30-days-i",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005139134249533886,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i"
+      },
+      {
+        "lcId": 1142,
+        "title": "User Activity for the Past 30 Days II",
+        "slug": "user-activity-for-the-past-30-days-ii",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.003562691349234603,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii"
+      },
+      {
+        "lcId": 212,
+        "title": "Word Search II",
+        "slug": "word-search-ii",
+        "difficulty": "Hard",
+        "frequency": 78.4,
+        "acceptance": 0.003878762248462817,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search-ii"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 69.5,
+        "acceptance": 0.004786906189866565,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

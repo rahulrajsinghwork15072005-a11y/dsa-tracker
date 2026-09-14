@@ -1,0 +1,34 @@
+{
+  "name": "Wealthfront",
+  "slug": "wealthfront",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 1
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2186,
+        "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+        "slug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007315855830094753,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

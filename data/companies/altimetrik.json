@@ -1,0 +1,116 @@
+{
+  "name": "Altimetrik",
+  "slug": "altimetrik",
+  "counts": {
+    "30d": 0,
+    "3m": 1,
+    "6m": 1,
+    "gt6m": 1,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800918768980581,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800918768980581,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 24,
+        "title": "Swap Nodes in Pairs",
+        "slug": "swap-nodes-in-pairs",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0070104841794785076,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/swap-nodes-in-pairs"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2341,
+        "title": "Maximum Number of Pairs in Array",
+        "slug": "maximum-number-of-pairs-in-array",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007625867779122347,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/maximum-number-of-pairs-in-array"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 84.2,
+        "acceptance": 0.005800918768980581,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 24,
+        "title": "Swap Nodes in Pairs",
+        "slug": "swap-nodes-in-pairs",
+        "difficulty": "Medium",
+        "frequency": 68.4,
+        "acceptance": 0.0070104841794785076,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/swap-nodes-in-pairs"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 68.4,
+        "acceptance": 0.004472528120893722,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

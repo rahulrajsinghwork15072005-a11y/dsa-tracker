@@ -1,0 +1,15 @@
+{
+  "name": "DSA Tracker — Editorial Paper Pro",
+  "short_name": "DSA Tracker",
+  "description": "56 chapters, company-wise prep, spaced repetition, PDF notes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f5ee",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

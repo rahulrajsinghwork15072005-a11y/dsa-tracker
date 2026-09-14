@@ -1,0 +1,109 @@
+{
+  "name": "Amdocs",
+  "slug": "amdocs",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3391,
+        "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+        "slug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006634615384615385,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3391,
+        "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+        "slug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006634615384615385,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking"
+      },
+      {
+        "lcId": 3875,
+        "title": "Construct Uniform Parity Array I",
+        "slug": "construct-uniform-parity-array-i",
+        "difficulty": "Easy",
+        "frequency": 97.6,
+        "acceptance": 0.007674469154587075,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/construct-uniform-parity-array-i"
+      },
+      {
+        "lcId": 2950,
+        "title": "Number of Divisible Substrings",
+        "slug": "number-of-divisible-substrings",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "acceptance": 0.007478142607344084,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/number-of-divisible-substrings"
+      },
+      {
+        "lcId": 3876,
+        "title": "Construct Uniform Parity Array II",
+        "slug": "construct-uniform-parity-array-ii",
+        "difficulty": "Medium",
+        "frequency": 95,
+        "acceptance": 0.005033587509077705,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/construct-uniform-parity-array-ii"
+      },
+      {
+        "lcId": 136,
+        "title": "Single Number",
+        "slug": "single-number",
+        "difficulty": "Easy",
+        "frequency": 63.9,
+        "acceptance": 0.007815759357792012,
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/single-number"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

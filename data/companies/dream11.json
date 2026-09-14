@@ -1,0 +1,347 @@
+{
+  "name": "Dream11",
+  "slug": "dream11",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 11,
+    "all": 12
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 735,
+        "title": "Asteroid Collision",
+        "slug": "asteroid-collision",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004876274704449057,
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/asteroid-collision"
+      },
+      {
+        "lcId": 2222,
+        "title": "Number of Ways to Select Buildings",
+        "slug": "number-of-ways-to-select-buildings",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.005096048097367843,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings"
+      },
+      {
+        "lcId": 1526,
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+        "difficulty": "Hard",
+        "frequency": 76,
+        "acceptance": 0.00782415775685754,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.003969310235048952,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 416,
+        "title": "Partition Equal Subset Sum",
+        "slug": "partition-equal-subset-sum",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.004989064888277077,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/partition-equal-subset-sum"
+      },
+      {
+        "lcId": 134,
+        "title": "Gas Station",
+        "slug": "gas-station",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.004855699521696011,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/gas-station"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.005927611556146032,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 16,
+        "title": "3Sum Closest",
+        "slug": "3sum-closest",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.004920546481033491,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum-closest"
+      },
+      {
+        "lcId": 931,
+        "title": "Minimum Falling Path Sum",
+        "slug": "minimum-falling-path-sum",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.00608463261983892,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-falling-path-sum"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 76,
+        "acceptance": 0.006064822594189541,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1475,
+        "title": "Final Prices With a Special Discount in a Shop",
+        "slug": "final-prices-with-a-special-discount-in-a-shop",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.008429685475588373,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop"
+      },
+      {
+        "lcId": 735,
+        "title": "Asteroid Collision",
+        "slug": "asteroid-collision",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.004876274704449057,
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/asteroid-collision"
+      },
+      {
+        "lcId": 134,
+        "title": "Gas Station",
+        "slug": "gas-station",
+        "difficulty": "Medium",
+        "frequency": 76.7,
+        "acceptance": 0.004855699521696011,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/gas-station"
+      },
+      {
+        "lcId": 931,
+        "title": "Minimum Falling Path Sum",
+        "slug": "minimum-falling-path-sum",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.00608463261983892,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-falling-path-sum"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.003969310235048952,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 2222,
+        "title": "Number of Ways to Select Buildings",
+        "slug": "number-of-ways-to-select-buildings",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.005096048097367843,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings"
+      },
+      {
+        "lcId": 1526,
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+        "difficulty": "Hard",
+        "frequency": 67.1,
+        "acceptance": 0.00782415775685754,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Stack",
+          "Greedy",
+          "Monotonic Stack"
+        ],
+        "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+      },
+      {
+        "lcId": 416,
+        "title": "Partition Equal Subset Sum",
+        "slug": "partition-equal-subset-sum",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.004989064888277077,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/partition-equal-subset-sum"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.003977937162306769,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 994,
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.005927611556146032,
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotting-oranges"
+      },
+      {
+        "lcId": 16,
+        "title": "3Sum Closest",
+        "slug": "3sum-closest",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.004920546481033491,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum-closest"
+      },
+      {
+        "lcId": 11,
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.006064822594189541,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/container-with-most-water"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

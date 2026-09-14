@@ -1,0 +1,121 @@
+{
+  "name": "Texas Instruments",
+  "slug": "texas-instruments",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 3,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 64,
+        "title": "Minimum Path Sum",
+        "slug": "minimum-path-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006874286334663705,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-path-sum"
+      },
+      {
+        "lcId": 30,
+        "title": "Substring with Concatenation of All Words",
+        "slug": "substring-with-concatenation-of-all-words",
+        "difficulty": "Hard",
+        "frequency": 88.4,
+        "acceptance": 0.003500349239229794,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words"
+      },
+      {
+        "lcId": 215,
+        "title": "Kth Largest Element in an Array",
+        "slug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.006924372009498589,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 64,
+        "title": "Minimum Path Sum",
+        "slug": "minimum-path-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006874286334663705,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minimum-path-sum"
+      },
+      {
+        "lcId": 30,
+        "title": "Substring with Concatenation of All Words",
+        "slug": "substring-with-concatenation-of-all-words",
+        "difficulty": "Hard",
+        "frequency": 88.2,
+        "acceptance": 0.003500349239229794,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words"
+      },
+      {
+        "lcId": 215,
+        "title": "Kth Largest Element in an Array",
+        "slug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 88.2,
+        "acceptance": 0.006924372009498589,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+      },
+      {
+        "lcId": 237,
+        "title": "Delete Node in a Linked List",
+        "slug": "delete-node-in-a-linked-list",
+        "difficulty": "Medium",
+        "frequency": 88.2,
+        "acceptance": 0.008429267628792236,
+        "topics": [
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/delete-node-in-a-linked-list"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

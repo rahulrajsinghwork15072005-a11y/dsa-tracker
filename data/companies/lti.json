@@ -1,0 +1,240 @@
+{
+  "name": "LTI",
+  "slug": "lti",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 6,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 176,
+        "title": "Second Highest Salary",
+        "slug": "second-highest-salary",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004798854790554549,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/second-highest-salary"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 2271,
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "slug": "maximum-white-tiles-covered-by-a-carpet",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003633846686277903,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sliding Window",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet"
+      },
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00642654235255107,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 1755,
+        "title": "Closest Subsequence Sum",
+        "slug": "closest-subsequence-sum",
+        "difficulty": "Hard",
+        "frequency": 88.1,
+        "acceptance": 0.004477573243453461,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Meet in the Middle",
+          "Sorting",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/closest-subsequence-sum"
+      },
+      {
+        "lcId": 2747,
+        "title": "Count Zero Request Servers",
+        "slug": "count-zero-request-servers",
+        "difficulty": "Medium",
+        "frequency": 88.1,
+        "acceptance": 0.003642152010487172,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-zero-request-servers"
+      },
+      {
+        "lcId": 509,
+        "title": "Fibonacci Number",
+        "slug": "fibonacci-number",
+        "difficulty": "Easy",
+        "frequency": 88.1,
+        "acceptance": 0.007452188567933935,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/fibonacci-number"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 88.1,
+        "acceptance": 0.005407048295280719,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00642654235255107,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 2271,
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "slug": "maximum-white-tiles-covered-by-a-carpet",
+        "difficulty": "Medium",
+        "frequency": 92,
+        "acceptance": 0.003633846686277903,
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sliding Window",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 92,
+        "acceptance": 0.005407048295280719,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 1755,
+        "title": "Closest Subsequence Sum",
+        "slug": "closest-subsequence-sum",
+        "difficulty": "Hard",
+        "frequency": 80.7,
+        "acceptance": 0.004477573243453461,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Meet in the Middle",
+          "Sorting",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/closest-subsequence-sum"
+      },
+      {
+        "lcId": 2747,
+        "title": "Count Zero Request Servers",
+        "slug": "count-zero-request-servers",
+        "difficulty": "Medium",
+        "frequency": 80.7,
+        "acceptance": 0.003642152010487172,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/count-zero-request-servers"
+      },
+      {
+        "lcId": 509,
+        "title": "Fibonacci Number",
+        "slug": "fibonacci-number",
+        "difficulty": "Easy",
+        "frequency": 80.7,
+        "acceptance": 0.007452188567933935,
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
+        ],
+        "link": "https://leetcode.com/problems/fibonacci-number"
+      },
+      {
+        "lcId": 176,
+        "title": "Second Highest Salary",
+        "slug": "second-highest-salary",
+        "difficulty": "Medium",
+        "frequency": 80.7,
+        "acceptance": 0.004798854790554549,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/second-highest-salary"
+      },
+      {
+        "lcId": 9,
+        "title": "Palindrome Number",
+        "slug": "palindrome-number",
+        "difficulty": "Easy",
+        "frequency": 80.7,
+        "acceptance": 0.006087452224133445,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/palindrome-number"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

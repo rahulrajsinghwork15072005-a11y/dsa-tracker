@@ -1,0 +1,156 @@
+{
+  "name": "Fidelity",
+  "slug": "fidelity",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005407043295750404,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 387,
+        "title": "First Unique Character in a String",
+        "slug": "first-unique-character-in-a-string",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006611193073681837,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004818723125635827,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "slug": "angle-between-hands-of-a-clock",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006987941494851849,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3033,
+        "title": "Modify the Matrix",
+        "slug": "modify-the-matrix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006897964250248262,
+        "topics": [
+          "Array",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/modify-the-matrix"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.005407043295750404,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 387,
+        "title": "First Unique Character in a String",
+        "slug": "first-unique-character-in-a-string",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.006611193073681837,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.004818723125635827,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.006853251027092919,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "slug": "angle-between-hands-of-a-clock",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.006987941494851849,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

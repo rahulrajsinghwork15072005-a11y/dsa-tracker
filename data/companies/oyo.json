@@ -1,0 +1,252 @@
+{
+  "name": "oyo",
+  "slug": "oyo",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 7,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 2731,
+        "title": "Movement of Robots",
+        "slug": "movement-of-robots",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0028262815884476534,
+        "topics": [
+          "Array",
+          "Brainteaser",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/movement-of-robots"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005039601337883421,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 1642,
+        "title": "Furthest Building You Can Reach",
+        "slug": "furthest-building-you-can-reach",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005109696628987158,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/furthest-building-you-can-reach"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 88.2,
+        "acceptance": 0.006029417177349602,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 88.2,
+        "acceptance": 0.003969333169129394,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 138,
+        "title": "Copy List with Random Pointer",
+        "slug": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "frequency": 88.2,
+        "acceptance": 0.0063509284379688405,
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 88.2,
+        "acceptance": 0.00481871947020729,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 337,
+        "title": "House Robber III",
+        "slug": "house-robber-iii",
+        "difficulty": "Medium",
+        "frequency": 88.2,
+        "acceptance": 0.005622355484172768,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-iii"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 875,
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005039601337883421,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/koko-eating-bananas"
+      },
+      {
+        "lcId": 1642,
+        "title": "Furthest Building You Can Reach",
+        "slug": "furthest-building-you-can-reach",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005109696628987158,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/furthest-building-you-can-reach"
+      },
+      {
+        "lcId": 138,
+        "title": "Copy List with Random Pointer",
+        "slug": "copy-list-with-random-pointer",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.0063509284379688405,
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+      },
+      {
+        "lcId": 337,
+        "title": "House Robber III",
+        "slug": "house-robber-iii",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.005622355484172768,
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/house-robber-iii"
+      },
+      {
+        "lcId": 23,
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists",
+        "difficulty": "Hard",
+        "frequency": 87.9,
+        "acceptance": 0.006029417177349602,
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+      },
+      {
+        "lcId": 15,
+        "title": "3Sum",
+        "slug": "3sum",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.003969333169129394,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/3sum"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 87.9,
+        "acceptance": 0.00481871947020729,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 2731,
+        "title": "Movement of Robots",
+        "slug": "movement-of-robots",
+        "difficulty": "Medium",
+        "frequency": 87.9,
+        "acceptance": 0.0028262815884476534,
+        "topics": [
+          "Array",
+          "Brainteaser",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/movement-of-robots"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

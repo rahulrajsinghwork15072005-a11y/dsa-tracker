@@ -1,0 +1,45 @@
+{
+  "name": "Zendesk",
+  "slug": "zendesk",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2525,
+        "title": "Categorize Box According to Criteria",
+        "slug": "categorize-box-according-to-criteria",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004066080524736585,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/categorize-box-according-to-criteria"
+      },
+      {
+        "lcId": 2591,
+        "title": "Distribute Money to Maximum Children",
+        "slug": "distribute-money-to-maximum-children",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0020735631625602604,
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/distribute-money-to-maximum-children"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

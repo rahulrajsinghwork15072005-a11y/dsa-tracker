@@ -1,0 +1,417 @@
+{
+  "name": "Mastercard",
+  "slug": "mastercard",
+  "counts": {
+    "30d": 2,
+    "3m": 2,
+    "6m": 3,
+    "gt6m": 9,
+    "all": 12
+  },
+  "timeframes": {
+    "30d": [
+      {
+        "lcId": 664,
+        "title": "Strange Printer",
+        "slug": "strange-printer",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0060980229188425834,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/strange-printer"
+      },
+      {
+        "lcId": 518,
+        "title": "Coin Change II",
+        "slug": "coin-change-ii",
+        "difficulty": "Medium",
+        "frequency": 80.8,
+        "acceptance": 0.005930275561603547,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change-ii"
+      }
+    ],
+    "3m": [
+      {
+        "lcId": 664,
+        "title": "Strange Printer",
+        "slug": "strange-printer",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0060980229188425834,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/strange-printer"
+      },
+      {
+        "lcId": 518,
+        "title": "Coin Change II",
+        "slug": "coin-change-ii",
+        "difficulty": "Medium",
+        "frequency": 80.4,
+        "acceptance": 0.005930275561603547,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change-ii"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 664,
+        "title": "Strange Printer",
+        "slug": "strange-printer",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0060980229188425834,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/strange-printer"
+      },
+      {
+        "lcId": 518,
+        "title": "Coin Change II",
+        "slug": "coin-change-ii",
+        "difficulty": "Medium",
+        "frequency": 88.3,
+        "acceptance": 0.005930275561603547,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change-ii"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 79,
+        "acceptance": 0.005725128295365041,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800955370218203,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 51,
+        "title": "N-Queens",
+        "slug": "n-queens",
+        "difficulty": "Hard",
+        "frequency": 94.1,
+        "acceptance": 0.007626982619012374,
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Algorithm X"
+        ],
+        "link": "https://leetcode.com/problems/n-queens"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 86.6,
+        "acceptance": 0.004472562561793012,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 322,
+        "title": "Coin Change",
+        "slug": "coin-change",
+        "difficulty": "Medium",
+        "frequency": 86.6,
+        "acceptance": 0.0048973360815864125,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change"
+      },
+      {
+        "lcId": 412,
+        "title": "Fizz Buzz",
+        "slug": "fizz-buzz",
+        "difficulty": "Easy",
+        "frequency": 86.6,
+        "acceptance": 0.007580836443545294,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/fizz-buzz"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 75.9,
+        "acceptance": 0.00685325326494953,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 75.9,
+        "acceptance": 0.005725128295365041,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 134,
+        "title": "Gas Station",
+        "slug": "gas-station",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.004855705321632883,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/gas-station"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 75.9,
+        "acceptance": 0.004794686881917228,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.005800955370218203,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 664,
+        "title": "Strange Printer",
+        "slug": "strange-printer",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0060980229188425834,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/strange-printer"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 93.9,
+        "acceptance": 0.005725128295365041,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 518,
+        "title": "Coin Change II",
+        "slug": "coin-change-ii",
+        "difficulty": "Medium",
+        "frequency": 93.9,
+        "acceptance": 0.005930275561603547,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change-ii"
+      },
+      {
+        "lcId": 51,
+        "title": "N-Queens",
+        "slug": "n-queens",
+        "difficulty": "Hard",
+        "frequency": 93.9,
+        "acceptance": 0.007626982619012374,
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Algorithm X"
+        ],
+        "link": "https://leetcode.com/problems/n-queens"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 86.1,
+        "acceptance": 0.004472562561793012,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 322,
+        "title": "Coin Change",
+        "slug": "coin-change",
+        "difficulty": "Medium",
+        "frequency": 86.1,
+        "acceptance": 0.0048973360815864125,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "link": "https://leetcode.com/problems/coin-change"
+      },
+      {
+        "lcId": 412,
+        "title": "Fizz Buzz",
+        "slug": "fizz-buzz",
+        "difficulty": "Easy",
+        "frequency": 86.1,
+        "acceptance": 0.007580836443545294,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/fizz-buzz"
+      },
+      {
+        "lcId": 242,
+        "title": "Valid Anagram",
+        "slug": "valid-anagram",
+        "difficulty": "Easy",
+        "frequency": 75,
+        "acceptance": 0.00685325326494953,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/valid-anagram"
+      },
+      {
+        "lcId": 134,
+        "title": "Gas Station",
+        "slug": "gas-station",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "acceptance": 0.004855705321632883,
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/gas-station"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "acceptance": 0.004794686881917228,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 48,
+        "title": "Rotate Image",
+        "slug": "rotate-image",
+        "difficulty": "Medium",
+        "frequency": 75,
+        "acceptance": 0.008057027999910411,
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/rotate-image"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

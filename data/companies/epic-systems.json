@@ -1,0 +1,460 @@
+{
+  "name": "Epic Systems",
+  "slug": "epic-systems",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 2,
+    "gt6m": 13,
+    "all": 16
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 306,
+        "title": "Additive Number",
+        "slug": "additive-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003428211138067629,
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/additive-number"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 89.6,
+        "acceptance": 0.004472562498093404,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005762705428269967,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 95.6,
+        "acceptance": 0.006665996652311118,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 306,
+        "title": "Additive Number",
+        "slug": "additive-number",
+        "difficulty": "Medium",
+        "frequency": 93.9,
+        "acceptance": 0.003428211138067629,
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/additive-number"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 87.8,
+        "acceptance": 0.004472562498093404,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 70.7,
+        "acceptance": 0.004794679848575189,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "slug": "angle-between-hands-of-a-clock",
+        "difficulty": "Medium",
+        "frequency": 70.7,
+        "acceptance": 0.006987941494851849,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock"
+      },
+      {
+        "lcId": 728,
+        "title": "Self Dividing Numbers",
+        "slug": "self-dividing-numbers",
+        "difficulty": "Easy",
+        "frequency": 56.1,
+        "acceptance": 0.008113444160735951,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/self-dividing-numbers"
+      },
+      {
+        "lcId": 299,
+        "title": "Bulls and Cows",
+        "slug": "bulls-and-cows",
+        "difficulty": "Medium",
+        "frequency": 56.1,
+        "acceptance": 0.005288296429669015,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/bulls-and-cows"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 56.1,
+        "acceptance": 0.00580095144413897,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 56.1,
+        "acceptance": 0.008226141856955041,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 56.1,
+        "acceptance": 0.0038471102706717423,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 56.1,
+        "acceptance": 0.007312517816440686,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 204,
+        "title": "Count Primes",
+        "slug": "count-primes",
+        "difficulty": "Medium",
+        "frequency": 56.1,
+        "acceptance": 0.003637091236436949,
+        "topics": [
+          "Array",
+          "Math",
+          "Enumeration",
+          "Number Theory",
+          "Primality Test",
+          "Sieve Theory",
+          "Prime Number Sieve"
+        ],
+        "link": "https://leetcode.com/problems/count-primes"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 306,
+        "title": "Additive Number",
+        "slug": "additive-number",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.003428211138067629,
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/additive-number"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 93.9,
+        "acceptance": 0.005762705428269967,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 17,
+        "title": "Letter Combinations of a Phone Number",
+        "slug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium",
+        "frequency": 88.4,
+        "acceptance": 0.006665996652311118,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 85,
+        "acceptance": 0.004472562498093404,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 728,
+        "title": "Self Dividing Numbers",
+        "slug": "self-dividing-numbers",
+        "difficulty": "Easy",
+        "frequency": 83.1,
+        "acceptance": 0.008113444160735951,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/self-dividing-numbers"
+      },
+      {
+        "lcId": 1215,
+        "title": "Stepping Numbers",
+        "slug": "stepping-numbers",
+        "difficulty": "Medium",
+        "frequency": 78.5,
+        "acceptance": 0.0048636171113934775,
+        "topics": [
+          "Math",
+          "Backtracking",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/stepping-numbers"
+      },
+      {
+        "lcId": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "slug": "angle-between-hands-of-a-clock",
+        "difficulty": "Medium",
+        "frequency": 69,
+        "acceptance": 0.006987941494851849,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 64.4,
+        "acceptance": 0.004794679848575189,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 299,
+        "title": "Bulls and Cows",
+        "slug": "bulls-and-cows",
+        "difficulty": "Medium",
+        "frequency": 58.6,
+        "acceptance": 0.005288296429669015,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/bulls-and-cows"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 58.6,
+        "acceptance": 0.00580095144413897,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 204,
+        "title": "Count Primes",
+        "slug": "count-primes",
+        "difficulty": "Medium",
+        "frequency": 58.6,
+        "acceptance": 0.003637091236436949,
+        "topics": [
+          "Array",
+          "Math",
+          "Enumeration",
+          "Number Theory",
+          "Primality Test",
+          "Sieve Theory",
+          "Prime Number Sieve"
+        ],
+        "link": "https://leetcode.com/problems/count-primes"
+      },
+      {
+        "lcId": 647,
+        "title": "Palindromic Substrings",
+        "slug": "palindromic-substrings",
+        "difficulty": "Medium",
+        "frequency": 50.4,
+        "acceptance": 0.007312517816440686,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+      },
+      {
+        "lcId": 46,
+        "title": "Permutations",
+        "slug": "permutations",
+        "difficulty": "Medium",
+        "frequency": 50.4,
+        "acceptance": 0.008226141856955041,
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "link": "https://leetcode.com/problems/permutations"
+      },
+      {
+        "lcId": 5,
+        "title": "Longest Palindromic Substring",
+        "slug": "longest-palindromic-substring",
+        "difficulty": "Medium",
+        "frequency": 50.4,
+        "acceptance": 0.0038471102706717423,
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Manacher"
+        ],
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+      },
+      {
+        "lcId": 329,
+        "title": "Longest Increasing Path in a Matrix",
+        "slug": "longest-increasing-path-in-a-matrix",
+        "difficulty": "Hard",
+        "frequency": 50.4,
+        "acceptance": 0.005695053990694935,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Memoization",
+          "Matrix",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 50.4,
+        "acceptance": 0.005407043295750404,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

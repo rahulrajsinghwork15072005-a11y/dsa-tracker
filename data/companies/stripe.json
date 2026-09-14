@@ -1,0 +1,367 @@
+{
+  "name": "Stripe",
+  "slug": "stripe",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 10,
+    "all": 13
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2303,
+        "title": "Calculate Amount Paid in Taxes",
+        "slug": "calculate-amount-paid-in-taxes",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006946106395807244,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/calculate-amount-paid-in-taxes"
+      },
+      {
+        "lcId": 1169,
+        "title": "Invalid Transactions",
+        "slug": "invalid-transactions",
+        "difficulty": "Medium",
+        "frequency": 93.2,
+        "acceptance": 0.003249842207510103,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/invalid-transactions"
+      },
+      {
+        "lcId": 787,
+        "title": "Cheapest Flights Within K Stops",
+        "slug": "cheapest-flights-within-k-stops",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.004241503605632959,
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+      },
+      {
+        "lcId": 1087,
+        "title": "Brace Expansion",
+        "slug": "brace-expansion",
+        "difficulty": "Medium",
+        "frequency": 88.8,
+        "acceptance": 0.006685636909551191,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Stack",
+          "Breadth-First Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/brace-expansion"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 83.5,
+        "acceptance": 0.006450732055500427,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      },
+      {
+        "lcId": 2483,
+        "title": "Minimum Penalty for a Shop",
+        "slug": "minimum-penalty-for-a-shop",
+        "difficulty": "Medium",
+        "frequency": 76.7,
+        "acceptance": 0.0071243242281974675,
+        "topics": [
+          "String",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop"
+      },
+      {
+        "lcId": 2050,
+        "title": "Parallel Courses III",
+        "slug": "parallel-courses-iii",
+        "difficulty": "Hard",
+        "frequency": 67.1,
+        "acceptance": 0.006681007096628293,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/parallel-courses-iii"
+      },
+      {
+        "lcId": 161,
+        "title": "One Edit Distance",
+        "slug": "one-edit-distance",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.0034578134593774255,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/one-edit-distance"
+      },
+      {
+        "lcId": 2768,
+        "title": "Number of Black Blocks",
+        "slug": "number-of-black-blocks",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.004217931337705639,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/number-of-black-blocks"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 67.1,
+        "acceptance": 0.006956899618246427,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2483,
+        "title": "Minimum Penalty for a Shop",
+        "slug": "minimum-penalty-for-a-shop",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0071243242281974675,
+        "topics": [
+          "String",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop"
+      },
+      {
+        "lcId": 2303,
+        "title": "Calculate Amount Paid in Taxes",
+        "slug": "calculate-amount-paid-in-taxes",
+        "difficulty": "Easy",
+        "frequency": 92.7,
+        "acceptance": 0.006946106395807244,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/calculate-amount-paid-in-taxes"
+      },
+      {
+        "lcId": 1169,
+        "title": "Invalid Transactions",
+        "slug": "invalid-transactions",
+        "difficulty": "Medium",
+        "frequency": 89.7,
+        "acceptance": 0.003249842207510103,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/invalid-transactions"
+      },
+      {
+        "lcId": 787,
+        "title": "Cheapest Flights Within K Stops",
+        "slug": "cheapest-flights-within-k-stops",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "acceptance": 0.004241503605632959,
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+      },
+      {
+        "lcId": 1087,
+        "title": "Brace Expansion",
+        "slug": "brace-expansion",
+        "difficulty": "Medium",
+        "frequency": 82,
+        "acceptance": 0.006685636909551191,
+        "topics": [
+          "String",
+          "Backtracking",
+          "Stack",
+          "Breadth-First Search",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/brace-expansion"
+      },
+      {
+        "lcId": 399,
+        "title": "Evaluate Division",
+        "slug": "evaluate-division",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.006450732055500427,
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory",
+          "Shortest Path",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/evaluate-division"
+      },
+      {
+        "lcId": 2050,
+        "title": "Parallel Courses III",
+        "slug": "parallel-courses-iii",
+        "difficulty": "Hard",
+        "frequency": 61.2,
+        "acceptance": 0.006681007096628293,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/parallel-courses-iii"
+      },
+      {
+        "lcId": 161,
+        "title": "One Edit Distance",
+        "slug": "one-edit-distance",
+        "difficulty": "Medium",
+        "frequency": 61.2,
+        "acceptance": 0.0034578134593774255,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/one-edit-distance"
+      },
+      {
+        "lcId": 2768,
+        "title": "Number of Black Blocks",
+        "slug": "number-of-black-blocks",
+        "difficulty": "Medium",
+        "frequency": 61.2,
+        "acceptance": 0.004217931337705639,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/number-of-black-blocks"
+      },
+      {
+        "lcId": 1604,
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "difficulty": "Medium",
+        "frequency": 61.2,
+        "acceptance": 0.004638325101842171,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "lcId": 2043,
+        "title": "Simple Bank System",
+        "slug": "simple-bank-system",
+        "difficulty": "Medium",
+        "frequency": 61.2,
+        "acceptance": 0.006956899618246427,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/simple-bank-system"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 61.2,
+        "acceptance": 0.005257660669053073,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 1288,
+        "title": "Remove Covered Intervals",
+        "slug": "remove-covered-intervals",
+        "difficulty": "Medium",
+        "frequency": 61.2,
+        "acceptance": 0.006017011116577376,
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/remove-covered-intervals"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

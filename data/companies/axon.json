@@ -1,0 +1,325 @@
+{
+  "name": "Axon",
+  "slug": "axon",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 7,
+    "gt6m": 6,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005548648820609658,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 90.9,
+        "acceptance": 0.005012873077888558,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 1396,
+        "title": "Design Underground System",
+        "slug": "design-underground-system",
+        "difficulty": "Medium",
+        "frequency": 75.4,
+        "acceptance": 0.007459845536187637,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/design-underground-system"
+      },
+      {
+        "lcId": 72,
+        "title": "Edit Distance",
+        "slug": "edit-distance",
+        "difficulty": "Medium",
+        "frequency": 75.4,
+        "acceptance": 0.006111931748074245,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/edit-distance"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 75.4,
+        "acceptance": 0.00540700692650118,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 636,
+        "title": "Exclusive Time of Functions",
+        "slug": "exclusive-time-of-functions",
+        "difficulty": "Medium",
+        "frequency": 75.4,
+        "acceptance": 0.006626098548869046,
+        "topics": [
+          "Array",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/exclusive-time-of-functions"
+      },
+      {
+        "lcId": 97,
+        "title": "Interleaving String",
+        "slug": "interleaving-string",
+        "difficulty": "Medium",
+        "frequency": 75.4,
+        "acceptance": 0.004457101038608985,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/interleaving-string"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005012873077888558,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 1396,
+        "title": "Design Underground System",
+        "slug": "design-underground-system",
+        "difficulty": "Medium",
+        "frequency": 94.6,
+        "acceptance": 0.007459845536187637,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/design-underground-system"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 92,
+        "acceptance": 0.005548648820609658,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 97,
+        "title": "Interleaving String",
+        "slug": "interleaving-string",
+        "difficulty": "Medium",
+        "frequency": 75.3,
+        "acceptance": 0.004457101038608985,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/interleaving-string"
+      },
+      {
+        "lcId": 973,
+        "title": "K Closest Points to Origin",
+        "slug": "k-closest-points-to-origin",
+        "difficulty": "Medium",
+        "frequency": 53.7,
+        "acceptance": 0.006928806872145195,
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect",
+          "K-D Tree"
+        ],
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 53.7,
+        "acceptance": 0.00540700692650118,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 981,
+        "title": "Time Based Key-Value Store",
+        "slug": "time-based-key-value-store",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005012873077888558,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+      },
+      {
+        "lcId": 380,
+        "title": "Insert Delete GetRandom O(1)",
+        "slug": "insert-delete-getrandom-o1",
+        "difficulty": "Medium",
+        "frequency": 95.6,
+        "acceptance": 0.005548648820609658,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+      },
+      {
+        "lcId": 1396,
+        "title": "Design Underground System",
+        "slug": "design-underground-system",
+        "difficulty": "Medium",
+        "frequency": 93.6,
+        "acceptance": 0.007459845536187637,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design"
+        ],
+        "link": "https://leetcode.com/problems/design-underground-system"
+      },
+      {
+        "lcId": 97,
+        "title": "Interleaving String",
+        "slug": "interleaving-string",
+        "difficulty": "Medium",
+        "frequency": 77.8,
+        "acceptance": 0.004457101038608985,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/interleaving-string"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 64.3,
+        "acceptance": 0.00540700692650118,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 72,
+        "title": "Edit Distance",
+        "slug": "edit-distance",
+        "difficulty": "Medium",
+        "frequency": 58.7,
+        "acceptance": 0.006111931748074245,
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/edit-distance"
+      },
+      {
+        "lcId": 636,
+        "title": "Exclusive Time of Functions",
+        "slug": "exclusive-time-of-functions",
+        "difficulty": "Medium",
+        "frequency": 58.7,
+        "acceptance": 0.006626098548869046,
+        "topics": [
+          "Array",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/exclusive-time-of-functions"
+      },
+      {
+        "lcId": 973,
+        "title": "K Closest Points to Origin",
+        "slug": "k-closest-points-to-origin",
+        "difficulty": "Medium",
+        "frequency": 50.8,
+        "acceptance": 0.006928806872145195,
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect",
+          "K-D Tree"
+        ],
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

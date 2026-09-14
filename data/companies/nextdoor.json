@@ -1,0 +1,120 @@
+{
+  "name": "Nextdoor",
+  "slug": "nextdoor",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 3,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005257651100699819,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 165,
+        "title": "Compare Version Numbers",
+        "slug": "compare-version-numbers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004686023999597036,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/compare-version-numbers"
+      },
+      {
+        "lcId": 432,
+        "title": "All O`one Data Structure",
+        "slug": "all-oone-data-structure",
+        "difficulty": "Hard",
+        "frequency": 96.3,
+        "acceptance": 0.004446828603783362,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/all-oone-data-structure"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 77.9,
+        "acceptance": 0.005257651100699819,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 165,
+        "title": "Compare Version Numbers",
+        "slug": "compare-version-numbers",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004686023999597036,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/compare-version-numbers"
+      },
+      {
+        "lcId": 432,
+        "title": "All O`one Data Structure",
+        "slug": "all-oone-data-structure",
+        "difficulty": "Hard",
+        "frequency": 96.3,
+        "acceptance": 0.004446828603783362,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/all-oone-data-structure"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 89,
+        "acceptance": 0.005257651100699819,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

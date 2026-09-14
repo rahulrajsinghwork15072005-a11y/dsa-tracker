@@ -1,0 +1,46 @@
+{
+  "name": "Machine Zone",
+  "slug": "machine-zone",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 715,
+        "title": "Range Module",
+        "slug": "range-module",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0045412920182597875,
+        "topics": [
+          "Design",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/range-module"
+      },
+      {
+        "lcId": 1336,
+        "title": "Number of Transactions per Visit",
+        "slug": "number-of-transactions-per-visit",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004786478973206364,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/number-of-transactions-per-visit"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

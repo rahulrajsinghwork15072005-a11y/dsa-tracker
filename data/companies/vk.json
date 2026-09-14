@@ -1,0 +1,369 @@
+{
+  "name": "VK",
+  "slug": "vk",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 12,
+    "all": 13
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 849,
+        "title": "Maximize Distance to Closest Person",
+        "slug": "maximize-distance-to-closest-person",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004997681957791178,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/maximize-distance-to-closest-person"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 849,
+        "title": "Maximize Distance to Closest Person",
+        "slug": "maximize-distance-to-closest-person",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004997681957791178,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/maximize-distance-to-closest-person"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 92.1,
+        "acceptance": 0.004472570758542255,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 86.8,
+        "acceptance": 0.00580095815633082,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "acceptance": 0.0054070531867822635,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 228,
+        "title": "Summary Ranges",
+        "slug": "summary-ranges",
+        "difficulty": "Easy",
+        "frequency": 80,
+        "acceptance": 0.005461932179938425,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/summary-ranges"
+      },
+      {
+        "lcId": 1493,
+        "title": "Longest Subarray of 1's After Deleting One Element",
+        "slug": "longest-subarray-of-1s-after-deleting-one-element",
+        "difficulty": "Medium",
+        "frequency": 80,
+        "acceptance": 0.007148329398357156,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element"
+      },
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 70.5,
+        "acceptance": 0.006426543691680157,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 165,
+        "title": "Compare Version Numbers",
+        "slug": "compare-version-numbers",
+        "difficulty": "Medium",
+        "frequency": 70.5,
+        "acceptance": 0.004686023999597036,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/compare-version-numbers"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 70.5,
+        "acceptance": 0.003977958985093826,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 70.5,
+        "acceptance": 0.005257660287454545,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 101,
+        "title": "Symmetric Tree",
+        "slug": "symmetric-tree",
+        "difficulty": "Easy",
+        "frequency": 70.5,
+        "acceptance": 0.006182594721888896,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/symmetric-tree"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 70.5,
+        "acceptance": 0.005725131591964092,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 849,
+        "title": "Maximize Distance to Closest Person",
+        "slug": "maximize-distance-to-closest-person",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004997681957791178,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/maximize-distance-to-closest-person"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 86.7,
+        "acceptance": 0.004472570758542255,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 81.6,
+        "acceptance": 0.00580095815633082,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 283,
+        "title": "Move Zeroes",
+        "slug": "move-zeroes",
+        "difficulty": "Easy",
+        "frequency": 75.1,
+        "acceptance": 0.006426543691680157,
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "link": "https://leetcode.com/problems/move-zeroes"
+      },
+      {
+        "lcId": 125,
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome",
+        "difficulty": "Easy",
+        "frequency": 75.1,
+        "acceptance": 0.0054070531867822635,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/valid-palindrome"
+      },
+      {
+        "lcId": 228,
+        "title": "Summary Ranges",
+        "slug": "summary-ranges",
+        "difficulty": "Easy",
+        "frequency": 75.1,
+        "acceptance": 0.005461932179938425,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/summary-ranges"
+      },
+      {
+        "lcId": 1493,
+        "title": "Longest Subarray of 1's After Deleting One Element",
+        "slug": "longest-subarray-of-1s-after-deleting-one-element",
+        "difficulty": "Medium",
+        "frequency": 75.1,
+        "acceptance": 0.007148329398357156,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element"
+      },
+      {
+        "lcId": 3,
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.003977958985093826,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+      },
+      {
+        "lcId": 165,
+        "title": "Compare Version Numbers",
+        "slug": "compare-version-numbers",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.004686023999597036,
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/compare-version-numbers"
+      },
+      {
+        "lcId": 56,
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.005257660287454545,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "link": "https://leetcode.com/problems/merge-intervals"
+      },
+      {
+        "lcId": 101,
+        "title": "Symmetric Tree",
+        "slug": "symmetric-tree",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "acceptance": 0.006182594721888896,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/symmetric-tree"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 66,
+        "acceptance": 0.005725131591964092,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 567,
+        "title": "Permutation in String",
+        "slug": "permutation-in-string",
+        "difficulty": "Medium",
+        "frequency": 66,
+        "acceptance": 0.004952185208884229,
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/permutation-in-string"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

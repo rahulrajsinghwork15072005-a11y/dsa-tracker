@@ -1,0 +1,143 @@
+{
+  "name": "Nordstrom",
+  "slug": "nordstrom",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005204032233435648,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 82.8,
+        "acceptance": 0.005762716576563462,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 82.8,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 1418,
+        "title": "Display Table of Food Orders in a Restaurant",
+        "slug": "display-table-of-food-orders-in-a-restaurant",
+        "difficulty": "Medium",
+        "frequency": 82.8,
+        "acceptance": 0.007649783208513994,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 207,
+        "title": "Course Schedule",
+        "slug": "course-schedule",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005204032233435648,
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "link": "https://leetcode.com/problems/course-schedule"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 82.7,
+        "acceptance": 0.004786894555695717,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 54,
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix",
+        "difficulty": "Medium",
+        "frequency": 82.7,
+        "acceptance": 0.005762716576563462,
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/spiral-matrix"
+      },
+      {
+        "lcId": 1418,
+        "title": "Display Table of Food Orders in a Restaurant",
+        "slug": "display-table-of-food-orders-in-a-restaurant",
+        "difficulty": "Medium",
+        "frequency": 82.7,
+        "acceptance": 0.007649783208513994,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

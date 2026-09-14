@@ -1,0 +1,113 @@
+{
+  "name": "Alibaba",
+  "slug": "alibaba",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 215,
+        "title": "Kth Largest Element in an Array",
+        "slug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006924330750974554,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 548,
+        "title": "Split Array with Equal Sum",
+        "slug": "split-array-with-equal-sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005006472427459024,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/split-array-with-equal-sum"
+      },
+      {
+        "lcId": 555,
+        "title": "Split Concatenated Strings",
+        "slug": "split-concatenated-strings",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0043444627723110175,
+        "topics": [
+          "Array",
+          "String",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/split-concatenated-strings"
+      },
+      {
+        "lcId": 666,
+        "title": "Path Sum IV",
+        "slug": "path-sum-iv",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0062886366022285875,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "link": "https://leetcode.com/problems/path-sum-iv"
+      },
+      {
+        "lcId": 678,
+        "title": "Valid Parenthesis String",
+        "slug": "valid-parenthesis-string",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0040403895485300115,
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Greedy",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parenthesis-string"
+      },
+      {
+        "lcId": 215,
+        "title": "Kth Largest Element in an Array",
+        "slug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium",
+        "frequency": 67.6,
+        "acceptance": 0.006924330750974554,
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

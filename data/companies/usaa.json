@@ -1,0 +1,108 @@
+{
+  "name": "USAA",
+  "slug": "usaa",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0048187172930107955,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 524,
+        "title": "Longest Word in Dictionary through Deleting",
+        "slug": "longest-word-in-dictionary-through-deleting",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005295085372906384,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0048187172930107955,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.0048187172930107955,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      },
+      {
+        "lcId": 524,
+        "title": "Longest Word in Dictionary through Deleting",
+        "slug": "longest-word-in-dictionary-through-deleting",
+        "difficulty": "Medium",
+        "frequency": 88.6,
+        "acceptance": 0.005295085372906384,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting"
+      },
+      {
+        "lcId": 20,
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "difficulty": "Easy",
+        "frequency": 79.6,
+        "acceptance": 0.004472570758542255,
+        "topics": [
+          "String",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "link": "https://leetcode.com/problems/valid-parentheses"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

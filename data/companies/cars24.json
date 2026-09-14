@@ -1,0 +1,77 @@
+{
+  "name": "CARS24",
+  "slug": "cars24",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 2
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 781,
+        "title": "Rabbits in Forest",
+        "slug": "rabbits-in-forest",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005803388283063691,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/rabbits-in-forest"
+      },
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005350258069714873,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 781,
+        "title": "Rabbits in Forest",
+        "slug": "rabbits-in-forest",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005803388283063691,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/rabbits-in-forest"
+      },
+      {
+        "lcId": 198,
+        "title": "House Robber",
+        "slug": "house-robber",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005350258069714873,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/house-robber"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

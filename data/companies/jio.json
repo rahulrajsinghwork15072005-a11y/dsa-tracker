@@ -1,0 +1,215 @@
+{
+  "name": "jio",
+  "slug": "jio",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 7,
+    "all": 7
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3013,
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005444558998635031,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii"
+      },
+      {
+        "lcId": 3030,
+        "title": "Find the Grid of Region Average",
+        "slug": "find-the-grid-of-region-average",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004402773400567286,
+        "topics": [
+          "Array",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/find-the-grid-of-region-average"
+      },
+      {
+        "lcId": 3372,
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006944748224924508,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i"
+      },
+      {
+        "lcId": 3373,
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.007311240177656303,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 63.7,
+        "acceptance": 0.005800952869674154,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 206,
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list",
+        "difficulty": "Easy",
+        "frequency": 63.7,
+        "acceptance": 0.008094212890592057,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 63.7,
+        "acceptance": 0.007312908556871405,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3013,
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005444558998635031,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii"
+      },
+      {
+        "lcId": 3030,
+        "title": "Find the Grid of Region Average",
+        "slug": "find-the-grid-of-region-average",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004402773400567286,
+        "topics": [
+          "Array",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/find-the-grid-of-region-average"
+      },
+      {
+        "lcId": 3372,
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006944748224924508,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i"
+      },
+      {
+        "lcId": 3373,
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.007311240177656303,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 63.5,
+        "acceptance": 0.005800952869674154,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 206,
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list",
+        "difficulty": "Easy",
+        "frequency": 63.5,
+        "acceptance": 0.008094212890592057,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-linked-list"
+      },
+      {
+        "lcId": 49,
+        "title": "Group Anagrams",
+        "slug": "group-anagrams",
+        "difficulty": "Medium",
+        "frequency": 63.5,
+        "acceptance": 0.007312908556871405,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/group-anagrams"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

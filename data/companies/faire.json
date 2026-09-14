@@ -1,0 +1,248 @@
+{
+  "name": "Faire",
+  "slug": "faire",
+  "counts": {
+    "30d": 0,
+    "3m": 2,
+    "6m": 2,
+    "gt6m": 5,
+    "all": 6
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004910891640522027,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004794679848575189,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      }
+    ],
+    "6m": [
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004910891640522027,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004794679848575189,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004794679848575189,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 273,
+        "title": "Integer to English Words",
+        "slug": "integer-to-english-words",
+        "difficulty": "Hard",
+        "frequency": 83.9,
+        "acceptance": 0.003516291731184657,
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-english-words"
+      },
+      {
+        "lcId": 2468,
+        "title": "Split Message Based on Limit",
+        "slug": "split-message-based-on-limit",
+        "difficulty": "Hard",
+        "frequency": 79.3,
+        "acceptance": 0.004206958073148974,
+        "topics": [
+          "String",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/split-message-based-on-limit"
+      },
+      {
+        "lcId": 591,
+        "title": "Tag Validator",
+        "slug": "tag-validator",
+        "difficulty": "Hard",
+        "frequency": 73.5,
+        "acceptance": 0.0041357439673397976,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/tag-validator"
+      },
+      {
+        "lcId": 845,
+        "title": "Longest Mountain in Array",
+        "slug": "longest-mountain-in-array",
+        "difficulty": "Medium",
+        "frequency": 65.2,
+        "acceptance": 0.004245309894593405,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/longest-mountain-in-array"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 79,
+        "title": "Word Search",
+        "slug": "word-search",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004794679848575189,
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/word-search"
+      },
+      {
+        "lcId": 273,
+        "title": "Integer to English Words",
+        "slug": "integer-to-english-words",
+        "difficulty": "Hard",
+        "frequency": 84.5,
+        "acceptance": 0.003516291731184657,
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-english-words"
+      },
+      {
+        "lcId": 2468,
+        "title": "Split Message Based on Limit",
+        "slug": "split-message-based-on-limit",
+        "difficulty": "Hard",
+        "frequency": 76.3,
+        "acceptance": 0.004206958073148974,
+        "topics": [
+          "String",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/split-message-based-on-limit"
+      },
+      {
+        "lcId": 591,
+        "title": "Tag Validator",
+        "slug": "tag-validator",
+        "difficulty": "Hard",
+        "frequency": 70.6,
+        "acceptance": 0.0041357439673397976,
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "link": "https://leetcode.com/problems/tag-validator"
+      },
+      {
+        "lcId": 239,
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum",
+        "difficulty": "Hard",
+        "frequency": 70.6,
+        "acceptance": 0.004910891640522027,
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+      },
+      {
+        "lcId": 845,
+        "title": "Longest Mountain in Array",
+        "slug": "longest-mountain-in-array",
+        "difficulty": "Medium",
+        "frequency": 62.4,
+        "acceptance": 0.004245309894593405,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/longest-mountain-in-array"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

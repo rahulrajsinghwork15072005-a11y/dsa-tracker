@@ -1,0 +1,89 @@
+{
+  "name": "ThoughtWorks",
+  "slug": "thoughtworks",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 2,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 3036,
+        "title": "Number of Subarrays That Match a Pattern II",
+        "slug": "number-of-subarrays-that-match-a-pattern-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003432198499711483,
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 67.6,
+        "acceptance": 0.005800959051255636,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3036,
+        "title": "Number of Subarrays That Match a Pattern II",
+        "slug": "number-of-subarrays-that-match-a-pattern-ii",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003432198499711483,
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii"
+      },
+      {
+        "lcId": 3226,
+        "title": "Number of Bit Changes to Make Two Integers Equal",
+        "slug": "number-of-bit-changes-to-make-two-integers-equal",
+        "difficulty": "Easy",
+        "frequency": 95.3,
+        "acceptance": 0.006341631186328111,
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 66.3,
+        "acceptance": 0.005800959051255636,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

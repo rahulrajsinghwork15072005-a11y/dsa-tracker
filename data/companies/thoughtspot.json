@@ -1,0 +1,137 @@
+{
+  "name": "thoughtspot",
+  "slug": "thoughtspot",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 4
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2791,
+        "title": "Count Paths That Can Form a Palindrome in a Tree",
+        "slug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005207741365157542,
+        "topics": [
+          "Hash Table",
+          "Bit Manipulation",
+          "Tree",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 87.1,
+        "acceptance": 0.004825522573674433,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 3067,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "difficulty": "Medium",
+        "frequency": 76.9,
+        "acceptance": 0.005531395606833815,
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network"
+      },
+      {
+        "lcId": 84,
+        "title": "Largest Rectangle in Histogram",
+        "slug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard",
+        "frequency": 76.9,
+        "acceptance": 0.005066388636457454,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2791,
+        "title": "Count Paths That Can Form a Palindrome in a Tree",
+        "slug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005207741365157542,
+        "topics": [
+          "Hash Table",
+          "Bit Manipulation",
+          "Tree",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree"
+      },
+      {
+        "lcId": 76,
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "difficulty": "Hard",
+        "frequency": 87,
+        "acceptance": 0.004825522573674433,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+      },
+      {
+        "lcId": 3067,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "difficulty": "Medium",
+        "frequency": 76.7,
+        "acceptance": 0.005531395606833815,
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network"
+      },
+      {
+        "lcId": 84,
+        "title": "Largest Rectangle in Histogram",
+        "slug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard",
+        "frequency": 76.7,
+        "acceptance": 0.005066388636457454,
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack",
+          "Range Minimum/Maximum Query"
+        ],
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

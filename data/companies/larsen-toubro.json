@@ -1,0 +1,74 @@
+{
+  "name": "Larsen & Toubro",
+  "slug": "larsen-toubro",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 1,
+    "all": 3
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.004818722152744538,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3079,
+        "title": "Find the Sum of Encrypted Integers",
+        "slug": "find-the-sum-of-encrypted-integers",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007537912985840485,
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers"
+      },
+      {
+        "lcId": 3105,
+        "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.006493006296092202,
+        "topics": [
+          "Array"
+        ],
+        "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray"
+      },
+      {
+        "lcId": 14,
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "Easy",
+        "frequency": 71.1,
+        "acceptance": 0.004818722152744538,
+        "topics": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

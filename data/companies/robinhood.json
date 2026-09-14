@@ -1,0 +1,367 @@
+{
+  "name": "Robinhood",
+  "slug": "robinhood",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 7,
+    "all": 15
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005189788306344752,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 692,
+        "title": "Top K Frequent Words",
+        "slug": "top-k-frequent-words",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0060501317296213575,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-words"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 87.2,
+        "acceptance": 0.005189788306344752,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 529,
+        "title": "Minesweeper",
+        "slug": "minesweeper",
+        "difficulty": "Medium",
+        "frequency": 76.1,
+        "acceptance": 0.006890005675052404,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minesweeper"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 76.1,
+        "acceptance": 0.006713898622251334,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 1108,
+        "title": "Defanging an IP Address",
+        "slug": "defanging-an-ip-address",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.009013092952697015,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/defanging-an-ip-address"
+      },
+      {
+        "lcId": 690,
+        "title": "Employee Importance",
+        "slug": "employee-importance",
+        "difficulty": "Medium",
+        "frequency": 67.2,
+        "acceptance": 0.006971830607263069,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/employee-importance"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 67.2,
+        "acceptance": 0.0057251314421378555,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 692,
+        "title": "Top K Frequent Words",
+        "slug": "top-k-frequent-words",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.0060501317296213575,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-words"
+      },
+      {
+        "lcId": 1712,
+        "title": "Ways to Split Array Into Three Subarrays",
+        "slug": "ways-to-split-array-into-three-subarrays",
+        "difficulty": "Medium",
+        "frequency": 97.5,
+        "acceptance": 0.0034545454545454545,
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays"
+      },
+      {
+        "lcId": 1743,
+        "title": "Restore the Array From Adjacent Pairs",
+        "slug": "restore-the-array-from-adjacent-pairs",
+        "difficulty": "Medium",
+        "frequency": 97.5,
+        "acceptance": 0.007512462897809968,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Depth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+      },
+      {
+        "lcId": 2021,
+        "title": "Brightest Position on Street",
+        "slug": "brightest-position-on-street",
+        "difficulty": "Medium",
+        "frequency": 94.7,
+        "acceptance": 0.0060747727662493565,
+        "topics": [
+          "Array",
+          "Sorting",
+          "Prefix Sum",
+          "Ordered Set"
+        ],
+        "link": "https://leetcode.com/problems/brightest-position-on-street"
+      },
+      {
+        "lcId": 1711,
+        "title": "Count Good Meals",
+        "slug": "count-good-meals",
+        "difficulty": "Medium",
+        "frequency": 94.7,
+        "acceptance": 0.003309195301285995,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/count-good-meals"
+      },
+      {
+        "lcId": 1801,
+        "title": "Number of Orders in the Backlog",
+        "slug": "number-of-orders-in-the-backlog",
+        "difficulty": "Medium",
+        "frequency": 94.7,
+        "acceptance": 0.005425569462167078,
+        "topics": [
+          "Array",
+          "Heap (Priority Queue)",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog"
+      },
+      {
+        "lcId": 1391,
+        "title": "Check if There is a Valid Path in a Grid",
+        "slug": "check-if-there-is-a-valid-path-in-a-grid",
+        "difficulty": "Medium",
+        "frequency": 94.7,
+        "acceptance": 0.00645051940305559,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid"
+      },
+      {
+        "lcId": 1393,
+        "title": "Capital Gain/Loss",
+        "slug": "capital-gainloss",
+        "difficulty": "Medium",
+        "frequency": 94.7,
+        "acceptance": 0.008445847088835534,
+        "topics": [
+          "Database"
+        ],
+        "link": "https://leetcode.com/problems/capital-gainloss"
+      },
+      {
+        "lcId": 1684,
+        "title": "Count the Number of Consistent Strings",
+        "slug": "count-the-number-of-consistent-strings",
+        "difficulty": "Easy",
+        "frequency": 94.7,
+        "acceptance": 0.008852757286049819,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Bit Manipulation",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings"
+      },
+      {
+        "lcId": 68,
+        "title": "Text Justification",
+        "slug": "text-justification",
+        "difficulty": "Hard",
+        "frequency": 91.5,
+        "acceptance": 0.005189788306344752,
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/text-justification"
+      },
+      {
+        "lcId": 529,
+        "title": "Minesweeper",
+        "slug": "minesweeper",
+        "difficulty": "Medium",
+        "frequency": 78.2,
+        "acceptance": 0.006890005675052404,
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/minesweeper"
+      },
+      {
+        "lcId": 347,
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.006713898622251334,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+      },
+      {
+        "lcId": 690,
+        "title": "Employee Importance",
+        "slug": "employee-importance",
+        "difficulty": "Medium",
+        "frequency": 71.3,
+        "acceptance": 0.006971830607263069,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "link": "https://leetcode.com/problems/employee-importance"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 61.7,
+        "acceptance": 0.0057251314421378555,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 1108,
+        "title": "Defanging an IP Address",
+        "slug": "defanging-an-ip-address",
+        "difficulty": "Easy",
+        "frequency": 61.7,
+        "acceptance": 0.009013092952697015,
+        "topics": [
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/defanging-an-ip-address"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

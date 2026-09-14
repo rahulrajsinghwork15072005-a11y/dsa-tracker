@@ -1,0 +1,141 @@
+{
+  "name": "Directi",
+  "slug": "directi",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 0,
+    "all": 8
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [],
+    "all": [
+      {
+        "lcId": 2473,
+        "title": "Minimum Cost to Buy Apples",
+        "slug": "minimum-cost-to-buy-apples",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.006735907678650688,
+        "topics": [
+          "Array",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples"
+      },
+      {
+        "lcId": 2479,
+        "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+        "slug": "maximum-xor-of-two-non-overlapping-subtrees",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.00513184584178499,
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Graph Theory",
+          "Trie"
+        ],
+        "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees"
+      },
+      {
+        "lcId": 2538,
+        "title": "Difference Between Maximum and Minimum Price Sum",
+        "slug": "difference-between-maximum-and-minimum-price-sum",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.003418967243598912,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "DP on Trees"
+        ],
+        "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum"
+      },
+      {
+        "lcId": 1524,
+        "title": "Number of Sub-arrays With Odd Sum",
+        "slug": "number-of-sub-arrays-with-odd-sum",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005560974104139017,
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Prefix Sum"
+        ],
+        "link": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum"
+      },
+      {
+        "lcId": 1535,
+        "title": "Find the Winner of an Array Game",
+        "slug": "find-the-winner-of-an-array-game",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.005686506974591772,
+        "topics": [
+          "Array",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/find-the-winner-of-an-array-game"
+      },
+      {
+        "lcId": 1542,
+        "title": "Find Longest Awesome Substring",
+        "slug": "find-longest-awesome-substring",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.004739969637822598,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Bit Manipulation"
+        ],
+        "link": "https://leetcode.com/problems/find-longest-awesome-substring"
+      },
+      {
+        "lcId": 1584,
+        "title": "Min Cost to Connect All Points",
+        "slug": "min-cost-to-connect-all-points",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.007156192602221029,
+        "topics": [
+          "Array",
+          "Union-Find",
+          "Graph Theory",
+          "Minimum Spanning Tree",
+          "Prim's Algorithm",
+          "Kruskal's Algorithm",
+          "Borůvka's Algorithm"
+        ],
+        "link": "https://leetcode.com/problems/min-cost-to-connect-all-points"
+      },
+      {
+        "lcId": 1727,
+        "title": "Largest Submatrix With Rearrangements",
+        "slug": "largest-submatrix-with-rearrangements",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.008019162177085976,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/largest-submatrix-with-rearrangements"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

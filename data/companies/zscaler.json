@@ -1,0 +1,393 @@
+{
+  "name": "ZScaler",
+  "slug": "zscaler",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 1,
+    "gt6m": 9,
+    "all": 16
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [
+      {
+        "lcId": 273,
+        "title": "Integer to English Words",
+        "slug": "integer-to-english-words",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.0035162744044930235,
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-english-words"
+      }
+    ],
+    "gt6m": [
+      {
+        "lcId": 465,
+        "title": "Optimal Account Balancing",
+        "slug": "optimal-account-balancing",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "acceptance": 0.005061702949890506,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/optimal-account-balancing"
+      },
+      {
+        "lcId": 2366,
+        "title": "Minimum Replacements to Sort the Array",
+        "slug": "minimum-replacements-to-sort-the-array",
+        "difficulty": "Hard",
+        "frequency": 95.4,
+        "acceptance": 0.0053102674577064435,
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+      },
+      {
+        "lcId": 1041,
+        "title": "Robot Bounded In Circle",
+        "slug": "robot-bounded-in-circle",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.005661069940730957,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/robot-bounded-in-circle"
+      },
+      {
+        "lcId": 2964,
+        "title": "Number of Divisible Triplet Sums",
+        "slug": "number-of-divisible-triplet-sums",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.0067640522875816985,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+      },
+      {
+        "lcId": 945,
+        "title": "Minimum Increment to Make Array Unique",
+        "slug": "minimum-increment-to-make-array-unique",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.006077435426310024,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 72.1,
+        "acceptance": 0.004632635353783337,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 73,
+        "title": "Set Matrix Zeroes",
+        "slug": "set-matrix-zeroes",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.006348234182335819,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/set-matrix-zeroes"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.004786906189866565,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 72.1,
+        "acceptance": 0.004546233546369227,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 3091,
+        "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "acceptance": 0.004434239094677281,
+        "topics": [
+          "Math",
+          "Greedy",
+          "Enumeration"
+        ],
+        "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k"
+      },
+      {
+        "lcId": 2932,
+        "title": "Maximum Strong Pair XOR I",
+        "slug": "maximum-strong-pair-xor-i",
+        "difficulty": "Easy",
+        "frequency": 97.1,
+        "acceptance": 0.007643386656262193,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Trie",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i"
+      },
+      {
+        "lcId": 2935,
+        "title": "Maximum Strong Pair XOR II",
+        "slug": "maximum-strong-pair-xor-ii",
+        "difficulty": "Hard",
+        "frequency": 97.1,
+        "acceptance": 0.003287309150349529,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Trie",
+          "Sliding Window"
+        ],
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii"
+      },
+      {
+        "lcId": 1154,
+        "title": "Day of the Year",
+        "slug": "day-of-the-year",
+        "difficulty": "Easy",
+        "frequency": 97.1,
+        "acceptance": 0.005026329840649355,
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "link": "https://leetcode.com/problems/day-of-the-year"
+      },
+      {
+        "lcId": 2231,
+        "title": "Largest Number After Digit Swaps by Parity",
+        "slug": "largest-number-after-digit-swaps-by-parity",
+        "difficulty": "Easy",
+        "frequency": 97.1,
+        "acceptance": 0.006557294671604846,
+        "topics": [
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity"
+      },
+      {
+        "lcId": 465,
+        "title": "Optimal Account Balancing",
+        "slug": "optimal-account-balancing",
+        "difficulty": "Hard",
+        "frequency": 90.1,
+        "acceptance": 0.005061702949890506,
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "link": "https://leetcode.com/problems/optimal-account-balancing"
+      },
+      {
+        "lcId": 2366,
+        "title": "Minimum Replacements to Sort the Array",
+        "slug": "minimum-replacements-to-sort-the-array",
+        "difficulty": "Hard",
+        "frequency": 85.6,
+        "acceptance": 0.0053102674577064435,
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy"
+        ],
+        "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+      },
+      {
+        "lcId": 945,
+        "title": "Minimum Increment to Make Array Unique",
+        "slug": "minimum-increment-to-make-array-unique",
+        "difficulty": "Medium",
+        "frequency": 73.1,
+        "acceptance": 0.006077435426310024,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+      },
+      {
+        "lcId": 146,
+        "title": "LRU Cache",
+        "slug": "lru-cache",
+        "difficulty": "Medium",
+        "frequency": 73.1,
+        "acceptance": 0.004786906189866565,
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "link": "https://leetcode.com/problems/lru-cache"
+      },
+      {
+        "lcId": 1041,
+        "title": "Robot Bounded In Circle",
+        "slug": "robot-bounded-in-circle",
+        "difficulty": "Medium",
+        "frequency": 63.2,
+        "acceptance": 0.005661069940730957,
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "link": "https://leetcode.com/problems/robot-bounded-in-circle"
+      },
+      {
+        "lcId": 2964,
+        "title": "Number of Divisible Triplet Sums",
+        "slug": "number-of-divisible-triplet-sums",
+        "difficulty": "Medium",
+        "frequency": 63.2,
+        "acceptance": 0.0067640522875816985,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+      },
+      {
+        "lcId": 127,
+        "title": "Word Ladder",
+        "slug": "word-ladder",
+        "difficulty": "Hard",
+        "frequency": 63.2,
+        "acceptance": 0.004632635353783337,
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "link": "https://leetcode.com/problems/word-ladder"
+      },
+      {
+        "lcId": 73,
+        "title": "Set Matrix Zeroes",
+        "slug": "set-matrix-zeroes",
+        "difficulty": "Medium",
+        "frequency": 63.2,
+        "acceptance": 0.006348234182335819,
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "link": "https://leetcode.com/problems/set-matrix-zeroes"
+      },
+      {
+        "lcId": 273,
+        "title": "Integer to English Words",
+        "slug": "integer-to-english-words",
+        "difficulty": "Hard",
+        "frequency": 63.2,
+        "acceptance": 0.0035162744044930235,
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/integer-to-english-words"
+      },
+      {
+        "lcId": 25,
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard",
+        "frequency": 63.2,
+        "acceptance": 0.006696564159240927,
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+      },
+      {
+        "lcId": 33,
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "difficulty": "Medium",
+        "frequency": 63.2,
+        "acceptance": 0.004546233546369227,
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}

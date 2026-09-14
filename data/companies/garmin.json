@@ -1,0 +1,140 @@
+{
+  "name": "Garmin",
+  "slug": "garmin",
+  "counts": {
+    "30d": 0,
+    "3m": 0,
+    "6m": 0,
+    "gt6m": 4,
+    "all": 5
+  },
+  "timeframes": {
+    "30d": [],
+    "3m": [],
+    "6m": [],
+    "gt6m": [
+      {
+        "lcId": 2144,
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "slug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007161010465040021,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount"
+      },
+      {
+        "lcId": 944,
+        "title": "Delete Columns to Make Sorted",
+        "slug": "delete-columns-to-make-sorted",
+        "difficulty": "Easy",
+        "frequency": 89.4,
+        "acceptance": 0.007816383905085423,
+        "topics": [
+          "Array",
+          "String",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/delete-columns-to-make-sorted"
+      },
+      {
+        "lcId": 9,
+        "title": "Palindrome Number",
+        "slug": "palindrome-number",
+        "difficulty": "Easy",
+        "frequency": 89.4,
+        "acceptance": 0.006087449898935425,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/palindrome-number"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 89.4,
+        "acceptance": 0.00580095144413897,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      }
+    ],
+    "all": [
+      {
+        "lcId": 2144,
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "slug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.007161010465040021,
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount"
+      },
+      {
+        "lcId": 1,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "Easy",
+        "frequency": 100,
+        "acceptance": 0.00580095144413897,
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "link": "https://leetcode.com/problems/two-sum"
+      },
+      {
+        "lcId": 121,
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy",
+        "frequency": 89.1,
+        "acceptance": 0.005725128625264713,
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "lcId": 944,
+        "title": "Delete Columns to Make Sorted",
+        "slug": "delete-columns-to-make-sorted",
+        "difficulty": "Easy",
+        "frequency": 89.1,
+        "acceptance": 0.007816383905085423,
+        "topics": [
+          "Array",
+          "String",
+          "Longest Increasing Subsequence"
+        ],
+        "link": "https://leetcode.com/problems/delete-columns-to-make-sorted"
+      },
+      {
+        "lcId": 9,
+        "title": "Palindrome Number",
+        "slug": "palindrome-number",
+        "difficulty": "Easy",
+        "frequency": 89.1,
+        "acceptance": 0.006087449898935425,
+        "topics": [
+          "Math"
+        ],
+        "link": "https://leetcode.com/problems/palindrome-number"
+      }
+    ]
+  },
+  "updated": "2026-09-01"
+}
